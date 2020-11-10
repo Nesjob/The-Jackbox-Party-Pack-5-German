@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"zu fliegen|zu surfen|gegen einen Bären zu ringen","n":"Decoys"},{"t":"S","v":"Ich wünschte, ich wüsste wie es wäre <BLANK>!","n":"PromptText"},{"s":"TOBY: I just want to know what it\u2019s like to do THIS!","t":"A","v":"754684_1","n":"PromptAudio"}]}

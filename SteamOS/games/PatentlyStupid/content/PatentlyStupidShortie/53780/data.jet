@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"beim Sprechen in der Öffentlichkeit | im Gefängnis | beim Essen eines schmuddeligen Burritos","n":"Decoys"},{"t":"S","v":"Ich wünschte, ich würde mich <BLANK> wohler fühlen!","n":"PromptText"},{"s":"TOBY: I just want to feel more comfortable THIS way!","t":"A","v":"767358_1","n":"PromptAudio"}]}

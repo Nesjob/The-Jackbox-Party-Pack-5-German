@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"die Welt | meine Einstellung zu Quinoa | meine Tanzbewegungen","n":"Decoys"},{"t":"S","v":"Ich muss <BLANK> ändern, jetzt!","n":"PromptText"},{"s":"TOBY: I need to change THIS, right now!","t":"A","v":"766889_1","n":"PromptAudio"}]}

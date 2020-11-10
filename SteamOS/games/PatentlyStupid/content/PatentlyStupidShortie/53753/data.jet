@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"Krümel | Vogelkot | Schuldzuweisungen","n":"Decoys"},{"t":"S","v":"Ich bekomme ständig <BLANK> ab!","n":"PromptText"},{"s":"TOBY: I keep getting THIS on me!","t":"A","v":"767111_1","n":"PromptAudio"}]}

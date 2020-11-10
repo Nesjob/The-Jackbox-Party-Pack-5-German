@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"freundlich zu meinen Kindern zu sein | Frühstück zu machen | mich einzucremen","n":"Decoys"},{"t":"S","v":"Ich bin zu müde um <BLANK>!","n":"PromptText"},{"s":"TOBY: I\u2019m just too tired to do THIS!","t":"A","v":"761159_1","n":"PromptAudio"}]}

@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"meinen Vater | ein Hochzeitsgeschenk | den Hund","n":"Decoys"},{"t":"S","v":"Ich weiß nie, was ich für <BLANK> kaufen soll!","n":"PromptText"},{"s":"TOBY: I never, ever know what to buy for THIS!","t":"A","v":"766907_1","n":"PromptAudio"}]}

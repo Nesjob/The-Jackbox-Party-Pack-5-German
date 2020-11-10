@@ -1,0 +1,1 @@
+{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"frühstücken | Filme gucken | der Spaß","n":"Decoys"},{"t":"S","v":"Ich wünschte, <BLANK> würde mehr Spaß machen!","n":"PromptText"},{"s":"PHIL: I just wish THIS were more fun!","t":"A","v":"767135_1","n":"PromptAudio"}]}
