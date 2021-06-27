@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"die Treppen | die Karriereleiter | die Musikcharts","n":"Decoys"},{"t":"S","v":"Ich habe Probleme, <BLANK> zu erklimmen!","n":"PromptText"},{"s":"TOBY: I have trouble climbing THIS!","t":"A","v":"761898_1","n":"PromptAudio"}]}

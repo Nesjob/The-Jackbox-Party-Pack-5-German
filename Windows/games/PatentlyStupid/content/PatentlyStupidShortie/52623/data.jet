@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"lache|mit offenem Mund kaue|Gedichte vortrage","n":"Decoys"},{"t":"S","v":"Ich nerve die Leute, wenn ich <BLANK>!","n":"PromptText"},{"s":"TOBY: People tell me I annoy them when I do THIS!","t":"A","v":"752583_1","n":"PromptAudio"}]}
