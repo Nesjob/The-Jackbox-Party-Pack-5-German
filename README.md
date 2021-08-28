@@ -18,9 +18,9 @@ Synchro by
 
 ***Patently Spupid***
 -
-Translation by Ebcx92
+Translation by Ebcx92 & Erizzle
 
-Synchro by
+Synchro by Lara Schmidt & Louis Coyote (Coming Soon)
 
 ***Zeeple Dome***
 -
