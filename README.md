@@ -20,7 +20,7 @@ Synchro by
 -
 Translation by Ebcx92 & Erizzle
 
-Synchro by Lara Schmidt & Louis Coyote (Coming Soon)
+Synchro by Lara Schmidt & Louis Coyote
 
 ***Zeeple Dome***
 -
