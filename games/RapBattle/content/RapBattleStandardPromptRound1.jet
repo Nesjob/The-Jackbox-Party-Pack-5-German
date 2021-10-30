@@ -1160,12 +1160,12 @@
       {
          "a":{
             "examples":[
-               "crew",
-               "posse",
-               "entourage"
+               "Jungs",
+               "Mannschaft",
+               "Begleitung"
             ],
-            "text":"Santa\u2019s got elves, I got my <BLANK>.",
-            "type":"collective Nomen"
+            "text":"Santa hat Elfen, ich hab meine <BLANK>.",
+            "type":"Kollektives Nomen"
          },
          "gene":[
             "D I Y kit",
@@ -1178,11 +1178,11 @@
          "a":{
             "examples":[
                "Cool",
-               "Fascinating",
-               "Smart"
+               "Faszinierend",
+               "Schlau"
             ],
-            "text":"Welcome to class I\u2019m Professor <BLANK>.",
-            "type":"positives Adjektiv"
+            "text":"Willkommen in meiner Klasse, ich bin Professor <BLANK>.",
+            "type":"Positives Adjektiv"
          },
          "gene":[
             "Melodious",
@@ -1194,12 +1194,12 @@
       {
          "a":{
             "examples":[
-               "attack",
-               "destroy",
-               "roar"
+               "angreifen",
+               "zerstören",
+               "brüllen"
             ],
-            "text":"My battle routine is brush floss and <BLANK>.",
-            "type":"Verb - threatening action"
+            "text":"Meine Kampfroutine ist Zahnseide und <BLANK>.",
+            "type":"Verb - drohende Aktion"
          },
          "gene":[
             "repeat",
@@ -1211,12 +1211,12 @@
       {
          "a":{
             "examples":[
-               "prince",
-               "honey",
-               "darling"
+               "Prinz",
+               "Schatz",
+               "Liebling"
             ],
-            "text":"My mom always says I\u2019m her number one <BLANK>.",
-            "type":"term of endearment"
+            "text":"Meine Mutter sagt immer ich bin ihr einziger <BLANK>.",
+            "type":"Begriff für Zärtlichkeit"
          },
          "gene":[
             "person",
@@ -1228,12 +1228,12 @@
       {
          "a":{
             "examples":[
-               "song",
-               "screech",
-               "hymn"
+               "lied",
+               "schrei",
+               "hymne"
             ],
-            "text":"Wah-ka-bam-zoo is my battle <BLANK>.",
-            "type":"singular Nomen - a sound"
+            "text":"Wah-ka-bam-zoo ist mein Kampf<BLANK>.",
+            "type":"Nomen Singular - Ein Laut"
          },
          "gene":[
             "poetry",
@@ -1245,12 +1245,12 @@
       {
          "a":{
             "examples":[
-               "drum",
-               "sax",
-               "synth"
+               "Trommel",
+               "Triangel",
+               "Geige"
             ],
-            "text":"My mouth\u2019s like a trumpet my brain\u2019s like a <BLANK>.",
-            "type":"Nomen - musical instrument"
+            "text":"Mein Mund ist wie eine Trompete, mein Gehirn wie ein/e <BLANK>.",
+            "type":"Nomen - Musikalisches Instrument"
          },
          "gene":[
             "flute",
@@ -1262,12 +1262,12 @@
       {
          "a":{
             "examples":[
-               "rubies",
-               "platinum",
-               "silver"
+               "Juwelen",
+               "Platin",
+               "Silber"
             ],
-            "text":"Check out my grill all studded with <BLANK>.",
-            "type":"Nomen - valuable substance"
+            "text":"Checkt meine Zähne, beschmückt mit <BLANK>.",
+            "type":"Nomen - Wertvolle Substanz"
          },
          "gene":[
             "pearls",
@@ -1279,11 +1279,11 @@
       {
          "a":{
             "examples":[
-               "jump",
-               "shift",
-               "slip"
+               "aufspringen",
+               "zittern",
+               "rutschen"
             ],
-            "text":"When my words come at you your feet will <BLANK>.",
+            "text":"Wenn meine Worte auf dich stoßen, werden deine Füße <BLANK>.",
             "type":"Verb"
          },
          "gene":[
@@ -1296,12 +1296,12 @@
       {
          "a":{
             "examples":[
-               "bucket",
-               "bowl",
-               "box"
+               "Eimer",
+               "Schüssel",
+               "Box"
             ],
-            "text":"I\u2019m knee deep in rhymes better get a <BLANK>.",
-            "type":"bekanntes Nomen - a container"
+            "text":"Bin knietief in Reimen, hol dir lieber eine/n <BLANK>.",
+            "type":"Nomen - Ein Behälter"
          },
          "gene":[
             "hollow gourd",
@@ -1313,12 +1313,12 @@
       {
          "a":{
             "examples":[
-               "swords",
-               "throwing stars",
-               "light sabers"
+               "Schwerter",
+               "Wurfsterne",
+               "Lichtschwerter"
             ],
-            "text":"It\u2019s a showdown and my words are my <BLANK>.",
-            "type":"plural Nomen - weapons"
+            "text":"Es ist der Showdown und meine Worte sind meine <BLANK>.",
+            "type":"Nomen Plural - Waffen"
          },
          "gene":[
             "pepper spray",
@@ -1334,8 +1334,8 @@
                "Mount McKinley",
                "Mount Rainier"
             ],
-            "text":"I\u2019m on my way up, I could climb <BLANK>.",
-            "type":"passendes Nomen - mountain"
+            "text":"Bin auf meinem Weg nach oben, ich besteige den <BLANK>.",
+            "type":"Nomen - Berg"
          },
          "gene":[
             "Mount Doom",
@@ -1347,11 +1347,11 @@
       {
          "a":{
             "examples":[
-               "dance",
-               "jump",
-               "run"
+               "tanzen",
+               "springen",
+               "rennen"
             ],
-            "text":"When I start rhyming they all get up to <BLANK>.",
+            "text":"Wenn ich reime, neigen sie zu <BLANK>.",
             "type":"Verb"
          },
          "gene":[
@@ -1364,12 +1364,12 @@
       {
          "a":{
             "examples":[
-               "dog",
-               "penguin",
-               "bee"
+               "Hund",
+               "Pinguin",
+               "Fisch"
             ],
-            "text":"I destroy city blocks like a gigantic <BLANK>.",
-            "type":"Nomen - an animal"
+            "text":"Ich zerstöre das Viertel wie ein gigantischer <BLANK>.",
+            "type":"Nomen - Ein Tier"
          },
          "gene":[
             "mongoose",
@@ -1381,11 +1381,11 @@
       {
          "a":{
             "examples":[
-               "learn",
-               "see",
-               "figure"
+               "lernen",
+               "sehen",
+               "herausfinden"
             ],
-            "text":"I\u2019m the greatest as you can all <BLANK>.",
+            "text":"Ich bin der größte, so kannst du es <BLANK>.",
             "type":"Verb"
          },
          "gene":[
@@ -1398,12 +1398,12 @@
       {
          "a":{
             "examples":[
-               "greatest",
-               "strongest",
-               "best"
+               "größte",
+               "stärkste",
+               "beste"
             ],
-            "text":"My rhyming game is by far the <BLANK>.",
-            "type":"Adjektiv ending w/ -est"
+            "text":"Mein Reimspiel ist von weitem das <BLANK>.",
+            "type":"Adjektiv"
          },
          "gene":[
             "snazziest",
@@ -1415,11 +1415,11 @@
       {
          "a":{
             "examples":[
-               "fall",
-               "drink",
-               "whistle"
+               "loslegen",
+               "trinken",
+               "pfeifen"
             ],
-            "text":"Run and find cover \u2018cuz I\u2019m about to <BLANK>.",
+            "text":"Renn und nimm Deckung, denn ich werde <BLANK>.",
             "type":"Verb"
          },
          "gene":[
@@ -1432,12 +1432,12 @@
       {
          "a":{
             "examples":[
-               "wow",
-               "hooray",
-               "gosh"
+               "Wow",
+               "Hurrah",
+               "Woah"
             ],
-            "text":"Everybody give it up for me say <BLANK>.",
-            "type":"an exclamation"
+            "text":"Gibt es für mich auf und sagt <BLANK>.",
+            "type":"Eine Ausrufung"
          },
          "gene":[
             "yippee",
@@ -1449,12 +1449,12 @@
       {
          "a":{
             "examples":[
-               "Rome",
-               "The South",
-               "downtown"
+               "Rom",
+               "Land",
+               "Viertel"
             ],
-            "text":"I\u2019m the best M C, in all of <BLANK>.",
-            "type":"Nomen - a place"
+            "text":"Ich bin der beste M C, im ganzen <BLANK>.",
+            "type":"Ein Ort"
          },
          "gene":[
             "Kansas",
@@ -1466,12 +1466,12 @@
       {
          "a":{
             "examples":[
-               "boulders",
-               "rhinos",
-               "buildings"
+               "Steine",
+               "Elefanten",
+               "Gebäude"
             ],
-            "text":"I came here to crush and my words are <BLANK>.",
-            "type":"plural Nomen - heavy things"
+            "text":"Ich kam um zu zerstampfen und meine Worte sind <BLANK>.",
+            "type":"Etwas schweres"
          },
          "gene":[
             "whipping cream",
@@ -1484,11 +1484,11 @@
          "a":{
             "examples":[
                "Chicago",
-               "Kmart",
-               "The Arctic"
+               "Hamburg",
+               "Berlin"
             ],
-            "text":"They call me the Ruler, of <BLANK>.",
-            "type":"passendes Nomen - a place"
+            "text":"Sie nennen mich den Herrscher von <BLANK>.",
+            "type":"Ein Ort"
          },
          "gene":[
             "New Orleans",
@@ -1500,12 +1500,12 @@
       {
          "a":{
             "examples":[
-               "plane",
-               "elephant",
-               "Taj Mahal"
+               "Flugzeug",
+               "Elefant",
+               "Villa"
             ],
-            "text":"I\u2019m so rich in rhymes I could buy a <BLANK>.",
-            "type":"Nomen - a big thing"
+            "text":"Bin so reich in Reimen, da kaufe ich ein/e <BLANK>.",
+            "type":"Ein großes Objekt"
          },
          "gene":[
             "cloud",
@@ -1517,12 +1517,12 @@
       {
          "a":{
             "examples":[
-               "slowly",
-               "eventually",
-               "loudly"
+               "langsam",
+               "vielleicht",
+               "laut"
             ],
-            "text":"I\u2019m just here, to say, <BLANK>.",
-            "type":"adVerb"
+            "text":"Bin nur hier, um zu sagen, <BLANK>.",
+            "type":"dverb"
          },
          "gene":[
             "politely",
@@ -1538,8 +1538,8 @@
                "Philly",
                "Guam"
             ],
-            "text":"You think I\u2019m big here you should see me in <BLANK>.",
-            "type":"passendes Nomen - city, state or country"
+            "text":"Du glaubst hier bin ich groß, aber du kennst mich nicht in <BLANK>.",
+            "type":"Ein Ort"
          },
          "gene":[
             "Iceland",
@@ -1555,8 +1555,8 @@
                "Gandhi",
                "Tom Hanks"
             ],
-            "text":"I\u2019m a thing of legend, a regular <BLANK>.",
-            "type":"passendes Nomen - famous person"
+            "text":"Bin ein Teil einer Legende, ein normaler <BLANK>.",
+            "type":"Berühmte Person"
          },
          "gene":[
             "Bono",
@@ -1569,11 +1569,11 @@
          "a":{
             "examples":[
                "George Washington",
-               "Attila the Hun",
-               "Abigail Adams"
+               "Angela Merkel",
+               "Albert Einstein"
             ],
-            "text":"I make new rules like a modern <BLANK>.",
-            "type":"passendes Nomen - historical figure"
+            "text":"Ich mache neue Regeln wie der moderne <BLANK>.",
+            "type":"Historische Figur"
          },
          "gene":[
             "Daniel Boone",
@@ -1585,12 +1585,12 @@
       {
          "a":{
             "examples":[
-               "fletcher",
-               "builder",
+               "schmiede",
+               "tischler",
                "banker"
             ],
-            "text":"I rise to new heights I\u2019m a master <BLANK>.",
-            "type":"bekanntes Nomen - type of craftsman"
+            "text":"Ich erfasse neue Höhen, bin ein Meister<BLANK>.",
+            "type":"Handwerkerberuf"
          },
          "gene":[
             "crawler",
@@ -1602,12 +1602,12 @@
       {
          "a":{
             "examples":[
-               "tar",
-               "ice",
-               "hammers"
+               "Teer",
+               "Eis",
+               "Hämmer"
             ],
-            "text":"I\u2019m a killer, with a heart of <BLANK>.",
-            "type":"plural Nomen"
+            "text":"Ich bin ein Killer mit Herz auf <BLANK>.",
+            "type":"Nomen Plural"
          },
          "gene":[
             "yeast",
@@ -1619,12 +1619,12 @@
       {
          "a":{
             "examples":[
-               "swinging",
-               "enjoying",
-               "whistling"
+               "schwinge",
+               "sprinte",
+               "pfeife"
             ],
-            "text":"I hear the beat, I come out <BLANK>.",
-            "type":"Nomen ending w/ -ing"
+            "text":"Ich höre den Beat, komme raus und <BLANK>.",
+            "type":"Verb"
          },
          "gene":[
             "floating",
@@ -1636,12 +1636,12 @@
       {
          "a":{
             "examples":[
-               "shirt",
-               "hat",
-               "sock"
+               "ein Shirt",
+               "eine Mütze",
+               "eine Jeans"
             ],
-            "text":"I\u2019m always in fashion like a brand new <BLANK>.",
-            "type":"singular Nomen - article of clothing"
+            "text":"Liege immer im Trend und bin brandneu wie <BLANK>.",
+            "type":"Kleidung"
          },
          "gene":[
             "bandana",
