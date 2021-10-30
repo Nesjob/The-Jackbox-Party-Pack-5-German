@@ -892,8 +892,8 @@
                "Orangen",
                "Zitronen"
             ],
-            "text":"Everywhere I go fans shower me with <BLANK>.",
-            "type":"plural Nomen - fruits"
+            "text":"Wohin ich auch gehe, meine Fans bewerfen mich mit <BLANK>.",
+            "type":"Nomen Plural - Frucht"
          },
          "gene":[
             "melon balls",
@@ -905,12 +905,12 @@
       {
          "a":{
             "examples":[
-               "mall",
-               "Carmax",
-               "bookstore"
+               "Autohaus",
+               "McDonalds",
+               "Kaufland"
             ],
-            "text":"I just stopped by on my way to the <BLANK>.",
-            "type":"Nomen - place of business"
+            "text":"Ich hielte auf meinem Weg bei/m <BLANK>.",
+            "type":"Ein geschäftlicher Ort"
          },
          "gene":[
             "clinic",
@@ -922,12 +922,12 @@
       {
          "a":{
             "examples":[
-               "laughing",
-               "slapping",
-               "mashing"
+               "lachen",
+               "schlagen",
+               "stampfen"
             ],
-            "text":"I won a Nobel Prize for <BLANK>.",
-            "type":"Verb ending w/ -ing"
+            "text":"Ich gewann einen Nobelpreis fürs <BLANK>.",
+            "type":"Verb mit -en am Ende"
          },
          "gene":[
             "shopping",
@@ -943,8 +943,8 @@
                "dumplings",
                "towers"
             ],
-            "text":"My body\u2019s limber my brain\u2019s full of <BLANK>.",
-            "type":"plural Nomen - things found in Shanghai"
+            "text":"Mein Körper ist gelenkig, mein Gehirn voller <BLANK>.",
+            "type":"Nomen Plural - Dinge, die man in Shanghai findet"
          },
          "gene":[
             "pollution",
@@ -956,12 +956,12 @@
       {
          "a":{
             "examples":[
-               "screams",
-               "giggles",
-               "toddles"
+               "schreit",
+               "kichert",
+               "wackelt"
             ],
-            "text":"I swag when the sun rises and when it <BLANK>.",
-            "type":"Verb ending w/ -s"
+            "text":"Ich prahle, wenn die Sonne aufgeht und wenn\u2019s <BLANK>.",
+            "type":"Verb mit -t am Ende"
          },
          "gene":[
             "oscillates",
@@ -973,12 +973,12 @@
       {
          "a":{
             "examples":[
-               "Best Buy",
+               "Rewe",
                "Game Stop",
                "Starbucks"
             ],
-            "text":"I was raised in the tough part of <BLANK>.",
-            "type":"passendes Nomen - a store"
+            "text":"Ich wuchs auf im harten Teil von <BLANK>.",
+            "type":"Ein Geschäft"
          },
          "gene":[
             "Hardee\u2019s",
@@ -990,12 +990,12 @@
       {
          "a":{
             "examples":[
-               "Young Sheldon",
+               "Christoph Ewald",
                "Stan Lee",
                "Mark Ruffalo"
             ],
-            "text":"I\u2019m so tough, they call me <BLANK>.",
-            "type":"passendes Nomen - famous nerd"
+            "text":"Ich bin so hart, sie nennen mich <BLANK>.",
+            "type":"Berühmter Nerd"
          },
          "gene":[
             "Rick Moranis",
@@ -1007,11 +1007,11 @@
       {
          "a":{
             "examples":[
-               "bring",
-               "do",
-               "say"
+               "bringe",
+               "mache",
+               "sage"
             ],
-            "text":"When I\u2019m at the mic no telling what I\u2019ll <BLANK>.",
+            "text":"Wenn ich am Mikrofon stehe, sagt mir keiner was ich <BLANK>.",
             "type":"Verb"
          },
          "gene":[
@@ -1024,12 +1024,12 @@
       {
          "a":{
             "examples":[
-               "rose",
-               "cake",
-               "breeze"
+               "Rose",
+               "Kuchen",
+               "Parfüm"
             ],
-            "text":"I never need to shower I smell like a <BLANK>.",
-            "type":"singular Nomen - good smelling thing"
+            "text":"Ich muss nie duschen, denn ich rieche wie ein/e <BLANK>.",
+            "type":"Nomen Singular - gut riechend"
          },
          "gene":[
             "puppy",
@@ -1041,12 +1041,12 @@
       {
          "a":{
             "examples":[
-               "knockout",
-               "destruction",
-               "steamroll"
+               "Knockout",
+               "Zerstörung",
+               "Mundtot"
             ],
-            "text":"The word of the day boys and girls is <BLANK>.",
-            "type":"any intimidating word"
+            "text":"Der Wort des Tages Jungs und Mädels ist <BLANK>.",
+            "type":"Ein einschüchterndes Wort"
          },
          "gene":[
             "thwap",
@@ -1058,12 +1058,12 @@
       {
          "a":{
             "examples":[
-               "Nascar",
-               "Target",
-               "Arby\u2019s"
+               "Siemens",
+               "Weber",
+               "McDonalds"
             ],
-            "text":"I\u2019m so hot I got sponsored by <BLANK>.",
-            "type":"passendes Nomen - a brand/company"
+            "text":"Ich bin so heiß, ich wurde gesponsort von <BLANK>.",
+            "type":"Eine Marke/ Unternehmen"
          },
          "gene":[
             "Petco",
@@ -1075,12 +1075,12 @@
       {
          "a":{
             "examples":[
-               "Amazo",
+               "Aliroev",
                "Zeus",
-               "Death Star"
+               "Todesstern"
             ],
-            "text":"There\u2019s a planet named after me called <BLANK>.",
-            "type":"an impressive name"
+            "text":"Es gibt ein Planet mit meinem Namen <BLANK>.",
+            "type":"Ein beeindruckender Name"
          },
          "gene":[
             "Spork",
@@ -1092,12 +1092,12 @@
       {
          "a":{
             "examples":[
-               "fry",
-               "break",
-               "boil"
+               "braten",
+               "brechen",
+               "kochen"
             ],
-            "text":"My brain\u2019s so big my head\u2019s about to <BLANK>.",
-            "type":"Verb - what you do to an egg"
+            "text":"Mein Gehirn ist so groß, mein Kopf droht zu <BLANK>.",
+            "type":"Verb - Was machst du mit einem Ei?"
          },
          "gene":[
             "fertilize",
@@ -1109,11 +1109,11 @@
       {
          "a":{
             "examples":[
-               "Faint",
-               "Melt",
-               "Simmer"
+               "umfalle",
+               "schmelze",
+               "schmore"
             ],
-            "text":"The name of my game is Rap \u2018til I <BLANK>.",
+            "text":"Der Name von meinem Spiel ist Rap, bis ich <BLANK>.",
             "type":"Verb"
          },
          "gene":[
@@ -1126,11 +1126,11 @@
       {
          "a":{
             "examples":[
-               "wait",
-               "fight it",
-               "complain"
+               "warten",
+               "bekämpfen",
+               "klagen"
             ],
-            "text":"When it\u2019s time to hang it up I won\u2019t <BLANK>.",
+            "text":"Wenn\u2019s Zeit ist aufzugeben, werde ich nicht <BLANK>.",
             "type":"Verb"
          },
          "gene":[
@@ -1143,12 +1143,12 @@
       {
          "a":{
             "examples":[
-               "happy",
-               "beautiful",
-               "curious"
+               "glücklich",
+               "schön",
+               "neugierig"
             ],
-            "text":"My lyrics are dreams come true make u <BLANK>.",
-            "type":"Adjektiv - positives state of mind"
+            "text":"Meine Texte sind wahr werdene Träume, sie machen dich <BLANK>.",
+            "type":"Positives Adjektiv"
          },
          "gene":[
             "gassy.",
