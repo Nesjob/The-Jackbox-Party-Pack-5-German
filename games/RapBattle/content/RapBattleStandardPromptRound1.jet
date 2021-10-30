@@ -1437,7 +1437,7 @@
                "Woah"
             ],
             "text":"Gibt es für mich auf und sagt <BLANK>.",
-            "type":"Eine Ausrufung"
+            "type":"Ein Ausruf"
          },
          "gene":[
             "yippee",
@@ -1879,7 +1879,7 @@
                "Muskelkater"
             ],
             "text":"Kommst mir nicht davon, bin wie ein Fall von <BLANK>.",
-            "type":"Krankheit"
+            "type":"Eine Krankheit"
          },
          "gene":[
             "butt itch",
@@ -1892,11 +1892,11 @@
          "a":{
             "examples":[
                "Tinkerbell",
-               "the Wicked Witch",
-               "Harry Ptter"
+               "Die böse Hexe",
+               "Harry Potter"
             ],
-            "text":"I\u2019m workin\u2019 my magic, like <BLANK>.",
-            "type":"passendes Nomen - magical character"
+            "text":"Ich arbeite mit meiner Magie wie <BLANK>.",
+            "type":"Ein magischer Charakter"
          },
          "gene":[
             "Radagast",
@@ -1908,12 +1908,12 @@
       {
          "a":{
             "examples":[
-               "drugstore",
-               "bakery",
-               "bank"
+               "die Apotheke",
+               "die Bäckerei",
+               "die Bank"
             ],
-            "text":"Stealing this battle like I\u2019m robbing a <BLANK>.",
-            "type":"bekanntes Nomen - a type of store"
+            "text":"Bestehle den Kampf, wie ein Überfall auf <BLANK>.",
+            "type":"Eine Gewerbe"
          },
          "gene":[
             "zoo",
@@ -1925,12 +1925,12 @@
       {
          "a":{
             "examples":[
-               "Mic Drop",
+               "Eight",
                "Blaster",
-               "Victory"
+               "America"
             ],
-            "text":"The Avengers call me, Captain <BLANK>.",
-            "type":"a cool nickname"
+            "text":"Die Avengers rufen mich, Captain <BLANK>.",
+            "type":"Ein cooler Name"
          },
          "gene":[
             "Comedy",
@@ -1944,10 +1944,10 @@
             "examples":[
                "MAD",
                "Newsweek",
-               "People"
+               "BILD"
             ],
-            "text":"You see my face on the cover of <BLANK>.",
-            "type":"a magazine title"
+            "text":"Siehst mein Gesicht aufgedruckt bei <BLANK>.",
+            "type":"Eine Zeitschrift"
          },
          "gene":[
             "Highlights",
@@ -1959,12 +1959,12 @@
       {
          "a":{
             "examples":[
-               "ugliest",
-               "craziest",
-               "weirdest"
+               "hässlichsten",
+               "verrücktesten",
+               "komischsten"
             ],
-            "text":"Look at me now living the life to the <BLANK>.",
-            "type":"Adjektiv ending w/ -est"
+            "text":"Schau mir zu, lebe das Leben zum <BLANK>.",
+            "type":"Adjektiv mit -sten am Ende"
          },
          "gene":[
             "nerdiest",
@@ -1980,8 +1980,8 @@
                "rap",
                "spitting bars"
             ],
-            "text":"I am the grand marshall, of <BLANK>.",
-            "type":"Nomen - rap related"
+            "text":"Ich bin der Großmarschall von <BLANK>.",
+            "type":"Rapbasiert"
          },
          "gene":[
             "Thanksgiving Day parades",
@@ -1993,12 +1993,12 @@
       {
          "a":{
             "examples":[
-               "bushes",
-               "crops",
-               "weeds"
+               "Büschen",
+               "Bäumen",
+               "Gras"
             ],
-            "text":"I plant seeds of rhythm that grow into <BLANK>",
-            "type":"plural Nomen - plants"
+            "text":"Ich pflanze Samen des Rythmus und sie werden zu <BLANK>",
+            "type":"Nomen Plural - Pflanzen"
          },
          "gene":[
             "daffodils",
@@ -2010,12 +2010,12 @@
       {
          "a":{
             "examples":[
-               "smile",
-               "music",
-               "peace of mind"
+               "dein Lächeln",
+               "die Musik",
+               "den Seelenfrieden"
             ],
-            "text":"Don\u2019t look now: I stole your <BLANK>.",
-            "type":"bekanntes Nomen"
+            "text":"Schau nicht hin, ich stehle <BLANK>.",
+            "type":"Nomen"
          },
          "gene":[
             "childhood",
@@ -2027,12 +2027,12 @@
       {
          "a":{
             "examples":[
-               "Turkey",
-               "Oregon",
-               "Mars"
+               "zur Türkei",
+               "zu Russland",
+               "zum Mars"
             ],
-            "text":"I\u2019m known, from here to <BLANK>.",
-            "type":"passendes Nomen - a place"
+            "text":"Man kennt mich, von hier bis <BLANK>.",
+            "type":"Ein Ort"
          },
          "gene":[
             "Kalamazoo",
@@ -2044,12 +2044,12 @@
       {
          "a":{
             "examples":[
-               "goose",
-               "balloon",
-               "stork"
+               "eine Gans",
+               "ein Ballon",
+               "eine Rakete"
             ],
-            "text":"I\u2019m flying high like a big ol\u2019 <BLANK>",
-            "type":"singular Nomen - flying thing"
+            "text":"Ich flieg\u2019 weit hoch wie <BLANK>",
+            "type":"Nomen - Etwas fliegendes"
          },
          "gene":[
             "Superman",
@@ -2061,11 +2061,11 @@
       {
          "a":{
             "examples":[
-               "hunt",
-               "slay",
-               "sprint"
+               "jagen",
+               "schlachten",
+               "sprinten"
             ],
-            "text":"I\u2019m not playing games I\u2019m here to <BLANK>.",
+            "text":"Ich spiel\u2019 keine Spielchen, ich bin hier um zu <BLANK>.",
             "type":"Verb"
          },
          "gene":[
@@ -2078,12 +2078,12 @@
       {
          "a":{
             "examples":[
-               "car",
-               "taco",
-               "purse"
+               "ein Auto",
+               "ein Taco",
+               "eine Handtasche"
             ],
-            "text":"My future\u2019s as bright as a burning <BLANK>.",
-            "type":"singular Nomen - last thing u bought"
+            "text":"Meine Zukunft ist hell wie <BLANK>.",
+            "type":"Das letzte, was du gekauft hast"
          },
          "gene":[
             "poster of ALF",
@@ -2095,12 +2095,12 @@
       {
          "a":{
             "examples":[
-               "pharoahs",
-               "druids",
-               "Illuminati"
+               "des Pharaos",
+               "der Mathematik",
+               "des Illuminaten"
             ],
-            "text":"I\u2019ve learned the ancient secrets of the <BLANK>.",
-            "type":"plural Nomen - a group of people"
+            "text":"Ich fand die antiken Geheimnisse <BLANK>.",
+            "type":"Nomen Plural "
          },
          "gene":[
             "Flintstones",
@@ -2112,11 +2112,11 @@
       {
          "a":{
             "examples":[
-               "smooth",
-               "electric",
-               "automatic"
+               "bin schnell",
+               "bin der beste",
+               "bin selbstständig"
             ],
-            "text":"Some say I\u2019m flashy some say I\u2019m <BLANK>.",
+            "text":"Man sagt ich falle auf, man sagt ich <BLANK>.",
             "type":"positives Adjektiv"
          },
          "gene":[
@@ -2129,12 +2129,12 @@
       {
          "a":{
             "examples":[
-               "Idiots",
-               "Butts",
-               "Snots"
+               "Idioten",
+               "Hintern",
+               "Rotzer"
             ],
-            "text":"My fans call themselves The <BLANK>.",
-            "type":"plural nickname"
+            "text":"Deine Fans nennen sich Die <BLANK>.",
+            "type":"Plural - Nickname"
          },
          "gene":[
             "Beatles",
@@ -2146,12 +2146,12 @@
       {
          "a":{
             "examples":[
-               "tiara",
-               "ring",
-               "cape"
+               "der Tiara",
+               "dem Ring",
+               "dem Gürtel"
             ],
-            "text":"I\u2019m set to rule so hand me the <BLANK>.",
-            "type":"Nomen - clothing accessory"
+            "text":"Ich besetz\u2019 die Regeln, also her mit <BLANK>.",
+            "type":"Ein Kleidungsaccesoire"
          },
          "gene":[
             "necklace",
@@ -2163,12 +2163,12 @@
       {
          "a":{
             "examples":[
-               "pie",
-               "pudding",
-               "doughnut"
+               "der Torte",
+               "des Puddings",
+               "des Donuts"
             ],
-            "text":"I\u2019m riding high on top of the <BLANK>.",
-            "type":"singular Nomen - a dessert"
+            "text":"Ich reite hoch auf die Spitze <BLANK>.",
+            "type":"Ein Dessert"
          },
          "gene":[
             "Jell-O",
@@ -2180,11 +2180,11 @@
       {
          "a":{
             "examples":[
-               "A C",
-               "radio",
-               "cruise control"
+               "der Scheibenwischer",
+               "das Radio",
+               "das Tempomat"
             ],
-            "text":"\u2019Scuse me while I turn up the <BLANK>.",
+            "text":"\u2019tschuldige, hochgedreht wird <BLANK>.",
             "type":"Nomen - car feature"
          },
          "gene":[
@@ -2197,12 +2197,12 @@
       {
          "a":{
             "examples":[
-               "Britney Spears",
-               "Beyoncé",
+               "Elon Musk",
+               "Mario Barth",
                "Tom Hanks"
             ],
-            "text":"Haven\u2019t you heard? I\u2019m the next <BLANK>.",
-            "type":"passendes Nomen - an entertainer"
+            "text":"Hast du noch nicht gehört? Ich bin der nächste <BLANK>.",
+            "type":"Ein Prominent"
          },
          "gene":[
             "LIberace",
@@ -2218,8 +2218,8 @@
                "Peter Pan",
                "David Copperfield"
             ],
-            "text":"My words are magical, call me <BLANK>.",
-            "type":"passendes Nomen - magical person"
+            "text":"Meine Worte sind magisch, nenn mich <BLANK>.",
+            "type":"Ein Magische Person"
          },
          "gene":[
             "Stevie Nicks",
@@ -2231,12 +2231,12 @@
       {
          "a":{
             "examples":[
-               "skip",
-               "belch",
-               "drool"
+               "springen",
+               "tanzen",
+               "schreien"
             ],
-            "text":"All of my fans, beg me to <BLANK>.",
-            "type":"Verb - childish action"
+            "text":"Alle meine Fans, bitten mich zu <BLANK>.",
+            "type":"Verb - Kindische Aktion"
          },
          "gene":[
             "toot",
@@ -2248,12 +2248,12 @@
       {
          "a":{
             "examples":[
-               "Caesar",
-               "Jack the Ripper",
+               "Caeser",
+               "Napoleon",
                "Cleopatra"
             ],
-            "text":"I come and see and conquer just like <BLANK>.",
-            "type":"passendes Nomen - historical figure"
+            "text":"Ich komme und sehe, erobere wie <BLANK>.",
+            "type":"Eine historische Person"
          },
          "gene":[
             "Mary Queen of Scots",
@@ -2265,12 +2265,12 @@
       {
          "a":{
             "examples":[
-               "knuckle",
-               "kidneys",
-               "throat"
+               "Knöchel",
+               "Nieren",
+               "Zähnen"
             ],
-            "text":"I\u2019m the one, with the golden <BLANK>.",
-            "type":"Nomen - a body part"
+            "text":"Ich bin derjenige, mit den goldenen <BLANK>.",
+            "type":"Nomen Plural - Teil eines Körpers"
          },
          "gene":[
             "philtrum",
@@ -2282,12 +2282,12 @@
       {
          "a":{
             "examples":[
-               "ZIP code",
-               "butler",
-               "private jet"
+               "seine Postleitzahl",
+               "seinen Diener",
+               "seinen Privatjet"
             ],
-            "text":"It\u2019s true, my ego has its own <BLANK>.",
-            "type":"singular Nomen - luxury item"
+            "text":"Es ist wahr, mein Ego hat <BLANK>.",
+            "type":"Luxusobjekt"
          },
          "gene":[
             "table setting",
@@ -2303,8 +2303,8 @@
                "Santa",
                "Godzilla"
             ],
-            "text":"My words are presents I deliver like <BLANK>.",
-            "type":"passendes Nomen - fictional character"
+            "text":"Meine Worte sind Geschenke und teile sie aus wie <BLANK>.",
+            "type":"Fiktionaler Charakter"
          },
          "gene":[
             "BoJack Horseman",
@@ -2316,12 +2316,12 @@
       {
          "a":{
             "examples":[
-               "brain",
-               "smartypants",
-               "mastermind"
+               "ein Gehirn",
+               "ein Rechner",
+               "ein Genie"
             ],
-            "text":"I got big plans, I\u2019m a <BLANK>.",
-            "type":"singular Nomen - term for 'smart person'"
+            "text":"Ich hab große Pläne, Ich bin <BLANK>.",
+            "type":"Begriff für etwas schlaues"
          },
          "gene":[
             "poindexter",
@@ -2333,12 +2333,12 @@
       {
          "a":{
             "examples":[
-               "anvils",
-               "bowling balls",
-               "elephants"
+               "Ambosse",
+               "Bowlingkugeln",
+               "Steine"
             ],
-            "text":"Cover your heads my beats drop like <BLANK>.",
-            "type":"plural Nomen - heavy things"
+            "text":"Halt dich fest, meine Beats stürzen wie <BLANK>.",
+            "type":"Nomen Plural - Etwas schweres"
          },
          "gene":[
             "marble slabs",
@@ -2350,12 +2350,12 @@
       {
          "a":{
             "examples":[
-               "flowers",
-               "ribbons",
-               "precious stones"
+               "Blumen",
+               "Scheifen",
+               "Edelsteine"
             ],
-            "text":"My rhymes are so sweet they\u2019re covered in <BLANK>.",
-            "type":"plural Nomen - pretty things"
+            "text":"Meine Reime sind so süß, sie bedecken dich in <BLANK>.",
+            "type":"Nomen Plural - Etwas schönes"
          },
          "gene":[
             "bundt cakes",
@@ -2367,12 +2367,12 @@
       {
          "a":{
             "examples":[
-               "rusty nail",
-               "rabid dog",
-               "lightning bolt"
+               "ein rostiger Nagel",
+               "ein Wildhund",
+               "ein Blitzschlag"
             ],
-            "text":"I\u2019m dangerous, like a <BLANK>.",
-            "type":"singular Nomen - dangerous thing"
+            "text":"Ich bin äußerst gefährlich wie <BLANK>.",
+            "type":"Etwas gefährliches?"
          },
          "gene":[
             "jar of mayo",
@@ -2384,12 +2384,12 @@
       {
          "a":{
             "examples":[
-               "knife",
-               "jar",
-               "blender"
+               "einem Messer",
+               "einem Glas",
+               "einem Mixer"
             ],
-            "text":"I\u2019m stirring up beats with my big ol\u2019 <BLANK>.",
-            "type":"Nomen - kitchen tool"
+            "text":"Ich rühre meine Beats auf mit <BLANK>.",
+            "type":"Ein Küchengerät"
          },
          "gene":[
             "tea pot",
@@ -2401,12 +2401,12 @@
       {
          "a":{
             "examples":[
-               "Rumpelstilskin",
+               "Rumpelstielzchen",
                "Gandalf",
                "Tinkerbell"
             ],
-            "text":"I\u2019m practically magic, a regular <BLANK>.",
-            "type":"Nomen - a magical being"
+            "text":"Eigentlich bin ich magisch, genau wie <BLANK>.",
+            "type":"Ein magisches Wesen"
          },
          "gene":[
             "Merlin",
@@ -2418,12 +2418,12 @@
       {
          "a":{
             "examples":[
-               "knit",
-               "shave",
-               "clean"
+               "stricken",
+               "mich rasieren",
+               "putzen"
             ],
-            "text":"When I\u2019m done here I\u2019m gonna go <BLANK>.",
-            "type":"Verb - a boring activity"
+            "text":"Wenn ich mit dir fertig bin, gehe ich <BLANK>.",
+            "type":"Verb - Eine langweilige Aktivität"
          },
          "gene":[
             "whittle",
@@ -2435,12 +2435,12 @@
       {
          "a":{
             "examples":[
-               "staplers",
-               "paper clips",
-               "coffee mugs"
+               "Stifte",
+               "Büroklammern",
+               "Kaffeetassen"
             ],
-            "text":"I know what they mean: Mo\u2019 money mo\u2019 <BLANK>.",
-            "type":"plural Nomen - office supplies"
+            "text":"Ich weiß was sie meinen: Meh\u2019 Geld meh\u2019 <BLANK>.",
+            "type":"Nomen Plural - Bürovorräte"
          },
          "gene":[
             "desks",
@@ -2452,12 +2452,12 @@
       {
          "a":{
             "examples":[
-               "veins",
-               "eye",
-               "brains"
+               "im Bein",
+               "im Auge",
+               "im Gehirn"
             ],
-            "text":"Got fire in my heart ice in my <BLANK>.",
-            "type":"Nomen - a body part"
+            "text":"Hab\u2019 Feuer im Herz, hab\u2019 Eis <BLANK>.",
+            "type":"Ein Körperteil"
          },
          "gene":[
             "feet",
@@ -2469,12 +2469,12 @@
       {
          "a":{
             "examples":[
-               "library",
-               "kitchen",
-               "Wendy\u2019s"
+               "der Bücherei",
+               "der Küche",
+               "Burger King"
             ],
-            "text":"Here I come, straight from the <BLANK>.",
-            "type":"Nomen - a place"
+            "text":"Hier komme ich, zügig von <BLANK>.",
+            "type":"Ein Ort"
          },
          "gene":[
             "cleaners",
@@ -2486,12 +2486,12 @@
       {
          "a":{
             "examples":[
-               "hero",
-               "comic relief",
-               "romantic lead"
+               "mein Held",
+               "meine Erleichterung",
+               "meine romantische Führung"
             ],
-            "text":"Success is my best friend failure is my <BLANK>.",
-            "type":"bekanntes Nomen - character type"
+            "text":"Erfolg ist mein bester Freund, Versagen ist <BLANK>.",
+            "type":"Typ eines Charakters"
          },
          "gene":[
             "unpaid extra",
@@ -2505,10 +2505,10 @@
             "examples":[
                "MC Rap",
                "Dr. Rhyme",
-               "Fo\u2019 shizzle"
+               "Snoop Dogg"
             ],
-            "text":"Knock-knock who\u2019s there it\u2019s me <BLANK>.",
-            "type":"your rapper name"
+            "text":"Klopf-klopf, wer ist da wenn ich es bin, <BLANK>.",
+            "type":"Dein Rappername"
          },
          "gene":[
             "Glen",
@@ -2520,11 +2520,11 @@
       {
          "a":{
             "examples":[
-               "bathe",
-               "vote",
-               "breathe"
+               "baden",
+               "wählen",
+               "atmen"
             ],
-            "text":"Wave your hands in the air like you just don\u2019t <BLANK>.",
+            "text":"Winke einfach in der Luft, als würdest du nie <BLANK>.",
             "type":"Verb"
          },
          "gene":[
@@ -2538,11 +2538,11 @@
          "a":{
             "examples":[
                "Yeah!",
-               "Woot!",
+               "Woo!",
                "AAAAH!"
             ],
-            "text":"When I say \u2018Hey\u2019 all the people shout <BLANK>.",
-            "type":"an exclamation"
+            "text":"Wenn ich \u2018Hey\u2019 sage, rufen alle <BLANK>.",
+            "type":"Ein Ausruf"
          },
          "gene":[
             "Hello!",
@@ -2554,12 +2554,12 @@
       {
          "a":{
             "examples":[
-               "baseballs",
-               "pretzels",
-               "sheep"
+               "Golfbällen",
+               "Bretzeln",
+               "Schafen"
             ],
-            "text":"I just got appraised I\u2019m worth 10,000 <BLANK>.",
-            "type":"plural Nomen"
+            "text":"Mein Wert wurde soeben geschätzt, er liegt bei 10.000 <BLANK>.",
+            "type":"Nomen Plural"
          },
          "gene":[
             "hugs",
@@ -2571,11 +2571,11 @@
       {
          "a":{
             "examples":[
-               "ferocious",
-               "skilled",
-               "persistent"
+               "heftig",
+               "erfahren",
+               "hartnäckig"
             ],
-            "text":"I may not be charming but I\u2019m <BLANK>.",
+            "text":"Ich mag nicht charmant sein, aber ich bin <BLANK>.",
             "type":"positives Adjektiv"
          },
          "gene":[
@@ -2588,11 +2588,11 @@
       {
          "a":{
             "examples":[
-               "singen",
-               "lecture",
-               "gargle"
+               "singe",
+               "rappe",
+               "abgehe"
             ],
-            "text":"I\u2019m a great rapper but you should hear me <BLANK>.",
+            "text":"Ich bin ein großer Rapper, du solltest hören wie ich <BLANK>.",
             "type":"Verb"
          },
          "gene":[
@@ -2605,12 +2605,12 @@
       {
          "a":{
             "examples":[
-               "trip",
-               "cruise",
-               "outing"
+               "der Reise",
+               "des Spiels",
+               "der Party"
             ],
-            "text":"Call this the start of my victory <BLANK>.",
-            "type":"Nomen - synonym for 'excursion'"
+            "text":"Nenn das den Start <BLANK>.",
+            "type":"Was du als letztes gesehen hast"
          },
          "gene":[
             "junket",
@@ -2622,12 +2622,12 @@
       {
          "a":{
             "examples":[
-               "toopler",
-               "goobley",
-               "upplupp"
+               "Sheesh",
+               "Trantüte",
+               "Isegrim"
             ],
-            "text":"My rhymes are so smooth you\u2019ll say <BLANK>.",
-            "type":"a nonsense word"
+            "text":"Meine Reime sind so perfekt, du wirst sagen <BLANK>.",
+            "type":"Ein sinnloses Wort"
          },
          "gene":[
             "hootley bagoo",
@@ -2639,12 +2639,12 @@
       {
          "a":{
             "examples":[
-               "otter",
-               "yak",
-               "walrus"
+               "Ratte",
+               "Schildkröte",
+               "Katze"
             ],
-            "text":"My mouth is working like a lil\u2019 <BLANK>.",
-            "type":"singular Nomen - an animal"
+            "text":"Mein Mund funktioniert wie ein/e Mini- <BLANK>.",
+            "type":"Ein Tier"
          },
          "gene":[
             "Tasmanian devil",
@@ -2656,11 +2656,11 @@
       {
          "a":{
             "examples":[
-               "creamy",
-               "goopy",
-               "hungry"
+               "traurig",
+               "stark",
+               "hungrig"
             ],
-            "text":"I gotta slow down I\u2019m getting too <BLANK>.",
+            "text":"Ich sollte abdrehen, sonst werde ich zu <BLANK>.",
             "type":"Adjektiv"
          },
          "gene":[
@@ -2673,12 +2673,12 @@
       {
          "a":{
             "examples":[
-               "caviar",
-               "diamonds",
-               "gold"
+               "Kaviar",
+               "Diamanten",
+               "Gold"
             ],
-            "text":"I swim in jewels and bathe in <BLANK>.",
-            "type":"plural Nomen - luxurious thing"
+            "text":"Ich schwimme in Juwelen und bade in <BLANK>.",
+            "type":"Nomen Plural - Etwas teures"
          },
          "gene":[
             "guacamole",
@@ -2690,12 +2690,12 @@
       {
          "a":{
             "examples":[
-               "punches",
-               "jabs",
-               "right crosses"
+               "Treffer",
+               "Tritte",
+               "Schüsse"
             ],
-            "text":"My rhymes are a fist my verses are <BLANK>.",
-            "type":"plural Nomen - word for 'punches'"
+            "text":"Meine Reime ballen zur Faust und meine Verse sind <BLANK>.",
+            "type":"Nomen Plural - Begriffe für Schläge"
          },
          "gene":[
             "haymakers",
@@ -2707,11 +2707,11 @@
       {
          "a":{
             "examples":[
-               "awesome",
-               "incredible",
-               "fabulous"
+               "großartig",
+               "unglaublich",
+               "fabelhaft"
             ],
-            "text":"My breath is foul but my bars are <BLANK>.",
+            "text":"Mein Atem ist faul aber meine Bars sind <BLANK>.",
             "type":"positives Adjektiv"
          },
          "gene":[
@@ -2724,12 +2724,12 @@
       {
          "a":{
             "examples":[
-               "doctor",
-               "lawyer",
-               "scientist"
+               "einem Doktor",
+               "einem Anwalt",
+               "einem Wissenschaftler"
             ],
-            "text":"I\u2019m, not much, of a <BLANK>.",
-            "type":"Nomen - an occupation"
+            "text":"Bin nicht besonders viel von <BLANK>.",
+            "type":"Ein Beruf"
          },
          "gene":[
             "sales rep",
@@ -2741,12 +2741,12 @@
       {
          "a":{
             "examples":[
-               "pumping",
-               "cooking",
-               "flowing"
+               "pumpen",
+               "kochen",
+               "fließen"
             ],
-            "text":"I\u2019m feelin\u2019 it, the beat is <BLANK>.",
-            "type":"Verb ending w/ -ing"
+            "text":"Ich fühl\u2019 es schon, der Beat ist am <BLANK>.",
+            "type":"Verb"
          },
          "gene":[
             "percolating",
@@ -2758,12 +2758,12 @@
       {
          "a":{
             "examples":[
-               "tamales",
-               "chicken soup",
-               "biscuits and gravy"
+               "Spiegelei mit Speck",
+               "Hühnersuppe",
+               "Kekse und Soße"
             ],
-            "text":"I deliver it hot, as <BLANK>.",
-            "type":"Nomen - an entree"
+            "text":"Ich liefer es immer heiß, so wie <BLANK>.",
+            "type":"Ein Gericht"
          },
          "gene":[
             "spaghetti",
@@ -2775,12 +2775,12 @@
       {
          "a":{
             "examples":[
-               "cyclone",
-               "cold snap",
-               "hail storm"
+               "einen Erdbeben",
+               "einen Schneesturm",
+               "starken Regen"
             ],
-            "text":"My raps are so furious they caused a <BLANK>.",
-            "type":"singular Nomen - weather event"
+            "text":"Meine Raps sind so wütend, sie verursachen <BLANK>.",
+            "type":"Ein Wetterereignis"
          },
          "gene":[
             "white squall",
@@ -2796,8 +2796,8 @@
                "Hugh Jackman",
                "Frank Sinatra"
             ],
-            "text":"I can do it all, like <BLANK>.",
-            "type":"passendes Nomen - famous performer"
+            "text":"Ich kann das alles tun, wie <BLANK>.",
+            "type":"Ein berühmter Künstler"
          },
          "gene":[
             "Kenny G",
@@ -2809,12 +2809,12 @@
       {
          "a":{
             "examples":[
-               "machine",
-               "weapon",
-               "hunter"
+               "eine Maschine",
+               "eine Pistole",
+               "ein Gewehr"
             ],
-            "text":"You better recognize I\u2019m the ultimate <BLANK>.",
-            "type":"Nomen"
+            "text":"Du siehst mich lieber als  <BLANK>.",
+            "type":"Ein starkes Objekt"
          },
          "gene":[
             "villain",
@@ -2826,12 +2826,12 @@
       {
          "a":{
             "examples":[
-               "biology",
-               "math",
-               "philosophy"
+               "Biologie",
+               "Mathematik",
+               "Betriebswirtschaftslehre"
             ],
-            "text":"My lyrics are knowledge, better than <BLANK>.",
-            "type":"Nomen - school subject"
+            "text":"Meine Texte sind Wissen, besser als <BLANK>.",
+            "type":"Ein Schulfach"
          },
          "gene":[
             "civics",
@@ -2843,12 +2843,12 @@
       {
          "a":{
             "examples":[
-               "sun",
-               "nightlight",
-               "golden calf"
+               "die Sonne",
+               "das Nachtlicht",
+               "das Feuer"
             ],
-            "text":"Cover your eyes I\u2019m bright like a <BLANK>.",
-            "type":"Nomen - shiny thing"
+            "text":"Schließe deine Augen, ich bin hell wie <BLANK>.",
+            "type":"Etwas helles"
          },
          "gene":[
             "Christmas ornament",
@@ -2860,11 +2860,11 @@
       {
          "a":{
             "examples":[
-               "hungry",
-               "sleepy",
-               "thrilled"
+               "hungrig",
+               "müde",
+               "begeistert"
             ],
-            "text":"I\u2019ve got a time machine and I\u2019m super <BLANK>.",
+            "text":"Ich hab \u2019ne Zeitmaschine und bin super <BLANK>.",
             "type":"positives Adjektiv"
          },
          "gene":[
