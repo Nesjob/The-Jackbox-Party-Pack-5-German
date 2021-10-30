@@ -803,12 +803,12 @@
       {
          "a":{
             "examples":[
-               "bite",
-               "flap",
-               "scurry"
+               "beißen",
+               "schlagen",
+               "huschen"
             ],
-            "text":"Trying to catch me is a wild goose <BLANK>.",
-            "type":"Verb - an animal action"
+            "text":"Die wilde Gans versucht mich zu <BLANK>.",
+            "type":"Verb - Aktion eines Tieres"
          },
          "gene":[
             "waddle",
@@ -824,8 +824,8 @@
                "Elon Musk",
                "Obama"
             ],
-            "text":"I always buy organic cuz I\u2019m rich as <BLANK>.",
-            "type":"passendes Nomen - a rich person"
+            "text":"Kaufe immer Bio, denn ich bin reich wie <BLANK>.",
+            "type":"Eine reiche Person"
          },
          "gene":[
             "Regis Philbin",
@@ -837,12 +837,12 @@
       {
          "a":{
             "examples":[
-               "tips",
-               "ideas",
-               "wisdom"
+               "Trinkgeld",
+               "Ideen",
+               "Weisheiten"
             ],
-            "text":"Kanye and Drake they call me for <BLANK>.",
-            "type":"Nomen - term for 'help'"
+            "text":"Kanye und Montana, sie rufen mich für <BLANK>.",
+            "type":"Nomen - Begriff für Hilfe"
          },
          "gene":[
             "feedback",
@@ -854,9 +854,9 @@
       {
          "a":{
             "examples":[
-               "gummy bear",
-               "Starburst",
-               "Hershey\u2019s Kiss"
+               "Gummibär",
+               "Schokoriegel",
+               "Lakritz"
             ],
             "text":"I taste sweet, as a delicious <BLANK>.",
             "type":"Nomen - a type of candy"
@@ -871,12 +871,12 @@
       {
          "a":{
             "examples":[
-               "bats",
-               "gas",
-               "money"
+               "Farben",
+               "Tränen",
+               "Scheine"
             ],
-            "text":"When I cut myself shaving out flows <BLANK>.",
-            "type":"plural Nomen"
+            "text":"Wenn ich mich beim rasieren schneide, fließen <BLANK>.",
+            "type":"Nomen Plural"
          },
          "gene":[
             "air",
@@ -888,9 +888,9 @@
       {
          "a":{
             "examples":[
-               "apples",
-               "oranges",
-               "lemons"
+               "Äpfel",
+               "Orangen",
+               "Zitronen"
             ],
             "text":"Everywhere I go fans shower me with <BLANK>.",
             "type":"plural Nomen - fruits"
