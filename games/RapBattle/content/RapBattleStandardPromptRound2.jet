@@ -4,12 +4,12 @@
         {
             "a": {
                 "examples": [
-                    "mother",
-                    "coat",
-                    "Atari"
+                    "Mutter",
+                    "Mantel",
+                    "Super Nintendo"
                 ],
-                "text": "You\u2019re so weak you ain\u2019t worth my <BLANK>.",
-                "type": "noun"
+                "text": "Du bist so schwach, du bist nicht gut genug für <BLANK>.",
+                "type": "Nomen"
             },
             "gene": [
                 "space",
