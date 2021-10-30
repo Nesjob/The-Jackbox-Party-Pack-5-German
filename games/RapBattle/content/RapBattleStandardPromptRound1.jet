@@ -26,7 +26,7 @@
                "C E O"
             ],
             "text":"Dinge abklären wie ein richtiger <BLANK>.",
-            "type":"Substantiv - Chef Bezeichnung"
+            "type":"Nomen - Bezeichnung für einen Chef"
          },
          "gene":[
             "Manager",
@@ -38,15 +38,15 @@
       {
          "a":{
             "examples":[
-               "das Empire State building",
+               "das Empire State Building",
                "der Kölner Dom",
                "der Big Ben"
             ],
             "text":"Ich falle nie um, ich stehe fest wie <BLANK>.",
-            "type":"Artikel + passendes Substantiv - berühmtes Gebäude"
+            "type":"Artikel + passendes Nomen - berühmtes Gebäude"
          },
          "gene":[
-            "das K F C",
+            "das KFC",
             "satt von einem Salat werde ich nie."
          ],
          "x":false,
@@ -76,8 +76,8 @@
                "Mond",
                "Planet"
             ],
-            "text":"Ich bin eine kosmische Kraft, nenn mich Große/r <BLANK>.",
-            "type":"Substantiv Einzahl - Dinge aus dem Weltraum"
+            "text":"Ich bin eine kosmische Kraft, nenn mich großer <BLANK>.",
+            "type":"Nomen Einzahl - Ding aus dem Weltraum"
          },
          "gene":[
             "Schockwelle",
@@ -93,8 +93,8 @@
                "Tischler",
                "Arzt"
             ],
-            "text":"Ich bin erwachsen, ein/e wahrhafte/r <BLANK>.",
-            "type":"bekanntes Substantiv - Berufsbezeichnung"
+            "text":"Ich bin erwachsen, ein wahrhafter <BLANK>.",
+            "type":"eine Berufsbezeichnung"
          },
          "gene":[
             "Sekretär",
@@ -111,7 +111,7 @@
                "Neil deGrasse Tyson"
             ],
             "text":"Ich hab krasses Wissen, ich bin ein echter <BLANK>.",
-            "type":"passendes Substantiv - Wissenschaftler"
+            "type":"ein Wissenschaftler"
          },
          "gene":[
             "Max Planck",
@@ -127,8 +127,8 @@
                "Sandwich",
                "Baseball"
             ],
-            "text":"Ich bin süßer als Bonbons, schärfer als ein/e <BLANK>.",
-            "type":"Substantiv Einzahl"
+            "text":"Ich bin süßer als Bonbons, schärfer als ein <BLANK>.",
+            "type":"Nomen Einzahl"
          },
          "gene":[
             "Geige",
@@ -144,8 +144,8 @@
                "gutes Aussehen",
                "Stabilität"
             ],
-            "text":"Ich bin schnell, also spul zurück, dann seht ihr mein/e/n <BLANK>.",
-            "type":"bekanntes Substantiv - persönliche gute Eigenschaft"
+            "text":"Ich bin schnell, also spul zurück, dann seht ihr mein' <BLANK>.",
+            "type":"eine persönliche gute Eigenschaft"
          },
          "gene":[
             "Strahlen",
@@ -157,12 +157,12 @@
       {
          "a":{
             "examples":[
-               "Schokoladen",
+               "Schokotorten",
                "Ersatzreifen",
                "Ladekabel"
             ],
             "text":"Das eine, was ich mehr mag als Reime sind <BLANK>.",
-            "type":"Substantiv Mehrzahl"
+            "type":"Nomen Mehrzahl"
          },
          "gene":[
             "Bäume",
@@ -179,7 +179,7 @@
                "Büffeln"
             ],
             "text":"Um meine Reime zu ernähren trinke ich das Blut von <BLANK>.",
-            "type":"Substantiv Mehrzahl - Tiere"
+            "type":"Nomen Mehrzahl - Tiere"
          },
          "gene":[
             "Schlangen",
@@ -213,7 +213,7 @@
                "Trauer"
             ],
             "text":"Ich hab ein großes Herz, meine Reime sind voller <BLANK>.",
-            "type":"Substantiv Einzahl - eine Emotion"
+            "type":"Nomen Einzahl - eine Emotion"
          },
          "gene":[
             "Freude",
@@ -230,7 +230,7 @@
                "Pfütze"
             ],
             "text":"Seht wie ich laber wie ein/e <BLANK>.",
-            "type":"bekanntes Substantiv - etwas mit Wasser"
+            "type":"Nomen - etwas mit Wasser"
          },
          "gene":[
             "Tümpel",
@@ -247,7 +247,7 @@
                "Adern"
             ],
             "text":"Da kommt kein Schweiß, sondern Talent aus meinen <BLANK>.",
-            "type":"Substantiv Mehrzahl - Körperteile"
+            "type":"Nomen Mehrzahl - Körperteile"
          },
          "gene":[
             "Rippen",
@@ -264,7 +264,7 @@
                "Steak"
             ],
             "text":"Meine Reime schmelzen auf der Zunge wie <BLANK>.",
-            "type":"Substantiv - Essen"
+            "type":"Nomen - Essen"
          },
          "gene":[
             "Kohl",
@@ -298,7 +298,7 @@
                "eBay"
             ],
             "text":"Wenn ich ein Date haben will geh ich einfach auf <BLANK>.",
-            "type":"passendes Substantiv - Website"
+            "type":"Nomen - Website"
          },
          "gene":[
             "Pinterest",
@@ -315,7 +315,7 @@
                "Busch"
             ],
             "text":"Im Moment bin ich ein Samen, doch schon bald bin ich ein/e <BLANK>.",
-            "type":"Substantiv Einzahl - Pflanze"
+            "type":"Nomen Einzahl - Pflanze"
          },
          "gene":[
             "Tulpe",
@@ -332,7 +332,7 @@
                "Gletscher"
             ],
             "text":"Mein Flow ist so krass, nenn mich schwarzwälder <BLANK>.",
-            "type":"Substantiv - geographisches Merkmal"
+            "type":"Nomen - geographisches Merkmal"
          },
          "gene":[
             "Plateau",
@@ -349,7 +349,7 @@
                "Tandem"
             ],
             "text":"Meine Raps sind der Wahnsinn - schneller als ein/e <BLANK>.",
-            "type":"Substantiv Einzahl - Fahrzeug"
+            "type":"Nomen Einzahl - Fahrzeug"
          },
          "gene":[
             "Schwalbe",
@@ -366,7 +366,7 @@
                "Alien"
             ],
             "text":"Ich terrorisiere die Straßen, wie ein/e <BLANK>.",
-            "type":"Substantiv Einzahl - ein Monster"
+            "type":"Nomen Einzahl - ein Monster"
          },
          "gene":[
             "Godzilla",
