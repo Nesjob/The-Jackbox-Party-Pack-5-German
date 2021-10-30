@@ -383,7 +383,7 @@
                "die Hütte"
             ],
             "text":"Ich brauch keine Erlaubnis, ich rocke <BLANK>.",
-            "type":"Artikel + bekanntes Substantiv - ein Gebäude"
+            "type":"Artikel + bekanntes Nomen - ein Gebäude"
          },
          "gene":[
             "die Kläranlage",
@@ -400,7 +400,7 @@
                "den Haaren"
             ],
             "text":"Ich hab Worte im Herzen und ein Mikro in <BLANK>.",
-            "type":"Artikel + Substantiv - Körperteil"
+            "type":"Artikel + Nomen - Körperteil"
          },
          "gene":[
             "den Knien",
@@ -417,7 +417,7 @@
                "die Wüste"
             ],
             "text":"Meine Reime sind heißer als <BLANK>.",
-            "type":"Artikel + Substantiv Einzahl - etwas Heißes"
+            "type":"Artikel + Nomen Einzahl - etwas Heißes"
          },
          "gene":[
             "ein heißes Feuer",
@@ -434,7 +434,7 @@
                "Bowling"
             ],
             "text":"Mein Rap verliert nur bei <BLANK>.",
-            "type":"bekanntes Substantiv - ein Spiel"
+            "type":"bekanntes Nomen - ein Spiel"
          },
          "gene":[
             "You Don\u2019t Know Jack",
@@ -485,7 +485,7 @@
                "Swahili"
             ],
             "text":"Wusstet ihr denn, ich sprech fließend <BLANK>?",
-            "type":"Substantiv - a language"
+            "type":"Nomen - eine Sprache"
          },
          "gene":[
             "Cajun",
@@ -497,12 +497,12 @@
       {
          "a":{
             "examples":[
-               "skulls",
+               "Schädel",
                "bricks",
                "opponents"
             ],
             "text":"Meine Roboterhände verschießen <BLANK>.",
-            "type":"Substantiv Mehrzahl- harte Dinge"
+            "type":"Nomen Mehrzahl- harte Dinge"
          },
          "gene":[
             "melon",
@@ -519,7 +519,7 @@
                "Gigant"
             ],
             "text":"Ich habe acht brutale Arme, wie ein Octo-<BLANK>.",
-            "type":"Substantiv - gruselige Dinge"
+            "type":"Nomen - gruselige Dinge"
          },
          "gene":[
             "dude",
@@ -536,7 +536,7 @@
                "Twitter"
             ],
             "text":"Ich bin in allen Schlagzeilen, besonder auf <BLANK>.",
-            "type":"passendes Substantiv - eine Website"
+            "type":"passendes Nomen - eine Website"
          },
          "gene":[
             "WebMD",
@@ -552,7 +552,7 @@
                "das Wetter",
                "Bitcoin"
             ],
-            "text":"Alexa fragt MICHzu den News über <BLANK>.",
+            "text":"Alexa fragt MICH zu den News über <BLANK>.",
             "type":"irgendein Thema"
          },
          "gene":[
@@ -570,7 +570,7 @@
                "Enttäuschung"
             ],
             "text":"Ich bin der ultimative Herrscher, was ich sage wird <BLANK>.",
-            "type":"Substantiv Einzahl - abstraktes Konzept"
+            "type":"Nomen Einzahl - abstraktes Konzept"
          },
          "gene":[
             "ethereal",
@@ -587,7 +587,7 @@
                "Dirk Nowitzki"
             ],
             "text":"Ich werfe die Körbe wie <BLANK>.",
-            "type":"passendes Substantiv - Basketball Star"
+            "type":"passendes Nomen - Basketball Star"
          },
          "gene":[
             "Stephen Curry",
@@ -621,7 +621,7 @@
                "Frosted Flakes"
             ],
             "text":"Ich bin die Creme de la Creme, lecker wie <BLANK>.",
-            "type":"passendes Substantiv - Müsli Namen"
+            "type":"passendes Nomen - Müsli Namen"
          },
          "gene":[
             "Weetabix",
@@ -638,7 +638,7 @@
                "Fittnesstrainer"
             ],
             "text":"Schaut, wie ich arbeite, ich bin ein Meister-<BLANK>.",
-            "type":"Substantiv Einzahl - an occupation"
+            "type":"Nomen Einzahl - an occupation"
          },
          "gene":[
             "chef de cuisine",
@@ -655,7 +655,7 @@
                "Klassik"
             ],
             "text":"Das ist meine Krönung, nennt mich Queen of <BLANK>.",
-            "type":"Substantiv - Musik Genres"
+            "type":"Nomen - Musik Genres"
          },
          "gene":[
             "show tunes",
@@ -689,7 +689,7 @@
                "Wärme"
             ],
             "text":"Meine Reime sind empfindlich, also behandelt sie mit <BLANK>.",
-            "type":"bekanntes Substantiv - etwas Positives"
+            "type":"bekanntes Nomen - etwas Positives"
          },
          "gene":[
             "delight",
@@ -706,7 +706,7 @@
                "Träume"
             ],
             "text":"Die Reime, die ich male kosten tausende <BLANK>.",
-            "type":"Substantiv Mehrzahl"
+            "type":"Nomen Mehrzahl"
          },
          "gene":[
             "novels",
@@ -740,7 +740,7 @@
                "Lasern"
             ],
             "text":"Ich bin zu heiß, mein Körper besteht aus <BLANK>.",
-            "type":"Substantiv - etwas Heißes"
+            "type":"Nomen - etwas Heißes"
          },
          "gene":[
             "radiators",
@@ -757,7 +757,7 @@
                "Pizza Kuchen"
             ],
             "text":"Wenn das Leben mir Zitronen gibt, mache ich daraus <BLANK>.",
-            "type":"Substantiv Mehrzahl - Gerichte"
+            "type":"Nomen Mehrzahl - Gerichte"
          },
          "gene":[
             "mustard",
@@ -774,7 +774,7 @@
                "meiner Taschenuhr"
             ],
             "text":"Ich hab den Erfolg in der Tasche, direkt neben <BLANK>.",
-            "type":"Substantiv Einzahl - Dinge in deiner Tasche"
+            "type":"Nomen Einzahl - Dinge in deiner Tasche"
          },
          "gene":[
             "drill bit",
@@ -791,7 +791,7 @@
                "Platz"
             ],
             "text":"Mein Talent ist so groß, mir fehlt es langsam an <BLANK>.",
-            "type":"bekanntes Substantiv - natürliche Ressource"
+            "type":"bekanntes Nomen - natürliche Ressource"
          },
          "gene":[
             "oxygen",
@@ -825,7 +825,7 @@
                "Obama"
             ],
             "text":"I always buy organic cuz I\u2019m rich as <BLANK>.",
-            "type":"passendes Substantiv - a rich person"
+            "type":"passendes Nomen - a rich person"
          },
          "gene":[
             "Regis Philbin",
@@ -842,7 +842,7 @@
                "wisdom"
             ],
             "text":"Kanye and Drake they call me for <BLANK>.",
-            "type":"Substantiv - term for 'help'"
+            "type":"Nomen - term for 'help'"
          },
          "gene":[
             "feedback",
@@ -859,7 +859,7 @@
                "Hershey\u2019s Kiss"
             ],
             "text":"I taste sweet, as a delicious <BLANK>.",
-            "type":"Substantiv - a type of candy"
+            "type":"Nomen - a type of candy"
          },
          "gene":[
             "Rolo",
@@ -876,7 +876,7 @@
                "money"
             ],
             "text":"When I cut myself shaving out flows <BLANK>.",
-            "type":"plural Substantiv"
+            "type":"plural Nomen"
          },
          "gene":[
             "air",
@@ -893,7 +893,7 @@
                "lemons"
             ],
             "text":"Everywhere I go fans shower me with <BLANK>.",
-            "type":"plural Substantiv - fruits"
+            "type":"plural Nomen - fruits"
          },
          "gene":[
             "melon balls",
@@ -910,7 +910,7 @@
                "bookstore"
             ],
             "text":"I just stopped by on my way to the <BLANK>.",
-            "type":"Substantiv - place of business"
+            "type":"Nomen - place of business"
          },
          "gene":[
             "clinic",
@@ -944,7 +944,7 @@
                "towers"
             ],
             "text":"My body\u2019s limber my brain\u2019s full of <BLANK>.",
-            "type":"plural Substantiv - things found in Shanghai"
+            "type":"plural Nomen - things found in Shanghai"
          },
          "gene":[
             "pollution",
@@ -978,7 +978,7 @@
                "Starbucks"
             ],
             "text":"I was raised in the tough part of <BLANK>.",
-            "type":"passendes Substantiv - a store"
+            "type":"passendes Nomen - a store"
          },
          "gene":[
             "Hardee\u2019s",
@@ -995,7 +995,7 @@
                "Mark Ruffalo"
             ],
             "text":"I\u2019m so tough, they call me <BLANK>.",
-            "type":"passendes Substantiv - famous nerd"
+            "type":"passendes Nomen - famous nerd"
          },
          "gene":[
             "Rick Moranis",
@@ -1029,7 +1029,7 @@
                "breeze"
             ],
             "text":"I never need to shower I smell like a <BLANK>.",
-            "type":"singular Substantiv - good smelling thing"
+            "type":"singular Nomen - good smelling thing"
          },
          "gene":[
             "puppy",
@@ -1063,7 +1063,7 @@
                "Arby\u2019s"
             ],
             "text":"I\u2019m so hot I got sponsored by <BLANK>.",
-            "type":"passendes Substantiv - a brand/company"
+            "type":"passendes Nomen - a brand/company"
          },
          "gene":[
             "Petco",
@@ -1165,7 +1165,7 @@
                "entourage"
             ],
             "text":"Santa\u2019s got elves, I got my <BLANK>.",
-            "type":"collective Substantiv"
+            "type":"collective Nomen"
          },
          "gene":[
             "D I Y kit",
@@ -1233,7 +1233,7 @@
                "hymn"
             ],
             "text":"Wah-ka-bam-zoo is my battle <BLANK>.",
-            "type":"singular Substantiv - a sound"
+            "type":"singular Nomen - a sound"
          },
          "gene":[
             "poetry",
@@ -1250,7 +1250,7 @@
                "synth"
             ],
             "text":"My mouth\u2019s like a trumpet my brain\u2019s like a <BLANK>.",
-            "type":"Substantiv - musical instrument"
+            "type":"Nomen - musical instrument"
          },
          "gene":[
             "flute",
@@ -1267,7 +1267,7 @@
                "silver"
             ],
             "text":"Check out my grill all studded with <BLANK>.",
-            "type":"Substantiv - valuable substance"
+            "type":"Nomen - valuable substance"
          },
          "gene":[
             "pearls",
@@ -1301,7 +1301,7 @@
                "box"
             ],
             "text":"I\u2019m knee deep in rhymes better get a <BLANK>.",
-            "type":"bekanntes Substantiv - a container"
+            "type":"bekanntes Nomen - a container"
          },
          "gene":[
             "hollow gourd",
@@ -1318,7 +1318,7 @@
                "light sabers"
             ],
             "text":"It\u2019s a showdown and my words are my <BLANK>.",
-            "type":"plural Substantiv - weapons"
+            "type":"plural Nomen - weapons"
          },
          "gene":[
             "pepper spray",
@@ -1335,7 +1335,7 @@
                "Mount Rainier"
             ],
             "text":"I\u2019m on my way up, I could climb <BLANK>.",
-            "type":"passendes Substantiv - mountain"
+            "type":"passendes Nomen - mountain"
          },
          "gene":[
             "Mount Doom",
@@ -1369,7 +1369,7 @@
                "bee"
             ],
             "text":"I destroy city blocks like a gigantic <BLANK>.",
-            "type":"Substantiv - an animal"
+            "type":"Nomen - an animal"
          },
          "gene":[
             "mongoose",
@@ -1454,7 +1454,7 @@
                "downtown"
             ],
             "text":"I\u2019m the best M C, in all of <BLANK>.",
-            "type":"Substantiv - a place"
+            "type":"Nomen - a place"
          },
          "gene":[
             "Kansas",
@@ -1471,7 +1471,7 @@
                "buildings"
             ],
             "text":"I came here to crush and my words are <BLANK>.",
-            "type":"plural Substantiv - heavy things"
+            "type":"plural Nomen - heavy things"
          },
          "gene":[
             "whipping cream",
@@ -1488,7 +1488,7 @@
                "The Arctic"
             ],
             "text":"They call me the Ruler, of <BLANK>.",
-            "type":"passendes Substantiv - a place"
+            "type":"passendes Nomen - a place"
          },
          "gene":[
             "New Orleans",
@@ -1505,7 +1505,7 @@
                "Taj Mahal"
             ],
             "text":"I\u2019m so rich in rhymes I could buy a <BLANK>.",
-            "type":"Substantiv - a big thing"
+            "type":"Nomen - a big thing"
          },
          "gene":[
             "cloud",
@@ -1539,7 +1539,7 @@
                "Guam"
             ],
             "text":"You think I\u2019m big here you should see me in <BLANK>.",
-            "type":"passendes Substantiv - city, state or country"
+            "type":"passendes Nomen - city, state or country"
          },
          "gene":[
             "Iceland",
@@ -1556,7 +1556,7 @@
                "Tom Hanks"
             ],
             "text":"I\u2019m a thing of legend, a regular <BLANK>.",
-            "type":"passendes Substantiv - famous person"
+            "type":"passendes Nomen - famous person"
          },
          "gene":[
             "Bono",
@@ -1573,7 +1573,7 @@
                "Abigail Adams"
             ],
             "text":"I make new rules like a modern <BLANK>.",
-            "type":"passendes Substantiv - historical figure"
+            "type":"passendes Nomen - historical figure"
          },
          "gene":[
             "Daniel Boone",
@@ -1590,7 +1590,7 @@
                "banker"
             ],
             "text":"I rise to new heights I\u2019m a master <BLANK>.",
-            "type":"bekanntes Substantiv - type of craftsman"
+            "type":"bekanntes Nomen - type of craftsman"
          },
          "gene":[
             "crawler",
@@ -1607,7 +1607,7 @@
                "hammers"
             ],
             "text":"I\u2019m a killer, with a heart of <BLANK>.",
-            "type":"plural Substantiv"
+            "type":"plural Nomen"
          },
          "gene":[
             "yeast",
@@ -1624,7 +1624,7 @@
                "whistling"
             ],
             "text":"I hear the beat, I come out <BLANK>.",
-            "type":"Substantiv ending w/ -ing"
+            "type":"Nomen ending w/ -ing"
          },
          "gene":[
             "floating",
@@ -1641,7 +1641,7 @@
                "sock"
             ],
             "text":"I\u2019m always in fashion like a brand new <BLANK>.",
-            "type":"singular Substantiv - article of clothing"
+            "type":"singular Nomen - article of clothing"
          },
          "gene":[
             "bandana",
@@ -1675,7 +1675,7 @@
                "pocket watch"
             ],
             "text":"I\u2019m breaking down walls that block my <BLANK>.",
-            "type":"bekanntes Substantiv"
+            "type":"bekanntes Nomen"
          },
          "gene":[
             "animal crackers",
@@ -1709,7 +1709,7 @@
                "Nirvana"
             ],
             "text":"My rhymes will blast ya all the way to <BLANK>.",
-            "type":"passendes Substantiv - fictional place"
+            "type":"passendes Nomen - fictional place"
          },
          "gene":[
             "Middle-earth",
@@ -1726,7 +1726,7 @@
                "school dance"
             ],
             "text":"I\u2019m so pumped for this great <BLANK>.",
-            "type":"Substantiv - an event"
+            "type":"Nomen - an event"
          },
          "gene":[
             "diamond sale",
@@ -1743,7 +1743,7 @@
                "Seattle"
             ],
             "text":"I got more bling than a Housewife of <BLANK>.",
-            "type":"passendes Substantiv - a city"
+            "type":"passendes Nomen - a city"
          },
          "gene":[
             "Dubai",
@@ -1811,7 +1811,7 @@
                "diamond dust"
             ],
             "text":"I got underwear that\u2019s sprayed with <BLANK>.",
-            "type":"Substantiv - expensive substance"
+            "type":"Nomen - expensive substance"
          },
          "gene":[
             "Febreze",
@@ -1845,7 +1845,7 @@
                "chin"
             ],
             "text":"I\u2019m so ripped I got muscles on my <BLANK>.",
-            "type":"Substantiv - part of the face"
+            "type":"Nomen - part of the face"
          },
          "gene":[
             "thumb",
@@ -1879,7 +1879,7 @@
                "athlete\u2019s foot"
             ],
             "text":"Can\u2019t get over me. I\u2019m like a case of <BLANK>.",
-            "type":"Substantiv - a sickness or disease"
+            "type":"Nomen - a sickness or disease"
          },
          "gene":[
             "butt itch",
@@ -1896,7 +1896,7 @@
                "Harry Potter"
             ],
             "text":"I\u2019m workin\u2019 my magic, like <BLANK>.",
-            "type":"passendes Substantiv - magical character"
+            "type":"passendes Nomen - magical character"
          },
          "gene":[
             "Radagast",
@@ -1913,7 +1913,7 @@
                "bank"
             ],
             "text":"Stealing this battle like I\u2019m robbing a <BLANK>.",
-            "type":"bekanntes Substantiv - a type of store"
+            "type":"bekanntes Nomen - a type of store"
          },
          "gene":[
             "zoo",
@@ -1981,7 +1981,7 @@
                "spitting bars"
             ],
             "text":"I am the grand marshall, of <BLANK>.",
-            "type":"Substantiv - rap related"
+            "type":"Nomen - rap related"
          },
          "gene":[
             "Thanksgiving Day parades",
@@ -1998,7 +1998,7 @@
                "weeds"
             ],
             "text":"I plant seeds of rhythm that grow into <BLANK>",
-            "type":"plural Substantiv - plants"
+            "type":"plural Nomen - plants"
          },
          "gene":[
             "daffodils",
@@ -2015,7 +2015,7 @@
                "peace of mind"
             ],
             "text":"Don\u2019t look now: I stole your <BLANK>.",
-            "type":"bekanntes Substantiv"
+            "type":"bekanntes Nomen"
          },
          "gene":[
             "childhood",
@@ -2032,7 +2032,7 @@
                "Mars"
             ],
             "text":"I\u2019m known, from here to <BLANK>.",
-            "type":"passendes Substantiv - a place"
+            "type":"passendes Nomen - a place"
          },
          "gene":[
             "Kalamazoo",
@@ -2049,7 +2049,7 @@
                "stork"
             ],
             "text":"I\u2019m flying high like a big ol\u2019 <BLANK>",
-            "type":"singular Substantiv - flying thing"
+            "type":"singular Nomen - flying thing"
          },
          "gene":[
             "Superman",
@@ -2083,7 +2083,7 @@
                "purse"
             ],
             "text":"My future\u2019s as bright as a burning <BLANK>.",
-            "type":"singular Substantiv - last thing u bought"
+            "type":"singular Nomen - last thing u bought"
          },
          "gene":[
             "poster of ALF",
@@ -2100,7 +2100,7 @@
                "Illuminati"
             ],
             "text":"I\u2019ve learned the ancient secrets of the <BLANK>.",
-            "type":"plural Substantiv - a group of people"
+            "type":"plural Nomen - a group of people"
          },
          "gene":[
             "Flintstones",
@@ -2151,7 +2151,7 @@
                "cape"
             ],
             "text":"I\u2019m set to rule so hand me the <BLANK>.",
-            "type":"Substantiv - clothing accessory"
+            "type":"Nomen - clothing accessory"
          },
          "gene":[
             "necklace",
@@ -2168,7 +2168,7 @@
                "doughnut"
             ],
             "text":"I\u2019m riding high on top of the <BLANK>.",
-            "type":"singular Substantiv - a dessert"
+            "type":"singular Nomen - a dessert"
          },
          "gene":[
             "Jell-O",
@@ -2185,7 +2185,7 @@
                "cruise control"
             ],
             "text":"\u2019Scuse me while I turn up the <BLANK>.",
-            "type":"Substantiv - car feature"
+            "type":"Nomen - car feature"
          },
          "gene":[
             "seatwarmer",
@@ -2202,7 +2202,7 @@
                "Tom Hanks"
             ],
             "text":"Haven\u2019t you heard? I\u2019m the next <BLANK>.",
-            "type":"passendes Substantiv - an entertainer"
+            "type":"passendes Nomen - an entertainer"
          },
          "gene":[
             "LIberace",
@@ -2219,7 +2219,7 @@
                "David Copperfield"
             ],
             "text":"My words are magical, call me <BLANK>.",
-            "type":"passendes Substantiv - magical person"
+            "type":"passendes Nomen - magical person"
          },
          "gene":[
             "Stevie Nicks",
@@ -2253,7 +2253,7 @@
                "Cleopatra"
             ],
             "text":"I come and see and conquer just like <BLANK>.",
-            "type":"passendes Substantiv - historical figure"
+            "type":"passendes Nomen - historical figure"
          },
          "gene":[
             "Mary Queen of Scots",
@@ -2270,7 +2270,7 @@
                "throat"
             ],
             "text":"I\u2019m the one, with the golden <BLANK>.",
-            "type":"Substantiv - a body part"
+            "type":"Nomen - a body part"
          },
          "gene":[
             "philtrum",
@@ -2287,7 +2287,7 @@
                "private jet"
             ],
             "text":"It\u2019s true, my ego has its own <BLANK>.",
-            "type":"singular Substantiv - luxury item"
+            "type":"singular Nomen - luxury item"
          },
          "gene":[
             "table setting",
@@ -2304,7 +2304,7 @@
                "Godzilla"
             ],
             "text":"My words are presents I deliver like <BLANK>.",
-            "type":"passendes Substantiv - fictional character"
+            "type":"passendes Nomen - fictional character"
          },
          "gene":[
             "BoJack Horseman",
@@ -2321,7 +2321,7 @@
                "mastermind"
             ],
             "text":"I got big plans, I\u2019m a <BLANK>.",
-            "type":"singular Substantiv - term for 'smart person'"
+            "type":"singular Nomen - term for 'smart person'"
          },
          "gene":[
             "poindexter",
@@ -2338,7 +2338,7 @@
                "elephants"
             ],
             "text":"Cover your heads my beats drop like <BLANK>.",
-            "type":"plural Substantiv - heavy things"
+            "type":"plural Nomen - heavy things"
          },
          "gene":[
             "marble slabs",
@@ -2355,7 +2355,7 @@
                "precious stones"
             ],
             "text":"My rhymes are so sweet they\u2019re covered in <BLANK>.",
-            "type":"plural Substantiv - pretty things"
+            "type":"plural Nomen - pretty things"
          },
          "gene":[
             "bundt cakes",
@@ -2372,7 +2372,7 @@
                "lightning bolt"
             ],
             "text":"I\u2019m dangerous, like a <BLANK>.",
-            "type":"singular Substantiv - dangerous thing"
+            "type":"singular Nomen - dangerous thing"
          },
          "gene":[
             "jar of mayo",
@@ -2389,7 +2389,7 @@
                "blender"
             ],
             "text":"I\u2019m stirring up beats with my big ol\u2019 <BLANK>.",
-            "type":"Substantiv - kitchen tool"
+            "type":"Nomen - kitchen tool"
          },
          "gene":[
             "tea pot",
@@ -2406,7 +2406,7 @@
                "Tinkerbell"
             ],
             "text":"I\u2019m practically magic, a regular <BLANK>.",
-            "type":"Substantiv - a magical being"
+            "type":"Nomen - a magical being"
          },
          "gene":[
             "Merlin",
@@ -2440,7 +2440,7 @@
                "coffee mugs"
             ],
             "text":"I know what they mean: Mo\u2019 money mo\u2019 <BLANK>.",
-            "type":"plural Substantiv - office supplies"
+            "type":"plural Nomen - office supplies"
          },
          "gene":[
             "desks",
@@ -2457,7 +2457,7 @@
                "brains"
             ],
             "text":"Got fire in my heart ice in my <BLANK>.",
-            "type":"Substantiv - a body part"
+            "type":"Nomen - a body part"
          },
          "gene":[
             "feet",
@@ -2474,7 +2474,7 @@
                "Wendy\u2019s"
             ],
             "text":"Here I come, straight from the <BLANK>.",
-            "type":"Substantiv - a place"
+            "type":"Nomen - a place"
          },
          "gene":[
             "cleaners",
@@ -2491,7 +2491,7 @@
                "romantic lead"
             ],
             "text":"Success is my best friend failure is my <BLANK>.",
-            "type":"bekanntes Substantiv - character type"
+            "type":"bekanntes Nomen - character type"
          },
          "gene":[
             "unpaid extra",
@@ -2559,7 +2559,7 @@
                "sheep"
             ],
             "text":"I just got appraised I\u2019m worth 10,000 <BLANK>.",
-            "type":"plural Substantiv"
+            "type":"plural Nomen"
          },
          "gene":[
             "hugs",
@@ -2610,7 +2610,7 @@
                "outing"
             ],
             "text":"Call this the start of my victory <BLANK>.",
-            "type":"Substantiv - synonym for 'excursion'"
+            "type":"Nomen - synonym for 'excursion'"
          },
          "gene":[
             "junket",
@@ -2644,7 +2644,7 @@
                "walrus"
             ],
             "text":"My mouth is working like a lil\u2019 <BLANK>.",
-            "type":"singular Substantiv - an animal"
+            "type":"singular Nomen - an animal"
          },
          "gene":[
             "Tasmanian devil",
@@ -2678,7 +2678,7 @@
                "gold"
             ],
             "text":"I swim in jewels and bathe in <BLANK>.",
-            "type":"plural Substantiv - luxurious thing"
+            "type":"plural Nomen - luxurious thing"
          },
          "gene":[
             "guacamole",
@@ -2695,7 +2695,7 @@
                "right crosses"
             ],
             "text":"My rhymes are a fist my verses are <BLANK>.",
-            "type":"plural Substantiv - word for 'punches'"
+            "type":"plural Nomen - word for 'punches'"
          },
          "gene":[
             "haymakers",
@@ -2729,7 +2729,7 @@
                "scientist"
             ],
             "text":"I\u2019m, not much, of a <BLANK>.",
-            "type":"Substantiv - an occupation"
+            "type":"Nomen - an occupation"
          },
          "gene":[
             "sales rep",
@@ -2763,7 +2763,7 @@
                "biscuits and gravy"
             ],
             "text":"I deliver it hot, as <BLANK>.",
-            "type":"Substantiv - an entree"
+            "type":"Nomen - an entree"
          },
          "gene":[
             "spaghetti",
@@ -2780,7 +2780,7 @@
                "hail storm"
             ],
             "text":"My raps are so furious they caused a <BLANK>.",
-            "type":"singular Substantiv - weather event"
+            "type":"singular Nomen - weather event"
          },
          "gene":[
             "white squall",
@@ -2797,7 +2797,7 @@
                "Frank Sinatra"
             ],
             "text":"I can do it all, like <BLANK>.",
-            "type":"passendes Substantiv - famous performer"
+            "type":"passendes Nomen - famous performer"
          },
          "gene":[
             "Kenny G",
@@ -2814,7 +2814,7 @@
                "hunter"
             ],
             "text":"You better recognize I\u2019m the ultimate <BLANK>.",
-            "type":"Substantiv"
+            "type":"Nomen"
          },
          "gene":[
             "villain",
@@ -2831,7 +2831,7 @@
                "philosophy"
             ],
             "text":"My lyrics are knowledge, better than <BLANK>.",
-            "type":"Substantiv - school subject"
+            "type":"Nomen - school subject"
          },
          "gene":[
             "civics",
@@ -2848,7 +2848,7 @@
                "golden calf"
             ],
             "text":"Cover your eyes I\u2019m bright like a <BLANK>.",
-            "type":"Substantiv - shiny thing"
+            "type":"Nomen - shiny thing"
          },
          "gene":[
             "Christmas ornament",
@@ -2882,7 +2882,7 @@
                "jelly beans"
             ],
             "text":"Sweet like candy, I\u2019m Mix Master <BLANK>.",
-            "type":"Substantiv - type of candy"
+            "type":"Nomen - type of candy"
          },
          "gene":[
             "Necco Wafers",
@@ -2899,7 +2899,7 @@
                "biscuit"
             ],
             "text":"My words are so fresh they smell like a <BLANK>.",
-            "type":"singular Substantiv - baked good"
+            "type":"singular Nomen - baked good"
          },
          "gene":[
             "focaccia",
@@ -2916,7 +2916,7 @@
                "guitar"
             ],
             "text":"Google me you\u2019ll see a picture of a <BLANK>.",
-            "type":"singular Substantiv - awesome thing"
+            "type":"singular Nomen - awesome thing"
          },
          "gene":[
             "cat on a roomba",
@@ -2933,7 +2933,7 @@
                "yogurt"
             ],
             "text":"I\u2019m so strong because I eat all my <BLANK>.",
-            "type":"plural Substantiv - healthy food"
+            "type":"plural Nomen - healthy food"
          },
          "gene":[
             "carrots",
@@ -2950,7 +2950,7 @@
                "Bono"
             ],
             "text":"I\u2019m a legend, a regular <BLANK>.",
-            "type":"passendes Substantiv - annoying celebrity"
+            "type":"passendes Nomen - annoying celebrity"
          },
          "gene":[
             "Scott Bakula",
@@ -2967,7 +2967,7 @@
                "kite"
             ],
             "text":"I\u2019m flying high like some kind of a <BLANK>.",
-            "type":"Substantiv - flying thing"
+            "type":"Nomen - flying thing"
          },
          "gene":[
             "Klingon",
@@ -2984,7 +2984,7 @@
                "sushi"
             ],
             "text":"People like me more than they like <BLANK>.",
-            "type":"Substantiv - a popular thing"
+            "type":"Nomen - a popular thing"
          },
          "gene":[
             "magpies",
@@ -3001,7 +3001,7 @@
                "snow days"
             ],
             "text":"First things first: I\u2019m better than <BLANK>.",
-            "type":"plural Substantiv - fun events/activities"
+            "type":"plural Nomen - fun events/activities"
          },
          "gene":[
             "movies",
@@ -3035,7 +3035,7 @@
                "limo"
             ],
             "text":"Comin\u2019 at you, like a runaway <BLANK>.",
-            "type":"Substantiv - a vehicle"
+            "type":"Nomen - a vehicle"
          },
          "gene":[
             "scooter",
@@ -3069,7 +3069,7 @@
                "Godzilla"
             ],
             "text":"I\u2019m so good it\u2019s scary call me M C <BLANK>.",
-            "type":"Substantiv - a monster"
+            "type":"Nomen - a monster"
          },
          "gene":[
             "Cookie Monster",
@@ -3086,7 +3086,7 @@
                "moves"
             ],
             "text":"Jump up, if you like my <BLANK>.",
-            "type":"Substantiv"
+            "type":"Nomen"
          },
          "gene":[
             "stencil",
@@ -3103,7 +3103,7 @@
                "raptor"
             ],
             "text":"I\u2019m giant but gentle I wouldn\u2019t hurt a <BLANK>.",
-            "type":"singular Substantiv - animal"
+            "type":"singular Nomen - animal"
          },
          "gene":[
             "lark",
@@ -3154,7 +3154,7 @@
                "rain"
             ],
             "text":"I\u2019m all natural my rhymes come from <BLANK>.",
-            "type":"plural Substantiv - things found in nature"
+            "type":"plural Nomen - things found in nature"
          },
          "gene":[
             "poison oak",
@@ -3188,7 +3188,7 @@
                "ideas"
             ],
             "text":"I don\u2019t rely on chance I make my own <BLANK>.",
-            "type":"Substantiv - something you make"
+            "type":"Nomen - something you make"
          },
          "gene":[
             "excuses",
@@ -3205,7 +3205,7 @@
                "sewer rat"
             ],
             "text":"I\u2019m tenacious, like a <BLANK>.",
-            "type":"Substantiv - an animal"
+            "type":"Nomen - an animal"
          },
          "gene":[
             "tardigrade",
@@ -3222,7 +3222,7 @@
                "mortar"
             ],
             "text":"My rhymes fly like rockets explode like <BLANK>.",
-            "type":"plural Substantiv"
+            "type":"plural Nomen"
          },
          "gene":[
             "whales",
@@ -3239,7 +3239,7 @@
                "tick"
             ],
             "text":"My wallet\u2019s full like an overstuffed <BLANK>.",
-            "type":"singular Substantiv"
+            "type":"singular Nomen"
          },
          "gene":[
             "sofa",
@@ -3290,7 +3290,7 @@
                "esophagus"
             ],
             "text":"My verses come straight from the <BLANK>.",
-            "type":"Substantiv - a body part"
+            "type":"Nomen - a body part"
          },
          "gene":[
             "pancreas",
@@ -3307,7 +3307,7 @@
                "football helmet"
             ],
             "text":"I\u2019m slamdunking rhymes like a <BLANK>.",
-            "type":"singular Substantiv - sporting equipment"
+            "type":"singular Nomen - sporting equipment"
          },
          "gene":[
             "catcher\u2019s mitt",
@@ -3324,7 +3324,7 @@
                "V W Bug"
             ],
             "text":"My words are so deep you\u2019ll need a <BLANK>.",
-            "type":"singular Substantiv - vehicle"
+            "type":"singular Nomen - vehicle"
          },
          "gene":[
             "Razor scooter",
@@ -3358,7 +3358,7 @@
                "oven mitt"
             ],
             "text":"Light the fuse and I\u2019ll explode like a <BLANK>.",
-            "type":"singular Substantiv - an object"
+            "type":"singular Nomen - an object"
          },
          "gene":[
             "mitten",
@@ -3375,7 +3375,7 @@
                "\u2019Legion\u2019"
             ],
             "text":"I\u2019ve learned all I know from watching <BLANK>.",
-            "type":"passendes Substantiv - tv show title"
+            "type":"passendes Nomen - tv show title"
          },
          "gene":[
             "'Small Wonder\u2019",
@@ -3426,7 +3426,7 @@
                "chirp"
             ],
             "text":"I soothe crying babies with the sound of my <BLANK>.",
-            "type":"Substantiv - a vocalization"
+            "type":"Nomen - a vocalization"
          },
          "gene":[
             "scream",
@@ -3443,7 +3443,7 @@
                "speedboat"
             ],
             "text":"My face looks like I was hit by a <BLANK>.",
-            "type":"singular Substantiv - a vehicle"
+            "type":"singular Nomen - a vehicle"
          },
          "gene":[
             "Big Wheel",
@@ -3460,7 +3460,7 @@
                "company"
             ],
             "text":"If you hate me, you\u2019ll hate my <BLANK>.",
-            "type":"Substantiv"
+            "type":"Nomen"
          },
          "gene":[
             "dog",
@@ -3477,7 +3477,7 @@
                "knick knacks"
             ],
             "text":"I live so large, I break <BLANK>.",
-            "type":"plural Substantiv - fragile thing"
+            "type":"plural Nomen - fragile thing"
          },
          "gene":[
             "marble",
@@ -3494,7 +3494,7 @@
                "muskmelon"
             ],
             "text":"My rhymes are fresh like a ripe new <BLANK>.",
-            "type":"Substantiv - fruit or vegetable"
+            "type":"Nomen - fruit or vegetable"
          },
          "gene":[
             "durian",
@@ -3511,7 +3511,7 @@
                "pizzas"
             ],
             "text":"I wake up, and eat rhymes like <BLANK>.",
-            "type":"plural Substantiv - food"
+            "type":"plural Nomen - food"
          },
          "gene":[
             "empanadas",
@@ -3528,7 +3528,7 @@
                "ham & eggs"
             ],
             "text":"If my rhymes were food they\u2019d be <BLANK>.",
-            "type":"Substantiv - an entree"
+            "type":"Nomen - an entree"
          },
          "gene":[
             "chili mac",
@@ -3545,7 +3545,7 @@
                "Canada"
             ],
             "text":"I\u2019m known worldwide from Japan to <BLANK>.",
-            "type":"passendes Substantiv - a place"
+            "type":"passendes Nomen - a place"
          },
          "gene":[
             "Salt Lake City",
@@ -3562,7 +3562,7 @@
                "100"
             ],
             "text":"One two three four five six <BLANK>.",
-            "type":"Substantiv - a number"
+            "type":"Nomen - a number"
          },
          "gene":[
             "zero",
@@ -3579,7 +3579,7 @@
                "bathroom"
             ],
             "text":"Bow down to me the president of the <BLANK>.",
-            "type":"bekanntes Substantiv - a place"
+            "type":"bekanntes Nomen - a place"
          },
          "gene":[
             "Rockies",
@@ -3596,7 +3596,7 @@
                "Frankenhaler"
             ],
             "text":"My words are like paint I\u2019m an artist like <BLANK>.",
-            "type":"passendes Substantiv - an artist"
+            "type":"passendes Nomen - an artist"
          },
          "gene":[
             "Calder",
@@ -3613,7 +3613,7 @@
                "butter knife"
             ],
             "text":"My rhymes are sharper than a <BLANK>.",
-            "type":"singular Substantiv - kitchen tool"
+            "type":"singular Nomen - kitchen tool"
          },
          "gene":[
             "slice of cheddar",
@@ -3630,7 +3630,7 @@
                "rapper"
             ],
             "text":"I\u2019m no gangsta I\u2019m the original <BLANK>.",
-            "type":"Substantiv"
+            "type":"Nomen"
          },
          "gene":[
             "blue whale",
@@ -3647,7 +3647,7 @@
                "cash"
             ],
             "text":"I ain\u2019t collectin\u2019 taxes I\u2019m takin home <BLANK>.",
-            "type":"plural Substantiv - rewards"
+            "type":"plural Nomen - rewards"
          },
          "gene":[
             "accolades",
@@ -3664,7 +3664,7 @@
                "roadrunner"
             ],
             "text":"I spit so fast they call me the <BLANK>.",
-            "type":"singular Substantiv - fast animal"
+            "type":"singular Nomen - fast animal"
          },
          "gene":[
             "whale",
@@ -3681,7 +3681,7 @@
                "yacht"
             ],
             "text":"My dates show me off like I\u2019m a <BLANK>.",
-            "type":"singular Substantiv - expensive item"
+            "type":"singular Nomen - expensive item"
          },
          "gene":[
             "chandelier",
@@ -3698,7 +3698,7 @@
                "science"
             ],
             "text":"I\u2019m the smartest in the world at <BLANK>.",
-            "type":"Substantiv - school subject"
+            "type":"Nomen - school subject"
          },
          "gene":[
             "home ec",
@@ -3749,7 +3749,7 @@
                "stadium"
             ],
             "text":"My raps are so strong they could make a <BLANK>.",
-            "type":"bekanntes Substantiv - a building"
+            "type":"bekanntes Nomen - a building"
          },
          "gene":[
             "gazebo",
@@ -3766,7 +3766,7 @@
                "avocado"
             ],
             "text":"My rhymes are tasty as a sandwich with <BLANK>.",
-            "type":"Substantiv - sandwich filling"
+            "type":"Nomen - sandwich filling"
          },
          "gene":[
             "sprouts",
@@ -3783,7 +3783,7 @@
                "elephant"
             ],
             "text":"My impact is massive like a raging <BLANK>.",
-            "type":"singular Substantiv - an animal"
+            "type":"singular Nomen - an animal"
          },
          "gene":[
             "shark",
