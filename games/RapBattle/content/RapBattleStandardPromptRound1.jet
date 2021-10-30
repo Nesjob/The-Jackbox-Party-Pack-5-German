@@ -2865,7 +2865,7 @@
                "begeistert"
             ],
             "text":"Ich hab \u2019ne Zeitmaschine und bin super <BLANK>.",
-            "type":"positives Adjektiv"
+            "type":"Adjektiv"
          },
          "gene":[
             "frail",
@@ -2878,11 +2878,11 @@
          "a":{
             "examples":[
                "Skittles",
-               "chocolate",
-               "jelly beans"
+               "Schokolade",
+               "Geleebohne"
             ],
-            "text":"Sweet like candy, I\u2019m Mix Master <BLANK>.",
-            "type":"Nomen - type of candy"
+            "text":"Süß wie Bonbons, ich bin MixMaster <BLANK>.",
+            "type":"Eine Süßigkeit"
          },
          "gene":[
             "Necco Wafers",
