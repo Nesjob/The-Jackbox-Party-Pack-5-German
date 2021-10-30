@@ -1653,12 +1653,12 @@
       {
          "a":{
             "examples":[
-               "down",
-               "around",
-               "through"
+               "runter",
+               "um dich",
+               "durch"
             ],
-            "text":"When I\u2019m on the mic you best look <BLANK>.",
-            "type":"preposition"
+            "text":"Wenn ich am Mikrofon bin schaust du lieber <BLANK>.",
+            "type":"Präposition"
          },
          "gene":[
             "inside",
@@ -1670,12 +1670,12 @@
       {
          "a":{
             "examples":[
-               "truck",
-               "meal",
-               "pocket watch"
+               "Auto",
+               "Essen",
+               "Taschenuhr"
             ],
-            "text":"I\u2019m breaking down walls that block my <BLANK>.",
-            "type":"bekanntes Nomen"
+            "text":"Ich zerbreche Wände, denn sie blockieren mein/e <BLANK>.",
+            "type":"Nomen"
          },
          "gene":[
             "animal crackers",
@@ -1687,12 +1687,12 @@
       {
          "a":{
             "examples":[
-               "\u2019Glee\u2019",
-               "\u2019Cheers\u2019",
-               "'Dateline\u2019"
+               "Breaking Bad",
+               "One Punch Man",
+               "Stranger Things"
             ],
-            "text":"My lines are deep like an episode of <BLANK>.",
-            "type":"a TV show"
+            "text":"Meine Lines sitzen tief wie die Episode aus <BLANK>.",
+            "type":"Eine TV Show"
          },
          "gene":[
             "\u2019Twilight Zone\u2019",
@@ -1708,8 +1708,8 @@
                "Oz",
                "Nirvana"
             ],
-            "text":"My rhymes will blast ya all the way to <BLANK>.",
-            "type":"passendes Nomen - fictional place"
+            "text":"Meine Reime sprengen euch alle weit zu <BLANK>.",
+            "type":"Fiktonaler Ort"
          },
          "gene":[
             "Middle-earth",
@@ -1721,12 +1721,12 @@
       {
          "a":{
             "examples":[
-               "bake sale",
-               "marathon",
-               "school dance"
+               "das Black Friday",
+               "das Marathon",
+               "die Feier"
             ],
-            "text":"I\u2019m so pumped for this great <BLANK>.",
-            "type":"Nomen - an event"
+            "text":"Bin so aufgepumpt für <BLANK>.",
+            "type":"Ein Ereignis"
          },
          "gene":[
             "diamond sale",
@@ -1738,12 +1738,12 @@
       {
          "a":{
             "examples":[
-               "Atlanta",
-               "Miami",
+               "Hamburg",
+               "Dortmund",
                "Seattle"
             ],
-            "text":"I got more bling than a Housewife of <BLANK>.",
-            "type":"passendes Nomen - a city"
+            "text":"Hab mehr Bling als eine Hausfrau aus <BLANK>.",
+            "type":"Eine Stadt"
          },
          "gene":[
             "Dubai",
@@ -1755,12 +1755,12 @@
       {
          "a":{
             "examples":[
-               "Earnest",
-               "Attractive",
-               "Inspired"
+               "Kreativ",
+               "Attraktiv",
+               "Inspiriert"
             ],
-            "text":"In high school I was voted Most <BLANK>",
-            "type":"Adjektiv - positives trait"
+            "text":"In der Schule wählte man mich als <BLANK>",
+            "type":"Positive Eigenschaft"
          },
          "gene":[
             "Sparkling",
@@ -1772,12 +1772,12 @@
       {
          "a":{
             "examples":[
-               "rotten",
-               "late",
-               "lost"
+               "verrottet",
+               "spät",
+               "alt"
             ],
-            "text":"My rhymes come express so they\u2019re never <BLANK>.",
-            "type":"negative Adjektiv"
+            "text":"Meine Reime werden hart ausgedrückt, dadurch werden sie nie <BLANK>.",
+            "type":"Negatives Adjektiv"
          },
          "gene":[
             "blurry",
@@ -1789,12 +1789,12 @@
       {
          "a":{
             "examples":[
-               "Tuesday",
-               "Monday",
-               "Wednesday"
+               "Dienstag",
+               "Montag",
+               "Mittwoch"
             ],
-            "text":"My sick flow will knock you back to last <BLANK>.",
-            "type":"a day of the week"
+            "text":"Mein kranker Flow macht dich runter wie der letzte <BLANK>.",
+            "type":"Wochentag"
          },
          "gene":[
             "Hump Day",
@@ -1806,12 +1806,12 @@
       {
          "a":{
             "examples":[
-               "gold",
-               "ambrosia",
-               "diamond dust"
+               "Gold",
+               "Glanz",
+               "Diamantenstaub"
             ],
-            "text":"I got underwear that\u2019s sprayed with <BLANK>.",
-            "type":"Nomen - expensive substance"
+            "text":"Trage Unterhosen besprüht mit <BLANK>.",
+            "type":"Teure Substanz"
          },
          "gene":[
             "Febreze",
@@ -1825,10 +1825,10 @@
             "examples":[
                "Oprah",
                "Elon Musk",
-               "Gwenyth Paltrow"
+               "Jeff Bezos"
             ],
-            "text":"I dropped one single now I\u2019m rich as <BLANK>.",
-            "type":"name of a wealthy person"
+            "text":"Droppe nur \u2019ne Single und bin reich wie  <BLANK>.",
+            "type":"Eine reiche Person"
          },
          "gene":[
             "the queen",
@@ -1840,12 +1840,12 @@
       {
          "a":{
             "examples":[
-               "nose",
-               "hair",
-               "chin"
+               "meiner Nase",
+               "dem Haar",
+               "dem Kinn"
             ],
-            "text":"I\u2019m so ripped I got muscles on my <BLANK>.",
-            "type":"Nomen - part of the face"
+            "text":"Ich bin so zerissen, hab Muskeln auf <BLANK>.",
+            "type":"Teil vom Gesicht"
          },
          "gene":[
             "thumb",
@@ -1857,12 +1857,12 @@
       {
          "a":{
             "examples":[
-               "juggling",
-               "running",
-               "crabbing"
+               "boxen",
+               "rennen",
+               "krabbeln"
             ],
-            "text":"I\u2019m fluent in hustlin\u2019 conversational in <BLANK>.",
-            "type":"Verb ending w/ -ing"
+            "text":"Bin flüssig in der Hektik, gesprächig im <BLANK>.",
+            "type":"Verb"
          },
          "gene":[
             "flopping",
@@ -1874,12 +1874,12 @@
       {
          "a":{
             "examples":[
-               "the flu",
-               "head cold",
-               "athlete\u2019s foot"
+               "Grippe",
+               "Kopfschmerzen",
+               "Muskelkater"
             ],
-            "text":"Can\u2019t get over me. I\u2019m like a case of <BLANK>.",
-            "type":"Nomen - a sickness or disease"
+            "text":"Kommst mir nicht davon, bin wie ein Fall von <BLANK>.",
+            "type":"Krankheit"
          },
          "gene":[
             "butt itch",
