@@ -21,11 +21,11 @@
         {
             "a": {
                 "examples": [
-                    "whisk",
-                    "spoon",
-                    "toaster"
+                    "Löffel",
+                    "Messer",
+                    "Toaster"
                 ],
-                "text": "You couldn\u2019t touch me with a 10-foot <BLANK>.",
+                "text": "Anfassen kannst du mich nicht mal mit einem 10 Meter langen <BLANK>.",
                 "type": "singular noun - kitchen tool"
             },
             "gene": [
@@ -38,12 +38,12 @@
         {
             "a": {
                 "examples": [
-                    "kid",
-                    "girl",
-                    "boy"
+                    "Kind",
+                    "Mädchen",
+                    "Junge"
                 ],
-                "text": "Gonna go home cryin\u2019 you little <BLANK>.",
-                "type": "noun - synonym for 'child'"
+                "text": "Gehst du nach Hause weinen du <BLANK>.",
+                "type": "Synonym für Kind'"
             },
             "gene": [
                 "baby",
