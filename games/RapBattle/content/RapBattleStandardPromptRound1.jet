@@ -3693,12 +3693,12 @@
       {
          "a":{
             "examples":[
-               "math",
-               "reading",
-               "science"
+               "Mathe",
+               "Betriebswirtschaftslehre",
+               "Chemie"
             ],
-            "text":"I\u2019m the smartest in the world at <BLANK>.",
-            "type":"Nomen - school subject"
+            "text":"Ich bin weltweit der schlauste Schüler in <BLANK>.",
+            "type":"Ein Schulfach"
          },
          "gene":[
             "home ec",
