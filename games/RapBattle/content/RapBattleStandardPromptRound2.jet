@@ -378,12 +378,12 @@
         {
             "a": {
                 "examples": [
-                    "steak",
-                    "burgers",
-                    "franks"
+                    "Steaks",
+                    "Burger",
+                    "Tacos"
                 ],
-                "text": "You\u2019re a rap herbivore you can\u2019t stomach <BLANK>.",
-                "type": "noun - type of meat"
+                "text": "Du bist ein Rap-Pflanzenfresser und verträgst keine <BLANK>.",
+                "type": "Essen mit Fleisch"
             },
             "gene": [
                 "meats",
@@ -395,12 +395,12 @@
         {
             "a": {
                 "examples": [
-                    "dumb",
-                    "dense",
-                    "moron"
+                    "dumm",
+                    "blöd",
+                    "ein Schwachkopf"
                 ],
-                "text": "The jury has its verdict you are guilty of <BLANK>.",
-                "type": "adjective - synonym for 'stupid'"
+                "text": "Der Jury beurteilt, du wärst <BLANK>.",
+                "type": "Synonym für dumm'"
             },
             "gene": [
                 "imbecile",
@@ -412,12 +412,12 @@
         {
             "a": {
                 "examples": [
-                    "spit",
-                    "count",
-                    "smell"
+                    "spucken",
+                    "zählen",
+                    "riechen"
                 ],
-                "text": "U call yourself a pro? U can\u2019t even <BLANK>.",
-                "type": "verb - basic skill"
+                "text": "Siehst\u2019 dich als Pro? Kannst nicht mal <BLANK>.",
+                "type": "Etwas einfaches"
             },
             "gene": [
                 "emote",
@@ -433,8 +433,8 @@
                     "Abe Lincoln",
                     "Napoleon"
                 ],
-                "text": "Respect me now like you\u2019d respect <BLANK>.",
-                "type": "proper noun - person"
+                "text": "Respektier\u2019 mich jetzt so wie <BLANK>.",
+                "type": "Eine Person"
             },
             "gene": [
                 "Blake Shelton",
@@ -446,12 +446,12 @@
         {
             "a": {
                 "examples": [
-                    "lunchbox",
-                    "thesaurus",
-                    "glue"
+                    "die Brotdose",
+                    "das Wörterbuch",
+                    "den Kleber"
                 ],
-                "text": "I\u2019m here all day, hope you brought a <BLANK>.",
-                "type": "common noun - a school supply"
+                "text": "Sitze hier schon den ganzen Tag, bring mir mal <BLANK>.",
+                "type": "Ein Objekt im Klassenraum"
             },
             "gene": [
                 "protractor",
@@ -463,12 +463,12 @@
         {
             "a": {
                 "examples": [
-                    "toaster oven",
-                    "flat iron",
-                    "hybrid car"
+                    "ein Toaster",
+                    "ein Bügeleisen",
+                    "ein Elektroauto"
                 ],
-                "text": "You are as overrated, as a <BLANK>.",
-                "type": "singular common noun - a product"
+                "text": "Du bist so überbewertet wie <BLANK>.",
+                "type": "Ein Produkt"
             },
             "gene": [
                 "massage chair",
@@ -480,12 +480,12 @@
         {
             "a": {
                 "examples": [
-                    "stupidly",
-                    "hastily",
-                    "sorely"
+                    "dummerweise",
+                    "hektisch",
+                    "scheußlich"
                 ],
-                "text": "Your horoscope says you\u2019re going to fail <BLANK>.",
-                "type": "negative adverb"
+                "text": "Dein Horoskop sagt du scheiterst <BLANK>.",
+                "type": "Negatives Adverb"
             },
             "gene": [
                 "wobbly",
@@ -497,12 +497,12 @@
         {
             "a": {
                 "examples": [
-                    "Idaho",
+                    "Rom",
                     "China",
-                    "Cuba"
+                    "Kuba"
                 ],
-                "text": "My mad rhymes will blow you to <BLANK>.",
-                "type": "proper noun - a place"
+                "text": "Meine kranken Reime sprengen dich nach <BLANK>.",^^
+                "type": "Ein Ort"
             },
             "gene": [
                 "Mars",
