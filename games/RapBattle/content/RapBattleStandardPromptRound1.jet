@@ -2894,12 +2894,12 @@
       {
          "a":{
             "examples":[
-               "muffin",
-               "loaf of bread",
-               "biscuit"
+               "Muffins",
+               "Brot",
+               "Plätzchen"
             ],
-            "text":"My words are so fresh they smell like a <BLANK>.",
-            "type":"singular Nomen - baked good"
+            "text":"Meine Worte sind so frisch, sie riechen nach <BLANK>.",
+            "type":"Gebäck"
          },
          "gene":[
             "focaccia",
@@ -2911,12 +2911,12 @@
       {
          "a":{
             "examples":[
-               "skateboard",
-               "bigass mountain",
-               "guitar"
+               "ein Skateboard",
+               "ein Riesenberg",
+               "eine Gitarre"
             ],
-            "text":"Google me you\u2019ll see a picture of a <BLANK>.",
-            "type":"singular Nomen - awesome thing"
+            "text":"Google mich und du findest mich als <BLANK>.",
+            "type":"Nomen Singular - Etwas großartiges"
          },
          "gene":[
             "cat on a roomba",
@@ -2928,12 +2928,12 @@
       {
          "a":{
             "examples":[
-               "kale",
-               "spinach",
-               "yogurt"
+               "Bohnen",
+               "Vitamine",
+               "Müslis"
             ],
-            "text":"I\u2019m so strong because I eat all my <BLANK>.",
-            "type":"plural Nomen - healthy food"
+            "text":"Ich bin so stark, denn ich esse alle meine <BLANK>.",
+            "type":"Gesundes Essen"
          },
          "gene":[
             "carrots",
