@@ -2949,8 +2949,8 @@
                "Johnny Cash",
                "Bono"
             ],
-            "text":"I\u2019m a legend, a regular <BLANK>.",
-            "type":"passendes Nomen - annoying celebrity"
+            "text":"Ich bin eine Legende, ein regulärer <BLANK>.",
+            "type":"Eine nervige berühmte Person"
          },
          "gene":[
             "Scott Bakula",
@@ -2962,12 +2962,12 @@
       {
          "a":{
             "examples":[
-               "bat",
-               "jet",
-               "kite"
+               "eine Fledermaus",
+               "ein Jet",
+               "eine Rakete"
             ],
-            "text":"I\u2019m flying high like some kind of a <BLANK>.",
-            "type":"Nomen - flying thing"
+            "text":"Ich flieg\u2019 hoch wie so <BLANK>.",
+            "type":"Etwas fliegendes"
          },
          "gene":[
             "Klingon",
@@ -2979,12 +2979,12 @@
       {
          "a":{
             "examples":[
-               "cats",
+               "Katzen",
                "YouTube",
-               "sushi"
+               "Sushi"
             ],
-            "text":"People like me more than they like <BLANK>.",
-            "type":"Nomen - a popular thing"
+            "text":"Leute mögen mich mehr als <BLANK>.",
+            "type":"Etwas beliebtes"
          },
          "gene":[
             "magpies",
@@ -2996,12 +2996,12 @@
       {
          "a":{
             "examples":[
-               "travel",
-               "food",
-               "snow days"
+               "die Weltreise",
+               "Essen",
+               "Reichtum"
             ],
-            "text":"First things first: I\u2019m better than <BLANK>.",
-            "type":"plural Nomen - fun events/activities"
+            "text":"Das wichtigste zuerst: Ich bin besser als <BLANK>.",
+            "type":"Tolle Ereignisse/ Aktivitäten"
          },
          "gene":[
             "movies",
@@ -3013,12 +3013,12 @@
       {
          "a":{
             "examples":[
-               "kickin\u2019",
-               "loud",
-               "metal"
+               "kickt",
+               "wird laut",
+               "knallt"
             ],
-            "text":"Pump up the volume, the music\u2019s <BLANK>.",
-            "type":"Adjektiv - describe your fave music"
+            "text":"Dreh den Bass auf, die Musik <BLANK>.",
+            "type":"Beschreibe deine Lieblingsmusik"
          },
          "gene":[
             "brash",
@@ -3030,12 +3030,12 @@
       {
          "a":{
             "examples":[
-               "train",
-               "Harley",
-               "limo"
+               "ein Zug",
+               "ein Ferrari",
+               "eine Limousine"
             ],
-            "text":"Comin\u2019 at you, like a runaway <BLANK>.",
-            "type":"Nomen - a vehicle"
+            "text":"Komm\u2019 zu dir, breche aus wie <BLANK>.",
+            "type":"Ein Fahrzeug"
          },
          "gene":[
             "scooter",
@@ -3047,12 +3047,12 @@
       {
          "a":{
             "examples":[
-               "before",
-               "already",
-               "yesterday"
+               "bereits",
+               "schon",
+               "gestern"
             ],
-            "text":"I can do it all like I told you <BLANK>.",
-            "type":"adVerb of time"
+            "text":"Ich kann\u2019s alles, das sagte ich dir <BLANK>.",
+            "type":"Adverb der Zeit"
          },
          "gene":[
             "recently",
@@ -3068,8 +3068,8 @@
                "Frankenstein",
                "Godzilla"
             ],
-            "text":"I\u2019m so good it\u2019s scary call me M C <BLANK>.",
-            "type":"Nomen - a monster"
+            "text":"Bin so gut, es macht Angst, nenn\u2019 mich M C <BLANK>.",
+            "type":"Ein Monster"
          },
          "gene":[
             "Cookie Monster",
@@ -3081,12 +3081,12 @@
       {
          "a":{
             "examples":[
-               "shoes",
-               "dancing",
-               "moves"
+               "Spring auf",
+               "Setz dich",
+               "Mach mit"
             ],
-            "text":"Jump up, if you like my <BLANK>.",
-            "type":"Nomen"
+            "text":"Wenn du meine Moves magst, <BLANK>.",
+            "type":"Aufforderung"
          },
          "gene":[
             "stencil",
@@ -3098,12 +3098,12 @@
       {
          "a":{
             "examples":[
-               "snake",
-               "mouse",
-               "raptor"
+               "eine Schlange",
+               "eine Maus",
+               "ein Alligator"
             ],
-            "text":"I\u2019m giant but gentle I wouldn\u2019t hurt a <BLANK>.",
-            "type":"singular Nomen - animal"
+            "text":"Bin gigantisch, doch ganz sanft, schaden würde ich nicht mal <BLANK>.",
+            "type":"Ein Tier"
          },
          "gene":[
             "lark",
@@ -3115,12 +3115,12 @@
       {
          "a":{
             "examples":[
-               "busy",
-               "fierce",
-               "big"
+               "beschäftigen",
+               "steigern",
+               "vergrößern"
             ],
-            "text":"Gather \u2018round I\u2019m about to get <BLANK>.",
-            "type":"Adjektiv"
+            "text":"Sammelt euch um mich, ich neige dazu mich zu <BLANK>.",
+            "type":"Verb"
          },
          "gene":[
             "bulbous",
@@ -3134,10 +3134,10 @@
             "examples":[
                "Wow",
                "Yikes",
-               "Jeepers"
+               "Läuft"
             ],
-            "text":"I\u2019m so good looking everybody says, '<BLANK>!\u2019",
-            "type":"an exclamation"
+            "text":"Sehe so gut aus, alle sagen <BLANK>!\u2019",
+            "type":"Ein Ausruf"
          },
          "gene":[
             "Zoinks",
@@ -3149,12 +3149,12 @@
       {
          "a":{
             "examples":[
-               "mushrooms",
-               "chickens",
-               "rain"
+               "Pilzen",
+               "Hühnern",
+               "Regentropfen"
             ],
-            "text":"I\u2019m all natural my rhymes come from <BLANK>.",
-            "type":"plural Nomen - things found in nature"
+            "text":"Bin ganz natürlich, meine Reime kommen von <BLANK>.",
+            "type":"Etwas in der Natur"
          },
          "gene":[
             "poison oak",
@@ -3166,12 +3166,12 @@
       {
          "a":{
             "examples":[
-               "discreetly",
-               "amazingly",
-               "gloriously"
+               "schnell",
+               "großartig",
+               "einfallsreich"
             ],
-            "text":"I\u2019ve been known, to rhyme <BLANK>.",
-            "type":"positives adVerb"
+            "text":"Dafür bin ich bekannt, ich reime <BLANK>.",
+            "type":"Positives Adjektiv"
          },
          "gene":[
             "intermittently",
