@@ -26,7 +26,7 @@
                     "Toaster"
                 ],
                 "text": "Anfassen kannst du mich nicht mal mit einem 10 Meter langen <BLANK>.",
-                "type": "singular noun - kitchen tool"
+                "type": "Einzahl Nomen - Gegenstand in der Küche"
             },
             "gene": [
                 "melon baller",
@@ -42,8 +42,8 @@
                     "Mädchen",
                     "Junge"
                 ],
-                "text": "Gehst du nach Hause weinen du <BLANK>.",
-                "type": "Synonym für Kind'"
+                "text": "Gehst du nach Hause weinen, du <BLANK>.",
+                "type": "Synonym für Kind"
             },
             "gene": [
                 "baby",
