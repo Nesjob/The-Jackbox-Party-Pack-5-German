@@ -4,12 +4,12 @@
         {
             "a": {
                 "examples": [
-                    "mother",
-                    "coat",
-                    "Atari"
+                    "Mutter",
+                    "Mantel",
+                    "Super Nintendo"
                 ],
-                "text": "You\u2019re so weak you ain\u2019t worth my <BLANK>.",
-                "type": "noun"
+                "text": "Du bist so schwach, du bist nicht gut genug für <BLANK>.",
+                "type": "Nomen"
             },
             "gene": [
                 "space",
@@ -21,12 +21,12 @@
         {
             "a": {
                 "examples": [
-                    "whisk",
-                    "spoon",
-                    "toaster"
+                    "Löffel",
+                    "Messer",
+                    "Toaster"
                 ],
-                "text": "You couldn\u2019t touch me with a 10-foot <BLANK>.",
-                "type": "singular noun - kitchen tool"
+                "text": "Anfassen kannst du mich nicht mal mit einem 10 Meter langen <BLANK>.",
+                "type": "Einzahl Nomen - Gegenstand in der Küche"
             },
             "gene": [
                 "melon baller",
@@ -38,12 +38,12 @@
         {
             "a": {
                 "examples": [
-                    "kid",
-                    "girl",
-                    "boy"
+                    "Kind",
+                    "Mädchen",
+                    "Junge"
                 ],
-                "text": "Gonna go home cryin\u2019 you little <BLANK>.",
-                "type": "noun - synonym for 'child'"
+                "text": "Gehst du nach Hause weinen, du <BLANK>.",
+                "type": "Synonym für Kind"
             },
             "gene": [
                 "baby",
@@ -55,12 +55,12 @@
         {
             "a": {
                 "examples": [
-                    "smooth",
-                    "early",
-                    "fun"
+                    "klein",
+                    "spät",
+                    "wenig"
                 ],
-                "text": "It doesn\u2019t help that you\u2019re not very <BLANK>.",
-                "type": "positive adjective"
+                "text": "Es hilft mir nicht, du bist mir zu <BLANK>.",
+                "type": "Adjektiv"
             },
             "gene": [
                 "cute",
@@ -72,12 +72,12 @@
         {
             "a": {
                 "examples": [
-                    "elf",
-                    "insect",
-                    "baby"
+                    "ein Elf",
+                    "ein Insekt",
+                    "ein Baby"
                 ],
-                "text": "You\u2019re as helpless, as a tiny <BLANK>.",
-                "type": "singular noun - small thing"
+                "text": "Du bist so hilflos, wie <BLANK>.",
+                "type": "Etwas kleines"
             },
             "gene": [
                 "bun",
@@ -89,12 +89,12 @@
         {
             "a": {
                 "examples": [
-                    "loud",
-                    "meek",
-                    "boring"
+                    "laut",
+                    "sanft",
+                    "langweilig"
                 ],
-                "text": "It hurts me to say it but you\u2019re so <BLANK>.",
-                "type": "negative adjective"
+                "text": "Das zu sagen fällt mir schwer, aber du bist so <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "silly",
@@ -106,12 +106,12 @@
         {
             "a": {
                 "examples": [
-                    "pancake",
-                    "Frisbee",
-                    "plate"
+                    "ein Pfannkuchen",
+                    "eine Frisbee",
+                    "ein Teller"
                 ],
-                "text": "Your rhymes are about as deep as a <BLANK>.",
-                "type": "singular noun - flat thing"
+                "text": "Deine Reime sind so platt wie <BLANK>.",
+                "type": "Etwas flaches"
             },
             "gene": [
                 "pamphlet",
@@ -123,11 +123,11 @@
         {
             "a": {
                 "examples": [
-                    "bother",
-                    "speak",
-                    "try"
+                    "stören",
+                    "sprechen",
+                    "wehren"
                 ],
-                "text": "You can\u2019t beat me so don\u2019t even <BLANK>.",
+                "text": "Du kannst mich nicht schlagen, also versuch nicht zu <BLANK>.",
                 "type": "verb"
             },
             "gene": [
@@ -140,12 +140,12 @@
         {
             "a": {
                 "examples": [
-                    "shortly",
-                    "fully",
-                    "sadly"
+                    "zerstört",
+                    "geschlagen",
+                    "traurig"
                 ],
-                "text": "This battle is over as you\u2019ll see <BLANK>.",
-                "type": "adverb"
+                "text": "Der Kampf ist vorbei und du fühlst dich <BLANK>.",
+                "type": "Adverb"
             },
             "gene": [
                 "clearly",
@@ -157,16 +157,16 @@
         {
             "a": {
                 "examples": [
-                    "Christmas",
-                    "New Year\u2019s",
-                    "Boxing Day"
+                    "Weihnachten",
+                    "Neujahr",
+                    "Vatertag"
                 ],
-                "text": "I\u2019ll beat you all day and twice on <BLANK>.",
-                "type": "proper noun - a holiday"
+                "text": "Ich schlage euch täglich und sogar zweimal am <BLANK>.",
+                "type": "Ein Feiertag"
             },
             "gene": [
                 "Valentine\u2019s",
-                "It\u2019s not easy making up all these rhynes."
+                "It\u2019s not easy making up all these rhymes."
             ],
             "x": false,
             "id": 50564
@@ -178,8 +178,8 @@
                     "\u2019Saving Private Ryan\u2019",
                     "\u2019Boyhood\u2019"
                 ],
-                "text": "Your raps are slower than the plot of <BLANK>.",
-                "type": "movie title - drama"
+                "text": "Deine Raps sind langsamer als der Plot von <BLANK>.",
+                "type": "Dramafilm"
             },
             "gene": [
                 "\u2019The Notebook\u2019",
@@ -191,12 +191,12 @@
         {
             "a": {
                 "examples": [
-                    "hood",
-                    "perp",
-                    "convict"
+                    "Ganove",
+                    "Täter",
+                    "Verbrecher"
                 ],
-                "text": "I\u2019m the law around here and you\u2019re a <BLANK>.",
-                "type": "singular common noun - term for 'criminal'"
+                "text": "Ich bin hier das Gesetz und du bist nur <BLANK>.",
+                "type": "Begriff für Krimineller"
             },
             "gene": [
                 "thug",
@@ -212,8 +212,8 @@
                     "\u2019Eat Pray Love\u2019",
                     "\u2019Charlotte\u2019s Web\u2019"
                 ],
-                "text": "I can read you like a book, like <BLANK>.",
-                "type": "book title"
+                "text": "Ich lese dich wie ein Buch wie <BLANK>.",
+                "type": "Buchtitel"
             },
             "gene": [
                 "\u2019Where the Wild Things Are\u2019",
@@ -225,12 +225,12 @@
         {
             "a": {
                 "examples": [
-                    "shakily",
-                    "cheaply",
-                    "bossily"
+                    "wackelig",
+                    "billig",
+                    "beschädigt"
                 ],
-                "text": "Your brain\u2019s a weak processor it\u2019s running very <BLANK>.",
-                "type": "negative adverb"
+                "text": "Dein Gehirn ist ein langsamer Prozessor, es läuft sehr <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "grumpily",
@@ -242,12 +242,12 @@
         {
             "a": {
                 "examples": [
-                    "hat",
-                    "jacket",
-                    "pair of overalls"
+                    "ein Fischerhut",
+                    "eine Jeansjacke",
+                    "ein Overall"
                 ],
-                "text": "Your style is out of a fashion like an old <BLANK>.",
-                "type": "singular noun - article of clothing"
+                "text": "Dein Style ist weit aus der Mode wie <BLANK>.",
+                "type": "Ein altes Kleidungsstück"
             },
             "gene": [
                 "ascot",
@@ -259,12 +259,12 @@
         {
             "a": {
                 "examples": [
-                    "Prince",
-                    "Dolly Parton",
-                    "2 Chainz"
+                    "Jazz",
+                    "Electro",
+                    "Punk"
                 ],
-                "text": "Your act\u2019s a ripoff you sound just like <BLANK>.",
-                "type": "name of a musical act"
+                "text": "Du tust auf Abzocker, hörst dich aber nur an wie <BLANK>.",
+                "type": "Musikgenre"
             },
             "gene": [
                 "Lana Del Rey",
@@ -276,12 +276,12 @@
         {
             "a": {
                 "examples": [
-                    "trout",
-                    "bowl of cereal",
-                    "walnut"
+                    "eine Ziege",
+                    "ein Wolf",
+                    "ein Walross"
                 ],
-                "text": "I\u2019ll eat you for dinner like a fire broiled <BLANK>.",
-                "type": "singular noun - food item"
+                "text": "Wie vom Feuer gegrillt, esse ich dich wie <BLANK>.",
+                "type": "Ein Tier"
             },
             "gene": [
                 "porridge",
@@ -293,12 +293,12 @@
         {
             "a": {
                 "examples": [
-                    "lamb",
-                    "bee",
-                    "toad"
+                    "eine Mücke",
+                    "eine Biene",
+                    "ein Frosch"
                 ],
-                "text": "Don\u2019t let this scare you: I\u2019m stronger than a <BLANK>.",
-                "type": "noun - a small animal"
+                "text": "Lass dich davor nicht beängstigen: Ich bin stärker als <BLANK>.",
+                "type": "Ein kleines Tier"
             },
             "gene": [
                 "moth",
@@ -310,12 +310,12 @@
         {
             "a": {
                 "examples": [
-                    "engineering",
-                    "art",
-                    "weaving"
+                    "Technik",
+                    "Kunst",
+                    "Deutsch"
                 ],
-                "text": "Go back to school kid learn some <BLANK>.",
-                "type": "noun - area of knowledge"
+                "text": "Kind, geh\u2019 zur Schule und lern\u2019 etwas <BLANK>.",
+                "type": "Ein Wissensbereich"
             },
             "gene": [
                 "spelling",
@@ -327,12 +327,12 @@
         {
             "a": {
                 "examples": [
-                    "rock",
-                    "wood",
-                    "granite"
+                    "Stein",
+                    "Holz",
+                    "Granit"
                 ],
-                "text": "You feeling shy? Let me break the <BLANK>.",
-                "type": "noun - natural material"
+                "text": "Fühlst\u2019 dich schüchtern? Ich zebreche <BLANK>.",
+                "type": "Natürliches Material"
             },
             "gene": [
                 "flesh",
@@ -344,12 +344,12 @@
         {
             "a": {
                 "examples": [
-                    "ugly",
-                    "painful",
-                    "clingy"
+                    "klein",
+                    "winzig",
+                    "schmerzhaft"
                 ],
-                "text": "I need a microscope your skill\u2019s so <BLANK>.",
-                "type": "negative adjective"
+                "text": "Ich brauch\u2019 ein Mikroskop, denn dein Können ist so <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "complicated",
@@ -361,12 +361,12 @@
         {
             "a": {
                 "examples": [
-                    "courage",
-                    "smell",
-                    "weakness"
+                    "deiner Angst",
+                    "deinem Geruch",
+                    "deiner Schwäche"
                 ],
-                "text": "This place is haunted by your <BLANK>.",
-                "type": "singular noun - personnal trait"
+                "text": "Dieser Ort spukt von <BLANK>.",
+                "type": "Persönliches Merkmal"
             },
             "gene": [
                 "smooth skin",
@@ -378,12 +378,12 @@
         {
             "a": {
                 "examples": [
-                    "steak",
-                    "burgers",
-                    "franks"
+                    "Steaks",
+                    "Burger",
+                    "Tacos"
                 ],
-                "text": "You\u2019re a rap herbivore you can\u2019t stomach <BLANK>.",
-                "type": "noun - type of meat"
+                "text": "Du bist ein Rap-Pflanzenfresser und verträgst keine <BLANK>.",
+                "type": "Essen mit Fleisch"
             },
             "gene": [
                 "meats",
@@ -395,12 +395,12 @@
         {
             "a": {
                 "examples": [
-                    "dumb",
-                    "dense",
-                    "moron"
+                    "dumm",
+                    "blöd",
+                    "ein Schwachkopf"
                 ],
-                "text": "The jury has its verdict you are guilty of <BLANK>.",
-                "type": "adjective - synonym for 'stupid'"
+                "text": "Der Jury beurteilt, du wärst <BLANK>.",
+                "type": "Synonym für dumm'"
             },
             "gene": [
                 "imbecile",
@@ -412,12 +412,12 @@
         {
             "a": {
                 "examples": [
-                    "spit",
-                    "count",
-                    "smell"
+                    "spucken",
+                    "zählen",
+                    "riechen"
                 ],
-                "text": "U call yourself a pro? U can\u2019t even <BLANK>.",
-                "type": "verb - basic skill"
+                "text": "Siehst\u2019 dich als Pro? Kannst nicht mal <BLANK>.",
+                "type": "Etwas einfaches"
             },
             "gene": [
                 "emote",
@@ -433,8 +433,8 @@
                     "Abe Lincoln",
                     "Napoleon"
                 ],
-                "text": "Respect me now like you\u2019d respect <BLANK>.",
-                "type": "proper noun - person"
+                "text": "Respektier\u2019 mich jetzt so wie <BLANK>.",
+                "type": "Eine Person"
             },
             "gene": [
                 "Blake Shelton",
@@ -446,12 +446,12 @@
         {
             "a": {
                 "examples": [
-                    "lunchbox",
-                    "thesaurus",
-                    "glue"
+                    "die Brotdose",
+                    "das Wörterbuch",
+                    "den Kleber"
                 ],
-                "text": "I\u2019m here all day, hope you brought a <BLANK>.",
-                "type": "common noun - a school supply"
+                "text": "Sitze hier schon den ganzen Tag, bring mir mal <BLANK>.",
+                "type": "Ein Objekt im Klassenraum"
             },
             "gene": [
                 "protractor",
@@ -463,12 +463,12 @@
         {
             "a": {
                 "examples": [
-                    "toaster oven",
-                    "flat iron",
-                    "hybrid car"
+                    "ein Toaster",
+                    "ein Bügeleisen",
+                    "ein Elektroauto"
                 ],
-                "text": "You are as overrated, as a <BLANK>.",
-                "type": "singular common noun - a product"
+                "text": "Du bist so überbewertet wie <BLANK>.",
+                "type": "Ein Produkt"
             },
             "gene": [
                 "massage chair",
@@ -480,12 +480,12 @@
         {
             "a": {
                 "examples": [
-                    "stupidly",
-                    "hastily",
-                    "sorely"
+                    "dummerweise",
+                    "hektisch",
+                    "scheußlich"
                 ],
-                "text": "Your horoscope says you\u2019re going to fail <BLANK>.",
-                "type": "negative adverb"
+                "text": "Dein Horoskop sagt du scheiterst <BLANK>.",
+                "type": "Negatives Adverb"
             },
             "gene": [
                 "wobbly",
@@ -497,12 +497,12 @@
         {
             "a": {
                 "examples": [
-                    "Idaho",
+                    "Rom",
                     "China",
-                    "Cuba"
+                    "Kuba"
                 ],
-                "text": "My mad rhymes will blow you to <BLANK>.",
-                "type": "proper noun - a place"
+                "text": "Meine kranken Reime sprengen dich nach <BLANK>.",^^
+                "type": "Ein Ort"
             },
             "gene": [
                 "Mars",
