@@ -1024,16 +1024,16 @@
       {
          "a":{
             "examples":[
-               "Rose",
-               "Kuchen",
-               "Parfüm"
+               "eine Rose",
+               "ein Kuchen",
+               "ein Parfüm"
             ],
-            "text":"Ich muss nie duschen, denn ich rieche wie ein/e <BLANK>.",
-            "type":"Nomen Singular - gut riechend"
+            "text":"Ich muss nie duschen, denn ich rieche wie <BLANK>.",
+            "type":"Unbestimmter Artikel + Nomen Einzahl: gut riechend"
          },
          "gene":[
-            "puppy",
-            "Look I\u2019m a baby drinkin\u2019 out my sippy cuppy."
+            "ein Dackel",
+            "Durch deinen Gestank fang ich an zu wackeln."
          ],
          "x":false,
          "id":52374
@@ -1045,12 +1045,12 @@
                "Zerstörung",
                "Mundtot"
             ],
-            "text":"Der Wort des Tages Jungs und Mädels ist <BLANK>.",
+            "text":"Das Wort des Tages ist <BLANK>.",
             "type":"Ein einschüchterndes Wort"
          },
          "gene":[
-            "thwap",
-            "My tongue does that when I make a good rap."
+            "Knirpse",
+            "Bei deinen Reimen fehlt mir noch die Würze."
          ],
          "x":false,
          "id":52373
@@ -1062,12 +1062,12 @@
                "Weber",
                "McDonalds"
             ],
-            "text":"Ich bin so heiß, ich wurde gesponsort von <BLANK>.",
-            "type":"Eine Marke/ Unternehmen"
+            "text":"Ich bin so heiß, ich wurde gesponsert von <BLANK>.",
+            "type":"Eine Marke / Unternehmen"
          },
          "gene":[
-            "Petco",
-            "But when I did a bad job, well I got let go."
+            "DHL",
+            "Ich klingel und hau dann ab, aber richtig schnell."
          ],
          "x":false,
          "id":51815
@@ -1075,16 +1075,16 @@
       {
          "a":{
             "examples":[
-               "Aliroev",
+               "Jesus",
                "Zeus",
                "Todesstern"
             ],
-            "text":"Es gibt ein Planet mit meinem Namen <BLANK>.",
+            "text":"Es gibt einen Planeten mit meinem Namen <BLANK>.",
             "type":"Ein beeindruckender Name"
          },
          "gene":[
-            "Spork",
-            "Oddly enough, it\u2019s smaller than New York."
+            "Terminator",
+            "Lustigerweise gibt's dort kein Tor."
          ],
          "x":false,
          "id":51841
@@ -1100,8 +1100,8 @@
             "type":"Verb - Was machst du mit einem Ei?"
          },
          "gene":[
-            "fertilize",
-            "After that I promise you, I will sanitize."
+            "explodieren",
+            "Ich hoffe das wird alle imponieren."
          ],
          "x":true,
          "id":51817
@@ -1109,16 +1109,16 @@
       {
          "a":{
             "examples":[
-               "umfalle",
-               "schmelze",
-               "schmore"
+               "umfallen",
+               "schmelzen",
+               "schmoren"
             ],
-            "text":"Der Name von meinem Spiel ist Rap, bis ich <BLANK>.",
+            "text":"Der Name von meinem Spiel ist Rap, ich werde niemals <BLANK>.",
             "type":"Verb"
          },
          "gene":[
-            "Trip",
-            "BAM! I\u2019m on the ground and I bit my lip."
+            "umkippen",
+            "BAM! Vorher muss ich erstmal meine Ryhmes spitten."
          ],
          "x":false,
          "id":51840
@@ -1134,8 +1134,8 @@
             "type":"Verb"
          },
          "gene":[
-            "brawl",
-            "Like a Jedi master, facing Darth Maul."
+            "kochen",
+            "Das macht mein kleiner Bruder für mich, das haut mich aus den Socken."
          ],
          "x":false,
          "id":52291
@@ -1151,8 +1151,8 @@
             "type":"Positives Adjektiv"
          },
          "gene":[
-            "gassy.",
-            "The capital of Florida? Easy: Tallahassee!"
+            "neidisch",
+            "Wenn mein Freund den Bus nicht erwischt ruf ich 'komm, beeil dich!'"
          ],
          "x":false,
          "id":51859
@@ -1160,16 +1160,16 @@
       {
          "a":{
             "examples":[
-               "Jungs",
+               "Reisegruppe",
                "Mannschaft",
                "Begleitung"
             ],
             "text":"Santa hat Elfen, ich hab meine <BLANK>.",
-            "type":"Kollektives Nomen"
+            "type":"Nomen für eine Gruppe von Menschen"
          },
          "gene":[
-            "D I Y kit",
-            "I\u2019m on my feet all day, that be why I sit."
+            "Jungs",
+            "Die wollen ständig was von mir, das ist echt kein Wunsch."
          ],
          "x":false,
          "id":51844
@@ -1185,8 +1185,8 @@
             "type":"Positives Adjektiv"
          },
          "gene":[
-            "Melodious",
-            "Anyone know, just what a \u201840\u2019 is?"
+            "Seltsam",
+            "Anwesenheit ist kontrolliert, was ist jetzt dran?"
          ],
          "x":false,
          "id":52244
@@ -1202,8 +1202,8 @@
             "type":"Verb - drohende Aktion"
          },
          "gene":[
-            "repeat",
-            "I can\u2019t help it. I like my teeth to be neat."
+            "wiederholen",
+            "Mundhygiene ist mir wichtig, sagt auch Dieter Bohlen."
          ],
          "x":false,
          "id":51849
@@ -1318,11 +1318,11 @@
                "Lichtschwerter"
             ],
             "text":"Es ist der Showdown und meine Worte sind meine <BLANK>.",
-            "type":"Nomen Plural - Waffen"
+            "type":"Nomen Mehrzahl - Waffen"
          },
          "gene":[
-            "pepper spray",
-            "I wanted to ride a horse but he said \u2018neigh.\u2019"
+            "Klingen",
+            "Ich will mit dir in einem Boxkampf ringen"
          ],
          "x":false,
          "id":51769
