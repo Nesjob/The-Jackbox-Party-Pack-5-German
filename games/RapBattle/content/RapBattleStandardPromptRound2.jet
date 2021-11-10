@@ -516,10 +516,10 @@
                 "examples": [
                     "Manilow",
                     "Martha Stewart",
-                    "\u2019Weird\u2019 Al Yancovic"
+                    "Mario Barth"
                 ],
-                "text": "Is it true you prepare by listening to <BLANK>?",
-                "type": "proper noun - a non-rapper"
+                "text": " Stimmt es? Hörst du etwa gleich <BLANK>?",
+                "type": "Kein Rapper"
             },
             "gene": [
                 "Joel Osteen",
@@ -531,12 +531,12 @@
         {
             "a": {
                 "examples": [
-                    "squirrel",
-                    "tree",
-                    "grass"
+                    "Eichhörnchen",
+                    "Baum",
+                    "Gras"
                 ],
-                "text": "I don\u2019t mince words so let me cut to the <BLANK>.",
-                "type": "noun - thing found in a forest"
+                "text": "Nehme mir keinen Blatt vor\u2019m Mund, also lass mich zum <BLANK>.",
+                "type": "Etwas im Wald"
             },
             "gene": [
                 "hiker",
@@ -548,12 +548,12 @@
         {
             "a": {
                 "examples": [
-                    "angst",
-                    "panic",
-                    "dishonesty"
+                    "ängstlich",
+                    "panisch",
+                    "unehrlich"
                 ],
-                "text": "I\u2019m calling your bluff cuz you\u2019ve got <BLANK>.",
-                "type": "singular noun - negative trait"
+                "text": "Ich decke deinen Bluff auf, denn du erscheinst <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "diddly",
@@ -565,12 +565,12 @@
         {
             "a": {
                 "examples": [
-                    "car part",
-                    "Tin Man",
-                    "lunch box"
+                    "ein Autoteil",
+                    "Alu Man",
+                    "eine Brotdose"
                 ],
-                "text": "I look great, you look like a <BLANK>.",
-                "type": "singular noun - an item considered junk"
+                "text": "Ich sehe gut aus, du siehst aus wie <BLANK>.",
+                "type": "Schrott"
             },
             "gene": [
                 "kind soul",
@@ -586,8 +586,8 @@
                     "Nintendo",
                     "baseball"
                 ],
-                "text": "Your rhymes are childish go play with your <BLANK>.",
-                "type": "noun - toy or game"
+                "text": "Deine Reime sind kindisch, geh und spiel<BLANK>.",
+                "type": "Ein Spiel oder Spielzeug"
             },
             "gene": [
                 "shirts",
