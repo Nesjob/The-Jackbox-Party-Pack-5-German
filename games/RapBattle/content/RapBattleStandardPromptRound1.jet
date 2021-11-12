@@ -1369,7 +1369,7 @@
                "Fisch"
             ],
             "text":"Ich zerstöre das Viertel wie ein gigantischer <BLANK>.",
-            "type":"Nomen - Ein Tier"
+            "type":"Ein Tier"
          },
          "gene":[
             "mongoose",
@@ -1385,7 +1385,7 @@
                "sehen",
                "herausfinden"
             ],
-            "text":"Ich bin der größte, so kannst du es <BLANK>.",
+            "text":"Ich bin der Größte, so kannst du es <BLANK>.",
             "type":"Verb"
          },
          "gene":[
@@ -1398,12 +1398,12 @@
       {
          "a":{
             "examples":[
-               "größte",
-               "stärkste",
-               "beste"
+               "stachelig",
+               "langsam",
+               "klein"
             ],
-            "text":"Mein Reimspiel ist von weitem das <BLANK>.",
-            "type":"Adjektiv"
+            "text":"Meine Reime zu krass, alle finden mich <BLANK>.",
+            "type":"Adjektiv - Eigenschaft eines Igels"
          },
          "gene":[
             "snazziest",
@@ -1436,7 +1436,7 @@
                "Hurrah",
                "Woah"
             ],
-            "text":"Gibt es für mich auf und sagt <BLANK>.",
+            "text":"Hebt eure Hände in die Luft und brüllt <BLANK>.",
             "type":"Ein Ausruf"
          },
          "gene":[
@@ -1449,15 +1449,15 @@
       {
          "a":{
             "examples":[
-               "Rom",
+               "Berliner Fernsehturm",
                "Land",
                "Viertel"
             ],
-            "text":"Ich bin der beste M C, im ganzen <BLANK>.",
+            "text":"Ich bin der beste MC, im ganzen <BLANK>.",
             "type":"Ein Ort"
          },
          "gene":[
-            "Kansas",
+            "Stadtbezirk",
             "My glasses look like George Costanza\u2019s."
          ],
          "x":false,
@@ -1470,8 +1470,8 @@
                "Elefanten",
                "Gebäude"
             ],
-            "text":"Ich kam um zu zerstampfen und meine Worte sind <BLANK>.",
-            "type":"Etwas schweres"
+            "text":"Ich kam um zu zerstampfen denn meine Worte sind <BLANK>.",
+            "type":"Etwas schweres - Mehrzahl"
          },
          "gene":[
             "whipping cream",
@@ -1483,8 +1483,8 @@
       {
          "a":{
             "examples":[
-               "Chicago",
-               "Hamburg",
+               "Burger King",
+               "DHL Filiale",
                "Berlin"
             ],
             "text":"Sie nennen mich den Herrscher von <BLANK>.",
@@ -1500,12 +1500,12 @@
       {
          "a":{
             "examples":[
-               "Flugzeug",
-               "Elefant",
-               "Villa"
+               "ein Flugzeug",
+               "ein Elefant",
+               "eine Villa"
             ],
-            "text":"Bin so reich in Reimen, da kaufe ich ein/e <BLANK>.",
-            "type":"Ein großes Objekt"
+            "text":"Bin so reich in Reimen, da kaufe ich <BLANK>.",
+            "type":"Unbestimmter Artikel + ein großes Objekt"
          },
          "gene":[
             "cloud",
@@ -1518,11 +1518,11 @@
          "a":{
             "examples":[
                "langsam",
-               "vielleicht",
+               "nervig",
                "laut"
             ],
-            "text":"Bin nur hier, um zu sagen, <BLANK>.",
-            "type":"dverb"
+            "text":"Bin nur hier, um zu sagen, ich bin <BLANK>.",
+            "type":"Adjektiv - Eigenschaft einer Ziege"
          },
          "gene":[
             "politely",
@@ -1535,10 +1535,10 @@
          "a":{
             "examples":[
                "China",
-               "Philly",
-               "Guam"
+               "Legoland",
+               "Köln"
             ],
-            "text":"Du glaubst hier bin ich groß, aber du kennst mich nicht in <BLANK>.",
+            "text":"Du glaubst hier bin ich groß geworden, aber du sahst mich noch nie in <BLANK>.",
             "type":"Ein Ort"
          },
          "gene":[
@@ -1553,7 +1553,7 @@
             "examples":[
                "Einstein",
                "Gandhi",
-               "Tom Hanks"
+               "Til Schweiger"
             ],
             "text":"Bin ein Teil einer Legende, ein normaler <BLANK>.",
             "type":"Berühmte Person"
@@ -1585,11 +1585,11 @@
       {
          "a":{
             "examples":[
-               "schmiede",
-               "tischler",
-               "banker"
+               "Schmied",
+               "Tischler",
+               "Maurer"
             ],
-            "text":"Ich erfasse neue Höhen, bin ein Meister<BLANK>.",
+            "text":"Ich erfasse neue Höhen, bin ein Meister-<BLANK>.",
             "type":"Handwerkerberuf"
          },
          "gene":[
@@ -1602,12 +1602,12 @@
       {
          "a":{
             "examples":[
-               "Teer",
-               "Eis",
-               "Hämmer"
+               "Puderzucker",
+               "Sahne",
+               "Mehl"
             ],
-            "text":"Ich bin ein Killer mit Herz auf <BLANK>.",
-            "type":"Nomen Plural"
+            "text":"Ich bin ein Killer mit einem Herz aus <BLANK>.",
+            "type":"Nomen - Eine Zutat für Kuchen"
          },
          "gene":[
             "yeast",
@@ -1619,12 +1619,12 @@
       {
          "a":{
             "examples":[
-               "schwinge",
-               "sprinte",
-               "pfeife"
+               "schwingen",
+               "jagen",
+               "pfeifen"
             ],
-            "text":"Ich höre den Beat, komme raus und <BLANK>.",
-            "type":"Verb"
+            "text":"Ich höre den Beat, komme raus und muss <BLANK>.",
+            "type":"Verb - Tätigkeit im Dschungel"
          },
          "gene":[
             "floating",
@@ -1641,7 +1641,7 @@
                "eine Jeans"
             ],
             "text":"Liege immer im Trend und bin brandneu wie <BLANK>.",
-            "type":"Kleidung"
+            "type":"Unbestimmter Artikel + Kleidungsstück"
          },
          "gene":[
             "bandana",
@@ -1653,12 +1653,12 @@
       {
          "a":{
             "examples":[
-               "runter",
-               "um dich",
-               "durch"
+               "Verbotene Liebe",
+               "TV Total",
+               "Wetten dass"
             ],
             "text":"Wenn ich am Mikrofon bin schaust du lieber <BLANK>.",
-            "type":"Präposition"
+            "type":"Eine alte Fernsehsendung"
          },
          "gene":[
             "inside",
@@ -1692,7 +1692,7 @@
                "Stranger Things"
             ],
             "text":"Meine Lines sitzen tief wie die Episode aus <BLANK>.",
-            "type":"Eine TV Show"
+            "type":"Eine Serie"
          },
          "gene":[
             "\u2019Twilight Zone\u2019",
@@ -1708,7 +1708,7 @@
                "Oz",
                "Nirvana"
             ],
-            "text":"Meine Reime sprengen euch alle weit zu <BLANK>.",
+            "text":"Meine Reime sprengen euch alle weit weg bis hinter <BLANK>.",
             "type":"Fiktonaler Ort"
          },
          "gene":[
@@ -1721,11 +1721,11 @@
       {
          "a":{
             "examples":[
-               "das Black Friday",
-               "das Marathon",
-               "die Feier"
+               "Black Friday",
+               "Marathon",
+               "Angelwettbewerb"
             ],
-            "text":"Bin so aufgepumpt für <BLANK>.",
+            "text":"Bin so aufgepumpt, gehe stylisch zum <BLANK>.",
             "type":"Ein Ereignis"
          },
          "gene":[
@@ -1740,7 +1740,7 @@
             "examples":[
                "Hamburg",
                "Dortmund",
-               "Seattle"
+               "Paris"
             ],
             "text":"Hab mehr Bling als eine Hausfrau aus <BLANK>.",
             "type":"Eine Stadt"
@@ -1755,11 +1755,11 @@
       {
          "a":{
             "examples":[
-               "Kreativ",
-               "Attraktiv",
-               "Inspiriert"
+               "kreativ",
+               "attraktiv",
+               "inspirierend"
             ],
-            "text":"In der Schule wählte man mich als <BLANK>",
+            "text":"In der Schule fand man mich mega <BLANK>",
             "type":"Positive Eigenschaft"
          },
          "gene":[
@@ -1772,7 +1772,7 @@
       {
          "a":{
             "examples":[
-               "verrottet",
+               "verrotten",
                "spät",
                "alt"
             ],
@@ -1807,7 +1807,7 @@
          "a":{
             "examples":[
                "Gold",
-               "Glanz",
+               "Glitzer",
                "Diamantenstaub"
             ],
             "text":"Trage Unterhosen besprüht mit <BLANK>.",
@@ -1823,11 +1823,11 @@
       {
          "a":{
             "examples":[
-               "Oprah",
+               "Angela Merkel",
                "Elon Musk",
                "Jeff Bezos"
             ],
-            "text":"Droppe nur \u2019ne Single und bin reich wie  <BLANK>.",
+            "text":"Droppe nur \u2019ne Single und bin reich wie <BLANK>.",
             "type":"Eine reiche Person"
          },
          "gene":[
@@ -1840,12 +1840,12 @@
       {
          "a":{
             "examples":[
-               "meiner Nase",
-               "dem Haar",
-               "dem Kinn"
+               "Nase",
+               "Haar",
+               "Kinn"
             ],
-            "text":"Ich bin so zerissen, hab Muskeln auf <BLANK>.",
-            "type":"Teil vom Gesicht"
+            "text":"Ich bin so zerissen, hab Muskeln auf meiner/m <BLANK>.",
+            "type":"Teil vom Gesicht - Einzahl"
          },
          "gene":[
             "thumb",
@@ -1861,7 +1861,7 @@
                "rennen",
                "krabbeln"
             ],
-            "text":"Bin flüssig in der Hektik, gesprächig im <BLANK>.",
+            "text":"Bleibe fresh in der Hektik, gesprächig im <BLANK>.",
             "type":"Verb"
          },
          "gene":[
@@ -1892,7 +1892,7 @@
          "a":{
             "examples":[
                "Tinkerbell",
-               "Die böse Hexe",
+               "die böse Hexe",
                "Harry Potter"
             ],
             "text":"Ich arbeite mit meiner Magie wie <BLANK>.",
@@ -1908,12 +1908,12 @@
       {
          "a":{
             "examples":[
-               "die Apotheke",
-               "die Bäckerei",
-               "die Bank"
+               "eine Apotheke",
+               "eine Bäckerei",
+               "eine Bank"
             ],
             "text":"Bestehle den Kampf, wie ein Überfall auf <BLANK>.",
-            "type":"Eine Gewerbe"
+            "type":"Unbestimmter Artikel + ein Geschäft"
          },
          "gene":[
             "zoo",
@@ -1942,11 +1942,11 @@
       {
          "a":{
             "examples":[
-               "MAD",
-               "Newsweek",
+               "Geolino",
+               "Süddeutsche Zeitung",
                "BILD"
             ],
-            "text":"Siehst mein Gesicht aufgedruckt bei <BLANK>.",
+            "text":"Siehst mein Gesicht abgedruckt bei <BLANK>.",
             "type":"Eine Zeitschrift"
          },
          "gene":[
@@ -1959,12 +1959,12 @@
       {
          "a":{
             "examples":[
-               "hässlichsten",
-               "verrücktesten",
-               "komischsten"
+               "Til Schweiger",
+               "Donald Trump",
+               "Armin Laschet"
             ],
-            "text":"Schau mir zu, lebe das Leben zum <BLANK>.",
-            "type":"Adjektiv mit -sten am Ende"
+            "text":"Schau mir zu, lebe das Leben so wie <BLANK>.",
+            "type":"Eine häufig kritisierte Person"
          },
          "gene":[
             "nerdiest",
@@ -1976,12 +1976,12 @@
       {
          "a":{
             "examples":[
-               "hip hop",
-               "rap",
-               "spitting bars"
+               "Gütersloh",
+               "Castrop-Rauxel",
+               "Dorsten"
             ],
-            "text":"Ich bin der Großmarschall von <BLANK>.",
-            "type":"Rapbasiert"
+            "text":"Ich bin der Boss von <BLANK>.",
+            "type":"Eine kleine Stadt"
          },
          "gene":[
             "Thanksgiving Day parades",
@@ -1993,12 +1993,12 @@
       {
          "a":{
             "examples":[
-               "Büschen",
-               "Bäumen",
-               "Gras"
+               "Büsche",
+               "Bäume",
+               "Kakteen"
             ],
-            "text":"Ich pflanze Samen des Rythmus und sie werden zu <BLANK>",
-            "type":"Nomen Plural - Pflanzen"
+            "text":"Ich pflanze Samen im Namen des Rhythmus und daraus werden <BLANK>",
+            "type":"Nomen Mehrzahl - Pflanzen"
          },
          "gene":[
             "daffodils",
@@ -2010,12 +2010,12 @@
       {
          "a":{
             "examples":[
-               "dein Lächeln",
+               "die Kindheit",
                "die Musik",
-               "den Seelenfrieden"
+               "das Klebeband"
             ],
-            "text":"Schau nicht hin, ich stehle <BLANK>.",
-            "type":"Nomen"
+            "text":"Schau nicht hin, ich stehle gleich <BLANK>.",
+            "type":"Artikel + Nomen"
          },
          "gene":[
             "childhood",
@@ -2027,11 +2027,11 @@
       {
          "a":{
             "examples":[
-               "zur Türkei",
-               "zu Russland",
-               "zum Mars"
+               "Türkei",
+               "Russland",
+               "Bayern"
             ],
-            "text":"Man kennt mich, von hier bis <BLANK>.",
+            "text":"Man kennt mich, von hier bis hinter <BLANK>.",
             "type":"Ein Ort"
          },
          "gene":[
@@ -2049,7 +2049,7 @@
                "eine Rakete"
             ],
             "text":"Ich flieg\u2019 weit hoch wie <BLANK>",
-            "type":"Nomen - Etwas fliegendes"
+            "type":"Unbestimmter Artikel + Nomen - Etwas fliegendes"^^
          },
          "gene":[
             "Superman",
