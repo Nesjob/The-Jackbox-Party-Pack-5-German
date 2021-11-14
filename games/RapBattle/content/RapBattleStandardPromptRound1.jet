@@ -1219,7 +1219,7 @@
             "type":"Begriff für Zärtlichkeit"
          },
          "gene":[
-            "person",
+            "Schnuffel",
             "She probably says it \u2018cuz I am, her son."
          ],
          "x":false,
@@ -1232,7 +1232,7 @@
                "schrei",
                "hymne"
             ],
-            "text":"Wah-ka-bam-zoo ist mein Kampf<BLANK>.",
+            "text":"Wah-ka-bam-zoo ist mein/e Kampf<BLANK>.",
             "type":"Nomen Singular - Ein Laut"
          },
          "gene":[
@@ -1508,7 +1508,7 @@
             "type":"Unbestimmter Artikel + ein großes Objekt"
          },
          "gene":[
-            "cloud",
+            "eine Wolke",
             "Try to keep it down. I don\u2019t like it loud."
          ],
          "x":false,
