@@ -582,12 +582,12 @@
         {
             "a": {
                 "examples": [
-                    "bikes",
-                    "Nintendo",
-                    "baseball"
+                    "fahr Fahrrad",
+                    "spring herum",
+                    "spiel etwas"
                 ],
-                "text": "Deine Reime sind kindisch, geh und spiel<BLANK>.",
-                "type": "Ein Spiel oder Spielzeug"
+                "text": "Deine Reime sind kindisch, geh und <BLANK>.",
+                "type": "Ein kindisches Verb"
             },
             "gene": [
                 "shirts",
@@ -600,11 +600,11 @@
             "a": {
                 "examples": [
                     "Mr. Rogers",
-                    "Mother Teresa",
+                    "Mutter Teresa",
                     "Meg Ryan"
                 ],
-                "text": "You recycle your rhymes so I\u2019ll call you <BLANK>.",
-                "type": "proper noun - famous good person"
+                "text": "Deine Reime sind wiederverwertet, so nenne ich dich <BLANK>.",
+                "type": "Eine gute bekannte Person"
             },
             "gene": [
                 "Ellen",
@@ -616,12 +616,12 @@
         {
             "a": {
                 "examples": [
-                    "neck",
-                    "chest",
-                    "ankles"
+                    "Nacken",
+                    "Brust",
+                    "Ellebogen"
                 ],
-                "text": "The pendulum\u2019s swinging, at your <BLANK>.",
-                "type": "noun - body part"
+                "text": "Der Pendel schwingt an deiner/m <BLANK>.",
+                "type": "Ein Körperteil"
             },
             "gene": [
                 "mandible",
@@ -633,12 +633,12 @@
         {
             "a": {
                 "examples": [
-                    "justice",
-                    "joy",
-                    "fear"
+                    "Gerechtigkeit",
+                    "Freude",
+                    "Angst"
                 ],
-                "text": "You\u2019re going down in a blaze of <BLANK>.",
-                "type": "noun - abstract concept"
+                "text": "Gehst unter wie eine Flamme aus <BLANK>.",
+                "type": "Abstraktes Konzept"
             },
             "gene": [
                 "disambiguation",
@@ -650,12 +650,12 @@
         {
             "a": {
                 "examples": [
-                    "dumb",
-                    "boring",
-                    "tall"
+                    "dumm",
+                    "langweilig",
+                    "klein"
                 ],
-                "text": "Word around town is that you got real <BLANK>.",
-                "type": "negative adjective"
+                "text": "In der Stadt heißt es, du bist echt <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "grumpy",
@@ -667,12 +667,12 @@
         {
             "a": {
                 "examples": [
-                    "face",
-                    "ears",
-                    "neck beard"
+                    "Gesicht",
+                    "Ohren",
+                    "Bart"
                 ],
-                "text": "The sun is about to set on your <BLANK>.",
-                "type": "noun - body part"
+                "text": "Die Sonne entzündet gleich auf deiner/m <BLANK>.",
+                "type": "Ein Körperteil"
             },
             "gene": [
                 "gums",
