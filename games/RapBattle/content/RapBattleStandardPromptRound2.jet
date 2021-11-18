@@ -684,12 +684,12 @@
         {
             "a": {
                 "examples": [
-                    "giggle",
-                    "cry",
-                    "nap"
+                    "kichern",
+                    "weinen",
+                    "schlafen"
                 ],
-                "text": "Don\u2019t look now but I\u2019m about to <BLANK>.",
-                "type": "verb - a childish action"
+                "text": "Schau nicht her, doch neige zu <BLANK>.",
+                "type": "Kindische Aktion"
             },
             "gene": [
                 "potty train",
@@ -701,12 +701,12 @@
         {
             "a": {
                 "examples": [
-                    "a lollipop",
-                    "honey",
-                    "old gum"
+                    "einem Lollipop",
+                    "Honig",
+                    "Kaugummis"
                 ],
-                "text": "When I think of you I think of <BLANK>.",
-                "type": "noun - something sticky"
+                "text": "Sobald ich an dich denke, erinnerst du mich an <BLANK>.",
+                "type": "Etwas klebriges"
             },
             "gene": [
                 "molasses",
@@ -718,12 +718,12 @@
         {
             "a": {
                 "examples": [
-                    "knee",
-                    "gut",
-                    "vocal chords"
+                    "den Knien",
+                    "den Augen",
+                    "deinem Stimmband"
                 ],
-                "text": "You feel those nerves inside your <BLANK>?",
-                "type": "noun - body part"
+                "text": "Du spürst diese Nerven in <BLANK>?",
+                "type": "Ein Körperteil"
             },
             "gene": [
                 "nose hairs",
@@ -735,12 +735,12 @@
         {
             "a": {
                 "examples": [
-                    "Slinky",
-                    "action figure",
-                    "teddy bear"
+                    "Fidget Spinners",
+                    "einer Actionfigur",
+                    "dem Teddybär"
                 ],
-                "text": "While I work you\u2019re playing with a <BLANK>.",
-                "type": "noun - a toy"
+                "text": "Wenn ich arbeite, spielst du lieber mit <BLANK>.",
+                "type": "Ein Spielzeug"
             },
             "gene": [
                 "N 64",
