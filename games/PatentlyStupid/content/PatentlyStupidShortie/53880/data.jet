@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"sich waschen | mich zum Mittagessen einladen | die Toilettenspuelung betaetigen","n":"Decoys"},{"t":"S","v":"Meine Mitarbeiter machen folgendes nie: <BLANK>!","n":"PromptText"},{"s":"TOBY: It\u2019s my coworkers. They never, ever THIS!","t":"A","v":"767740_1","n":"PromptAudio"}]}

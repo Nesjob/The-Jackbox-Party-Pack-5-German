@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"ein Ei | einen Haarschnitt | den Arzt","n":"Decoys"},{"t":"S","v":"Ich hasse es, laenger als 5 Minuten auf <BLANK> zu warten!","n":"PromptText"},{"s":"TOBY: I hate waiting more than five minutes just to get THIS! Like, let me get on with my day, already!","t":"A","v":"767810_1","n":"PromptAudio"}]}

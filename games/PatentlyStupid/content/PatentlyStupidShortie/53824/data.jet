@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"schlecht war | verspaetet war | stehle","n":"Decoys"},{"t":"S","v":"Ich habe drei Jobs verloren, weil ich <BLANK>!","n":"PromptText"},{"s":"TOBY: I\u2019ve lost job after job after job because I do THIS!","t":"A","v":"767570_1","n":"PromptAudio"}]}

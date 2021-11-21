@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"stinken|fluchen|mich verbrennen","n":"Decoys"},{"t":"S","v":"Ich moechte nicht mehr <BLANK>!","n":"PromptText"},{"s":"TOBY: I just don\u2019t want to do THIS anymore!","t":"A","v":"767635_1","n":"PromptAudio"}]}

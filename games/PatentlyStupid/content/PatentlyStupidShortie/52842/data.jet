@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"ein Haustier|Pizza|Haare","n":"Decoys"},{"t":"S","v":"Ich brauche <BLANK>, schnell!","n":"PromptText"},{"s":"TOBY: I just need THIS, fast!","t":"A","v":"755659_1","n":"PromptAudio"}]}

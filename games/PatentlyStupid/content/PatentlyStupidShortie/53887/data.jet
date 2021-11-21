@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"meiner Brille|eines guenstigen Fluges|meiner Socken","n":"Decoys"},{"t":"S","v":"Ich hatte eine schwere Zeit beim Suchen <BLANK>!","n":"PromptText"},{"s":"TOBY: I\u2019ve looked and I\u2019ve looked but I can\u2019t find THIS!","t":"A","v":"767761_1","n":"PromptAudio"}]}
