@@ -516,10 +516,10 @@
                 "examples": [
                     "Manilow",
                     "Martha Stewart",
-                    "\u2019Weird\u2019 Al Yancovic"
+                    "Mario Barth"
                 ],
-                "text": "Is it true you prepare by listening to <BLANK>?",
-                "type": "proper noun - a non-rapper"
+                "text": " Stimmt es? Hörst du gleich etwa <BLANK>?",
+                "type": "Kein Rapper"
             },
             "gene": [
                 "Joel Osteen",
@@ -531,12 +531,12 @@
         {
             "a": {
                 "examples": [
-                    "squirrel",
-                    "tree",
-                    "grass"
+                    "Eichhörnchen",
+                    "Baum",
+                    "Gras"
                 ],
-                "text": "I don\u2019t mince words so let me cut to the <BLANK>.",
-                "type": "noun - thing found in a forest"
+                "text": "Nehme mir keinen Blatt vor\u2019m Mund, also lass mich zum <BLANK>.",
+                "type": "Etwas im Wald"
             },
             "gene": [
                 "hiker",
@@ -548,12 +548,12 @@
         {
             "a": {
                 "examples": [
-                    "angst",
-                    "panic",
-                    "dishonesty"
+                    "ängstlich",
+                    "panisch",
+                    "unehrlich"
                 ],
-                "text": "I\u2019m calling your bluff cuz you\u2019ve got <BLANK>.",
-                "type": "singular noun - negative trait"
+                "text": "Ich decke deinen Bluff auf, denn du erscheinst <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "diddly",
@@ -565,12 +565,12 @@
         {
             "a": {
                 "examples": [
-                    "car part",
-                    "Tin Man",
-                    "lunch box"
+                    "ein Autoteil",
+                    "Alu Man",
+                    "eine Brotdose"
                 ],
-                "text": "I look great, you look like a <BLANK>.",
-                "type": "singular noun - an item considered junk"
+                "text": "Ich sehe gut aus, du siehst aus wie <BLANK>.",
+                "type": "Schrott"
             },
             "gene": [
                 "kind soul",
@@ -582,12 +582,12 @@
         {
             "a": {
                 "examples": [
-                    "bikes",
-                    "Nintendo",
-                    "baseball"
+                    "fahr Fahrrad",
+                    "spring herum",
+                    "spiel etwas"
                 ],
-                "text": "Your rhymes are childish go play with your <BLANK>.",
-                "type": "noun - toy or game"
+                "text": "Deine Reime sind kindisch, geh und <BLANK>.",
+                "type": "Ein kindisches Verb"
             },
             "gene": [
                 "shirts",
@@ -600,11 +600,11 @@
             "a": {
                 "examples": [
                     "Mr. Rogers",
-                    "Mother Teresa",
+                    "Mutter Teresa",
                     "Meg Ryan"
                 ],
-                "text": "You recycle your rhymes so I\u2019ll call you <BLANK>.",
-                "type": "proper noun - famous good person"
+                "text": "Deine Reime sind wiederverwertet, so nenne ich dich <BLANK>.",
+                "type": "Eine gute bekannte Person"
             },
             "gene": [
                 "Ellen",
@@ -616,12 +616,12 @@
         {
             "a": {
                 "examples": [
-                    "neck",
-                    "chest",
-                    "ankles"
+                    "Nacken",
+                    "Brust",
+                    "Ellebogen"
                 ],
-                "text": "The pendulum\u2019s swinging, at your <BLANK>.",
-                "type": "noun - body part"
+                "text": "Der Pendel schwingt an deiner/m <BLANK>.",
+                "type": "Ein Körperteil"
             },
             "gene": [
                 "mandible",
@@ -633,12 +633,12 @@
         {
             "a": {
                 "examples": [
-                    "justice",
-                    "joy",
-                    "fear"
+                    "Gerechtigkeit",
+                    "Freude",
+                    "Angst"
                 ],
-                "text": "You\u2019re going down in a blaze of <BLANK>.",
-                "type": "noun - abstract concept"
+                "text": "Gehst unter wie eine Flamme aus <BLANK>.",
+                "type": "Abstraktes Konzept"
             },
             "gene": [
                 "disambiguation",
@@ -650,12 +650,12 @@
         {
             "a": {
                 "examples": [
-                    "dumb",
-                    "boring",
-                    "tall"
+                    "dumm",
+                    "langweilig",
+                    "klein"
                 ],
-                "text": "Word around town is that you got real <BLANK>.",
-                "type": "negative adjective"
+                "text": "In der Stadt heißt es, du bist echt <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "grumpy",
@@ -667,12 +667,12 @@
         {
             "a": {
                 "examples": [
-                    "face",
-                    "ears",
-                    "neck beard"
+                    "Gesicht",
+                    "Ohren",
+                    "Bart"
                 ],
-                "text": "The sun is about to set on your <BLANK>.",
-                "type": "noun - body part"
+                "text": "Die Sonne entzündet gleich auf deiner/m <BLANK>.",
+                "type": "Ein Körperteil"
             },
             "gene": [
                 "gums",
@@ -684,12 +684,12 @@
         {
             "a": {
                 "examples": [
-                    "giggle",
-                    "cry",
-                    "nap"
+                    "kichern",
+                    "weinen",
+                    "schlafen"
                 ],
-                "text": "Don\u2019t look now but I\u2019m about to <BLANK>.",
-                "type": "verb - a childish action"
+                "text": "Schau nicht her, doch neige zu <BLANK>.",
+                "type": "Kindische Aktion"
             },
             "gene": [
                 "potty train",
@@ -701,12 +701,12 @@
         {
             "a": {
                 "examples": [
-                    "a lollipop",
-                    "honey",
-                    "old gum"
+                    "einem Lollipop",
+                    "Honig",
+                    "Kaugummis"
                 ],
-                "text": "When I think of you I think of <BLANK>.",
-                "type": "noun - something sticky"
+                "text": "Sobald ich an dich denke, erinnerst du mich an <BLANK>.",
+                "type": "Etwas klebriges"
             },
             "gene": [
                 "molasses",
@@ -718,12 +718,12 @@
         {
             "a": {
                 "examples": [
-                    "knee",
-                    "gut",
-                    "vocal chords"
+                    "den Knien",
+                    "den Augen",
+                    "deinem Stimmband"
                 ],
-                "text": "You feel those nerves inside your <BLANK>?",
-                "type": "noun - body part"
+                "text": "Du spürst diese Nerven in <BLANK>?",
+                "type": "Ein Körperteil"
             },
             "gene": [
                 "nose hairs",
@@ -735,12 +735,12 @@
         {
             "a": {
                 "examples": [
-                    "Slinky",
-                    "action figure",
-                    "teddy bear"
+                    "Fidget Spinners",
+                    "einer Actionfigur",
+                    "dem Teddybär"
                 ],
-                "text": "While I work you\u2019re playing with a <BLANK>.",
-                "type": "noun - a toy"
+                "text": "Wenn ich arbeite, spielst du lieber mit <BLANK>.",
+                "type": "Ein Spielzeug"
             },
             "gene": [
                 "N 64",
