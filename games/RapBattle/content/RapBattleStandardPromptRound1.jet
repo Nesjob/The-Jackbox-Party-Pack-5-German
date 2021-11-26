@@ -2983,7 +2983,7 @@
                "YouTube",
                "Sushi"
             ],
-            "text":"Leute mögen mich mehr als <BLANK>.",°
+            "text":"Leute mögen mich mehr als <BLANK>.",
             "type":"Etwas beliebtes"
          },
          "gene":[
@@ -3001,7 +3001,7 @@
                "Reichtum"
             ],
             "text":"Das wichtigste zuerst: Ich bin besser als <BLANK>.",
-            "type":"Tolle Ereignisse/ Aktivitäten"
+            "type":"Tolle Ereignisse / Aktivitäten"
          },
          "gene":[
             "movies",
@@ -3035,7 +3035,7 @@
                "eine Limousine"
             ],
             "text":"Komm\u2019 zu dir, breche aus wie <BLANK>.",
-            "type":"Ein Fahrzeug"
+            "type":"Unbestimmter Artikel + Ein Fahrzeug"
          },
          "gene":[
             "scooter",
@@ -3064,7 +3064,7 @@
       {
          "a":{
             "examples":[
-               "Ghost",
+               "Krümelmonster",
                "Frankenstein",
                "Godzilla"
             ],
@@ -3086,7 +3086,7 @@
                "Mach mit"
             ],
             "text":"Wenn du meine Moves magst, <BLANK>.",
-            "type":"Aufforderung"
+            "type":"Eine Aufforderung"
          },
          "gene":[
             "stencil",
@@ -3103,7 +3103,7 @@
                "ein Alligator"
             ],
             "text":"Bin gigantisch, doch ganz sanft, schaden würde ich nicht mal <BLANK>.",
-            "type":"Ein Tier"
+            "type":"Unbestimmter Artikel + Ein Tier"
          },
          "gene":[
             "lark",
@@ -3115,15 +3115,15 @@
       {
          "a":{
             "examples":[
-               "beschäftigen",
-               "steigern",
-               "vergrößern"
+               "Meister Proper",
+               "der Michelin-Mann",
+               "die lila Milka Kuh"
             ],
-            "text":"Sammelt euch um mich, ich neige dazu mich zu <BLANK>.",
-            "type":"Verb"
+            "text":"Versammelt euch um mich, ich werde immer mehr wie <BLANK>.",
+            "type":"Eine Werbefigur"
          },
          "gene":[
-            "bulbous",
+            "Ronald McDonald",
             "Like Mom when she puts on, her old truss."
          ],
          "x":false,
@@ -3149,11 +3149,11 @@
       {
          "a":{
             "examples":[
-               "Pilzen",
-               "Hühnern",
+               "Pilz",
+               "Huhn",
                "Regentropfen"
             ],
-            "text":"Bin ganz natürlich, meine Reime kommen von <BLANK>.",
+            "text":"Bin ganz natürlich, meine Reime kommen von einem <BLANK>.",
             "type":"Etwas in der Natur"
          },
          "gene":[
@@ -3183,12 +3183,12 @@
       {
          "a":{
             "examples":[
-               "Reime",
+               "Hausaufgaben",
                "Mittagessen",
-               "Ideen"
+               "Steuererklärungen"
             ],
             "text":"Ich verlasse mich nicht auf Chancen, Ich mache <BLANK>.",
-            "type":"Etwas, was du selber tust"
+            "type":"Nomen - Etwas, was du selber machst"
          },
          "gene":[
             "excuses",
@@ -3205,7 +3205,7 @@
                "eine Ratte"
             ],
             "text":"Bin ganz zäh, wie <BLANK>.",
-            "type":"Ein Tier"
+            "type":"Unbestimmter Artikel + Ein Tier"
          },
          "gene":[
             "tardigrade",
@@ -3217,12 +3217,12 @@
       {
          "a":{
             "examples":[
-               "der Luft",
-               "Soda",
-               "Actionfilmen"
+               "in der Luft",
+               "auf dem Land",
+               "im Weltraum"
             ],
-            "text":"Meine Reime fliegen wie explodierende Raketen in <BLANK>.",
-            "type":"Ein Ort"
+            "text":"Meine Reime fliegen wie explodierende Raketen <BLANK>.",
+            "type":"Wo verstecken sich Aliens?"
          },
          "gene":[
             "whales",
@@ -3239,7 +3239,7 @@
                "eine Zigarette"
             ],
             "text":"Meine Geldbörse ist vollgestopft, wie <BLANK>.",
-            "type":"singular Nomen"
+            "type":"Unbestimmter Artikel + Einzahl Nomen"
          },
          "gene":[
             "sofa",
@@ -3268,11 +3268,11 @@
       {
          "a":{
             "examples":[
-               "dominiere",
-               "drängel",
-               "spreche"
+               "dominieren",
+               "drängeln",
+               "sprechen"
             ],
-            "text":"Ich diskutier\u2019 nicht, es stimmt einfach, dass ich <BLANK>.",
+            "text":"Ich diskutier\u2019 nicht, es stimmt einfach, ich werde immer <BLANK>.",
             "type":"Verb"
          },
          "gene":[
@@ -3285,12 +3285,12 @@
       {
          "a":{
             "examples":[
-               "den Haaren",
-               "der Haut",
-               "dem Mund"
+               "Sprengstoff",
+               "ein Rudel Wölfe",
+               "Atommüll"
             ],
-            "text":"Meine Verse kommen gerade von <BLANK>.",
-            "type":"Ein Körperteil"
+            "text":"Meine Reime zerstören euch, so wie <BLANK>.",
+            "type":"Nomen - Etwas gefährliches"
          },
          "gene":[
             "pancreas",
@@ -3302,12 +3302,12 @@
       {
          "a":{
             "examples":[
-               "Fußballspiel",
+               "Fußball",
                "Basketball",
-               "Hockeyschläger"
+               "Hockey"
             ],
             "text":"Gebe den Reimen den Slam-Dunk, wie beim <BLANK>.",
-            "type":"Eine Sportausrüstung"
+            "type":"Eine Sportart"
          },
          "gene":[
             "catcher\u2019s mitt",
@@ -3319,12 +3319,12 @@
       {
          "a":{
             "examples":[
-               "einen Helikopter",
-               "einen Bugatti",
-               "einen V W Golf"
+               "ein Helikopter",
+               "ein Bugatti",
+               "ein V W Golf"
             ],
             "text":"Meine Worte sitzen so tief, du bräuchtest <BLANK>.",
-            "type":"Ein Fahrzeug"
+            "type":"Unbestimmter Artikel + Ein Fahrzeug"
          },
          "gene":[
             "Razor scooter",
@@ -3354,11 +3354,11 @@
          "a":{
             "examples":[
                "ein Fass",
-               "eine Kettenreaktion",
+               "ein Tischtennisball",
                "ein Ofenhandschuh"
             ],
             "text":"Zünd\u2019 die Zündung und ich explodier\u2019 wie <BLANK>.",
-            "type":"Ein Objekt"
+            "type":"Ein Gegenstand"
          },
          "gene":[
             "mitten",
@@ -3371,11 +3371,11 @@
          "a":{
             "examples":[
                "\u2019Breaking Bad\u2019",
-               "\u2019Cheers\u2019",
-               "\u2019Legion\u2019"
+               "\u2019Haus des Geldes\u2019",
+               "\u2019Sex Education\u2019"
             ],
             "text":"Ich lerne alles was ich weiß durch\u2019s schauen von <BLANK>.",
-            "type":"Eine TV Show"
+            "type":"Eine Serie"
          },
          "gene":[
             "'Small Wonder\u2019",
@@ -3404,9 +3404,9 @@
       {
          "a":{
             "examples":[
-               "der größte",
-               "gemein",
-               "der Rapper"
+               "der Größte",
+               "der König",
+               "der Boss"
             ],
             "text":"Nennt mich streitsüchtig, Ich bin <BLANK>.",
             "type":"Ein Nickname"
@@ -3421,11 +3421,11 @@
       {
          "a":{
             "examples":[
-               "quietschens",
-               "schreis",
-               "zwitscherns"
+               "quietschen",
+               "schreien",
+               "zwitschern"
             ],
-            "text":"Ich beruhige weinende Babys mit dem Klang meines <BLANK>.",
+            "text":"Ich beruhige weinende Babys mit dem Klang von meinem <BLANK>.",
             "type":"Eine Lautäußerung"
          },
          "gene":[
@@ -3438,11 +3438,11 @@
       {
          "a":{
             "examples":[
-               "einem Dreirad",
-               "einem Motorrad",
-               "einem Skateboard"
+               "Dreirad",
+               "Motorrad",
+               "Skateboard"
             ],
-            "text":"Dein Gesicht sieht aus, als überfährt man es mit <BLANK>.",
+            "text":"Dein Gesicht sieht aus, als überfährt man es mit einem <BLANK>.",
             "type":"Ein Fahrzeug"
          },
          "gene":[
@@ -3456,11 +3456,11 @@
          "a":{
             "examples":[
                "Freunde",
-               "Lächeln",
-               "Unternehmen"
+               "Büroklammern",
+               "Tische"
             ],
             "text":"Wenn du mich hasst, hasst du meine <BLANK>.",
-            "type":"Nomen"
+            "type":"Mehrzahl Nomen"
          },
          "gene":[
             "dog",
@@ -3494,7 +3494,7 @@
                "ein Apfel"
             ],
             "text":"Meine Reime sind frisch und reif wie <BLANK>.",
-            "type":"Obst oder Gemüse"
+            "type":"Unbestimmter Artikel + Obst bzw. Gemüse"
          },
          "gene":[
             "durian",
@@ -3511,7 +3511,7 @@
                "Pizzen"
             ],
             "text":"Ich wach\u2019 auf, und esse Reime wie <BLANK>.",
-            "type":"Essen"
+            "type":"Mehrzahl - Leckeres Essen"
          },
          "gene":[
             "empanadas",
@@ -3528,7 +3528,7 @@
                "Obstsalat"
             ],
             "text":"Wären meine Reime essbar, wären sie <BLANK>.",
-            "type":"Ein Gericht"
+            "type":"Ein leckeres Gericht"
          },
          "gene":[
             "chili mac",
@@ -3540,12 +3540,12 @@
       {
          "a":{
             "examples":[
-               "Texas",
+               "Köln",
                "Berlin",
                "Kanada"
             ],
             "text":"Ich bin weltweit bekannt, von Japan bis <BLANK>.",
-            "type":"passendes Nomen - a place"
+            "type":"Nomen - Ein Ort"
          },
          "gene":[
             "Salt Lake City",
@@ -3562,7 +3562,7 @@
                "100"
             ],
             "text":"Eins zwei drei vier fünf sechs <BLANK>.",
-            "type":"Eine Nummer"
+            "type":"Eine Zahl"
          },
          "gene":[
             "zero",
@@ -3574,11 +3574,11 @@
       {
          "a":{
             "examples":[
-               "Schlafzimmers",
-               "Sofas",
-               "Badezimmers"
+               "Schlafzimmer",
+               "Sofa",
+               "Badezimmer"
             ],
-            "text":"Verbeugt euch vor dem Präsident des <BLANK>.",
+            "text":"Verbeugt euch vor dem Präsidenten vom <BLANK>.",
             "type":"Etwas im Haushalt"
          },
          "gene":[
@@ -3591,9 +3591,9 @@
       {
          "a":{
             "examples":[
-               "Pollock",
-               "Koons",
-               "Frankenhaler"
+               "Bob Ross",
+               "Vincent van Gogh",
+               "Michelangelo"
             ],
             "text":"Meine Worte sind wie Farben, ich bin ein Künstler wie <BLANK>.",
             "type":"Ein Künstler"
@@ -3613,7 +3613,7 @@
                "ein Buttermesser"
             ],
             "text":"Meine Reime sind schärfer als <BLANK>.",
-            "type":"Etwas scharfes"
+            "type":"Unbestimmter Artikel + Etwas scharfes"
          },
          "gene":[
             "slice of cheddar",
@@ -3625,12 +3625,12 @@
       {
          "a":{
             "examples":[
-               "Sprecher",
-               "Rottweiler",
-               "Rapper"
+               "Anwalt",
+               "Arzt für plastische Chirurgie",
+               "Jäger"
             ],
             "text":"Bin kein Gangster, ich bin der originale <BLANK>.",
-            "type":"Nomen"
+            "type":"Berufsbezeichnung"
          },
          "gene":[
             "blue whale",
@@ -3647,7 +3647,7 @@
                "Geldscheine"
             ],
             "text":"Ich sammel\u2019 keine Steuern, in die Sammlung gehören <BLANK>.",
-            "type":"Nomen Plural - Belohnungen"
+            "type":"Nomen Mehrzahl - Belohnungen"
          },
          "gene":[
             "accolades",
@@ -3680,7 +3680,7 @@
                "Tiara",
                "Jacht"
             ],
-            "text":"Meine Daten sehen mich als <BLANK>.",
+            "text":"Meine Dates sehen mich als <BLANK>.",
             "type":"Etwas teures"
          },
          "gene":[
@@ -3727,12 +3727,12 @@
       {
          "a":{
             "examples":[
-               "renne",
-               "rede",
-               "schlafe"
+               "rennen",
+               "reden",
+               "schlafen"
             ],
-            "text":"Mein Name ist \u2018Der Juggernaut\u2018, weil ich nie <BLANK>.",
-            "type":"Verb - everyday action"
+            "text":"Mein Name ist \u2018Der Terminator\u2018, denn ich kann niemals <BLANK>.",
+            "type":"Verb - Alltägliche Handlung"
          },
          "gene":[
             "wash",
@@ -3749,7 +3749,7 @@
                "ein Stadium"
             ],
             "text":"Meine Reime sind so stark, sie bauen <BLANK>.",
-            "type":"Ein Gebäude"
+            "type":"Unbestimmter Artikel + Ein Gebäude"
          },
          "gene":[
             "gazebo",
@@ -3763,10 +3763,10 @@
             "examples":[
                "Fleisch",
                "Käse",
-               "Avocado"
+               "Paprika"
             ],
-            "text":"Meine Reime sind lecker wie ein Sandwich mit <BLANK>.",
-            "type":"Zutat im Sandwich"
+            "text":"Meine Reime sind lecker, wie ein Sandwich mit <BLANK>.",
+            "type":"Ein Pizzabelag"
          },
          "gene":[
             "sprouts",
@@ -3778,12 +3778,12 @@
       {
          "a":{
             "examples":[
-               "Wal",
-               "Tiger",
-               "Elefant"
+               "ein Wal",
+               "ein Tiger",
+               "ein Elefant"
             ],
-            "text":"Mein Auftritt ist massiv, wie ein wütender <BLANK>.",
-            "type":"Ein Tier"
+            "text":"Mein Auftritt ist massiv, wie <BLANK>.",
+            "type":"Unbestimmter Artikel + Ein Tier"
          },
          "gene":[
             "shark",
