@@ -38,7 +38,7 @@
         {
             "a": {
                 "examples": [
-                    "Kind",
+                    "Bengel",
                     "Mädchen",
                     "Junge"
                 ],
@@ -77,7 +77,7 @@
                     "ein Baby"
                 ],
                 "text": "Du bist so hilflos, wie <BLANK>.",
-                "type": "Etwas kleines"
+                "type": "Unbestimmter Artikel + Etwas kleines"
             },
             "gene": [
                 "bun",
@@ -111,7 +111,7 @@
                     "ein Teller"
                 ],
                 "text": "Deine Reime sind so platt wie <BLANK>.",
-                "type": "Etwas flaches"
+                "type": "Unbestimmter Artikel + Etwas flaches"
             },
             "gene": [
                 "pamphlet",
@@ -128,7 +128,7 @@
                     "wehren"
                 ],
                 "text": "Du kannst mich nicht schlagen, also versuch nicht zu <BLANK>.",
-                "type": "verb"
+                "type": "Verb"
             },
             "gene": [
                 "wait",
@@ -175,8 +175,8 @@
             "a": {
                 "examples": [
                     "\u2019Titanic\u2019",
-                    "\u2019Saving Private Ryan\u2019",
-                    "\u2019Boyhood\u2019"
+                    "\u2019>Inception\u2019",
+                    "\u2019Der Pate\u2019"
                 ],
                 "text": "Deine Raps sind langsamer als der Plot von <BLANK>.",
                 "type": "Dramafilm"
@@ -191,12 +191,12 @@
         {
             "a": {
                 "examples": [
-                    "Ganove",
-                    "Täter",
-                    "Verbrecher"
+                    "ein Ganove",
+                    "ein Täter",
+                    "ein Verbrecher"
                 ],
                 "text": "Ich bin hier das Gesetz und du bist nur <BLANK>.",
-                "type": "Begriff für Krimineller"
+                "type": "Unbestimmter Artikel + Begriff für Krimineller"
             },
             "gene": [
                 "thug",
@@ -208,9 +208,9 @@
         {
             "a": {
                 "examples": [
-                    "\u2019The Grapes of Wrath\u2019",
-                    "\u2019Eat Pray Love\u2019",
-                    "\u2019Charlotte\u2019s Web\u2019"
+                    "\u2019Die Bibel\u2019",
+                    "\u2019Gregs Tagebuch\u2019",
+                    "\u2019Harry Potter\u2019"
                 ],
                 "text": "Ich lese dich wie ein Buch wie <BLANK>.",
                 "type": "Buchtitel"
@@ -247,7 +247,7 @@
                     "ein Overall"
                 ],
                 "text": "Dein Style ist weit aus der Mode wie <BLANK>.",
-                "type": "Ein altes Kleidungsstück"
+                "type": "Unbestimmter Artikel + Ein Kleidungsstück"
             },
             "gene": [
                 "ascot",
@@ -281,7 +281,7 @@
                     "ein Walross"
                 ],
                 "text": "Wie vom Feuer gegrillt, esse ich dich wie <BLANK>.",
-                "type": "Ein Tier"
+                "type": "Unbestimmter Artikel + Ein Tier"
             },
             "gene": [
                 "porridge",
@@ -297,8 +297,8 @@
                     "eine Biene",
                     "ein Frosch"
                 ],
-                "text": "Lass dich davor nicht beängstigen: Ich bin stärker als <BLANK>.",
-                "type": "Ein kleines Tier"
+                "text": "Lass dich davon nicht beängstigen: Ich bin stärker als <BLANK>.",
+                "type": "Unbestimmter Artikel + Ein kleines Tier"
             },
             "gene": [
                 "moth",
@@ -331,7 +331,7 @@
                     "Holz",
                     "Granit"
                 ],
-                "text": "Fühlst\u2019 dich schüchtern? Ich zebreche <BLANK>.",
+                "text": "Ich schüchtere dich ein, denn ich zerbreche <BLANK>.",
                 "type": "Natürliches Material"
             },
             "gene": [
@@ -361,12 +361,12 @@
         {
             "a": {
                 "examples": [
-                    "deiner Angst",
-                    "deinem Geruch",
-                    "deiner Schwäche"
+                    "stolpern",
+                    "rennen",
+                    "joggen"
                 ],
-                "text": "Dieser Ort spukt von <BLANK>.",
-                "type": "Persönliches Merkmal"
+                "text": "Dieser Ort ist gruselig, ich fange an zu <BLANK>.",
+                "type": "Verb - Handlung im Wald"
             },
             "gene": [
                 "smooth skin",
@@ -383,7 +383,7 @@
                     "Tacos"
                 ],
                 "text": "Du bist ein Rap-Pflanzenfresser und verträgst keine <BLANK>.",
-                "type": "Essen mit Fleisch"
+                "type": "Mehrzahl - Essen mit Fleisch"
             },
             "gene": [
                 "meats",
