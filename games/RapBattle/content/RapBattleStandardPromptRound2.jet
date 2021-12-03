@@ -1704,12 +1704,12 @@
         {
             "a": {
                 "examples": [
-                    "demise",
-                    "defeat",
-                    "obliteration"
+                    "verlieren",
+                    "rennen",
+                    "malen"
                 ],
-                "text": "I got a crystal ball and I see your <BLANK>.",
-                "type": "common noun - synonym for 'end'"
+                "text": "Ich bin ein Wahrsager und du wirst morgen <BLANK>.",
+                "type": "ein Verb"
             },
             "gene": [
                 "end",
@@ -1721,12 +1721,12 @@
         {
             "a": {
                 "examples": [
-                    "junior",
-                    "assistant",
-                    "temp"
+                    "Azubi",
+                    "Assistent",
+                    "Praktikant"
                 ],
-                "text": "How \u2018bout this? You can be my <BLANK>.",
-                "type": "noun - lower level employee"
+                "text": "Wie geht\u2018s wie steht\u2018s? Du wirst mein neuer <BLANK>.",
+                "type": "Nomen - Bezeichnung für einen neuen Mitarbeiter"
             },
             "gene": [
                 "gofer",
@@ -1738,12 +1738,12 @@
         {
             "a": {
                 "examples": [
-                    "lifejacket",
-                    "hand",
-                    "lift"
+                    "ein Rettungsboot",
+                    "eine Hand",
+                    "ein Aufzug"
                 ],
-                "text": "I don\u2019t got pity but I can give you a <BLANK>.",
-                "type": "common noun - something helpful"
+                "text": "Ich habe kein Mitleid mit dir. Dafür habe ich <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Etwas nützliches"
             },
             "gene": [
                 "therapist",
@@ -1755,12 +1755,12 @@
         {
             "a": {
                 "examples": [
-                    "chess",
-                    "hopscotch",
-                    "Risk"
+                    "Schach",
+                    "Super Smash Bros",
+                    "Kniffel"
                 ],
-                "text": "I\u2019m the gamemaster playing you like <BLANK>.",
-                "type": "noun - a game"
+                "text": "Ich bin der Gamemaster und ich spiele mit dir <BLANK>.",
+                "type": "Nomen - Ein Spiel"
             },
             "gene": [
                 "backgammon",
@@ -1772,12 +1772,12 @@
         {
             "a": {
                 "examples": [
-                    "blow it",
-                    "lose",
-                    "bomb"
+                    "vermasseln",
+                    "nicht schaffen",
+                    "scheitern"
                 ],
-                "text": "Here\u2019s my message: You\u2019re guaranteed to <BLANK>.",
-                "type": "verb - synonym for 'fail'"
+                "text": "Meine Nachricht an dich: Du wirst es auf jeden Fall <BLANK>.",
+                "type": "Verb - Synonym für 'versagen'"
             },
             "gene": [
                 "self-destruct",
@@ -1806,12 +1806,12 @@
         {
             "a": {
                 "examples": [
-                    "joy",
-                    "anger",
-                    "pleasure"
+                    "Salami",
+                    "Paprika",
+                    "Mais"
                 ],
-                "text": "You ain\u2019t safe from my rhymes of <BLANK>.",
-                "type": "common noun - an emotion"
+                "text": "Meine Reime sind eine Delikatesse, gefüllt mit <BLANK>.",
+                "type": "Nomen - Ein Pizzabelag"
             },
             "gene": [
                 "despair",
@@ -1823,12 +1823,12 @@
         {
             "a": {
                 "examples": [
-                    "coming",
-                    "cooking",
-                    "doing"
+                    "kommen",
+                    "kochen",
+                    "spielen"
                 ],
-                "text": "Open your eyes, and see what\u2019s <BLANK>.",
-                "type": "verb ending w/ -ing"
+                "text": "Öffne deine Augen. Dann siehst du mich <BLANK>.",
+                "type": "ein Verb"
             },
             "gene": [
                 "shaking",
@@ -1840,12 +1840,12 @@
         {
             "a": {
                 "examples": [
-                    "physics",
-                    "fashion",
-                    "filmmaking"
+                    "Physiker",
+                    "Modedesigner",
+                    "Kameramann"
                 ],
-                "text": "Have you ever considered a career in <BLANK>?",
-                "type": "noun - an industry or area of interest"
+                "text": "Wolltest du nicht schon immer eine Karriere als <BLANK>?",
+                "type": "ein Beruf"
             },
             "gene": [
                 "gardening",
@@ -1857,12 +1857,12 @@
         {
             "a": {
                 "examples": [
-                    "licorice",
-                    "salad",
-                    "tuna"
+                    "Bob der Baumeister",
+                    "Cosmo und Wanda",
+                    "Kim Possible"
                 ],
-                "text": "This is my jam, that is your <BLANK>.",
-                "type": "noun - a food item"
+                "text": "Ich löse jedes Problem. Bin genau wie <BLANK>.",
+                "type": "Eine beliebte Kinderserie"
             },
             "gene": [
                 "cheese",
@@ -1874,12 +1874,12 @@
         {
             "a": {
                 "examples": [
-                    "trashy",
-                    "dumb",
-                    "worthless"
+                    "blöd",
+                    "dumm",
+                    "nutzlos"
                 ],
-                "text": "Compared to my words, yours are <BLANK>.",
-                "type": "negative adjective"
+                "text": "Wenn ich dich mit meinen Wörtern vergleiche bist du <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "sugar free",
