@@ -1338,8 +1338,8 @@
             "type":"Nomen - Berg"
          },
          "gene":[
-            "Mount Doom",
-            "I can\u2019t be the only L O T R freak in the room."
+            "Alpen",
+            "Ich schau mir dein Gesicht an und zähle hundert Falten."
          ],
          "x":false,
          "id":51714
@@ -1355,8 +1355,8 @@
             "type":"Verb"
          },
          "gene":[
-            "stampede",
-            "Hurts my feelings if they run away at light speed."
+            "lachen",
+            "Es ist nicht leicht immer alles richtig zu machen."
          ],
          "x":false,
          "id":51713
@@ -1372,8 +1372,8 @@
             "type":"Ein Tier"
          },
          "gene":[
-            "mongoose",
-            "We\u2019re both really good, let\u2019s call a truce."
+            "Eisbär",
+            "Sagen wir unentschieden, ich denke das klingt fair."
          ],
          "x":false,
          "id":50793
@@ -1386,11 +1386,11 @@
                "herausfinden"
             ],
             "text":"Ich bin der Größte, so kannst du es <BLANK>.",
-            "type":"Verb"
+            "type":"Verb - Synonym für 'bemerken'"
          },
          "gene":[
-            "moan",
-            "You don\u2019t have half the collectables I own."
+            "verstehen",
+            "Ich hab die größte Sammlung gestohlener Trophäen."
          ],
          "x":false,
          "id":50908
@@ -1406,8 +1406,8 @@
             "type":"Adjektiv - Eigenschaft eines Igels"
          },
          "gene":[
-            "snazziest",
-            "Steely Dan, your rock is the jazziest!"
+            "leise",
+            "Ab jetzt deinen Mund zu halten wäre sicher weise."
          ],
          "x":false,
          "id":50909
