@@ -1423,8 +1423,8 @@
             "type":"Verb"
          },
          "gene":[
-            "stumble",
-            "Are you hearing me all right? I tend to mumble."
+            "stolpern",
+            "Was du mit deinen Reimen machst gränzt an foltern."
          ],
          "x":false,
          "id":51756
@@ -1432,7 +1432,7 @@
       {
          "a":{
             "examples":[
-               "Wow",
+               "Yippie",
                "Hurrah",
                "Woah"
             ],
@@ -1440,8 +1440,8 @@
             "type":"Ein Ausruf"
          },
          "gene":[
-            "yippee",
-            "I\u2019m gonna win. You bet your sweet bippy!"
+            "Wow",
+            "Ich reime fies und zieh\u2019 dich durch den Kakao."
          ],
          "x":false,
          "id":50918
@@ -1457,8 +1457,8 @@
             "type":"Ein Ort"
          },
          "gene":[
-            "Stadtbezirk",
-            "My glasses look like George Costanza\u2019s."
+            "Freizeitpark",
+            "Gene ist nicht mein Name, eigentlich heiß ich Mark."
          ],
          "x":false,
          "id":50919
@@ -1474,8 +1474,8 @@
             "type":"Etwas schweres - Mehrzahl"
          },
          "gene":[
-            "whipping cream",
-            "After this can I tell you my weirdest dream?"
+            "Betten",
+            "Ich mach dich sofort fertig, darauf kannst du wetten."
          ],
          "x":false,
          "id":51728
@@ -1491,8 +1491,8 @@
             "type":"Ein Ort"
          },
          "gene":[
-            "New Orleans",
-            "When I wear, my new gabardines."
+            "Deutschland",
+            "Ein Land, so brilliant, ganz entspannt, Schmant und Sand, Hand in Hand."
          ],
          "x":false,
          "id":50920
@@ -1508,8 +1508,8 @@
             "type":"Unbestimmter Artikel + ein großes Objekt"
          },
          "gene":[
-            "eine Wolke",
-            "Try to keep it down. I don\u2019t like it loud."
+            "ein Haus",
+            "Mach\u2019 mal leise, sonst fliegen wir raus!"
          ],
          "x":false,
          "id":51576
@@ -1525,8 +1525,8 @@
             "type":"Adjektiv - Eigenschaft einer Ziege"
          },
          "gene":[
-            "politely",
-            "What\u2019s that movie, with Holly Golightly?"
+            "gemein",
+            "Mein Wunsch-Haustier ist ein Mini-Schwein"
          ],
          "x":false,
          "id":50923
@@ -1542,8 +1542,8 @@
             "type":"Ein Ort"
          },
          "gene":[
-            "Iceland",
-            "Bjork is from there, it seems like a nice land."
+            "Island",
+            "Björn kommt von dort, der schaut mich immer fies an."
          ],
          "x":false,
          "id":51541
@@ -1559,8 +1559,8 @@
             "type":"Berühmte Person"
          },
          "gene":[
-            "Bono",
-            "I missed the U 2 concert because I had mono."
+            "Super Mario",
+            "Bitte mach schnell, denn ich muss mal auf\u2019s Klo."
          ],
          "x":false,
          "id":51567
@@ -1576,7 +1576,7 @@
             "type":"Historische Figur"
          },
          "gene":[
-            "Daniel Boone",
+            "",
             "I changed the music game so call me Zune."
          ],
          "x":false,
