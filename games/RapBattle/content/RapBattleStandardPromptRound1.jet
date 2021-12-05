@@ -128,7 +128,7 @@
                "ein Baseball"
             ],
             "text":"Ich bin süßer als Bonbons, schärfer als <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen Singular"
+            "type":"Unbestimmter Artikel + Nomen Einzahl"
          },
          "gene":[
             "Geige",
@@ -1233,7 +1233,7 @@
                "hymne"
             ],
             "text":"Wah-ka-bam-zoo ist mein/e Kampf<BLANK>.",
-            "type":"Nomen Singular - Ein Laut"
+            "type":"Nomen Einzahl - Ein Laut"
          },
          "gene":[
             "poetry",
@@ -2134,7 +2134,7 @@
                "Rotzer"
             ],
             "text":"Deine Fans nennen sich Die <BLANK>.",
-            "type":"Negativer Spitzname - Plural"
+            "type":"Negativer Spitzname - Mehrzahl"
          },
          "gene":[
             "Beatles",
