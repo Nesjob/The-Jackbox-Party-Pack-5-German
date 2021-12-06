@@ -1569,15 +1569,15 @@
          "a":{
             "examples":[
                "George Washington",
-               "Angela Merkel",
+               "Konrad Adenauer",
                "Albert Einstein"
             ],
             "text":"Ich mache neue Regeln wie der moderne <BLANK>.",
-            "type":"Historische Figur"
+            "type":"Historische Figur (männlich)"
          },
          "gene":[
-            "",
-            "I changed the music game so call me Zune."
+            "Julius Cäsar",
+            "Mit mir startet für Musik eine neue Era"
          ],
          "x":false,
          "id":51708
@@ -1593,8 +1593,8 @@
             "type":"Handwerkerberuf"
          },
          "gene":[
-            "crawler",
-            "I hear LeBron James is a fairly good baller."
+            "Maler",
+            "Pass besser auf, ich bin ein echter Wuppertaler!"
          ],
          "x":false,
          "id":51709
@@ -1610,8 +1610,8 @@
             "type":"Nomen - Eine Zutat für Kuchen"
          },
          "gene":[
-            "yeast",
-            "My doctors aren\u2019t happy, to say the least."
+            "Butter",
+            "Morgen besuch\u2019 ich meine Urgroßmutter."
          ],
          "x":true,
          "id":51616
@@ -1627,8 +1627,8 @@
             "type":"Verb - Tätigkeit im Dschungel"
          },
          "gene":[
-            "floating",
-            "I like baked beans but not the bloating."
+            "schlafen",
+            "Ich mag Fisch aus Bremerhaven."
          ],
          "x":false,
          "id":50924
@@ -1644,8 +1644,8 @@
             "type":"Unbestimmter Artikel + Kleidungsstück"
          },
          "gene":[
-            "bandana",
-            "Which I wear when I sing \u2018Oh Susanna.\u2019"
+            "eine Jacke",
+            "Die ich trage, wenn ich im Winter Holz hacke."
          ],
          "x":false,
          "id":51696
@@ -1661,8 +1661,8 @@
             "type":"Eine alte Fernsehsendung"
          },
          "gene":[
-            "inside",
-            "Hope the game ends with all of us tied!"
+            "Telespiel",
+            "Hoffentlich lernst du in der Schule viel."
          ],
          "x":false,
          "id":50931
@@ -1678,8 +1678,8 @@
             "type":"Nomen"
          },
          "gene":[
-            "animal crackers",
-            "Wanna crowdfund my flow but I need more backers."
+            "Weizenfeld",
+            "Hoffe ich bekomm\u2019 für diesen Rap nen Haufen Geld."
          ],
          "x":false,
          "id":51562
@@ -1687,16 +1687,16 @@
       {
          "a":{
             "examples":[
-               "Breaking Bad",
-               "One Punch Man",
-               "Stranger Things"
+               "\u2019Breaking Bad\u2019",
+               "\u2019One Punch Man\u2019",
+               "\u2019Stranger Things\u2019"
             ],
             "text":"Meine Lines sitzen tief wie die Episode aus <BLANK>.",
             "type":"Eine Serie"
          },
          "gene":[
-            "\u2019Twilight Zone\u2019",
-            "I sleep with a big pillow so I don\u2019t feel alone."
+            "\u2019Futurama\u2019",
+            "Ich schlafe mit nem Kissen, das aussieht wie ein Llama."
          ],
          "x":false,
          "id":51645
