@@ -1848,8 +1848,8 @@
             "type":"Teil vom Gesicht - Einzahl"
          },
          "gene":[
-            "thumb",
-            "I can stick it in a pie and pull out a plum."
+            "Mund",
+            "Esse täglich Kuchen und bin dennoch kern-gesund."
          ],
          "x":false,
          "id":51526
@@ -1865,8 +1865,8 @@
             "type":"Verb"
          },
          "gene":[
-            "flopping",
-            "Need a flopper? I can get your party hopping."
+            "angeln",
+            "Wenn ich mit der fertig bin wird es dir an Atem mangeln."
          ],
          "x":false,
          "id":51631
@@ -1882,8 +1882,8 @@
             "type":"Eine Krankheit"
          },
          "gene":[
-            "butt itch",
-            "Go ahead and scratch. I won\u2019t snitch."
+            "Fieber",
+            "Alle trinken Alkohol doch Cola ist mir lieber."
          ],
          "x":true,
          "id":51601
@@ -1899,8 +1899,8 @@
             "type":"Ein magischer Charakter"
          },
          "gene":[
-            "Radagast",
-            "Man, his giant rabbits ran fast!"
+            "Lord Voldemort",
+            "Fette Reime raushauen ist mein Lieblingssport"
          ],
          "x":false,
          "id":50932
@@ -1916,8 +1916,8 @@
             "type":"Unbestimmter Artikel + ein Geschäft"
          },
          "gene":[
-            "zoo",
-            "I\u2019d love to have a hedgehog rolling in my crew."
+            "eine Tankstelle",
+            "Meine Freundin mag es wenn ich wie ein Hund belle."
          ],
          "x":false,
          "id":51503
@@ -1933,8 +1933,8 @@
             "type":"Ein cooler Name"
          },
          "gene":[
-            "Comedy",
-            "Though I\u2019d say my style is closer to, dramedy."
+            "Explosion",
+            "\u2019Ich bin stolz auf dich\u2019, würd\u2019 ich sagen, wärst du mein Sohn."
          ],
          "x":false,
          "id":51615
@@ -1950,8 +1950,8 @@
             "type":"Eine Zeitschrift"
          },
          "gene":[
-            "Highlights",
-            "Those hidden picture puzzles test my eyesight."
+            "Spiegel",
+            "Wenn ich gleich zu Hause bin, gönn\u2019 ich mir nen Schokoriegel."
          ],
          "x":false,
          "id":51539
@@ -1967,8 +1967,8 @@
             "type":"Eine häufig kritisierte Person"
          },
          "gene":[
-            "nerdiest",
-            "On \u2018Sesame Street\u2019 I liked Big Bird the best."
+            "Jeff Bezos",
+            "Kieselsteine sind als Währung wertlos."
          ],
          "x":false,
          "id":51387
@@ -1984,8 +1984,8 @@
             "type":"Eine kleine Stadt"
          },
          "gene":[
-            "Thanksgiving Day parades",
-            "Would you prefer another game? Say, charades?"
+            "Erwitte",
+            "Hast du Lust auf Schweinchen in der Mitte?"
          ],
          "x":false,
          "id":51373
@@ -2001,8 +2001,8 @@
             "type":"Nomen Mehrzahl - Pflanzen"
          },
          "gene":[
-            "daffodils",
-            "They\u2019re so pretty when u see them in window sills."
+            "Orchideen",
+            "So langsam mangelt es mir an Ideen."
          ],
          "x":false,
          "id":51559
