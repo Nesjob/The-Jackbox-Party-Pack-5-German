@@ -2014,12 +2014,12 @@
                "die Musik",
                "das Klebeband"
             ],
-            "text":"Schau nicht hin, ich stehle gleich <BLANK>.",
+            "text":"Schau nicht hin, mir gehört gleich <BLANK>.",
             "type":"Artikel + Nomen"
          },
          "gene":[
-            "childhood",
-            "They\u2019ve remade some movies that weren\u2019t any good."
+            "der Bus",
+            "Hollywood macht nur noch remakes, ich frag\u2019 mich ob das sein muss."
          ],
          "x":false,
          "id":51603
@@ -2035,8 +2035,8 @@
             "type":"Ein Ort"
          },
          "gene":[
-            "Kalamazoo",
-            "They know me pretty good there anyhoo."
+            "Dänemark",
+            "Ich bin cool, weil ich teure Sneaker trag."
          ],
          "x":false,
          "id":50935
@@ -2052,8 +2052,8 @@
             "type":"Unbestimmter Artikel + Nomen - Etwas fliegendes"
          },
          "gene":[
-            "Superman",
-            "\u2019Lois & Clark\u2019 era, I\u2019m a very big fan."
+            "Zeppelin",
+            "Wenn ich rappe reim\u2019 ich gerne auf Berlin."
          ],
          "x":false,
          "id":51665
@@ -2069,8 +2069,8 @@
             "type":"Verb"
          },
          "gene":[
-            "play",
-            "Other things like instruments."
+            "spielen",
+            "Wenn\u2019s um detsche Rapper geht bin ich einer von ganz vielen."
          ],
          "x":false,
          "id":51231
@@ -2086,8 +2086,8 @@
             "type":"Das letzte, was du gekauft hast"
          },
          "gene":[
-            "poster of ALF",
-            "John Goodman\u2019s best role was in \u2018King Ralph.\u2019"
+            "ein Bobbycar",
+            "Til Schweiger war der beste Tatort-Kommissar"
          ],
          "x":false,
          "id":51389
@@ -2103,8 +2103,8 @@
             "type":"Ein Schulfach"
          },
          "gene":[
-            "Flintstones",
-            "There\u2019s a trade-in special now on Sprint phones."
+            "Musik",
+            "Ich bin ein echter Rap-Roboter, du bist nur ein Freak."
          ],
          "x":false,
          "id":51375
@@ -2120,8 +2120,8 @@
             "type":"positives Adjektiv"
          },
          "gene":[
-            "accessible",
-            "My Uncle Scott is just not impressible."
+            "gut",
+            "Ich schenke meinem Onkel einen Hut."
          ],
          "x":false,
          "id":51374
@@ -2137,8 +2137,8 @@
             "type":"Negativer Spitzname - Mehrzahl"
          },
          "gene":[
-            "Beatles",
-            "Which is weird cuz there\u2019s a band called that."
+            "Nudeln",
+            "Vielleicht probier\u2019 ich anstatt rappen auch mal jodeln."
          ],
          "x":false,
          "id":51306
@@ -2154,8 +2154,8 @@
             "type":"Ein Kindheitsheld"
          },
          "gene":[
-            "necklace",
-            "Maybe it\u2019ll distract, from my freckles."
+            "Super Mario",
+            "Einmal dieses Spiel gewinnen, das ist ein Traumszenario."
          ],
          "x":false,
          "id":50936
@@ -2171,8 +2171,8 @@
             "type":"Ein Dessert"
          },
          "gene":[
-            "Jell-O",
-            "When I look down on you, I\u2019ll yell hello!"
+            "Vanilleeis",
+            "Ich bin neu hier, ignorier meinen Angstschweiß..."
          ],
          "x":false,
          "id":51344
@@ -2188,8 +2188,8 @@
             "type":"Artikel + Eine Funktion im Auto"
          },
          "gene":[
-            "seatwarmer",
-            "My dream job? Maybe, circus performer?"
+            "der Sicherheitsgurt",
+            "Könnt\u2019 ich einen anderen Namen haben? Vielleicht Kurt."
          ],
          "x":false,
          "id":50937
@@ -2205,8 +2205,8 @@
             "type":"Ein Promi"
          },
          "gene":[
-            "LIberace",
-            "Don\u2019t know who he is? YouTube him and watchy."
+            "Günther Jauch",
+            "Reimen ist echt schwer, ich steh\u2019 oft auf dem Schlauch."
          ],
          "x":false,
          "id":51349
@@ -2222,8 +2222,8 @@
             "type":"Ein magische Person"
          },
          "gene":[
-            "Stevie Nicks",
-            "I flavor my coffee with boxed cake mix."
+            "Teller",
+            "Du hörst nicht was ich sage, denn ich rappe immer schneller."
          ],
          "x":false,
          "id":51342
@@ -2239,8 +2239,8 @@
             "type":"Verb - kindische Aktion"
          },
          "gene":[
-            "toot",
-            "So I make train noises, they think it\u2019s a hoot."
+            "weinen",
+            "Nen besseren im Reimen, davon gibt es keinen."
          ],
          "x":false,
          "id":51308
@@ -2248,7 +2248,7 @@
       {
          "a":{
             "examples":[
-               "Caeser",
+               "Cäsar",
                "Napoleon",
                "Cleopatra"
             ],
@@ -2256,8 +2256,8 @@
             "type":"Eine Person mit historischer Relevanz"
          },
          "gene":[
-            "Mary Queen of Scots",
-            "I skip the fries and go with tater tots."
+            "Jesus Christus",
+            "Mit einem rosa Gummibot überquere ich nen Fluss."
          ],
          "x":true,
          "id":51331
@@ -2273,8 +2273,8 @@
             "type":"Nomen Mehrzahl - Teil eines Körpers"
          },
          "gene":[
-            "philtrum",
-            "Each time I drink this milk, I spill some."
+            "Händen",
+            "Fühle mich ganz einsam, in meinen eigenen vier Wänden."
          ],
          "x":false,
          "id":50939
@@ -2290,8 +2290,8 @@
             "type":"Luxusobjekt"
          },
          "gene":[
-            "table setting",
-            "Protein and vegetables, is what it\u2019s getting."
+            "Villa",
+            "Bin ganz glücklich, wenn ich meine Reime triller."
          ],
          "x":false,
          "id":51377
@@ -2307,8 +2307,8 @@
             "type":"Fiktionaler Charakter"
          },
          "gene":[
-            "BoJack Horseman",
-            "A friend needs help moving, I say \u2018of course man\u2019!"
+            "Luke Skywalker",
+            "Braucht mein bester Freund mal Hilfe, sage ich \u2018Na klar\u2019!"
          ],
          "x":false,
          "id":51326
@@ -2324,8 +2324,8 @@
             "type":"Unbestimmter Artikel + Begriff für etwas schlaues"
          },
          "gene":[
-            "poindexter",
-            "Is that your girlfriend? Can I sit next t\u2019er?"
+            "ein Computer",
+            "Rappt der Gene denn immer noch? Ja, das tut er."
          ],
          "x":false,
          "id":50941
@@ -2341,8 +2341,8 @@
             "type":"Nomen Mehrzahl - Etwas schweres"
          },
          "gene":[
-            "marble slabs",
-            "I prefer to ride in traditional taxi cabs."
+            "Marmorplatten",
+            "Karl und Max, so heißen meine Haustier-Ratten."
          ],
          "x":false,
          "id":51341
@@ -2358,8 +2358,8 @@
             "type":"Nomen Mehrzahl - Ein schönes Geschenk"
          },
          "gene":[
-            "bundt cakes",
-            "My family has a house up at the Great Lakes."
+            "Goldketten",
+            "Meine Eltern haben ein Haus mit dreizehn Betten."
          ],
          "x":false,
          "id":51340
@@ -2375,8 +2375,8 @@
             "type":"Unbestimmter Artikel + Eine mögliche Gefahr"
          },
          "gene":[
-            "jar of mayo",
-            "That\u2019s been out in the sun all the long day-oh."
+            "eine Glasscherbe",
+            "Hab überlegt ob ich mich für nen anderen Job bewerbe."
          ],
          "x":false,
          "id":50942
