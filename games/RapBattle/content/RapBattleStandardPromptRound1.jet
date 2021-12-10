@@ -2392,8 +2392,8 @@
             "type":"Ein Küchengerät"
          },
          "gene":[
-            "tea pot",
-            "Earl Grey is the best tea I\u2019ve ever bought."
+            "Topf",
+            "Meine Reime sind explosiver Sprengstoff."
          ],
          "x":true,
          "id":51325
@@ -2410,7 +2410,7 @@
          },
          "gene":[
             "Merlin",
-            "But get me near the rollercoaster I\u2019m hurlin\u2019."
+            "Frag\u2019 mich ob ich als Bäcker mehr verdien\u2019."
          ],
          "x":false,
          "id":51302
@@ -2426,8 +2426,8 @@
             "type":"Verb - Eine langweilige Aktivität"
          },
          "gene":[
-            "whittle",
-            "It\u2019s something I\u2019ve enjoyed since I was little."
+            "einkaufen",
+            "Auto fahren ist umweltschädlich, ich gehe lieber laufen."
          ],
          "x":false,
          "id":51303
@@ -2443,8 +2443,8 @@
             "type":"Nomen Mehrzahl - Büromaterial"
          },
          "gene":[
-            "desks",
-            "That\u2019ll be a hard-to-read word, I\u2019ll besks."
+            "Schreibtische",
+            "Kann kaum warten dein Gesicht zu sehen, wenn ich mit dir den Boden wische."
          ],
          "x":false,
          "id":51305
@@ -2460,8 +2460,8 @@
             "type":"Ein Körperteil"
          },
          "gene":[
-            "feet",
-            "Darn these hand me down socks from Uncle Pete."
+            "Arm",
+            "Ich lebe seit ich klein war auf \u2019ner Farm."
          ],
          "x":false,
          "id":50943
@@ -2477,8 +2477,8 @@
             "type":"Eine Supermarktkette"
          },
          "gene":[
-            "cleaners",
-            "Dachsunds are dogs that look like weiners!"
+            "Media Markt",
+            "Zeilen und Reime, die dich zerstören? Abgehakt."
          ],
          "x":false,
          "id":50944
@@ -2487,15 +2487,15 @@
          "a":{
             "examples":[
                "Held",
-               "Auftraggeber",
+               "Freund",
                "Anwalt"
             ],
             "text":"Erfolg ist mein bester Freund, Versagen ist mein/e <BLANK>.",
-            "type":"Personenbezeichnung"
+            "type":"Nomen - Personenbezeichnung"
          },
          "gene":[
-            "unpaid extra",
-            "If I showed you all my stamps, it\u2019d sure impress ya."
+            "Idiot",
+            "Morgen kauf ich mir ein Kastenbrot."
          ],
          "x":false,
          "id":51225
@@ -2511,8 +2511,8 @@
             "type":"Dein Rappername"
          },
          "gene":[
-            "Glen",
-            "I like to get to bed by quarter after 10."
+            "MC Comupter",
+            "Wenn meine Reime nicht gut ankommen, check mal deinen Router."
          ],
          "x":false,
          "id":51295
@@ -2528,8 +2528,8 @@
             "type":"Verb"
          },
          "gene":[
-            "matter",
-            "Excuse me, gotta go empty the ol\u2019 bladder."
+            "spielen",
+            "."
          ],
          "x":true,
          "id":51304
