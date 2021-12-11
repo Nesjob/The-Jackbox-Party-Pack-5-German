@@ -2529,7 +2529,7 @@
          },
          "gene":[
             "spielen",
-            "."
+            "Ich bekomme Post von Fans, von richtig vielen."
          ],
          "x":true,
          "id":51304
@@ -2545,8 +2545,8 @@
             "type":"Ein Ausruf"
          },
          "gene":[
-            "Hello!",
-            "And then I give a tip of my jaunty chapeau."
+            "Miau!",
+            "Sorry, dass ich spät war, ich stand noch im Stau."
          ],
          "x":false,
          "id":51296
@@ -2562,8 +2562,8 @@
             "type":"Nomen Mehrzahl"
          },
          "gene":[
-            "hugs",
-            "Let\u2019s hit Micky D\u2019s cause I gotta get my nugs."
+            "Kerzen",
+            "Alles was ich sage kommt von Herzen."
          ],
          "x":false,
          "id":51197
@@ -2579,8 +2579,8 @@
             "type":"positives Adjektiv"
          },
          "gene":[
-            "calm",
-            "Some make the mistake that I am embalmed."
+            "friedlich",
+            "Alles was mir zu deinen Reimen einfällt ist \u2018niedlich\u2019."
          ],
          "x":false,
          "id":51264
@@ -2596,8 +2596,8 @@
             "type":"Verb"
          },
          "gene":[
-            "yodel",
-            "Dorian is a musical scale that\u2019s modal."
+            "arbeiten",
+            "Müssen wir uns wirklich immer streiten?"
          ],
          "x":false,
          "id":51294
@@ -2613,8 +2613,8 @@
             "type":"Das letzte Land, das du besucht hast"
          },
          "gene":[
-            "junket",
-            "Of Titanic, they say an iceberg sunk it."
+            "Kanada",
+            "Bei meinem letzten Konzert war leider keiner da..."
          ],
          "x":false,
          "id":51265
@@ -2630,8 +2630,8 @@
             "type":"Ein sinnloses Wort"
          },
          "gene":[
-            "hootley bagoo",
-            "That\u2019s what I yell as I walk through the zoo."
+            "Bim-Bam-Bo",
+            "Das schrei\u2019 ich wenn ich laufe durch den Zoo."
          ],
          "x":false,
          "id":51271
@@ -2647,8 +2647,8 @@
             "type":"Ein Tier"
          },
          "gene":[
-            "Tasmanian devil",
-            "An angled surface, is known as a bevel."
+            "Hund",
+            "Haben wir für dieses Battle eigenltich einen Grund?"
          ],
          "x":false,
          "id":51270
@@ -2664,8 +2664,8 @@
             "type":"Adjektiv"
          },
          "gene":[
-            "puffy",
-            "My friend Tammy\u2019s parakeet\u2019s name is Fluffy."
+            "dick",
+            "Mein liebster Adam Sandler Film ist \u2018Klick!\u2019."
          ],
          "x":false,
          "id":51268
@@ -2681,8 +2681,8 @@
             "type":"Nomen Mehrzahl - Etwas teures"
          },
          "gene":[
-            "guacamole",
-            "It\u2019s made from avocados you know-lay."
+            "Supreme Klamotten",
+            "Ich liebe es alte Technik zu verschrotten."
          ],
          "x":false,
          "id":51267
@@ -2698,8 +2698,8 @@
             "type":"Nomen Mehrzahl - Begriffe für Schläge"
          },
          "gene":[
-            "haymakers",
-            "Were Santa\u2019s elves, also his sleigh makers?"
+            "Schläge",
+            "Brauchst du ein Glas Wasser? Du wirkst echt träge."
          ],
          "x":false,
          "id":51250
@@ -2715,8 +2715,8 @@
             "type":"positives Adjektiv"
          },
          "gene":[
-            "presentable",
-            "I am aware, bad breath is preventable."
+            "fantastisch",
+            "Ich weiß genau, mein Atem ist immer frisch."
          ],
          "x":false,
          "id":51259
@@ -2732,8 +2732,8 @@
             "type":"Ein Beruf"
          },
          "gene":[
-            "sales rep",
-            "But \u2018Rango\u2019 is the best work by Johnny Depp."
+            "Verkäufer",
+            "Hab mehr Ausdauer als ein Marathon-Läufer."
          ],
          "x":false,
          "id":50945
