@@ -93,7 +93,7 @@
                "Tischler",
                "Arzt"
             ],
-            "text":"Ich bin erwachsen, ein/e wahrhafte/r <BLANK>.",
+            "text":"Ich bin erwachsen, wahrhaft ein/e <BLANK>.",
             "type":"eine Berufsbezeichnung"
          },
          "gene":[
@@ -131,7 +131,7 @@
             "type":"Unbestimmter Artikel + Nomen Einzahl"
          },
          "gene":[
-            "Geige",
+            "eine Geige",
             "Leg dich nicht mit mir an, dafür bist du zu feige."
          ],
          "x":false,
@@ -982,7 +982,7 @@
          },
          "gene":[
             "McDonalds",
-            "War gar nicht so schlecht, denn es gab immer Partys!"
+            "War gar nicht so schlecht, denn es gab immer Pommes!"
          ],
          "x":false,
          "id":51807
@@ -1097,7 +1097,7 @@
                "kochen"
             ],
             "text":"Mein Gehirn ist so groß, mein Kopf droht zu <BLANK>.",
-            "type":"Verb - Was machst du mit einem Ei?"
+            "type":"Verb - Etwas, was man mit einem Ei macht"
          },
          "gene":[
             "explodieren",
@@ -1245,15 +1245,15 @@
       {
          "a":{
             "examples":[
-               "Trommel",
-               "Triangel",
-               "Geige"
+               "eine Trommel",
+               "eine Triangel",
+               "eine Geige"
             ],
-            "text":"Mein Mund ist wie eine Trompete, mein Gehirn wie ein/e <BLANK>.",
-            "type":"Nomen - Musikalisches Instrument"
+            "text":"Mein Mund ist wie eine Trompete, mein Gehirn wie <BLANK>.",
+            "type":"Unbestimmter Artikel + Nomen - Musikinstrument"
          },
          "gene":[
-            "Flöte",
+            "eine Flöte",
             "Deine Stimme ist schlimmer als die einer Kröte."
          ],
          "x":false,
