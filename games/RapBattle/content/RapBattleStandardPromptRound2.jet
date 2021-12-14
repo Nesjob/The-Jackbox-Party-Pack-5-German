@@ -3438,12 +3438,12 @@
         {
             "a": {
                 "examples": [
-                    "buried",
-                    "trounced",
-                    "wasted"
+                    "Addition",
+                    "Satz des Pythagoras",
+                    "Multiplikation"
                 ],
-                "text": "Only one can survive that means you get <BLANK>.",
-                "type": "verb ending w/ -ed"
+                "text": "Ich bin unberechenbar, ich beherrsche <BLANK>.",
+                "type": "Eine mathematische Grundrechenart (oder ein Satz)"
             },
             "gene": [
                 "dunked",
@@ -3455,12 +3455,12 @@
         {
             "a": {
                 "examples": [
-                    "hello",
-                    "greetings",
-                    "good day"
+                    "Hallöchen",
+                    "Gruezi",
+                    "Einen schönen guten Tag"
                 ],
-                "text": "Anyone home in there? <BLANK>?",
-                "type": "a greeting"
+                "text": "Ist jemand zuhause? <BLANK>?",
+                "type": "Eine Begrüßung"
             },
             "gene": [
                 "ahoy",
@@ -3472,12 +3472,12 @@
         {
             "a": {
                 "examples": [
-                    "birthdate",
-                    "height",
-                    "eye color"
+                    "Geburtstag",
+                    "Körpergewicht",
+                    "Postleitzahl"
                 ],
-                "text": "When I\u2019m done u won\u2019t remember your <BLANK>.",
-                "type": "noun - driver's license info"
+                "text": "Wenn ich mit dir fertig bin vergisst du dein/e/n <BLANK>.",
+                "type": "Nomen - Eine Angabe auf deinem Ausweis"
             },
             "gene": [
                 "social",
@@ -3489,12 +3489,12 @@
         {
             "a": {
                 "examples": [
-                    "twelve-thousand",
-                    "a googol",
-                    "sextillion"
+                    "Zwanzigtausend",
+                    "ein Dutzend",
+                    "eine Milliarde"
                 ],
-                "text": "The only chance you got is one in <BLANK>.",
-                "type": "noun - a large number"
+                "text": "Deine Change mich zu besiegen liegt bei eins zu <BLANK>.",
+                "type": "Eine hohe Zahl"
             },
             "gene": [
                 "16",
@@ -3506,12 +3506,12 @@
         {
             "a": {
                 "examples": [
-                    "cream cheese",
-                    "Easter peeps",
-                    "Jell-O"
+                    "Sahnetorte",
+                    "Ostereier",
+                    "Wackelpudding"
                 ],
-                "text": "Your rhymes are soft, like <BLANK>.",
-                "type": "plural noun - soft food"
+                "text": "Deine Reime sind weich, genau wie <BLANK>.",
+                "type": "Nomen Mehrzahl - Etwas weiches zu Essen"
             },
             "gene": [
                 "brownies",
@@ -3523,12 +3523,12 @@
         {
             "a": {
                 "examples": [
-                    "severely",
-                    "intensely",
-                    "strongly"
+                    "telefonieren",
+                    "zu spät kommen",
+                    "Überstunden machen"
                 ],
-                "text": "You aspire to greatness but you perspire <BLANK>.",
-                "type": "adverb - intensity"
+                "text": "Mein Ziel ist der Erfolg und das schaff ich durchs <BLANK>.",
+                "type": "Verb - Etwas, was man am Arbeitsplatz macht"
             },
             "gene": [
                 "wetly",
@@ -3541,11 +3541,11 @@
             "a": {
                 "examples": [
                     "Halloween",
-                    "Thanksgiving",
-                    "Labor Day"
+                    "Fronleichnam",
+                    "Tag der Arbeit"
                 ],
-                "text": "Lighting you up, like it\u2019s <BLANK>.",
-                "type": "noun - a holiday"
+                "text": "Guck nicht so traurig, immerhin ist heute <BLANK>.",
+                "type": "Ein Feiertag"
             },
             "gene": [
                 "Star Wars Day",
@@ -3557,12 +3557,12 @@
         {
             "a": {
                 "examples": [
-                    "plunger",
-                    "stove",
-                    "couch"
+                    "ein Pömpel",
+                    "ein Elektroherd",
+                    "ein Staubsauger"
                 ],
-                "text": "I\u2019m so clean. You\u2019re as dirty as your <BLANK>.",
-                "type": "noun - household object"
+                "text": "Ich bin super sauber. Du eher so dreckig wie <BLANK>.",
+                "type": "Unbestimmter Artikel + Haushaltsgerät"
             },
             "gene": [
                 "plates",
@@ -3574,12 +3574,12 @@
         {
             "a": {
                 "examples": [
-                    "pound cake",
-                    "Twinkies",
-                    "strudel"
+                    "Salzstangen",
+                    "Kartoffelchips",
+                    "Brezel"
                 ],
-                "text": "If you come at me you better bring <BLANK>.",
-                "type": "plural noun - dessert"
+                "text": "Kommst du mich besuchen hast du besser <BLANK>.",
+                "type": "Nomen Mehrzahl - Ein Snack"
             },
             "gene": [
                 "eclairs",
@@ -3591,12 +3591,12 @@
         {
             "a": {
                 "examples": [
-                    "graduation",
+                    "die Führerscheinprüfung",
                     "\u2019Game of Thrones\u2019",
-                    "Christmas dinner"
+                    "das Weihnachtsessen"
                 ],
-                "text": "I\u2019ll mess you up make you miss <BLANK>.",
-                "type": "noun - an event"
+                "text": "Wegen mir verpasst du <BLANK>.",
+                "type": "(Artikel) + Nomen - Ein Ereignis"
             },
             "gene": [
                 "the aurora borealis",
@@ -3608,12 +3608,12 @@
         {
             "a": {
                 "examples": [
-                    "beefy",
-                    "mopey",
-                    "stinky"
+                    "Hamster",
+                    "Katze",
+                    "Wellensittich"
                 ],
-                "text": "I\u2019m getting to you. You look all <BLANK>.",
-                "type": "adjective ending w/ -y"
+                "text": "Und jetzt zu dir. Du stinkst nach <BLANK>.",
+                "type": "Ein Haustier"
             },
             "gene": [
                 "wormy",
@@ -3625,12 +3625,12 @@
         {
             "a": {
                 "examples": [
-                    "Care Bear",
+                    "Meister Proper",
                     "Batman",
-                    "Elmo"
+                    "Graf Zahl"
                 ],
-                "text": "Have you ever heard you look like a <BLANK>.",
-                "type": "proper noun - doll or action figure"
+                "text": "Hat dir schon mal wer gesagt, du siehst aus wie <BLANK>.",
+                "type": "Eine fiktive Figur"
             },
             "gene": [
                 "GI Joe",
@@ -3643,11 +3643,11 @@
             "a": {
                 "examples": [
                     "Napoleon",
-                    "Joan of Arc",
-                    "Harry Truman"
+                    "Konrad Adenauer",
+                    "Julius Caesar"
                 ],
-                "text": "Look at you, you\u2019re dressed like <BLANK>.",
-                "type": "proper noun - historical figure"
+                "text": "Sieh dich doch mal an, du bist angezogen wie <BLANK>.",
+                "type": "Eine historische Person"
             },
             "gene": [
                 "Teddy Roosevelt",
@@ -3659,12 +3659,12 @@
         {
             "a": {
                 "examples": [
-                    "\u2019Snow White\u2019",
-                    "\u2019Lilo and Stitch\u2019",
-                    "\u2019The Lion King\u2019"
+                    "\u2019Die Eiskönigin\u2019",
+                    "\u2019Benjamin Blümchen\u2019",
+                    "\u2019König der Löwen\u2019"
                 ],
-                "text": "There\u2019s no happy ending this isn\u2019t <BLANK>.",
-                "type": "kids' movie title"
+                "text": "Hier gibt es kein Happy-End, das ist nicht <BLANK>.",
+                "type": "Name eines Films für Kinder"
             },
             "gene": [
                 "\u2019Pete\u2019s Dragon\u2019",
@@ -3676,12 +3676,12 @@
         {
             "a": {
                 "examples": [
-                    "Arby\u2019s",
-                    "Olive Garden",
-                    "Applebee\u2019s"
+                    "Heidi Klum",
+                    "Joachim Löw",
+                    "Sascha Grammel"
                 ],
-                "text": "Are you lost? Did you think this was <BLANK>?",
-                "type": "proper noun - a restaurant"
+                "text": "Dein ernst? Dachtest du das wäre <BLANK>?",
+                "type": "Ein Promi"
             },
             "gene": [
                 "White Castle",
@@ -3693,12 +3693,12 @@
         {
             "a": {
                 "examples": [
-                    "sneeze",
-                    "giggle",
-                    "belch"
+                    "niesen",
+                    "schlucken",
+                    "husten"
                 ],
-                "text": "This will be over before you can <BLANK>.",
-                "type": "verb - bodily function"
+                "text": "Gleich ist es vorbei, so schnell kannst du nicht <BLANK>.",
+                "type": "Verb - Eine Körperfunktion"
             },
             "gene": [
                 "poo",
@@ -3710,12 +3710,12 @@
         {
             "a": {
                 "examples": [
-                    "gentle breeze",
-                    "summer rain",
-                    "patch of fog"
+                    "eine Lawine",
+                    "der Sommerregen",
+                    "der Schnee"
                 ],
-                "text": "I\u2019m a hurricane. You\u2019re a <BLANK>.",
-                "type": "common noun - weather related"
+                "text": "Ich bin ein Hurrikan, du bist <BLANK>.",
+                "type": "Artikel + Nomen - Ein Wetterzustand"
             },
             "gene": [
                 "puffy cloud",
