@@ -2749,8 +2749,8 @@
             "type":"Verb"
          },
          "gene":[
-            "percolating",
-            "If that\u2019s Beyonce, I\u2019m dancing not waiting!"
+            "pulsieren",
+            "Ich werde dieses Schlachtfeld kontrollieren."
          ],
          "x":false,
          "id":50946
@@ -2766,8 +2766,8 @@
             "type":"Ein Gericht"
          },
          "gene":[
-            "spaghetti",
-            "If a noodle sticks to the wall, it\u2019s ready."
+            "Bratkartoffeln",
+            "Du haust mich echt aus den Pantoffeln."
          ],
          "x":false,
          "id":50947
@@ -2777,14 +2777,14 @@
             "examples":[
                "ein Erdbeben",
                "ein Schneesturm",
-               "starker Regen"
+               "ein starker Regen"
             ],
             "text":"Meine Raps sind so wütend, dich erwartet <BLANK>.",
-            "type":"Eine Naturkatastrophe"
+            "type":"unbestimmter Artikel + Eine Naturkatastrophe"
          },
          "gene":[
-            "white squall",
-            "Cuz I\u2019m the Jeff Bridges of having it all."
+            "ein Tornado",
+            "Der Hulk sieht aus wie eine riesen Avocado."
          ],
          "x":false,
          "id":51146
@@ -2800,8 +2800,8 @@
             "type":"Ein berühmter Künstler"
          },
          "gene":[
-            "Kenny G",
-            "He plays soprano sax, you see."
+            "Herbert Grönemeyer",
+            "Ohne ihn ist es keine Feier."
          ],
          "x":false,
          "id":50948
@@ -2811,14 +2811,14 @@
             "examples":[
                "eine Maschine",
                "eine Pistole",
-               "ein Gewehr"
+               "eine Bombe"
             ],
             "text":"Du siehst mich lieber als <BLANK>.",
             "type":"Unbestimmter Artikel + Ein mächtiges Objekt"
          },
          "gene":[
-            "villain",
-            "Whenever I drink grape juice, it\u2019s spillin\u2019."
+            "ein Gewehr",
+            "Von Musik bekomm ich nie genug, gib mir mehr."
          ],
          "x":false,
          "id":50949
@@ -2834,8 +2834,8 @@
             "type":"Ein Schulfach"
          },
          "gene":[
-            "civics",
-            "Todd has a new Civic. It\u2019s pretty sweet."
+            "Sport",
+            "Ich brauche Milch und Kekse und zwar sofort!."
          ],
          "x":false,
          "id":50950
@@ -2851,8 +2851,8 @@
             "type":"Artikel + Etwas helles"
          },
          "gene":[
-            "Christmas ornament",
-            "My bracket got busted in the hoops tournament."
+            "der Computermonitor",
+            "Mit ner Sonnenbrille sorgt man vor."
          ],
          "x":false,
          "id":50779
@@ -2868,8 +2868,8 @@
             "type":"Adjektiv"
          },
          "gene":[
-            "frail",
-            "I don\u2019t have the energy to stop an assassination."
+            "schlau",
+            "Ich kenne alle Farben, eine davon ist grau."
          ],
          "x":false,
          "id":51191
@@ -2885,8 +2885,8 @@
             "type":"Eine Süßigkeit"
          },
          "gene":[
-            "Necco Wafers",
-            "I got cute animals as my main screensavers."
+            "Kit Kat",
+            "Die Katze meiner Oma war im Sonntagsblatt."
          ],
          "x":false,
          "id":51093
@@ -2902,8 +2902,8 @@
             "type":"Mehrzahl - Gebäck"
          },
          "gene":[
-            "focaccia",
-            "My water pressure is iffy, so I can\u2019t wash ya."
+            "Kuchen",
+            "Hilfst du mir dabei meine Schlüssel zu suchen?"
          ],
          "x":false,
          "id":50782
@@ -2919,8 +2919,8 @@
             "type":"Unbestimmter Artikel + Nomen Einzahl - Etwas beeindruckendes"
          },
          "gene":[
-            "cat on a roomba",
-            "I\u2019ve been working hard at my Saturday Zumba."
+            "ein Mammut",
+            "Im rappen bin ich richtig gut."
          ],
          "x":true,
          "id":51142
@@ -2936,8 +2936,8 @@
             "type":"Mehrzahl - Gesundes Essen"
          },
          "gene":[
-            "carrots",
-            "I eat some and give the rest to my ferrets."
+            "Karotten",
+            "Ich ess sie schnell, bevor sie noch verrotten."
          ],
          "x":false,
          "id":50833
@@ -2953,8 +2953,8 @@
             "type":"Eine nervige berühmte Person"
          },
          "gene":[
-            "Scott Bakula",
-            "Remember when he Quantum Leaped into Dracula?"
+            "Kanye West",
+            "Ich mag seine Schuhe, verzichte auf den Rest."
          ],
          "x":false,
          "id":50834
@@ -2970,8 +2970,8 @@
             "type":"Unbestimmter Artikel +  Etwas fliegendes"
          },
          "gene":[
-            "Klingon",
-            "I like to go to karaoke and then get my sing on!"
+            "eine Drone",
+            "Sag bitte keinem, dass ich noch bei Mama wohne..."
          ],
          "x":false,
          "id":50836
@@ -2987,8 +2987,8 @@
             "type":"Etwas beliebtes"
          },
          "gene":[
-            "magpies",
-            "A magpie is a really cool bird, too."
+            "Hunde",
+            "Meine morgentliche Runde ist zirka eine Stunde."
          ],
          "x":false,
          "id":50985
@@ -2996,7 +2996,7 @@
       {
          "a":{
             "examples":[
-               "die Weltreise",
+               "eine Weltreise",
                "Essen",
                "Reichtum"
             ],
@@ -3004,8 +3004,8 @@
             "type":"Tolle Ereignisse / Aktivitäten"
          },
          "gene":[
-            "movies",
-            "Even the ones that show pee-pees or boobies."
+            "Saufen",
+            "Ich sollte mal meine alten Sachen verkaufen."
          ],
          "x":true,
          "id":51159
@@ -3013,16 +3013,16 @@
       {
          "a":{
             "examples":[
-               "kickt",
-               "wird laut",
-               "knallt"
+               "aggressiv",
+               "laut",
+               "knallhart"
             ],
-            "text":"Dreh den Bass auf, die Musik <BLANK>.",
-            "type":"Beschreibe deine Lieblingsmusik"
+            "text":"Dreh den Bass auf, die Musik wird <BLANK>.",
+            "type":"Adjektiv - Wie hörst du am liebsten Musik"
          },
          "gene":[
-            "brash",
-            "Hydrocortisone, is good for a rash."
+            "brutal",
+            "Achtung! Meine Reime sind fatal."
          ],
          "x":false,
          "id":51160
@@ -3038,8 +3038,8 @@
             "type":"Unbestimmter Artikel + Ein Fahrzeug"
          },
          "gene":[
-            "scooter",
-            "Me or Stephen Root? Which one\u2019s cuter?"
+            "ein Roller",
+            "Ich find\u2019 zwei Räder einfach toller."
          ],
          "x":false,
          "id":51161
@@ -3055,8 +3055,8 @@
             "type":"Adverb der Zeit"
          },
          "gene":[
-            "recently",
-            "Susan, if u break up with me do it decently."
+            "neulich",
+            "Ruf mal deinen Papa an, der freut sich."
          ],
          "x":false,
          "id":51162
