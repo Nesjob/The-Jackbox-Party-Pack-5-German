@@ -1862,7 +1862,7 @@
                     "Kim Possible"
                 ],
                 "text": "Ich löse jedes Problem. Bin genau wie <BLANK>.",
-                "type": "Eine beliebte Kinderserie"
+                "type": "Ein beliebter Kindheitsheld"
             },
             "gene": [
                 "cheese",
@@ -1891,12 +1891,12 @@
         {
             "a": {
                 "examples": [
-                    "mole",
-                    "finger",
-                    "eyeball"
+                    "Oliver Pocher",
+                    "Boris Becker",
+                    "Udo Jürgens"
                 ],
-                "text": "You look familiar like an odd-shaped <BLANK>.",
-                "type": "noun - a body part"
+                "text": "Du kommst mir bekannt vor, genau wie <BLANK>.",
+                "type": "Ein Promi"
             },
             "gene": [
                 "kneecap",
@@ -1908,12 +1908,12 @@
         {
             "a": {
                 "examples": [
-                    "roulette",
-                    "blackjack",
-                    "baccarat"
+                    "Roulette",
+                    "Blackjack",
+                    "Candy Crush"
                 ],
-                "text": "If you like to take chances play <BLANK>.",
-                "type": "noun - a game of chance"
+                "text": "Gegen mich gewinnst du nur mit Glück, genau wie bei <BLANK>.",
+                "type": "Ein Glücksspiel"
             },
             "gene": [
                 "Texas Hold \u2018em",
@@ -1925,12 +1925,12 @@
         {
             "a": {
                 "examples": [
-                    "T L C",
-                    "H G T V",
-                    "P B S"
+                    "RTL",
+                    "Bibel TV",
+                    "ProSieben Maxx"
                 ],
-                "text": "I\u2019m H B O, but you\u2019re <BLANK>.",
-                "type": "noun - a lame cable channel"
+                "text": "Ich bin Sky und du bist <BLANK>.",
+                "type": "Ein langweiliger Fernsehsender"
             },
             "gene": [
                 "Court TV",
@@ -1942,12 +1942,12 @@
         {
             "a": {
                 "examples": [
-                    "struggle",
-                    "flounder",
-                    "regret"
+                    "scheitern",
+                    "fliegen",
+                    "planschen"
                 ],
-                "text": "This\u2019ll be the outcome: You\u2019re gonna <BLANK>.",
-                "type": "verb"
+                "text": "So wird das hier gleich enden: Du wirst <BLANK>.",
+                "type": "Verb"
             },
             "gene": [
                 "wiggle",
@@ -1959,12 +1959,12 @@
         {
             "a": {
                 "examples": [
-                    "mouse",
-                    "rat",
-                    "hamster"
+                    "Maus",
+                    "Ratte",
+                    "Hamster"
                 ],
-                "text": "I\u2019ll make you cower like a little <BLANK>.",
-                "type": "common noun - small animal"
+                "text": "Du wirst gleich jammern, so wie ein/e kleine/r <BLANK>.",
+                "type": "Ein kleines Tier"
             },
             "gene": [
                 "turkey",
@@ -1976,12 +1976,12 @@
         {
             "a": {
                 "examples": [
-                    "whooped",
-                    "punished",
-                    "tagged"
+                    "Tiere streicheln",
+                    "Eintritt bezahlen",
+                    "Pommes kaufen"
                 ],
-                "text": "You come at me you\u2019re gonna get <BLANK>.",
-                "type": "verb ending w/ -ed"
+                "text": "Schau mich doch mal an, da kann man nur <BLANK>.",
+                "type": "Etwas, was man im Zoo macht"
             },
             "gene": [
                 "tickled",
@@ -1993,12 +1993,12 @@
         {
             "a": {
                 "examples": [
-                    "baggage",
-                    "garbage",
-                    "failure"
+                    "Karteikarten",
+                    "Babbel",
+                    "Vokabelhefte"
                 ],
-                "text": "So little talent, so much <BLANK>.",
-                "type": "noun - an unpleasant concept"
+                "text": "Du willst rappen lernen? Probier mal <BLANK>.",
+                "type": "Wie oder womit kann man gut lernen?"
             },
             "gene": [
                 "bugs",
@@ -2010,12 +2010,12 @@
         {
             "a": {
                 "examples": [
-                    "storm",
-                    "earthquake",
-                    "Beyoncé concert"
+                    "Sturm",
+                    "Erdbeben",
+                    "Udo Lindenberg Konzert"
                 ],
-                "text": "Your flow\u2019s a disaster like a Category 5 <BLANK>.",
-                "type": "singular noun - a phenomenon"
+                "text": "Dein Flow ist eine Katastrophe, wie ein/e Stufe 5 <BLANK>.",
+                "type": "Einzahl Nomen - Ein Phänomen"
             },
             "gene": [
                 "foggy morning",
@@ -2027,12 +2027,12 @@
         {
             "a": {
                 "examples": [
-                    "gala",
-                    "Bar Mitzvah",
-                    "Super Bowl"
+                    "eine Auktion",
+                    "Wer wird Millionär",
+                    "der Super Bowl"
                 ],
-                "text": "No dress rehearsal, this is a <BLANK>.",
-                "type": "noun - type of event"
+                "text": "Keine Generalprobe, das hier ist <BLANK>.",
+                "type": "Artikel + Eine Veranstaltung"
             },
             "gene": [
                 "convention",
@@ -2044,12 +2044,12 @@
         {
             "a": {
                 "examples": [
-                    "planted",
-                    "knitted",
+                    "Achterbahn fahren",
+                    "Erdbeeren pflücken",
                     "juggled"
                 ],
-                "text": "Don\u2019t wake me up unless you want to get <BLANK>.",
-                "type": "verb ending w/ -ed"
+                "text": "Weck mich nicht auf, außer du willst <BLANK>.",
+                "type": "Eine Freizeitaktivität"
             },
             "gene": [
                 "Paintballed",
@@ -2061,12 +2061,12 @@
         {
             "a": {
                 "examples": [
-                    "sporting",
-                    "cooking",
-                    "crafting"
+                    "Tennis spielen",
+                    "kochen",
+                    "basteln"
                 ],
-                "text": "Your mama called she said you\u2019re bad at <BLANK>.",
-                "type": "verb ending w/ -ing"
+                "text": "Deine Mama sagt, du bist schlecht im <BLANK>.",
+                "type": "Verb - Ein Hobby"
             },
             "gene": [
                 "journaling",
@@ -2078,12 +2078,12 @@
         {
             "a": {
                 "examples": [
-                    "rhyming",
-                    "winning",
-                    "lying"
+                    "der Eiffelturm",
+                    "das Brandenburger Tor",
+                    "die Nordsee"
                 ],
-                "text": "Lock yourself in as I teach you about <BLANK>.",
-                "type": "verb ending w/ -ing"
+                "text": "Ich sperr dich ein und zeige dir <BLANK>.",
+                "type": "Eine Sehenswürdigkeit"
             },
             "gene": [
                 "knitting",
@@ -2095,12 +2095,12 @@
         {
             "a": {
                 "examples": [
-                    "goose",
-                    "frog",
-                    "camel"
+                    "klebrig",
+                    "flüssig",
+                    "rasant"
                 ],
-                "text": "You gotta come strong. I\u2019m a battlin\u2019 <BLANK>.",
-                "type": "common noun - an animal"
+                "text": "Schnall dich an, mit mir wird\u2019s <BLANK>.",
+                "type": "Adjektiv"
             },
             "gene": [
                 "marmoset",
@@ -2112,12 +2112,12 @@
         {
             "a": {
                 "examples": [
-                    "spit",
-                    "water",
-                    "juice"
+                    "Apfelschorle",
+                    "Wasser",
+                    "Orangensaft"
                 ],
-                "text": "I\u2019m French champagne you\u2019re a bottle of <BLANK>.",
-                "type": "noun - a liquid"
+                "text": "Ich bin Champagner und du bist <BLANK>.",
+                "type": "Nomen - Eine Flüssigkeit"
             },
             "gene": [
                 "milk",
@@ -2130,11 +2130,11 @@
             "a": {
                 "examples": [
                     "China",
-                    "France",
-                    "Kenya"
+                    "Frankreich",
+                    "Norwegen"
                 ],
-                "text": "You can\u2019t hide from me not even in <BLANK>.",
-                "type": "proper noun - foreign country"
+                "text": "Du kannst dich vor mir nicht verstecken. Nichtmal in <BLANK>.",
+                "type": "Ein anderes Land"
             },
             "gene": [
                 "Morocco",
@@ -2146,12 +2146,12 @@
         {
             "a": {
                 "examples": [
-                    "ass",
-                    "genitals",
-                    "foot"
+                    "Hintern",
+                    "Ohr",
+                    "Fuß"
                 ],
-                "text": "I got a match: My face and your <BLANK>.",
-                "type": "noun - a body part"
+                "text": "Wir passen zusammen: Mein Gesicht und dein/e <BLANK>.",
+                "type": "Ein Körperteil"
             },
             "gene": [
                 "face",
@@ -2163,12 +2163,12 @@
         {
             "a": {
                 "examples": [
-                    "shoot",
-                    "score",
-                    "bat"
+                    "Kugelschreiber",
+                    "Sammlungen",
+                    "Schreibtische"
                 ],
-                "text": "Flip to the end and see that I <BLANK>.",
-                "type": "verb"
+                "text": "Schlag das letzte Kapitel auf und du siehst meine <BLANK>.",
+                "type": "Nomen - Mehrzahl"
             },
             "gene": [
                 "luge",
@@ -2180,12 +2180,12 @@
         {
             "a": {
                 "examples": [
-                    "drug store",
-                    "bakery",
-                    "Sears"
+                    "Samsung",
+                    "Kaufland",
+                    "Elgato"
                 ],
-                "text": "You got no style got your clothes from a <BLANK>.",
-                "type": "noun - a place"
+                "text": "Du holst dir deine Klamotten bei <BLANK>.",
+                "type": "Eine Marke"
             },
             "gene": [
                 "sewer",
@@ -2197,12 +2197,12 @@
         {
             "a": {
                 "examples": [
-                    "in the ground",
-                    "on your back",
-                    "out to pasture"
+                    "in den Boden",
+                    "auf den Rücken",
+                    "an den Nordpol"
                 ],
-                "text": "My verses are curses they\u2019ll put you <BLANK>.",
-                "type": "prepositional phrase - a bad place"
+                "text": "Meine Reime sind ein Fluch, sie katapultieren dich <BLANK>.",
+                "type": "Ein schlechter Ort"
             },
             "gene": [
                 "to sleep",
@@ -2214,12 +2214,12 @@
         {
             "a": {
                 "examples": [
-                    "strong",
-                    "fast",
-                    "experienced"
+                    "stark",
+                    "schnell",
+                    "erfahren"
                 ],
-                "text": "You\u2019re not on my level you\u2019re way too <BLANK>.",
-                "type": "positive adjective"
+                "text": "Du bist nicht auf meinem Niveau, du bist viel zu <BLANK>.",
+                "type": "Positives Adjektiv"
             },
             "gene": [
                 "silly",
@@ -2231,12 +2231,12 @@
         {
             "a": {
                 "examples": [
-                    "snapping jaws",
-                    "saber teeth",
-                    "big choppers"
+                    "ein Messer",
+                    "eine Gabel",
+                    "ein Löffel"
                 ],
-                "text": "I\u2019ll eat you for breakfast with my <BLANK>.",
-                "type": "adjective + noun - describe a mouth"
+                "text": "Um dich zum Frühstück zu vernaschen nutze ich <BLANK>.",
+                "type": "Unbestimmter Artikel + Ein Besteck"
             },
             "gene": [
                 "slippery tongue",
@@ -2248,12 +2248,12 @@
         {
             "a": {
                 "examples": [
-                    "toy poodle",
-                    "chipmunk",
-                    "stink bug"
+                    "der Pudel",
+                    "das Eichhörnchen",
+                    "die Mücke"
                 ],
-                "text": "I\u2019m the top dog, you\u2019re just a <BLANK>.",
-                "type": "noun - small animal"
+                "text": "Ich bin der Löwe, du nur <BLANK>.",
+                "type": "Artikel + Nomen - Ein kleines Tier"
             },
             "gene": [
                 "tiny kitten",
@@ -2265,12 +2265,12 @@
         {
             "a": {
                 "examples": [
-                    "jackhammer",
-                    "thunderstorm",
-                    "angry mob"
+                    "ein Stahlhammer",
+                    "ein Gewitter",
+                    "eine Menschenmenge"
                 ],
-                "text": "Banging on your door like a <BLANK>.",
-                "type": "singular noun - loud thing"
+                "text": "Knall deine Tür zu, laut wie <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Etwas lautes"
             },
             "gene": [
                 "irritable yeti",
@@ -2282,12 +2282,12 @@
         {
             "a": {
                 "examples": [
-                    "cigar",
-                    "ice cream",
-                    "cognac"
+                    "youtube.com",
+                    "gutefrage.net",
+                    "wikipedia.org"
                 ],
-                "text": "Your skills are close, but no <BLANK>.",
-                "type": "common noun - after-dinner treat"
+                "text": "Dein Wissen hast du nur von <BLANK>.",
+                "type": "Eine Webseite"
             },
             "gene": [
                 "car ride",
@@ -2299,12 +2299,12 @@
         {
             "a": {
                 "examples": [
-                    "bludgeon",
-                    "bat",
-                    "stick"
+                    "fahren",
+                    "verschwinden",
+                    "rennen"
                 ],
-                "text": "Your face is my ball my words are my <BLANK>.",
-                "type": "noun - a hitting tool"
+                "text": "Wenn ich dein Gesicht sehe muss ich schnell <BLANK>.",
+                "type": "Verb - Eine Art der Fortbewegung"
             },
             "gene": [
                 "putter",
@@ -2316,12 +2316,12 @@
         {
             "a": {
                 "examples": [
-                    "old",
-                    "dirty",
-                    "dizzy"
+                    "drei",
+                    "vierhundertzwanzig",
+                    "neunundsechzig"
                 ],
-                "text": "Better take a seat you\u2019re looking <BLANK>.",
-                "type": "negative adjective"
+                "text": "Bei mir bekommst du einen Platz in Reihe <BLANK>.",
+                "type": "Eine Zahl (ausgeschrieben)"
             },
             "gene": [
                 "cheap",
@@ -2333,12 +2333,12 @@
         {
             "a": {
                 "examples": [
-                    "first",
-                    "last",
-                    "next"
+                    "später",
+                    "übermorgen",
+                    "nächste Woche Donnerstag"
                 ],
-                "text": "Lemme tell you what\u2019s happenin\u2019 <BLANK>.",
-                "type": "adjective - time based"
+                "text": "Was hier passiert erklär\u2019 ich dir <BLANK>.",
+                "type": "Eine Zeitangabe"
             },
             "gene": [
                 "third",
@@ -2350,16 +2350,16 @@
         {
             "a": {
                 "examples": [
-                    "smart",
-                    "shiny",
-                    "fine"
+                    "Til Schweiger",
+                    "Michael Wendler",
+                    "Justin Bieber"
                 ],
-                "text": "You\u2019ve gone downhill you used to be <BLANK>.",
-                "type": "positive adjective"
+                "text": "Bei dir geht es steil bergab, genau wie bei <BLANK>.",
+                "type": "Unbeliebter Promi"
             },
             "gene": [
-                "pleasant",
-                "On Uncle Mike\u2019s farm, I once saw a pheasant."
+                "Dieter Bohlen",
+                "Ich brauche neue Bremsen, mir wurd\u2019 da was empfohlen."
             ],
             "x": false,
             "id": 50714
@@ -2367,12 +2367,12 @@
         {
             "a": {
                 "examples": [
-                    "barn",
-                    "bag",
-                    "purse"
+                    "Hurra",
+                    "Yippie",
+                    "Yoloooo"
                 ],
-                "text": "You can\u2019t rhyme your way out of a paper <BLANK>.",
-                "type": "singular noun - a container"
+                "text": "Die Kuh macht MUH und das Schwein macht <BLANK>.",
+                "type": "Ein Laut oder Ausruf"
             },
             "gene": [
                 "attache case",
@@ -2384,12 +2384,12 @@
         {
             "a": {
                 "examples": [
-                    "trashed",
-                    "burned",
-                    "slaughtered"
+                    "beschützen",
+                    "tragen",
+                    "erziehen"
                 ],
-                "text": "Don\u2019t look now you\u2019re about to be <BLANK>.",
-                "type": "verb ending w/ -ed"
+                "text": "Sieh kurz nicht hin, ich werde dich gleich <BLANK>.",
+                "type": "Verb - Etwas, was man mit einem Baby macht"
             },
             "gene": [
                 "varnished",
@@ -2401,12 +2401,12 @@
         {
             "a": {
                 "examples": [
-                    "piece of bread",
-                    "pile of loose meat",
-                    "bruised apple"
+                    "ein Stück Brot",
+                    "rohes Fleisch",
+                    "ein verschimmelter Apfel"
                 ],
-                "text": "I\u2019m the main course, you\u2019re a <BLANK>.",
-                "type": "singular noun - sad lunch item"
+                "text": "Ich bin die Hauptspeise, du <BLANK>.",
+                "type": "Ein langweiliges Essen"
             },
             "gene": [
                 "plain tortilla",
@@ -2418,12 +2418,12 @@
         {
             "a": {
                 "examples": [
-                    "tar",
-                    "manure",
-                    "glue"
+                    "Kaugummi",
+                    "Nagellackentferner",
+                    "Eigentumswohnungen"
                 ],
-                "text": "You\u2019re not in a pickle you\u2019re in deep <BLANK>.",
-                "type": "noun - a substance"
+                "text": "Kein Stress, ich kaufe nachher noch <BLANK>.",
+                "type": "Nomen - Mehrzahl"
             },
             "gene": [
                 "gum",
@@ -2435,12 +2435,12 @@
         {
             "a": {
                 "examples": [
-                    "pepper",
-                    "cumin",
-                    "brown sugar"
+                    "Pfeffer",
+                    "Backpulver",
+                    "Lachs"
                 ],
-                "text": "I\u2019m about to kick it up and add some <BLANK>.",
-                "type": "noun - a spice or seasoning"
+                "text": "Für das perfekte Rezept fehlt nur noch etwas <BLANK>.",
+                "type": "Eine Kochzutat oder ein Gewürz"
             },
             "gene": [
                 "cardamom",
@@ -2452,12 +2452,12 @@
         {
             "a": {
                 "examples": [
-                    "drive",
-                    "speak",
-                    "breathe"
+                    "fahren",
+                    "sprechen",
+                    "atmen"
                 ],
-                "text": "I heard that you\u2019re not allowed to <BLANK>.",
-                "type": "verb"
+                "text": "Ich hab\u2019 gehört, du darfst jetzt nicht mehr <BLANK>.",
+                "type": "Verb"
             },
             "gene": [
                 "car date",
@@ -2469,12 +2469,12 @@
         {
             "a": {
                 "examples": [
-                    "handsome",
-                    "pretty",
-                    "homely"
+                    "bunt",
+                    "gemütlich",
+                    "modern"
                 ],
-                "text": "As looks go, you\u2019re far from <BLANK>.",
-                "type": "adjective"
+                "text": "Was dein Äußeres angeht, du bist noch lange nicht <BLANK>.",
+                "type": "Adjektiv"
             },
             "gene": [
                 "petite",
@@ -2486,12 +2486,12 @@
         {
             "a": {
                 "examples": [
-                    "dog",
-                    "problem",
-                    "Ray Bans"
+                    "Hunde",
+                    "Probleme",
+                    "Sportwagen"
                 ],
-                "text": "I don\u2019t care about you or your <BLANK>.",
-                "type": "noun"
+                "text": "Ich interessiere mich nicht für dich oder deine/n <BLANK>.",
+                "type": "Nomen - Mehrzahl"
             },
             "gene": [
                 "pizza",
@@ -2503,12 +2503,12 @@
         {
             "a": {
                 "examples": [
-                    "car",
-                    "private jet",
-                    "buggy"
+                    "Auto",
+                    "Privatjet",
+                    "Hubschrauber"
                 ],
-                "text": "You should just go home so get in your <BLANK>.",
-                "type": "singular noun - vehicle"
+                "text": "Wenn ich nach Hause muss, steig ich in mein\u2019 <BLANK>.",
+                "type": "Nomen - Einzahl: Ein Fahrzeug"
             },
             "gene": [
                 "gondola",
@@ -2520,12 +2520,12 @@
         {
             "a": {
                 "examples": [
-                    "nervous",
-                    "ready",
-                    "sure"
+                    "nervös",
+                    "bereit",
+                    "sicher"
                 ],
-                "text": "I\u2019m comin\u2019 for you so you best be <BLANK>.",
-                "type": "adjective"
+                "text": "Ich trete gegen dich an. Ich hoffe du bist <BLANK>.",
+                "type": "adjektiv"
             },
             "gene": [
                 "awake",
@@ -2537,12 +2537,12 @@
         {
             "a": {
                 "examples": [
-                    "cotton ball",
-                    "blanket",
-                    "dove"
+                    "ein Softball",
+                    "eine Decke",
+                    "ein Stück Watte"
                 ],
-                "text": "Your rhymes are so weak they can\u2019t lift a <BLANK>.",
-                "type": "singular noun - soft thing"
+                "text": "Deine Reime sind so schwach, sie stemmen nichtmal <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Etwas weiches"
             },
             "gene": [
                 "kitten\u2019s belly",
@@ -2554,12 +2554,12 @@
         {
             "a": {
                 "examples": [
-                    "turtle",
-                    "slug",
-                    "old snake"
+                    "eine Schildkräte",
+                    "eine Schnecke",
+                    "eine alte Schlange"
                 ],
-                "text": "You can\u2019t catch up you\u2019re moving like a <BLANK>.",
-                "type": "singular noun - slow thing"
+                "text": "Du holst mich nie ein, du bist wie <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Ein langsames Tier"
             },
             "gene": [
                 "sleepy tiger",
@@ -2571,12 +2571,12 @@
         {
             "a": {
                 "examples": [
-                    "eat",
-                    "sleep",
-                    "drive"
+                    "Essen",
+                    "Schlaf",
+                    "Internet"
                 ],
-                "text": "You\u2019re so broke you can\u2019t afford to <BLANK>.",
-                "type": "verb"
+                "text": "Du bist so arm, du leistest dir nicht mal <BLANK>.",
+                "type": "Ein Grundbedürfnis"
             },
             "gene": [
                 "rest",
@@ -2588,12 +2588,12 @@
         {
             "a": {
                 "examples": [
-                    "broom",
-                    "paper towel",
-                    "bottle of soap"
+                    "ein Besen",
+                    "ein Papiertuch",
+                    "eine Flasche Seife"
                 ],
-                "text": "Your rhymes are a mess go get a <BLANK>.",
-                "type": "singular noun - thing to clean with"
+                "text": "Deine Reime sind durcheinander, da brauche ich <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Etwas zum sauber machen"
             },
             "gene": [
                 "Brillo pad",
@@ -2605,12 +2605,12 @@
         {
             "a": {
                 "examples": [
-                    "skunked",
-                    "trounced",
-                    "spanked"
+                    "Kaffee kochen",
+                    "meine Arbeit erledigen",
+                    "Überstunden machen"
                 ],
-                "text": "You guessed it--you\u2019re gonna get <BLANK>.",
-                "type": "verb ending w/ -ed"
+                "text": "Du liegst genau richtig. Du wirst für mich <BLANK>.",
+                "type": "Etwas, was ein Praktikant machen muss"
             },
             "gene": [
                 "burnt",
@@ -2622,12 +2622,12 @@
         {
             "a": {
                 "examples": [
-                    "ball",
-                    "jump rope",
-                    "tennis racket"
+                    "der Ball",
+                    "das Springseil",
+                    "der Tennisschläger"
                 ],
-                "text": "You come here to play? I see you have a <BLANK>.",
-                "type": "singular noun - sporting equipment"
+                "text": "Du willst mit mir spielen? Was soll dann <BLANK>.",
+                "type": "Bestimmter Artikel + Nomen - Ein Sportgerät"
             },
             "gene": [
                 "shuttlecock",
@@ -2639,12 +2639,12 @@
         {
             "a": {
                 "examples": [
-                    "older",
-                    "smarter",
-                    "wiser"
+                    "älter",
+                    "schlauer",
+                    "schneller"
                 ],
-                "text": "Maybe you\u2019ll understand when you\u2019re <BLANK>.",
-                "type": "adjective ending w/ -er"
+                "text": "Du verstehst mich villeicht irgendwann. Werd\u2019 einfach <BLANK>.",
+                "type": "Gesteigertes Adjektiv (mit -er am Ende)"
             },
             "gene": [
                 "taller",
@@ -2656,12 +2656,12 @@
         {
             "a": {
                 "examples": [
-                    "taxes",
-                    "revenge",
-                    "baked goods"
+                    "Hausaufgaben machen",
+                    "Steuererklärungen schreiben",
+                    "Vokabeln lernen"
                 ],
-                "text": "There are two things in life: death and <BLANK>.",
-                "type": "plural noun"
+                "text": "Man muss nur zwei Dinge im Leben: Sterben und <BLANK>.",
+                "type": "Eine langweilige Tätigkeit"
             },
             "gene": [
                 "fungi",
@@ -2673,12 +2673,12 @@
         {
             "a": {
                 "examples": [
-                    "booming",
-                    "nasty",
+                    "krass",
+                    "dreckig",
                     "brutal"
                 ],
-                "text": "I\u2019ll give you the business and business is <BLANK>.",
-                "type": "scary adjective"
+                "text": "Kommen wir zum geschäftlichen. Dieses Geschäft ist <BLANK>.",
+                "type": "Gruseliges Adjektiv"
             },
             "gene": [
                 "spooky",
@@ -2690,12 +2690,12 @@
         {
             "a": {
                 "examples": [
-                    "trash",
-                    "vomit",
-                    "sewage"
+                    "Müllbeutel",
+                    "Kotze",
+                    "Abwasser"
                 ],
-                "text": "I looked you up and saw a picture of <BLANK>.",
-                "type": "plural noun - awful things"
+                "text": "Ich hab dich gegoogelt und da war ein Bild von <BLANK>.",
+                "type": "Nomen - Mehrzahl - Etwas ekeliges"
             },
             "gene": [
                 "cadavers",
@@ -2707,12 +2707,12 @@
         {
             "a": {
                 "examples": [
-                    "picture",
-                    "car",
-                    "fence"
+                    "ein Bild",
+                    "ein Auto",
+                    "ein Zaun"
                 ],
-                "text": "Here, let me paint you a <BLANK>.",
-                "type": "singular noun - something painted"
+                "text": "Pass auf, für dich bemale ich <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Etwas bemaltes"
             },
             "gene": [
                 "mural",
@@ -2724,12 +2724,12 @@
         {
             "a": {
                 "examples": [
-                    "meatloaf",
-                    "chow mein",
-                    "stroganoff"
+                    "Nudelsalat",
+                    "Spaghetti",
+                    "Pizza ohne Ananas"
                 ],
-                "text": "Step into my kitchen as I make you a <BLANK>.",
-                "type": "singular noun - an entree"
+                "text": "Komm in meine Küche, ich mach\u2019 dir <BLANK>.",
+                "type": "Ein leckeres Gericht"
             },
             "gene": [
                 "lasagna",
@@ -2741,12 +2741,12 @@
         {
             "a": {
                 "examples": [
-                    "dancing",
-                    "talking",
-                    "singing"
+                    "tanzen",
+                    "sprechen",
+                    "singen"
                 ],
-                "text": "Rhyming\u2019s not your game. Stick to <BLANK>.",
-                "type": "verb ending w/ -ing"
+                "text": "Reimen ist nichts für dich. Bleib lieber beim <BLANK>.",
+                "type": "Verb"
             },
             "gene": [
                 "typing",
@@ -2758,12 +2758,12 @@
         {
             "a": {
                 "examples": [
-                    "Chumpy",
-                    "Dillwad",
-                    "The Worst"
+                    "Clown",
+                    "Idiot",
+                    "Versager"
                 ],
-                "text": "Your rhymes are so wack they call you <BLANK>.",
-                "type": "a nickname"
+                "text": "Deine Reime sind so schlecht, sie nennen dich <BLANK>.",
+                "type": "Ein Spitzname"
             },
             "gene": [
                 "Billy",
@@ -2775,12 +2775,12 @@
         {
             "a": {
                 "examples": [
-                    "needlepoint",
-                    "whittlin\u2019",
-                    "choir"
+                    "wandern",
+                    "bowlen",
+                    "im Chor singen"
                 ],
-                "text": "You should give up rapping and take up <BLANK>.",
-                "type": "common noun - a hobby"
+                "text": "Hör auf mit dem rappen und fang an mit <BLANK>.",
+                "type": "Verb - Ein Hobby"
             },
             "gene": [
                 "bridge",
@@ -2792,12 +2792,12 @@
         {
             "a": {
                 "examples": [
-                    "Chevy",
-                    "Bug",
-                    "minivan"
+                    "Ford Fiesta",
+                    "Deutsche Bahn",
+                    "Kreuzfahrtschiff"
                 ],
-                "text": "I drive a Bentley, you drive a <BLANK>.",
-                "type": "noun - a vehicle"
+                "text": "Ich fahre Ferrari, du fährst <BLANK>.",
+                "type": "Ein Fortbewegungsmittel"
             },
             "gene": [
                 "Yugo",
@@ -2809,12 +2809,12 @@
         {
             "a": {
                 "examples": [
-                    "soda",
-                    "bike",
-                    "shoe"
+                    "Kaugummi",
+                    "Fahrrad",
+                    "Schuh"
                 ],
-                "text": "Your rhymes are old like a secondhand <BLANK>.",
-                "type": "singular noun - a recent purchase"
+                "text": "Deine Reime sind alt, so wie ein/e Gebraucht-<BLANK>.",
+                "type": "Nomen - Einzahl - Etwas, was du neulich gekauft hast"
             },
             "gene": [
                 "bus pass",
@@ -2826,12 +2826,12 @@
         {
             "a": {
                 "examples": [
-                    "Melvin",
-                    "Dummy",
-                    "Geek"
+                    "Kevin",
+                    "Dummerchen",
+                    "Streber"
                 ],
-                "text": "I bet the kids in school used to call you <BLANK>.",
-                "type": "a nickname"
+                "text": "Ich wette dein Spitzname in der Schule war <BLANK>.",
+                "type": "Ein Spitzname"
             },
             "gene": [
                 "often",
@@ -2843,12 +2843,12 @@
         {
             "a": {
                 "examples": [
-                    "mentor",
-                    "master",
-                    "wise one"
+                    "Mentor",
+                    "Meister",
+                    "Trainer"
                 ],
-                "text": "You\u2019re the student, I\u2019m the <BLANK>.",
-                "type": "noun - synonym for 'teacher'"
+                "text": "Du bist mein Schüler, ich bin dein <BLANK>.",
+                "type": "Nomen - Synonym für 'Lehrer'"
             },
             "gene": [
                 "instructor",
@@ -2860,12 +2860,12 @@
         {
             "a": {
                 "examples": [
-                    "pal",
-                    "bestie",
-                    "associate"
+                    "Kumpel",
+                    "Kollege",
+                    "Zugehöriger"
                 ],
-                "text": "Class, is in session, my <BLANK>.",
-                "type": "noun - synonym for 'friend'"
+                "text": "Die Party geht ab, mein <BLANK>.",
+                "type": "Nomen - Synonym für 'Freund'"
             },
             "gene": [
                 "co-worker",
@@ -2877,12 +2877,12 @@
         {
             "a": {
                 "examples": [
-                    "mustard",
-                    "pudding",
-                    "flan"
+                    "Senf",
+                    "Pudding",
+                    "Mayonaise"
                 ],
-                "text": "I didn\u2019t recognize you with all that <BLANK>.",
-                "type": "noun - a substance"
+                "text": "Ich hab dich gar nicht erkannt mit so viel <BLANK>.",
+                "type": "Nomen - Eine Substanz"
             },
             "gene": [
                 "ketchup",
@@ -2894,12 +2894,12 @@
         {
             "a": {
                 "examples": [
-                    "hovel",
-                    "prison",
-                    "factory"
+                    "Empfangshalle",
+                    "Gefängnis",
+                    "Fabrik"
                 ],
-                "text": "You don\u2019t belong here go back to your <BLANK>.",
-                "type": "common noun - sad place"
+                "text": "Du gehörst hier nicht hin, geh zurück zur/zum <BLANK>.",
+                "type": "Ein trauriger Ort"
             },
             "gene": [
                 "school",
@@ -2911,12 +2911,12 @@
         {
             "a": {
                 "examples": [
-                    "love",
-                    "truth",
-                    "society"
+                    "Menschenwürde",
+                    "Religionsfreiheit",
+                    "Pressefreiheit"
                 ],
-                "text": "Your busted rhymes are a crime against <BLANK>.",
-                "type": "common noun - a concept"
+                "text": "Deine schlimmen Reime verstoßen gegen das Gesetz für <BLANK>.",
+                "type": "Ein Grundgesetz"
             },
             "gene": [
                 "friendship",
@@ -2928,12 +2928,12 @@
         {
             "a": {
                 "examples": [
-                    "piano",
-                    "brick",
-                    "boulder"
+                    "ein Klavier",
+                    "ein Felsen",
+                    "ein Amboss"
                 ],
-                "text": "Heads up, you\u2019re standing under a <BLANK>.",
-                "type": "noun - heavy object"
+                "text": "Kopf hoch, immerhin ist über dir <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Ein schweres Objekt"
             },
             "gene": [
                 "can of corn",
@@ -2947,10 +2947,10 @@
                 "examples": [
                     "Hamlet",
                     "Macbeth",
-                    "Ophelia"
+                    "Romeo"
                 ],
-                "text": "This won\u2019t end well for you just like <BLANK>.",
-                "type": "proper noun - a tragic character"
+                "text": "Das geht für dich nicht gut aus, genauso wie für <BLANK>.",
+                "type": "Eine Figur aus einer Tragödie"
             },
             "gene": [
                 "Desdemona",
@@ -2962,12 +2962,12 @@
         {
             "a": {
                 "examples": [
-                    "fingernail",
-                    "head",
-                    "pancreas"
+                    "Brasilien",
+                    "Litauen",
+                    "Luxemburg"
                 ],
-                "text": "Just one question: What\u2019s up with your <BLANK>.",
-                "type": "noun - a body part"
+                "text": "Eine Frage: Was willst du in <BLANK>?",
+                "type": "Ein Land, in dem du noch nie warst"
             },
             "gene": [
                 "Achilles",
@@ -2979,16 +2979,16 @@
         {
             "a": {
                 "examples": [
-                    "chest",
-                    "face",
-                    "backside"
+                    "Opel Corsa",
+                    "Tesla Model X",
+                    "Ford Mustang"
                 ],
-                "text": "Freight train\u2019s comin\u2019 right at your <BLANK>.",
-                "type": "noun - body part"
+                "text": "Ich fahre dich platt mit meinem <BLANK>.",
+                "type": "Ein Auto(modell)"
             },
             "gene": [
-                "waist",
-                "It\u2019s just Thomas the Train, no need for haste."
+                "VW Golf",
+                "Mein Nachbar fährt gleich mit und er heißt Rolf."
             ],
             "x": true,
             "id": 51067
@@ -2996,12 +2996,12 @@
         {
             "a": {
                 "examples": [
-                    "rash",
-                    "fever",
-                    "zit"
+                    "Husten",
+                    "Fieber",
+                    "eine Erkältung"
                 ],
-                "text": "Better go home before you develop a <BLANK>.",
-                "type": "singular noun - a symptom"
+                "text": "Geh lieber heim, sonst bekommst du <BLANK>.",
+                "type": "Nomen - ein Krankheitssymptom"
             },
             "gene": [
                 "migraine",
@@ -3013,12 +3013,12 @@
         {
             "a": {
                 "examples": [
-                    "tux",
-                    "tiara",
-                    "bolo tie"
+                    "ein Smoking",
+                    "eine Sicherheitsweste",
+                    "eine gestreifte Krawatte"
                 ],
-                "text": "You\u2019re goin\u2019 nowhere so why ya wearin\u2019 a <BLANK>?",
-                "type": "singular noun - fancy dress item"
+                "text": "Du bleibst doch hier, warum trägst du <BLANK>?",
+                "type": "Unbestimmter Artikel + Nomen - Ein Kleidungsstück"
             },
             "gene": [
                 "funky scarf",
@@ -3030,12 +3030,12 @@
         {
             "a": {
                 "examples": [
-                    "dumb",
-                    "stinky",
-                    "farty"
+                    "dumm",
+                    "stinkend",
+                    "naiv"
                 ],
-                "text": "You want to be me but you\u2019re just too <BLANK>.",
-                "type": "negative adjective"
+                "text": "Du willst so sein wie ich? Tja, du bist viel zu <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "pedestrian",
@@ -3047,12 +3047,12 @@
         {
             "a": {
                 "examples": [
-                    "vase",
-                    "glass",
-                    "figurine"
+                    "eine Vase",
+                    "ein Glas",
+                    "eine Figur"
                 ],
-                "text": "I\u2019ma shatter you kid, like a <BLANK>.",
-                "type": "singular noun - fragile thing"
+                "text": "Ich zerschmettere dich, genauso wie <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Etwas zerbrechliches"
             },
             "gene": [
                 "heart",
@@ -3064,12 +3064,12 @@
         {
             "a": {
                 "examples": [
-                    "ham",
-                    "turkey",
-                    "chicken"
+                    "Schinken",
+                    "Truthahn",
+                    "Hühnchen"
                 ],
-                "text": "I\u2019m gonna roast you like a <BLANK>.",
-                "type": "noun - type of meat"
+                "text": "Ich zerfleische dich, genau wie mein/e <BLANK>.",
+                "type": "Nomen - Eine Fleischart"
             },
             "gene": [
                 "duck",
@@ -3081,12 +3081,12 @@
         {
             "a": {
                 "examples": [
-                    "mad",
-                    "nervous",
-                    "scared"
+                    "wütend",
+                    "nervös",
+                    "besorgt"
                 ],
-                "text": "Got somewhere to be? You look kinda <BLANK>.",
-                "type": "negative adjective"
+                "text": "Hast du es eilig? Du wirkst so <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "bummed",
@@ -3098,12 +3098,12 @@
         {
             "a": {
                 "examples": [
-                    "face",
-                    "behavior",
-                    "act"
+                    "Autos",
+                    "Playstations",
+                    "Kissen"
                 ],
-                "text": "We all disapprove, of your <BLANK>.",
-                "type": "noun"
+                "text": "Ich habe fetten Respekt vor <BLANK>.",
+                "type": "Nomen - Mehrzahl"
             },
             "gene": [
                 "sandals",
@@ -3115,12 +3115,12 @@
         {
             "a": {
                 "examples": [
-                    "painting",
-                    "swimming",
-                    "shaking"
+                    "frühstücken",
+                    "duschen",
+                    "schlafen"
                 ],
-                "text": "It\u2019s your wake up call! Time to get <BLANK>.",
-                "type": "verb ending w/ -ing"
+                "text": "Guten Morgen, schon wach? Zeit zu <BLANK>.",
+                "type": "Verb - Etwas, was man morgens macht"
             },
             "gene": [
                 "shaving",
@@ -3132,12 +3132,12 @@
         {
             "a": {
                 "examples": [
-                    "old",
-                    "hungry",
-                    "less"
+                    "alt",
+                    "hungrig",
+                    "müde"
                 ],
-                "text": "Your hands are shaking vision\u2019s gettin\u2019 <BLANK>.",
-                "type": "negative adjective"
+                "text": "Deine Hände zittern, wirst du gleich etwa <BLANK>?",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "adorable",
@@ -3149,12 +3149,12 @@
         {
             "a": {
                 "examples": [
-                    "cake",
-                    "Boston Cream Pie",
-                    "cookies"
+                    "Kuchen",
+                    "Sahnetorte mit Kirschen",
+                    "Kekse"
                 ],
-                "text": "Put down the fork you don\u2019t get no <BLANK>.",
-                "type": "noun - a dessert"
+                "text": "Leg die Gabel wieder hin, du bekommst kein/e/n <BLANK>.",
+                "type": "Nomen - Ein Nachtisch"
             },
             "gene": [
                 "crème brûleé",
@@ -3166,12 +3166,12 @@
         {
             "a": {
                 "examples": [
-                    "cats",
-                    "seagulls",
-                    "spiders"
+                    "Katzen",
+                    "Seeleoparden",
+                    "Spinnen"
                 ],
-                "text": "Me and my crew we call ourselves the <BLANK>.",
-                "type": "plural noun - animals"
+                "text": "Ich und meine Homies, wir nennen uns die <BLANK>.",
+                "type": "Nomen Mehrzahl - Tiere"
             },
             "gene": [
                 "pugs",
@@ -3183,12 +3183,12 @@
         {
             "a": {
                 "examples": [
-                    "day",
-                    "moment",
-                    "century"
+                    "zwei Tage",
+                    "ein halbes Jahr",
+                    "sieben Wochen"
                 ],
-                "text": "Face it kid, you won\u2019t last a <BLANK>.",
-                "type": "noun - unit of time"
+                "text": "Sieh es ein, du schaffst es nicht mal <BLANK>.",
+                "type": "Wie lange dauert es noch bis zu deinem Geburtstag?"
             },
             "gene": [
                 "fortnight",
@@ -3200,16 +3200,16 @@
         {
             "a": {
                 "examples": [
-                    "campsite",
-                    "Wendy\u2019s",
-                    "train station"
+                    "OBS Studio",
+                    "Camtasia",
+                    "Bandicam"
                 ],
-                "text": "You wanna throw down meet me at the <BLANK>.",
-                "type": "noun - a location"
+                "text": "Du willst es mit mir aufnehmen? Dafür nutze ich <BLANK>.",
+                "type": "Ein Aufnahme- oder Computerprogramm"
             },
             "gene": [
-                "slopes",
-                "Don\u2019t use those! They\u2019re decorative soaps!"
+                "Fraps",
+                "Zu Mittag gibt es dazu heute Wraps!"
             ],
             "x": false,
             "id": 50672
@@ -3217,12 +3217,12 @@
         {
             "a": {
                 "examples": [
-                    "buddy",
-                    "pal",
-                    "homegirl"
+                    "Kumpel",
+                    "Kollege",
+                    "Homie"
                 ],
-                "text": "I ain\u2019t your friend I ain\u2019t your <BLANK>.",
-                "type": "noun - term for 'friend'"
+                "text": "Ich bin nicht dein Freund, ich bin nicht dein <BLANK>.",
+                "type": "Nomen - Wort für 'Freund'"
             },
             "gene": [
                 "companion",
@@ -3234,12 +3234,12 @@
         {
             "a": {
                 "examples": [
-                    "hats",
-                    "skirts",
-                    "Jimmy Choos"
+                    "Reisepass",
+                    "10€ Schein",
+                    "Schlüsselanhänger"
                 ],
-                "text": "I roll in the club decked out in <BLANK>.",
-                "type": "plural noun - clothes"
+                "text": "Willst du in den Club, kontrollieren sie deine/n <BLANK>.",
+                "type": "Nomen + Etwas in deiner Brieftasche"
             },
             "gene": [
                 "Fitbits",
@@ -3251,12 +3251,12 @@
         {
             "a": {
                 "examples": [
-                    "Markie Post",
-                    "Ted McGinley",
-                    "Matt LeBlanc"
+                    "Günther Jauch",
+                    "Anne Will",
+                    "Markus Lanz"
                 ],
-                "text": "If you were on TV you\u2019d be <BLANK>.",
-                "type": "proper noun - TV star"
+                "text": "Wärst du im Fernsehen wärst du wie <BLANK>.",
+                "type": "Ein Fernsehstar"
             },
             "gene": [
                 "Summer Glau",
@@ -3268,12 +3268,12 @@
         {
             "a": {
                 "examples": [
-                    "iPad",
-                    "alarm clock",
-                    "battery"
+                    "ein iPad",
+                    "ein Wecker",
+                    "eine Batterie"
                 ],
-                "text": "I got more processing power than a <BLANK>.",
-                "type": "singular noun - tech device"
+                "text": "Mein Akku hält länger als <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Ein elektronisches Gerät"
             },
             "gene": [
                 "smart fridge",
@@ -3285,12 +3285,12 @@
         {
             "a": {
                 "examples": [
-                    "Captain America",
+                    "Spiderman",
                     "Wonder Woman",
                     "Robin Hood"
                 ],
-                "text": "Check out my flow it\u2019s stronger than <BLANK>.",
-                "type": "proper noun - a super-hero"
+                "text": "Mein Flow ist stärker als der von <BLANK>.",
+                "type": "Ein Superheld"
             },
             "gene": [
                 "Batgirl",
@@ -3302,12 +3302,12 @@
         {
             "a": {
                 "examples": [
-                    "cake",
-                    "flan",
-                    "cheesecake"
+                    "Kuchen",
+                    "Pudding",
+                    "Schokotorte"
                 ],
-                "text": "Serving you up like a piece of <BLANK>.",
-                "type": "noun - a dessert"
+                "text": "Du wirst serviert wie ein Stückchen <BLANK>.",
+                "type": "Nomen - Eine Nachspeise"
             },
             "gene": [
                 "almond bark",
@@ -3319,12 +3319,12 @@
         {
             "a": {
                 "examples": [
-                    "lemonade",
-                    "Girl Scout cookies",
-                    "pizza"
+                    "Limonade",
+                    "Kekse",
+                    "Pizzen"
                 ],
-                "text": "For real are you here to sell me <BLANK>?",
-                "type": "plural noun - food item"
+                "text": "Verkaufst du jetzt wirklich <BLANK>?",
+                "type": "Nomen Mehrzahl - Etwas zu Essen"
             },
             "gene": [
                 "fruit",
@@ -3336,12 +3336,12 @@
         {
             "a": {
                 "examples": [
-                    "ring",
-                    "hat",
-                    "car"
+                    "Ring",
+                    "Hut",
+                    "Auto"
                 ],
-                "text": "After I\u2019m done I\u2019ll steal your <BLANK>.",
-                "type": "noun - a possession"
+                "text": "Wenn ich fertig bin klaue ich dir dein/e/n <BLANK>.",
+                "type": "Nomen - Ein Besitz-Gegenstand"
             },
             "gene": [
                 "sweetie",
@@ -3353,12 +3353,12 @@
         {
             "a": {
                 "examples": [
-                    "arms",
-                    "ears",
-                    "toes"
+                    "Arm",
+                    "Ohr",
+                    "Zeh"
                 ],
-                "text": "Sweat is pouring from all of your <BLANK>.",
-                "type": "plural noun - body parts"
+                "text": "Du schwitzt überall am ganzen <BLANK>.",
+                "type": "Nomen - Ein Körperteil"
             },
             "gene": [
                 "eyelids",
@@ -3370,12 +3370,12 @@
         {
             "a": {
                 "examples": [
-                    "glass",
-                    "jello",
-                    "candy"
+                    "Glas",
+                    "Pudding",
+                    "Keramik"
                 ],
-                "text": "Smashin\u2019 your dreams like they\u2019re made of <BLANK>.",
-                "type": "noun - fragile material"
+                "text": "Ich zerstöre deine Träume, als wären sie aus <BLANK>.",
+                "type": "Nomen - Ein zerbrechliches Material"
             },
             "gene": [
                 "marshmallow fluff",
@@ -3387,12 +3387,12 @@
         {
             "a": {
                 "examples": [
-                    "Abraham Lincoln",
+                    "Angela Merkel",
                     "Oprah",
                     "Robin Hood"
                 ],
-                "text": "Look in the mirror, see a poor man\u2019s <BLANK>.",
-                "type": "name - famous person"
+                "text": "Schau in den Spiegel. Ich sehe nur <BLANK>.",
+                "type": "Eine berühmte Person"
             },
             "gene": [
                 "Dolly Parton",
@@ -3404,12 +3404,12 @@
         {
             "a": {
                 "examples": [
-                    "silverware",
-                    "towels",
-                    "garbage bags"
+                    "Kuchengabeln",
+                    "Handtücher",
+                    "Müllbeutel"
                 ],
-                "text": "You spend all your money on <BLANK>.",
-                "type": "plural noun - household items"
+                "text": "Du gibst all dein Geld aus für <BLANK>.",
+                "type": "Nomen Mehrzahl - Haushaltsgegenstände"
             },
             "gene": [
                 "napkin holders",
@@ -3421,12 +3421,12 @@
         {
             "a": {
                 "examples": [
-                    "boat",
-                    "Honda",
-                    "scooter"
+                    "Boot",
+                    "Bahn",
+                    "Elektro-Roller"
                 ],
-                "text": "I\u2019m going light speed you\u2019re driving a <BLANK>.",
-                "type": "noun - a vehicle"
+                "text": "Ich erreiche Lichtgeschwindigkeit, und fährst mit dem/r <BLANK>.",
+                "type": "Ein Fahrzeug"
             },
             "gene": [
                 "mule",
@@ -3438,12 +3438,12 @@
         {
             "a": {
                 "examples": [
-                    "buried",
-                    "trounced",
-                    "wasted"
+                    "Addition",
+                    "Satz des Pythagoras",
+                    "Multiplikation"
                 ],
-                "text": "Only one can survive that means you get <BLANK>.",
-                "type": "verb ending w/ -ed"
+                "text": "Ich bin unberechenbar, ich beherrsche <BLANK>.",
+                "type": "Eine mathematische Grundrechenart (oder ein Satz)"
             },
             "gene": [
                 "dunked",
@@ -3455,12 +3455,12 @@
         {
             "a": {
                 "examples": [
-                    "hello",
-                    "greetings",
-                    "good day"
+                    "Hallöchen",
+                    "Gruezi",
+                    "Einen schönen guten Tag"
                 ],
-                "text": "Anyone home in there? <BLANK>?",
-                "type": "a greeting"
+                "text": "Ist jemand zuhause? <BLANK>?",
+                "type": "Eine Begrüßung"
             },
             "gene": [
                 "ahoy",
@@ -3472,12 +3472,12 @@
         {
             "a": {
                 "examples": [
-                    "birthdate",
-                    "height",
-                    "eye color"
+                    "Geburtstag",
+                    "Körpergewicht",
+                    "Postleitzahl"
                 ],
-                "text": "When I\u2019m done u won\u2019t remember your <BLANK>.",
-                "type": "noun - driver's license info"
+                "text": "Wenn ich mit dir fertig bin vergisst du dein/e/n <BLANK>.",
+                "type": "Nomen - Eine Angabe auf deinem Ausweis"
             },
             "gene": [
                 "social",
@@ -3489,12 +3489,12 @@
         {
             "a": {
                 "examples": [
-                    "twelve-thousand",
-                    "a googol",
-                    "sextillion"
+                    "Zwanzigtausend",
+                    "ein Dutzend",
+                    "eine Milliarde"
                 ],
-                "text": "The only chance you got is one in <BLANK>.",
-                "type": "noun - a large number"
+                "text": "Deine Change mich zu besiegen liegt bei eins zu <BLANK>.",
+                "type": "Eine hohe Zahl"
             },
             "gene": [
                 "16",
@@ -3506,12 +3506,12 @@
         {
             "a": {
                 "examples": [
-                    "cream cheese",
-                    "Easter peeps",
-                    "Jell-O"
+                    "Sahnetorte",
+                    "Ostereier",
+                    "Wackelpudding"
                 ],
-                "text": "Your rhymes are soft, like <BLANK>.",
-                "type": "plural noun - soft food"
+                "text": "Deine Reime sind weich, genau wie <BLANK>.",
+                "type": "Nomen Mehrzahl - Etwas weiches zu Essen"
             },
             "gene": [
                 "brownies",
@@ -3523,12 +3523,12 @@
         {
             "a": {
                 "examples": [
-                    "severely",
-                    "intensely",
-                    "strongly"
+                    "telefonieren",
+                    "zu spät kommen",
+                    "Überstunden machen"
                 ],
-                "text": "You aspire to greatness but you perspire <BLANK>.",
-                "type": "adverb - intensity"
+                "text": "Mein Ziel ist der Erfolg und das schaff ich durchs <BLANK>.",
+                "type": "Verb - Etwas, was man am Arbeitsplatz macht"
             },
             "gene": [
                 "wetly",
@@ -3541,11 +3541,11 @@
             "a": {
                 "examples": [
                     "Halloween",
-                    "Thanksgiving",
-                    "Labor Day"
+                    "Fronleichnam",
+                    "Tag der Arbeit"
                 ],
-                "text": "Lighting you up, like it\u2019s <BLANK>.",
-                "type": "noun - a holiday"
+                "text": "Guck nicht so traurig, immerhin ist heute <BLANK>.",
+                "type": "Ein Feiertag"
             },
             "gene": [
                 "Star Wars Day",
@@ -3557,12 +3557,12 @@
         {
             "a": {
                 "examples": [
-                    "plunger",
-                    "stove",
-                    "couch"
+                    "ein Pömpel",
+                    "ein Elektroherd",
+                    "ein Staubsauger"
                 ],
-                "text": "I\u2019m so clean. You\u2019re as dirty as your <BLANK>.",
-                "type": "noun - household object"
+                "text": "Ich bin super sauber. Du eher so dreckig wie <BLANK>.",
+                "type": "Unbestimmter Artikel + Haushaltsgerät"
             },
             "gene": [
                 "plates",
@@ -3574,12 +3574,12 @@
         {
             "a": {
                 "examples": [
-                    "pound cake",
-                    "Twinkies",
-                    "strudel"
+                    "Salzstangen",
+                    "Kartoffelchips",
+                    "Brezel"
                 ],
-                "text": "If you come at me you better bring <BLANK>.",
-                "type": "plural noun - dessert"
+                "text": "Kommst du mich besuchen hast du besser <BLANK>.",
+                "type": "Nomen Mehrzahl - Ein Snack"
             },
             "gene": [
                 "eclairs",
@@ -3591,12 +3591,12 @@
         {
             "a": {
                 "examples": [
-                    "graduation",
+                    "die Führerscheinprüfung",
                     "\u2019Game of Thrones\u2019",
-                    "Christmas dinner"
+                    "das Weihnachtsessen"
                 ],
-                "text": "I\u2019ll mess you up make you miss <BLANK>.",
-                "type": "noun - an event"
+                "text": "Wegen mir verpasst du <BLANK>.",
+                "type": "(Artikel) + Nomen - Ein Ereignis"
             },
             "gene": [
                 "the aurora borealis",
@@ -3608,12 +3608,12 @@
         {
             "a": {
                 "examples": [
-                    "beefy",
-                    "mopey",
-                    "stinky"
+                    "Hamster",
+                    "Katze",
+                    "Wellensittich"
                 ],
-                "text": "I\u2019m getting to you. You look all <BLANK>.",
-                "type": "adjective ending w/ -y"
+                "text": "Und jetzt zu dir. Du stinkst nach <BLANK>.",
+                "type": "Ein Haustier"
             },
             "gene": [
                 "wormy",
@@ -3625,12 +3625,12 @@
         {
             "a": {
                 "examples": [
-                    "Care Bear",
+                    "Meister Proper",
                     "Batman",
-                    "Elmo"
+                    "Graf Zahl"
                 ],
-                "text": "Have you ever heard you look like a <BLANK>.",
-                "type": "proper noun - doll or action figure"
+                "text": "Hat dir schon mal wer gesagt, du siehst aus wie <BLANK>.",
+                "type": "Eine fiktive Figur"
             },
             "gene": [
                 "GI Joe",
@@ -3643,11 +3643,11 @@
             "a": {
                 "examples": [
                     "Napoleon",
-                    "Joan of Arc",
-                    "Harry Truman"
+                    "Konrad Adenauer",
+                    "Julius Caesar"
                 ],
-                "text": "Look at you, you\u2019re dressed like <BLANK>.",
-                "type": "proper noun - historical figure"
+                "text": "Sieh dich doch mal an, du bist angezogen wie <BLANK>.",
+                "type": "Eine historische Person"
             },
             "gene": [
                 "Teddy Roosevelt",
@@ -3659,12 +3659,12 @@
         {
             "a": {
                 "examples": [
-                    "\u2019Snow White\u2019",
-                    "\u2019Lilo and Stitch\u2019",
-                    "\u2019The Lion King\u2019"
+                    "\u2019Die Eiskönigin\u2019",
+                    "\u2019Benjamin Blümchen\u2019",
+                    "\u2019König der Löwen\u2019"
                 ],
-                "text": "There\u2019s no happy ending this isn\u2019t <BLANK>.",
-                "type": "kids' movie title"
+                "text": "Hier gibt es kein Happy-End, das ist nicht <BLANK>.",
+                "type": "Name eines Films für Kinder"
             },
             "gene": [
                 "\u2019Pete\u2019s Dragon\u2019",
@@ -3676,12 +3676,12 @@
         {
             "a": {
                 "examples": [
-                    "Arby\u2019s",
-                    "Olive Garden",
-                    "Applebee\u2019s"
+                    "Heidi Klum",
+                    "Joachim Löw",
+                    "Sascha Grammel"
                 ],
-                "text": "Are you lost? Did you think this was <BLANK>?",
-                "type": "proper noun - a restaurant"
+                "text": "Dein ernst? Dachtest du das wäre <BLANK>?",
+                "type": "Ein Promi"
             },
             "gene": [
                 "White Castle",
@@ -3693,12 +3693,12 @@
         {
             "a": {
                 "examples": [
-                    "sneeze",
-                    "giggle",
-                    "belch"
+                    "niesen",
+                    "schlucken",
+                    "husten"
                 ],
-                "text": "This will be over before you can <BLANK>.",
-                "type": "verb - bodily function"
+                "text": "Gleich ist es vorbei, so schnell kannst du nicht <BLANK>.",
+                "type": "Verb - Eine Körperfunktion"
             },
             "gene": [
                 "poo",
@@ -3710,12 +3710,12 @@
         {
             "a": {
                 "examples": [
-                    "gentle breeze",
-                    "summer rain",
-                    "patch of fog"
+                    "eine Lawine",
+                    "der Sommerregen",
+                    "der Schnee"
                 ],
-                "text": "I\u2019m a hurricane. You\u2019re a <BLANK>.",
-                "type": "common noun - weather related"
+                "text": "Ich bin ein Hurrikan, du bist <BLANK>.",
+                "type": "Artikel + Nomen - Ein Wetterzustand"
             },
             "gene": [
                 "puffy cloud",
@@ -3727,12 +3727,12 @@
         {
             "a": {
                 "examples": [
-                    "elephant",
-                    "whale",
-                    "lion"
+                    "der Elefant",
+                    "der Wal",
+                    "der Löwe"
                 ],
-                "text": "You\u2019re the flyswatter, I\u2019m the <BLANK>.",
-                "type": "singular noun - large animal"
+                "text": "Du bist die Fliegenklatsche, ich bin <BLANK>.",
+                "type": "Artikel + Nomen - Ein großes Tier"
             },
             "gene": [
                 "rhino",
@@ -3744,12 +3744,12 @@
         {
             "a": {
                 "examples": [
-                    "mother-in-law",
-                    "grandpa",
-                    "aunt"
+                    "Schwiegermutter",
+                    "Opa",
+                    "Tante"
                 ],
-                "text": "I\u2019m gonna send you cryin\u2019 to your <BLANK>.",
-                "type": "common noun - a relative"
+                "text": "Du rennst weinend nach Hause zu deinem/r <BLANK>.",
+                "type": "Nomen - Ein/e Verwandte/r"
             },
             "gene": [
                 "in-laws",
@@ -3761,12 +3761,12 @@
         {
             "a": {
                 "examples": [
-                    "sick",
-                    "clammy",
-                    "warm"
+                    "krank",
+                    "kühl",
+                    "müde"
                 ],
-                "text": "The strong survive and you\u2019re looking <BLANK>.",
-                "type": "negative adjective"
+                "text": "Nur die Stärksten überleben und du bist zu <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "swollen",
@@ -3778,12 +3778,12 @@
         {
             "a": {
                 "examples": [
-                    "great",
-                    "hot",
-                    "phat"
+                    "großartig",
+                    "heiß",
+                    "krass"
                 ],
-                "text": "It\u2019s crazy the way you think you\u2019re <BLANK>.",
-                "type": "positive adjectve"
+                "text": "Es ist irre, dass du denkst, du wärst <BLANK>.",
+                "type": "Positives Adjektiv"
             },
             "gene": [
                 "stupendous",
@@ -3795,12 +3795,12 @@
         {
             "a": {
                 "examples": [
-                    "joke",
-                    "quip",
-                    "gag"
+                    "Gronkh",
+                    "ungespielt",
+                    "Pamela Reif"
                 ],
-                "text": "I\u2019m the punchline you\u2019re the <BLANK>.",
-                "type": "noun -  word for 'witty comment'"
+                "text": "Ich bin so erfolgreich, mich kennt sogar <BLANK>.",
+                "type": "Der Name einer Internetpersönlichkeit"
             },
             "gene": [
                 "pun",
@@ -3812,12 +3812,12 @@
         {
             "a": {
                 "examples": [
-                    "\u2019Jaws\u2019",
-                    "\u2019The Sting\u2019",
+                    "\u2019Zweiohrküken\u2019",
+                    "\u2019Das perfekte Geheimnis\u2019",
                     "\u2019Madagascar\u2019"
                 ],
-                "text": "If you were a movie, you\u2019d be <BLANK>.",
-                "type": "movie title"
+                "text": "So berühmt, ich bin die Hauptrolle in <BLANK>.",
+                "type": "Ein Filmname"
             },
             "gene": [
                 "\u2019Frozen\u2019",
@@ -3829,12 +3829,12 @@
         {
             "a": {
                 "examples": [
-                    "refrain",
-                    "verse",
-                    "line"
+                    "der Refrain",
+                    "der Vers",
+                    "der Höhepunkt"
                 ],
-                "text": "Ready kid? Here comes another <BLANK>.",
-                "type": "noun - part of a poem"
+                "text": "Bist du bereit? Hier kommt <BLANK>.",
+                "type": "Artikel + Nomen - Teil eines Textes"
             },
             "gene": [
                 "stanza",
@@ -3846,12 +3846,12 @@
         {
             "a": {
                 "examples": [
-                    "spiders",
-                    "fish",
-                    "dragons"
+                    "Spinnnen",
+                    "Fische",
+                    "Drachen"
                 ],
-                "text": "Bet you never heard bout the birds and <BLANK>.",
-                "type": "plural noun - animals"
+                "text": "Unbezahlbar, meine Sammlung an <BLANK>.",
+                "type": "Nomen Mehrzahl - Tiere"
             },
             "gene": [
                 "pelicans",
@@ -3863,12 +3863,12 @@
         {
             "a": {
                 "examples": [
-                    "pencil",
-                    "lemon",
-                    "blouse"
+                    "ein Bleistift",
+                    "eine Zitrone",
+                    "ein Schlüsselband"
                 ],
-                "text": "If I had money I wouldn\u2019t buy you a <BLANK>.",
-                "type": "singular noun - inexpensive item"
+                "text": "Wäre ich reich, kaufe ich dir nichtmal <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Ein günstiges Produkt"
             },
             "gene": [
                 "condo",
@@ -3880,12 +3880,12 @@
         {
             "a": {
                 "examples": [
-                    "vase",
-                    "box",
-                    "pocket"
+                    "eine Vase",
+                    "eine Kiste",
+                    "eine Tasche"
                 ],
-                "text": "When I look at you I see an empty <BLANK>.",
-                "type": "singular common noun - receptacle"
+                "text": "Deine Seele ist so leer wie <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Ein Behältnis"
             },
             "gene": [
                 "envelope",
@@ -3897,12 +3897,12 @@
         {
             "a": {
                 "examples": [
-                    "candles",
-                    "flowers",
-                    "bonbons"
+                    "Kerzen",
+                    "Blumen",
+                    "Bonbons"
                 ],
-                "text": "Your thrift store rhymes are secondhand <BLANK>.",
-                "type": "plural noun - gifts"
+                "text": "Deine Reime sind gebraucht, wie meine <BLANK>.",
+                "type": "Nomen Mehrzahl - Geschenke"
             },
             "gene": [
                 "socks",
@@ -3914,12 +3914,12 @@
         {
             "a": {
                 "examples": [
-                    "languished",
-                    "straightened",
-                    "jumped"
+                    "unangenehm",
+                    "hoch",
+                    "lecker"
                 ],
-                "text": "Hold on now you\u2019re \u2018bout to get <BLANK>.",
-                "type": "verb ending w/ -ed"
+                "text": "Schnall dich an, gleich wird es <BLANK>.",
+                "type": "Ein Adjektiv"
             },
             "gene": [
                 "grabbed",
@@ -3931,12 +3931,12 @@
         {
             "a": {
                 "examples": [
-                    "snuggle",
-                    "sleep",
-                    "eat"
+                    "kuscheln",
+                    "schlafen",
+                    "essen"
                 ],
-                "text": "On your mark. Get set. Let\u2019s <BLANK>.",
-                "type": "verb - nighttime activity"
+                "text": "Auf die Plätze, Fertig, <BLANK>.",
+                "type": "Verb - Etwas, was man Nachts macht"
             },
             "gene": [
                 "watch Netflix",
@@ -3948,12 +3948,12 @@
         {
             "a": {
                 "examples": [
-                    "garbage",
-                    "headaches",
-                    "mice"
+                    "einkaufen",
+                    "Vokabeln lernen",
+                    "arbeiten"
                 ],
-                "text": "A rhyme for a rhyme all you\u2019re giving is <BLANK>.",
-                "type": "plural noun - undesirable things"
+                "text": "Wenn ich mit dir fertig bin gehe ich <BLANK>.",
+                "type": "Verb - Etwas, was man ungerne macht"
             },
             "gene": [
                 "knick knacks",
@@ -3965,12 +3965,12 @@
         {
             "a": {
                 "examples": [
-                    "smart",
-                    "quick",
-                    "sly"
+                    "Dart spielen",
+                    "kochen",
+                    "wandern"
                 ],
-                "text": "To reach the next level u gotta b <BLANK>.",
-                "type": "positive adjective"
+                "text": "Um mein Level zu erreichen musst du gut <BLANK>.",
+                "type": "ein Hobby"
             },
             "gene": [
                 "sticky",
@@ -3982,12 +3982,12 @@
         {
             "a": {
                 "examples": [
-                    "knitting",
-                    "the accordion",
-                    "cooking"
+                    "nähen",
+                    "musizieren",
+                    "basteln"
                 ],
-                "text": "Rappin\u2019 isn\u2019t for you so maybe learn <BLANK>.",
-                "type": "verb- a hobby"
+                "text": "Rappen ist nicht für dich, lerne lieber zu <BLANK>.",
+                "type": "Verb - ein Hobby"
             },
             "gene": [
                 "pottery",
@@ -3999,12 +3999,12 @@
         {
             "a": {
                 "examples": [
-                    "soup",
-                    "cake",
-                    "noodles"
+                    "Franz Beckenbauer",
+                    "Otto Waalkes",
+                    "Michael Wendler"
                 ],
-                "text": "Something about you reminds me of <BLANK>.",
-                "type": "noun - food item"
+                "text": "Du erinnerst mich irgendwie an <BLANK>.",
+                "type": "Ein Promi"
             },
             "gene": [
                 "raw beef",
@@ -4016,12 +4016,12 @@
         {
             "a": {
                 "examples": [
-                    "banana",
-                    "sack",
-                    "musket"
+                    "Bananen",
+                    "Mobilgeräte",
+                    "Fußbälle"
                 ],
-                "text": "I\u2019m coming after you so watch your <BLANK>.",
-                "type": "common noun - a thing"
+                "text": "Ich komme in den Club und alle achten auf meine <BLANK>.",
+                "type": "Nomen Mehrzahl"
             },
             "gene": [
                 "heel",
@@ -4033,12 +4033,12 @@
         {
             "a": {
                 "examples": [
-                    "skiing",
-                    "hot tubbing",
-                    "sneezing"
+                    "Birnen",
+                    "Badewannen",
+                    "Raumstationen"
                 ],
-                "text": "Word around town is you\u2019re afraid of <BLANK>.",
-                "type": "verb ending w/ -ing"
+                "text": "Gerüchten zufolge hast du Angst vor <BLANK>.",
+                "type": "Nomen Mehrzahl"
             },
             "gene": [
                 "kissing",
@@ -4050,12 +4050,12 @@
         {
             "a": {
                 "examples": [
-                    "throw pillow",
-                    "bean bag",
-                    "baseball"
+                    "ein Kissen",
+                    "ein Schneeball",
+                    "eine Frisbee"
                 ],
-                "text": "Watch out! I\u2019m gonna throw you like a <BLANK>.",
-                "type": "singular noun - object you toss"
+                "text": "Pass auf! Ich werfe dich wie <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Etwas, was man wirft"
             },
             "gene": [
                 "withering glance",
@@ -4067,12 +4067,12 @@
         {
             "a": {
                 "examples": [
-                    "meatloaf",
-                    "sandwich",
-                    "pizza"
+                    "Butterbrot",
+                    "Döner",
+                    "Schinkenpizza"
                 ],
-                "text": "Now run on home and cry in your <BLANK>.",
-                "type": "noun - the last food you ate"
+                "text": "Geh nach Hause weinen in deiner/m <BLANK>.",
+                "type": "Nomen - Das letzte, das du gegessen hast"
             },
             "gene": [
                 "Pop Tarts",
@@ -4084,12 +4084,12 @@
         {
             "a": {
                 "examples": [
-                    "rested",
-                    "recovered",
-                    "emoted"
+                    "gespielt",
+                    "geschlafen",
+                    "gelacht"
                 ],
-                "text": "I heard it\u2019s been a long time since you <BLANK>.",
-                "type": "verb ending w/ -ed"
+                "text": "Lange her - Wann hast du zuletzt <BLANK>.",
+                "type": "Verb mit ge- am Anfang"
             },
             "gene": [
                 "showered",
@@ -4101,12 +4101,12 @@
         {
             "a": {
                 "examples": [
-                    "\u2019Alien\u2019",
-                    "\u2019The Shape of Water\u2019",
+                    "\u2019Honig im Kopf\u2019",
+                    "\u2019Der Emoji Movie\u2019",
                     "\u2019Star Wars\u2019"
                 ],
-                "text": "Your life so far, is just like <BLANK>.",
-                "type": "movie title"
+                "text": "Dein Leben ist bis jetzt genau wie <BLANK>.",
+                "type": "Filmname"
             },
             "gene": [
                 "\u2019Ready Player One\u2019",
@@ -4118,12 +4118,12 @@
         {
             "a": {
                 "examples": [
-                    "mouse",
-                    "breeze",
-                    "sleeping baby"
+                    "eine Maus",
+                    "eine kleine Welle",
+                    "ein schlafendes Baby"
                 ],
-                "text": "Better speak up! You\u2019re quiet as a <BLANK>.",
-                "type": "singular noun - quiet thing"
+                "text": "Sprich mal lauter! Du bist so leise wie <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Etwas leises"
             },
             "gene": [
                 "towel",
@@ -4135,12 +4135,12 @@
         {
             "a": {
                 "examples": [
-                    "bolder",
-                    "softer",
-                    "larger"
+                    "Quiplash XL",
+                    "Super Smash Bros",
+                    "Minecraft"
                 ],
-                "text": "I can\u2019t think, of anyone <BLANK>.",
-                "type": "adjective ending w/ -er"
+                "text": "Ich bin krass im Game, hab geübt mit <BLANK>.",
+                "type": "Ein Videospiel"
             },
             "gene": [
                 "sicker",
@@ -4152,12 +4152,12 @@
         {
             "a": {
                 "examples": [
-                    "rodeo",
-                    "concert",
-                    "battle"
+                    "Auftritt",
+                    "Konzert",
+                    "Kampf"
                 ],
-                "text": "Throw in the towel you\u2019ve seen your last <BLANK>.",
-                "type": "noun - an event"
+                "text": "Du kannst aufgeben, das war dein letzte/r/s <BLANK>.",
+                "type": "Nomen - Ein Ereignis"
             },
             "gene": [
                 "tractor pull",
@@ -4169,12 +4169,12 @@
         {
             "a": {
                 "examples": [
-                    "friend",
-                    "doctor",
-                    "partner"
+                    "Freund",
+                    "Arzt",
+                    "Partner"
                 ],
-                "text": "You\u2019re battling me? Well bring it my <BLANK>.",
-                "type": "common noun - a person"
+                "text": "Gegen mich antreten? Da hilft dir mein/e <BLANK>.",
+                "type": "Nomen - Eine Person"
             },
             "gene": [
                 "neighbor",
@@ -4186,12 +4186,12 @@
         {
             "a": {
                 "examples": [
-                    "attractive",
-                    "fast",
-                    "cute"
+                    "attraktiv",
+                    "schnell",
+                    "niedlich"
                 ],
-                "text": "Don\u2019t think for a minute that you\u2019re even <BLANK>.",
-                "type": "positive adjective"
+                "text": "Glaub ja nicht du wärst <BLANK>.",
+                "type": "Positives Adjektiv"
             },
             "gene": [
                 "scary",
@@ -4203,12 +4203,12 @@
         {
             "a": {
                 "examples": [
-                    "Red Cross",
-                    "media",
-                    "circus"
+                    "Madrid",
+                    "Paris",
+                    "Hannover"
                 ],
-                "text": "You should run away and join the <BLANK>.",
-                "type": "noun - an organization"
+                "text": "Wenn ich dich sehe, flüchte ich nach <BLANK>.",
+                "type": "Eine Stadt"
             },
             "gene": [
                 "Navy",
@@ -4220,12 +4220,12 @@
         {
             "a": {
                 "examples": [
-                    "water",
+                    "Wasser",
                     "Sprite",
-                    "beer"
+                    "Bier"
                 ],
-                "text": "You\u2019re low on fuel better pump some <BLANK>.",
-                "type": "noun - liquid"
+                "text": "Du hast keine Energie mehr, tank mal nach mit <BLANK>.",
+                "type": "Nomen - Eine Flüssigkeit"
             },
             "gene": [
                 "eggnog",
@@ -4237,12 +4237,12 @@
         {
             "a": {
                 "examples": [
-                    "swimming",
-                    "sleeping",
-                    "thinking"
+                    "schwimmen",
+                    "schlafen",
+                    "nachdenken"
                 ],
-                "text": "If I were you I wouldn\u2019t try any <BLANK>.",
-                "type": "verb ending w/ -ing"
+                "text": "Wäre ich du, würde ich niemals <BLANK>.",
+                "type": "Ein Verb"
             },
             "gene": [
                 "jogging",
@@ -4254,12 +4254,12 @@
         {
             "a": {
                 "examples": [
-                    "green",
-                    "scared",
-                    "upside down"
+                    "wandern",
+                    "Basketball spielen",
+                    "stricken"
                 ],
-                "text": "Is your mama here? Tell\u2019er you\u2019re <BLANK>.",
-                "type": "adjective"
+                "text": "Ist deine Mama da? Sag ihr ich will mit ihr <BLANK>.",
+                "type": "Verb - Ein Hobby"
             },
             "gene": [
                 "weird",
@@ -4271,12 +4271,12 @@
         {
             "a": {
                 "examples": [
-                    "apples",
-                    "pork",
-                    "Cheerios"
+                    "Äpfel",
+                    "Fleisch",
+                    "Käse"
                 ],
-                "text": "When cookin\u2019 up rhymes I add some <BLANK>.",
-                "type": "plural noun - food item"
+                "text": "Wenn ich meine Reime zubereite fehlt es nie an <BLANK>.",
+                "type": "Nomen Mehrzahl - Eine Zutat"
             },
             "gene": [
                 "Skippy",
@@ -4288,12 +4288,12 @@
         {
             "a": {
                 "examples": [
-                    "Mickey Mouse",
+                    "Tom und Jerry",
                     "SpongebBob",
-                    "The Smurfs"
+                    "Die Schlümpfe"
                 ],
-                "text": "I\u2019m not safe for work you\u2019re an episode of <BLANK>.",
-                "type": "proper noun - cartoon character"
+                "text": "Du denkst wohl auch du bist wie <BLANK>.",
+                "type": "Eine Zeichentrickfigur"
             },
             "gene": [
                 "Garfield",
@@ -4305,12 +4305,12 @@
         {
             "a": {
                 "examples": [
-                    "boom",
-                    "slam",
-                    "crunch"
+                    "Bumm",
+                    "Muuuh",
+                    "Peng"
                 ],
-                "text": "You tried to get in but the door went <BLANK>!",
-                "type": "None"
+                "text": "Du wolltest rein, aber die Tür machte <BLANK>!",
+                "type": "ein Geräusch"
             },
             "gene": [
                 "Shazam",
@@ -4322,12 +4322,12 @@
         {
             "a": {
                 "examples": [
-                    "trunk",
-                    "rug",
-                    "box"
+                    "die Mona Lisa",
+                    "ein Dino-Schädel",
+                    "eine alte Truhe"
                 ],
-                "text": "I always sparkle. You\u2019re dusty as a <BLANK>.",
-                "type": "singular noun - thing found in an attic"
+                "text": "Während ich glitzer bist du staubig wie <BLANK>.",
+                "type": "Artikel + Nomen - Etwas aus einem Museum"
             },
             "gene": [
                 "phonograph",
@@ -4339,12 +4339,12 @@
         {
             "a": {
                 "examples": [
-                    "hat",
-                    "shoe",
-                    "coat"
+                    "Erste Kreisklasse",
+                    "Zweite Kreisliga",
+                    "Amateurliga"
                 ],
-                "text": "You\u2019re not fit, to hold my <BLANK>.",
-                "type": "noun - article of clothing"
+                "text": "Du bist nicht in meiner Liga, du spielst <BLANK>.",
+                "type": "Eine Liga"
             },
             "gene": [
                 "pajamas",
@@ -4357,11 +4357,11 @@
             "a": {
                 "examples": [
                     "iPhone",
-                    "typewriter",
-                    "blender"
+                    "Schreibmaschine",
+                    "Mixer"
                 ],
-                "text": "You\u2019re too weak, to use a <BLANK>.",
-                "type": "singular noun - tech gadget"
+                "text": "Du kannst nicht mal umgehen mit deiner/m <BLANK>.",
+                "type": "Nomen - Ein elektronisches Gerät"
             },
             "gene": [
                 "vending machine",
