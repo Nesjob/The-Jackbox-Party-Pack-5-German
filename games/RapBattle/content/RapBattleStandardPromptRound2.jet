@@ -3132,12 +3132,12 @@
         {
             "a": {
                 "examples": [
-                    "old",
-                    "hungry",
-                    "less"
+                    "alt",
+                    "hungrig",
+                    "müde"
                 ],
-                "text": "Your hands are shaking vision\u2019s gettin\u2019 <BLANK>.",
-                "type": "negative adjective"
+                "text": "Deine Hände zittern, wirst du gleich etwa <BLANK>?",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "adorable",
@@ -3149,12 +3149,12 @@
         {
             "a": {
                 "examples": [
-                    "cake",
-                    "Boston Cream Pie",
-                    "cookies"
+                    "Kuchen",
+                    "Sahnetorte mit Kirschen",
+                    "Kekse"
                 ],
-                "text": "Put down the fork you don\u2019t get no <BLANK>.",
-                "type": "noun - a dessert"
+                "text": "Leg die Gabel wieder hin, du bekommst kein/e/n <BLANK>.",
+                "type": "Nomen - Ein Nachtisch"
             },
             "gene": [
                 "crème brûleé",
@@ -3166,12 +3166,12 @@
         {
             "a": {
                 "examples": [
-                    "cats",
-                    "seagulls",
-                    "spiders"
+                    "Katzen",
+                    "Seeleoparden",
+                    "Spinnen"
                 ],
-                "text": "Me and my crew we call ourselves the <BLANK>.",
-                "type": "plural noun - animals"
+                "text": "Ich und meine Homies, wir nennen uns die <BLANK>.",
+                "type": "Nomen Mehrzahl - Tiere"
             },
             "gene": [
                 "pugs",
@@ -3183,12 +3183,12 @@
         {
             "a": {
                 "examples": [
-                    "day",
-                    "moment",
-                    "century"
+                    "zwei Tage",
+                    "ein halbes Jahr",
+                    "sieben Wochen"
                 ],
-                "text": "Face it kid, you won\u2019t last a <BLANK>.",
-                "type": "noun - unit of time"
+                "text": "Sieh es ein, du schaffst es nicht mal <BLANK>.",
+                "type": "Wie lange dauert es noch bis zu deinem Geburtstag?"
             },
             "gene": [
                 "fortnight",
@@ -3200,16 +3200,16 @@
         {
             "a": {
                 "examples": [
-                    "campsite",
-                    "Wendy\u2019s",
-                    "train station"
+                    "OBS Studio",
+                    "Camtasia",
+                    "Bandicam"
                 ],
-                "text": "You wanna throw down meet me at the <BLANK>.",
-                "type": "noun - a location"
+                "text": "Du willst es mit mir aufnehmen? Dafür nutze ich <BLANK>.",
+                "type": "Ein Aufnahme- oder Computerprogramm"
             },
             "gene": [
-                "slopes",
-                "Don\u2019t use those! They\u2019re decorative soaps!"
+                "Fraps",
+                "Zu Mittag gibt es dazu heute Wraps!"
             ],
             "x": false,
             "id": 50672
@@ -3217,12 +3217,12 @@
         {
             "a": {
                 "examples": [
-                    "buddy",
-                    "pal",
-                    "homegirl"
+                    "Kumpel",
+                    "Kollege",
+                    "Homie"
                 ],
-                "text": "I ain\u2019t your friend I ain\u2019t your <BLANK>.",
-                "type": "noun - term for 'friend'"
+                "text": "Ich bin nicht dein Freund, ich bin nicht dein <BLANK>.",
+                "type": "Nomen - Wort für 'Freund'"
             },
             "gene": [
                 "companion",
@@ -3234,12 +3234,12 @@
         {
             "a": {
                 "examples": [
-                    "hats",
-                    "skirts",
-                    "Jimmy Choos"
+                    "Reisepass",
+                    "10€ Schein",
+                    "Schlüsselanhänger"
                 ],
-                "text": "I roll in the club decked out in <BLANK>.",
-                "type": "plural noun - clothes"
+                "text": "Willst du in den Club, kontrollieren sie deine/n <BLANK>.",
+                "type": "Nomen + Etwas in deiner Brieftasche"
             },
             "gene": [
                 "Fitbits",
@@ -3251,12 +3251,12 @@
         {
             "a": {
                 "examples": [
-                    "Markie Post",
-                    "Ted McGinley",
-                    "Matt LeBlanc"
+                    "Günther Jauch",
+                    "Anne Will",
+                    "Markus Lanz"
                 ],
-                "text": "If you were on TV you\u2019d be <BLANK>.",
-                "type": "proper noun - TV star"
+                "text": "Wärst du im Fernsehen wärst du wie <BLANK>.",
+                "type": "Ein Fernsehstar"
             },
             "gene": [
                 "Summer Glau",
@@ -3268,12 +3268,12 @@
         {
             "a": {
                 "examples": [
-                    "iPad",
-                    "alarm clock",
-                    "battery"
+                    "ein iPad",
+                    "ein Wecker",
+                    "eine Batterie"
                 ],
-                "text": "I got more processing power than a <BLANK>.",
-                "type": "singular noun - tech device"
+                "text": "Mein Akku hält länger als <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Ein elektronisches Gerät"
             },
             "gene": [
                 "smart fridge",
@@ -3285,12 +3285,12 @@
         {
             "a": {
                 "examples": [
-                    "Captain America",
+                    "Spiderman",
                     "Wonder Woman",
                     "Robin Hood"
                 ],
-                "text": "Check out my flow it\u2019s stronger than <BLANK>.",
-                "type": "proper noun - a super-hero"
+                "text": "Mein Flow ist stärker als der von <BLANK>.",
+                "type": "Ein Superheld"
             },
             "gene": [
                 "Batgirl",
@@ -3302,12 +3302,12 @@
         {
             "a": {
                 "examples": [
-                    "cake",
-                    "flan",
-                    "cheesecake"
+                    "Kuchen",
+                    "Pudding",
+                    "Schokotorte"
                 ],
-                "text": "Serving you up like a piece of <BLANK>.",
-                "type": "noun - a dessert"
+                "text": "Du wirst serviert wie ein Stückchen <BLANK>.",
+                "type": "Nomen - Eine Nachspeise"
             },
             "gene": [
                 "almond bark",
@@ -3319,12 +3319,12 @@
         {
             "a": {
                 "examples": [
-                    "lemonade",
-                    "Girl Scout cookies",
-                    "pizza"
+                    "Limonade",
+                    "Kekse",
+                    "Pizzen"
                 ],
-                "text": "For real are you here to sell me <BLANK>?",
-                "type": "plural noun - food item"
+                "text": "Verkaufst du jetzt wirklich <BLANK>?",
+                "type": "Nomen Mehrzahl - Etwas zu Essen"
             },
             "gene": [
                 "fruit",
@@ -3336,12 +3336,12 @@
         {
             "a": {
                 "examples": [
-                    "ring",
-                    "hat",
-                    "car"
+                    "Ring",
+                    "Hut",
+                    "Auto"
                 ],
-                "text": "After I\u2019m done I\u2019ll steal your <BLANK>.",
-                "type": "noun - a possession"
+                "text": "Wenn ich fertig bin klaue ich dir dein/e/n <BLANK>.",
+                "type": "Nomen - Ein Besitz-Gegenstand"
             },
             "gene": [
                 "sweetie",
@@ -3353,12 +3353,12 @@
         {
             "a": {
                 "examples": [
-                    "arms",
-                    "ears",
-                    "toes"
+                    "Arm",
+                    "Ohr",
+                    "Zeh"
                 ],
-                "text": "Sweat is pouring from all of your <BLANK>.",
-                "type": "plural noun - body parts"
+                "text": "Du schwitzt überall am ganzen <BLANK>.",
+                "type": "Nomen - Ein Körperteil"
             },
             "gene": [
                 "eyelids",
@@ -3370,12 +3370,12 @@
         {
             "a": {
                 "examples": [
-                    "glass",
-                    "jello",
-                    "candy"
+                    "Glas",
+                    "Pudding",
+                    "Keramik"
                 ],
-                "text": "Smashin\u2019 your dreams like they\u2019re made of <BLANK>.",
-                "type": "noun - fragile material"
+                "text": "Ich zerstöre deine Träume, als wären sie aus <BLANK>.",
+                "type": "Nomen - Ein zerbrechliches Material"
             },
             "gene": [
                 "marshmallow fluff",
@@ -3387,12 +3387,12 @@
         {
             "a": {
                 "examples": [
-                    "Abraham Lincoln",
+                    "Angela Merkel",
                     "Oprah",
                     "Robin Hood"
                 ],
-                "text": "Look in the mirror, see a poor man\u2019s <BLANK>.",
-                "type": "name - famous person"
+                "text": "Schau in den Spiegel. Ich sehe nur <BLANK>.",
+                "type": "Eine berühmte Person"
             },
             "gene": [
                 "Dolly Parton",
@@ -3404,12 +3404,12 @@
         {
             "a": {
                 "examples": [
-                    "silverware",
-                    "towels",
-                    "garbage bags"
+                    "Kuchengabeln",
+                    "Handtücher",
+                    "Müllbeutel"
                 ],
-                "text": "You spend all your money on <BLANK>.",
-                "type": "plural noun - household items"
+                "text": "Du gibst all dein Geld aus für <BLANK>.",
+                "type": "Nomen Mehrzahl - Haushaltsgegenstände"
             },
             "gene": [
                 "napkin holders",
@@ -3421,12 +3421,12 @@
         {
             "a": {
                 "examples": [
-                    "boat",
-                    "Honda",
-                    "scooter"
+                    "Boot",
+                    "Bahn",
+                    "Elektro-Roller"
                 ],
-                "text": "I\u2019m going light speed you\u2019re driving a <BLANK>.",
-                "type": "noun - a vehicle"
+                "text": "Ich erreiche Lichtgeschwindigkeit, und fährst mit dem/r <BLANK>.",
+                "type": "Ein Fahrzeug"
             },
             "gene": [
                 "mule",
