@@ -4118,12 +4118,12 @@
         {
             "a": {
                 "examples": [
-                    "mouse",
-                    "breeze",
-                    "sleeping baby"
+                    "eine Maus",
+                    "eine kleine Welle",
+                    "ein schlafendes Baby"
                 ],
-                "text": "Better speak up! You\u2019re quiet as a <BLANK>.",
-                "type": "singular noun - quiet thing"
+                "text": "Sprich mal lauter! Du bist so leise wie <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen - Etwas leises"
             },
             "gene": [
                 "towel",
@@ -4135,12 +4135,12 @@
         {
             "a": {
                 "examples": [
-                    "bolder",
-                    "softer",
-                    "larger"
+                    "Quiplash XL",
+                    "Super Smash Bros",
+                    "Minecraft"
                 ],
-                "text": "I can\u2019t think, of anyone <BLANK>.",
-                "type": "adjective ending w/ -er"
+                "text": "Ich bin krass im Game, hab geübt mit <BLANK>.",
+                "type": "Ein Videospiel"
             },
             "gene": [
                 "sicker",
@@ -4152,12 +4152,12 @@
         {
             "a": {
                 "examples": [
-                    "rodeo",
-                    "concert",
-                    "battle"
+                    "Auftritt",
+                    "Konzert",
+                    "Kampf"
                 ],
-                "text": "Throw in the towel you\u2019ve seen your last <BLANK>.",
-                "type": "noun - an event"
+                "text": "Du kannst aufgeben, das war dein letzte/r/s <BLANK>.",
+                "type": "Nomen - Ein Ereignis"
             },
             "gene": [
                 "tractor pull",
@@ -4169,12 +4169,12 @@
         {
             "a": {
                 "examples": [
-                    "friend",
-                    "doctor",
-                    "partner"
+                    "Freund",
+                    "Arzt",
+                    "Partner"
                 ],
-                "text": "You\u2019re battling me? Well bring it my <BLANK>.",
-                "type": "common noun - a person"
+                "text": "Gegen mich antreten? Da hilft dir mein/e <BLANK>.",
+                "type": "Nomen - Eine Person"
             },
             "gene": [
                 "neighbor",
@@ -4186,12 +4186,12 @@
         {
             "a": {
                 "examples": [
-                    "attractive",
-                    "fast",
-                    "cute"
+                    "attraktiv",
+                    "schnell",
+                    "niedlich"
                 ],
-                "text": "Don\u2019t think for a minute that you\u2019re even <BLANK>.",
-                "type": "positive adjective"
+                "text": "Glaub ja nicht du wärst <BLANK>.",
+                "type": "Positives Adjektiv"
             },
             "gene": [
                 "scary",
@@ -4203,12 +4203,12 @@
         {
             "a": {
                 "examples": [
-                    "Red Cross",
-                    "media",
-                    "circus"
+                    "Madrid",
+                    "Paris",
+                    "Hannover"
                 ],
-                "text": "You should run away and join the <BLANK>.",
-                "type": "noun - an organization"
+                "text": "Wenn ich dich sehe, flüchte ich nach <BLANK>.",
+                "type": "Eine Stadt"
             },
             "gene": [
                 "Navy",
@@ -4220,12 +4220,12 @@
         {
             "a": {
                 "examples": [
-                    "water",
+                    "Wasser",
                     "Sprite",
-                    "beer"
+                    "Bier"
                 ],
-                "text": "You\u2019re low on fuel better pump some <BLANK>.",
-                "type": "noun - liquid"
+                "text": "Du hast keine Energie mehr, tank mal nach mit <BLANK>.",
+                "type": "Nomen - Eine Flüssigkeit"
             },
             "gene": [
                 "eggnog",
@@ -4237,12 +4237,12 @@
         {
             "a": {
                 "examples": [
-                    "swimming",
-                    "sleeping",
-                    "thinking"
+                    "schwimmen",
+                    "schlafen",
+                    "nachdenken"
                 ],
-                "text": "If I were you I wouldn\u2019t try any <BLANK>.",
-                "type": "verb ending w/ -ing"
+                "text": "Wäre ich du, würde ich niemals <BLANK>.",
+                "type": "Ein Verb"
             },
             "gene": [
                 "jogging",
@@ -4254,12 +4254,12 @@
         {
             "a": {
                 "examples": [
-                    "green",
-                    "scared",
-                    "upside down"
+                    "wandern",
+                    "Basketball spielen",
+                    "stricken"
                 ],
-                "text": "Is your mama here? Tell\u2019er you\u2019re <BLANK>.",
-                "type": "adjective"
+                "text": "Ist deine Mama da? Sag ihr ich will mit ihr <BLANK>.",
+                "type": "Verb - Ein Hobby"
             },
             "gene": [
                 "weird",
@@ -4271,12 +4271,12 @@
         {
             "a": {
                 "examples": [
-                    "apples",
-                    "pork",
-                    "Cheerios"
+                    "Äpfel",
+                    "Fleisch",
+                    "Käse"
                 ],
-                "text": "When cookin\u2019 up rhymes I add some <BLANK>.",
-                "type": "plural noun - food item"
+                "text": "Wenn ich meine Reime zubereite fehlt es nie an <BLANK>.",
+                "type": "Nomen Mehrzahl - Eine Zutat"
             },
             "gene": [
                 "Skippy",
@@ -4288,12 +4288,12 @@
         {
             "a": {
                 "examples": [
-                    "Mickey Mouse",
+                    "Tom und Jerry",
                     "SpongebBob",
-                    "The Smurfs"
+                    "Die Schlümpfe"
                 ],
-                "text": "I\u2019m not safe for work you\u2019re an episode of <BLANK>.",
-                "type": "proper noun - cartoon character"
+                "text": "Du denkst wohl auch du bist wie <BLANK>.",
+                "type": "Eine Zeichentrickfigur"
             },
             "gene": [
                 "Garfield",
@@ -4305,12 +4305,12 @@
         {
             "a": {
                 "examples": [
-                    "boom",
-                    "slam",
-                    "crunch"
+                    "Bumm",
+                    "Muuuh",
+                    "Peng"
                 ],
-                "text": "You tried to get in but the door went <BLANK>!",
-                "type": "None"
+                "text": "Du wolltest rein, aber die Tür machte <BLANK>!",
+                "type": "ein Geräusch"
             },
             "gene": [
                 "Shazam",
@@ -4322,12 +4322,12 @@
         {
             "a": {
                 "examples": [
-                    "trunk",
-                    "rug",
-                    "box"
+                    "die Mona Lisa",
+                    "ein Dino-Schädel",
+                    "eine alte Truhe"
                 ],
-                "text": "I always sparkle. You\u2019re dusty as a <BLANK>.",
-                "type": "singular noun - thing found in an attic"
+                "text": "Während ich glitzer bist du staubig wie <BLANK>.",
+                "type": "Artikel + Nomen - Etwas aus einem Museum"
             },
             "gene": [
                 "phonograph",
@@ -4339,12 +4339,12 @@
         {
             "a": {
                 "examples": [
-                    "hat",
-                    "shoe",
-                    "coat"
+                    "Erste Kreisklasse",
+                    "Zweite Kreisliga",
+                    "Amateurliga"
                 ],
-                "text": "You\u2019re not fit, to hold my <BLANK>.",
-                "type": "noun - article of clothing"
+                "text": "Du bist nicht in meiner Liga, du spielst <BLANK>.",
+                "type": "Eine Liga"
             },
             "gene": [
                 "pajamas",
@@ -4357,11 +4357,11 @@
             "a": {
                 "examples": [
                     "iPhone",
-                    "typewriter",
-                    "blender"
+                    "Schreibmaschine",
+                    "Mixer"
                 ],
-                "text": "You\u2019re too weak, to use a <BLANK>.",
-                "type": "singular noun - tech gadget"
+                "text": "Du kannst nicht mal umgehen mit deiner/m <BLANK>.",
+                "type": "Nomen - Ein elektronisches Gerät"
             },
             "gene": [
                 "vending machine",
