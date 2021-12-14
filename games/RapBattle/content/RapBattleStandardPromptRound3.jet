@@ -4,12 +4,12 @@
         {
             "a": {
                 "examples": [
-                    "Dad",
-                    "sister",
-                    "cousin"
+                    "Vater",
+                    "Schwester",
+                    "Neffen"
                 ],
-                "text": "I ain\u2019t afraid, just bring it, <BLANK>.",
-                "type": "noun - a family member"
+                "text": "Ich hab keine Angst, ich hab ja meine/n <BLANK>.",
+                "type": "Nomen - Ein Familienmitglied"
             },
             "gene": [
                 "nephew",
@@ -21,12 +21,12 @@
         {
             "a": {
                 "examples": [
-                    "answer back",
-                    "respond",
-                    "clarify"
+                    "antworten",
+                    "erklären",
+                    "klarifizieren"
                 ],
-                "text": "Back yourself up and watch me <BLANK>.",
-                "type": "verb - synonym for 'retort'"
+                "text": "Schnall dich an und schau, ich kann gut <BLANK>.",
+                "type": "Verb - Synonym für 'beibringen'"
             },
             "gene": [
                 "retort",
@@ -38,12 +38,12 @@
         {
             "a": {
                 "examples": [
-                    "help",
-                    "trade",
-                    "swing"
+                    "helfen",
+                    "handeln",
+                    "schaukeln"
                 ],
-                "text": "I ain\u2019t sure what you\u2019re trying to <BLANK>.",
-                "type": "verb"
+                "text": "Ich bin mir nicht sicher, was soll ich noch <BLANK>.",
+                "type": "ein Verb"
             },
             "gene": [
                 "relate",
@@ -55,12 +55,12 @@
         {
             "a": {
                 "examples": [
-                    "told",
-                    "seated",
-                    "melted"
+                    "Handball",
+                    "Boxen",
+                    "Golf"
                 ],
-                "text": "Go and tell your mama that you got <BLANK>.",
-                "type": "verb ending w/ -ed"
+                "text": "Sag deiner Mama du warst beim <BLANK>.",
+                "type": "Nomen - Eine Sportart"
             },
             "gene": [
                 "smelled",
