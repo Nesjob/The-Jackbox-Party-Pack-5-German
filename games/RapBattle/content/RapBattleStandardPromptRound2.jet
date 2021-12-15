@@ -1789,12 +1789,12 @@
         {
             "a": {
                 "examples": [
-                    "later",
-                    "tomorrow",
-                    "now"
+                    "später",
+                    "morgen",
+                    "jetzt"
                 ],
-                "text": "If you don\u2019t know you\u2019d better <BLANK>.",
-                "type": "adverb of time"
+                "text": "Wenn nicht jetzt, dann lieber <BLANK>.",
+                "type": "Adverb der Zeit"
             },
             "gene": [
                 "eventually",
