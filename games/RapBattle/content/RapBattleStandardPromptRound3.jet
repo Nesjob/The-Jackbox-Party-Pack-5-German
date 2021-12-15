@@ -684,12 +684,12 @@
         {
             "a": {
                 "examples": [
-                    "cave",
-                    "cage",
-                    "foxhole"
+                    "in einer Höhle",
+                    "in einem Käfig",
+                    "auf einem Baumhaus"
                 ],
-                "text": "My punchline\u2019s comin\u2019. Better hide in a <BLANK>.",
-                "type": "singular common noun - safe place"
+                "text": "Feuer frei für meine Reime, versteck dich besser <BLANK>.",
+                "type": "Wo kann man sich gut verstecken?"
             },
             "gene": [
                 "synagogue",
@@ -701,12 +701,12 @@
         {
             "a": {
                 "examples": [
-                    "jump",
-                    "choke",
-                    "text"
+                    "Sprung",
+                    "Schlag",
+                    "Tritt"
                 ],
-                "text": "Your flow is jammed better give it a <BLANK>.",
-                "type": "verb - single syllable"
+                "text": "Dein Flow ist mies, gib ihm lieber einen <BLANK>.",
+                "type": "Nomen - ein einfacher Kampfschritt (eine Silbe)"
             },
             "gene": [
                 "poke",
@@ -718,12 +718,12 @@
         {
             "a": {
                 "examples": [
-                    "sick",
-                    "afraid",
-                    "freaked"
+                    "krank",
+                    "ängstlich",
+                    "verrückt"
                 ],
-                "text": "I\u2019m cooking up bars that\u2019ll make you <BLANK>.",
-                "type": "negative adjective"
+                "text": "Durch meine Zeilen wirst du langfristig <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "shvitz",
@@ -735,12 +735,12 @@
         {
             "a": {
                 "examples": [
-                    "gutter",
-                    "manhole",
-                    "dark alley"
+                    "eine Kanalisation",
+                    "ein Gefängnis",
+                    "eine dunkle Gasse"
                 ],
-                "text": "I\u2019d usually expect to find you in a <BLANK>.",
-                "type": "noun - an awful place"
+                "text": "Dein Zuhause kommt mir vor wie <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen (ein schlimmer Ort)"
             },
             "gene": [
                 "cold December",
@@ -752,12 +752,12 @@
         {
             "a": {
                 "examples": [
-                    "trash",
-                    "stones",
-                    "Gobstoppers"
+                    "Müll",
+                    "Steine",
+                    "Türstopper"
                 ],
-                "text": "It\u2019s hard not to choke when your rhymes are <BLANK>.",
-                "type": "noun - something hard to swallow"
+                "text": "Ich kann das nicht verdauen, deine Reime sind wie <BLANK>.",
+                "type": "Nomen Mehrzahl - Schwer zu schlucken"
             },
             "gene": [
                 "very thick pie",
@@ -769,16 +769,16 @@
         {
             "a": {
                 "examples": [
-                    "hole",
-                    "nostril",
-                    "aperture"
+                    "klassische Musik",
+                    "lofi hip hop",
+                    "Deutschrap"
                 ],
-                "text": "Listen now, and shut your <BLANK>.",
-                "type": "common noun -  an opening or orifice"
+                "text": "Hör mir jetzt zu, oder kennst du nur <BLANK>?",
+                "type": "Ein Musikgenre"
             },
             "gene": [
-                "vent",
-                "Can\u2019t believe the direction you guys went."
+                "Mozart",
+                "Dein Niveau ist so gar nicht meine Art."
             ],
             "x": true,
             "id": 50599
@@ -786,12 +786,12 @@
         {
             "a": {
                 "examples": [
-                    "fawn",
-                    "porcupine",
-                    "frog"
+                    "Super Mario",
+                    "Robin Hood",
+                    "Superman"
                 ],
-                "text": "You\u2019re a beastly bear I\u2019m an elegant <BLANK>.",
-                "type": "singular noun - animal"
+                "text": "Du bist ein Bösewicht, aber ich bin <BLANK>.",
+                "type": "Ein Superheld"
             },
             "gene": [
                 "rat",
@@ -803,12 +803,12 @@
         {
             "a": {
                 "examples": [
-                    "canvas",
-                    "loser",
-                    "comic relief"
+                    "die Klimapolitik",
+                    "die Finanzkrise",
+                    "das Wetter"
                 ],
-                "text": "In professional wrestling you\u2019d be the <BLANK>.",
-                "type": "noun - something that gets pounded in wrestling"
+                "text": "Bei Markus Lanz redest du nur über <BLANK>.",
+                "type": "Artikel + Nomen (ein Thema aus den Nachrichten)"
             },
             "gene": [
                 "Ric Flair",
@@ -820,12 +820,12 @@
         {
             "a": {
                 "examples": [
-                    "suburban",
-                    "stained",
-                    "so yesterday"
+                    "peinlich",
+                    "veraltet",
+                    "von gestern"
                 ],
-                "text": "Your wordplay is wack your threads are <BLANK>.",
-                "type": "negative adjective"
+                "text": "Deine Wortspiele sind Mist, dein Flow ist <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "periwinkle",
@@ -837,12 +837,12 @@
         {
             "a": {
                 "examples": [
-                    "cookie",
-                    "house",
-                    "trophy"
+                    "Kekse",
+                    "Häuser",
+                    "Pokale"
                 ],
-                "text": "That\u2019s how you do?  Let me get you a <BLANK>.",
-                "type": "singular noun - an object"
+                "text": "Du tust mir Leid. Ich kauf dir <BLANK>.",
+                "type": "Nomen Mehrzahl"
             },
             "gene": [
                 "futon",
@@ -854,12 +854,12 @@
         {
             "a": {
                 "examples": [
-                    "dusk",
-                    "3 a.m.",
-                    "dinner time"
+                    "Sonnenuntergang",
+                    "3 Uhr Nachts",
+                    "Schlafenszeit"
                 ],
-                "text": "You\u2019re as useful as solar panels at <BLANK>.",
-                "type": "noun - dark time of day"
+                "text": "Du bist so nützlich wie Solarzellen um <BLANK>.",
+                "type": "Nomen - Eine späte Uhrzeit"
             },
             "gene": [
                 "Lowe\u2019s Hardware",
@@ -871,12 +871,12 @@
         {
             "a": {
                 "examples": [
-                    "dust",
-                    "dirt",
-                    "mold"
+                    "Staub",
+                    "Schmutz",
+                    "Erde"
                 ],
-                "text": "You have an empty trophy case collectin\u2019 <BLANK>.",
-                "type": "noun - term for 'dirt'"
+                "text": "Deine Pokal-Sammlung ist voll mit <BLANK>.",
+                "type": "Nomen - Wort für 'Dreck'"
             },
             "gene": [
                 "string",
@@ -888,12 +888,12 @@
         {
             "a": {
                 "examples": [
-                    "mow",
-                    "sweep",
-                    "scrub"
+                    "Rasen mähen",
+                    "schrauben",
+                    "durchwischen"
                 ],
-                "text": "Are you finished yet? I gotta go <BLANK>.",
-                "type": "verb"
+                "text": "Bist du schon fertig? Ich muss noch <BLANK>.",
+                "type": "Verb"
             },
             "gene": [
                 "starch",
@@ -905,12 +905,12 @@
         {
             "a": {
                 "examples": [
-                    "watch",
-                    "motorcycle",
-                    "vase"
+                    "Armbanduhr",
+                    "Motorrad",
+                    "Vase"
                 ],
-                "text": "Your face is so ugly you broke my <BLANK>.",
-                "type": "noun - breakable thing"
+                "text": "Du bist so hässlich, kaputt ist jetzt mein/e <BLANK>.",
+                "type": "Nomen - Etwas, was kaputt gehen kann"
             },
             "gene": [
                 "heart",
@@ -922,12 +922,12 @@
         {
             "a": {
                 "examples": [
-                    "shoplifting",
-                    "arson",
-                    "tax fraud"
+                    "Diebstahl",
+                    "Schwarzfahren",
+                    "Steuerhinterziehung"
                 ],
-                "text": "You say you kill verses but you just commit <BLANK>.",
-                "type": "singular noun - a crime"
+                "text": "Ich bring die Zeilen um. Du wirst verhaftet wegen <BLANK>.",
+                "type": "Nomen - Eine Straftat"
             },
             "gene": [
                 "voter fraud",
@@ -939,12 +939,12 @@
         {
             "a": {
                 "examples": [
-                    "stinky",
-                    "noxious",
-                    "repulsive"
+                    "stinkend",
+                    "unangenehm",
+                    "ekelhaft"
                 ],
-                "text": "It\u2019s hard to breathe cause your raps are <BLANK>.",
-                "type": "adjective - synonym for 'nasty'"
+                "text": "Mir fällt es schwer zu atmen, deine Reime sind <BLANK>.",
+                "type": "Adjektiv - Synonym für 'ekelig'"
             },
             "gene": [
                 "heinous",
@@ -956,12 +956,12 @@
         {
             "a": {
                 "examples": [
-                    "Waste Management",
-                    "Orkin",
-                    "State Farm"
+                    "Straßenverkehrsamt",
+                    "Finanzamt",
+                    "Polizeiwache"
                 ],
-                "text": "Forget Ghostbusters for you I\u2019d call <BLANK>.",
-                "type": "proper noun - a business"
+                "text": "Vergiss die Ghostbusters. Für dich melde ich mich bei dem/der <BLANK>.",
+                "type": "Nomen - Eine Behörde"
             },
             "gene": [
                 "robot repair",
@@ -973,12 +973,12 @@
         {
             "a": {
                 "examples": [
-                    "euros",
-                    "kroner",
-                    "glass beads"
+                    "Euro",
+                    "Schweizer Franken",
+                    "Kronkorken"
                 ],
-                "text": "I\u2019m gonna school you tuition\u2019s one billion <BLANK>.",
-                "type": "plural noun - a type of currency"
+                "text": "Wenn ich hier gewinne bekomme ich eine Millionen <BLANK>.",
+                "type": "Nomen Mehrzahl - Eine Währung"
             },
             "gene": [
                 "yen",
@@ -990,12 +990,12 @@
         {
             "a": {
                 "examples": [
-                    "glass of water",
-                    "cheeseburger",
-                    "two-pound weight"
+                    "Wasserflaschen",
+                    "Big Macs",
+                    "Sportwagen"
                 ],
-                "text": "You can\u2019t be trusted to carry a <BLANK>.",
-                "type": "singular noun"
+                "text": "Du trägst nicht mal 10 <BLANK>.",
+                "type": "Nomen Mehrzahl"
             },
             "gene": [
                 "hors d\u2019ouevre tray",
@@ -1007,12 +1007,12 @@
         {
             "a": {
                 "examples": [
-                    "QVC",
-                    "\u2019Baywatch\u2019",
-                    "\u2019Gone with the Wind\u2019"
+                    "Bibel TV",
+                    "\u2019Verbotene Liebe\u2019",
+                    "\u2019Die Eiskönigin\u2019"
                 ],
-                "text": "You\u2019re, more boring than <BLANK>.",
-                "type": "movie/TV show/network"
+                "text": "Du bist langweiliger als <BLANK>.",
+                "type": "Name einer Fernsehsendung / Film"
             },
             "gene": [
                 "\u2019Tinker Tailor Soldier Spy\u2019",
