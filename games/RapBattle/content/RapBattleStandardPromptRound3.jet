@@ -7,7 +7,7 @@
                     "Vater",
                     "Schwester",
                     "Neffen"
-                ],
+                ], /
                 "text": "Ich hab keine Angst, ich hab ja meine/n <BLANK>.",
                 "type": "Nomen - Ein Familienmitglied"
             },
@@ -276,12 +276,12 @@
         {
             "a": {
                 "examples": [
-                    "burgers",
-                    "Pop-Tarts",
-                    "rice"
+                    "Kartoffeln",
+                    "Tofu",
+                    "Reis"
                 ],
-                "text": "Your rhymes are tasteless like overcooked <BLANK>.",
-                "type": "plural noun - foods"
+                "text": "Deine Reime sind geschmacklos so wie <BLANK>.",
+                "type": "Nomen Mehrzahl - Etwas langweiliges zu Essen"
             },
             "gene": [
                 "Popsicles",
@@ -293,12 +293,12 @@
         {
             "a": {
                 "examples": [
-                    "spoiled",
-                    "broken",
-                    "outdated"
+                    "verwöhnt",
+                    "kaputt",
+                    "abgelaufen"
                 ],
-                "text": "Your brand is expired. You\u2019re way too <BLANK>.",
-                "type": "negative adjective"
+                "text": "Deine Zeit ist vorbei, du bist viel zu <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "eggy",
@@ -310,12 +310,12 @@
         {
             "a": {
                 "examples": [
-                    "fist",
-                    "knee",
-                    "feet"
+                    "Fäuste",
+                    "Knie",
+                    "Füße"
                 ],
-                "text": "I won\u2019t give you the finger I\u2019ll give you the <BLANK>.",
-                "type": "noun - body part"
+                "text": "Ich geb dir nicht die Hand, du bekommst nur meine <BLANK>.",
+                "type": "Nomen Mehrzahl - Körperteile"
             },
             "gene": [
                 "buttocks",
@@ -327,12 +327,12 @@
         {
             "a": {
                 "examples": [
-                    "hair dryer",
-                    "bed",
-                    "taco"
+                    "Haartrockner",
+                    "Bett",
+                    "Döner"
                 ],
-                "text": "I need you like a fish needs a <BLANK>.",
-                "type": "singular noun"
+                "text": "Ich brauche dich, wie ein Fisch sein <BLANK>.",
+                "type": "Nomen Einzahl"
             },
             "gene": [
                 "potato chip",
@@ -348,8 +348,8 @@
                     "Darth Vader",
                     "Jar Jar Binks"
                 ],
-                "text": "In the Star Wars universe you\u2019d be <BLANK>.",
-                "type": "proper noun - Star Wars character"
+                "text": "Im Star Wars Universum wärst du <BLANK>.",
+                "type": "Ein Star Wars Charakter"
             },
             "gene": [
                 "a Wookie",
@@ -361,12 +361,12 @@
         {
             "a": {
                 "examples": [
-                    "knee",
-                    "torso",
-                    "armpit"
+                    "Ohren",
+                    "Fingernägel",
+                    "Achseln"
                 ],
-                "text": "Feel that pain? That\u2019s me kicking your <BLANK>.",
-                "type": "noun - body part"
+                "text": "Spürst du den Schmerz? Ich trete dir in deine <BLANK>.",
+                "type": "Nomen Mehrzahl - Körperteile"
             },
             "gene": [
                 "glands",
@@ -378,12 +378,12 @@
         {
             "a": {
                 "examples": [
-                    "insolent",
-                    "bratty",
-                    "foolish"
+                    "pleite",
+                    "krank",
+                    "albern"
                 ],
-                "text": "Last night in bed your mom told me u were <BLANK>.",
-                "type": "negative adjective"
+                "text": "Letzte Nacht im Bett sagte deine Mutter du wärst <BLANK>.",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "a high school debater",
@@ -395,12 +395,12 @@
         {
             "a": {
                 "examples": [
-                    "butler",
-                    "valet",
-                    "toilet flusher"
+                    "Kellner",
+                    "Taxifahrer",
+                    "Toilettenreiniger"
                 ],
-                "text": "You might make a good personal <BLANK>.",
-                "type": "noun - a service job"
+                "text": "In zehn Jahren bist du mein persönlicher <BLANK>.",
+                "type": "Nomen - Ein Service-Dienstleister"
             },
             "gene": [
                 "executive assistant",
