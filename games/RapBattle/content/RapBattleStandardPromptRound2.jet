@@ -1012,7 +1012,7 @@
                     "eine Wolke"
                 ],
                 "text": "Ich bin so schwer. Du bist so leicht wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Einzahl Nomen: Etwas leichtes"
+                "type": "Unbestimmter Artikel + Einzahl Nomen (etwas leichtes)"
             },
             "gene": [
                 "merengue",
@@ -1114,7 +1114,7 @@
                     "ein Atom"
                 ],
                 "text": "Für mich bist du nichts als <BLANK>.",
-                "type": "Unbestimmter Artikel + Ein Nomen - Etwas kleines"
+                "type": "Unbestimmter Artikel + Ein Nomen (etwas kleines)"
             },
             "gene": [
                 "bagel",
@@ -1131,7 +1131,7 @@
                     "ein 5 Euro Schein"
                 ],
                 "text": "Wenn du mich besiegst, geb ich dir <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen: Ein Preis"
+                "type": "Unbestimmter Artikel + Nomen (ein Preis)"
             },
             "gene": [
                 "credit",
@@ -1182,7 +1182,7 @@
                     "ein Drache"
                 ],
                 "text": "Du siehst nicht gut aus. War da gerade etwa <BLANK>.",
-                "type": "Unbestimmter Artikel + Einzahl Nomen - Etwas Gruseliges"
+                "type": "Unbestimmter Artikel + Einzahl Nomen (etwas gruseliges)"
             },
             "gene": [
                 "cute puppy",
@@ -1573,7 +1573,7 @@
                     "ein bellender Hund"
                 ],
                 "text": "Ist das deine Musik? Klang für mich wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas lautes"
+                "type": "Unbestimmter Artikel + Nomen (etwas lautes)"
             },
             "gene": [
                 "Godzilla",
@@ -1743,7 +1743,7 @@
                     "ein Aufzug"
                 ],
                 "text": "Ich habe kein Mitleid mit dir. Dafür habe ich <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas nützliches"
+                "type": "Unbestimmter Artikel + Nomen (etwas nützliches)"
             },
             "gene": [
                 "therapist",
@@ -2270,7 +2270,7 @@
                     "eine Menschenmenge"
                 ],
                 "text": "Knall deine Tür zu, laut wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas lautes"
+                "type": "Unbestimmter Artikel + Nomen (etwas lautes)"
             },
             "gene": [
                 "irritable yeti",
@@ -2542,7 +2542,7 @@
                     "ein Stück Watte"
                 ],
                 "text": "Deine Reime sind so schwach, sie stemmen nichtmal <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas weiches"
+                "type": "Unbestimmter Artikel + Nomen (etwas weiches)"
             },
             "gene": [
                 "kitten\u2019s belly",
@@ -2559,7 +2559,7 @@
                     "eine alte Schlange"
                 ],
                 "text": "Du holst mich nie ein, du bist wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Ein langsames Tier"
+                "type": "Unbestimmter Artikel + Nomen (ein langsames Tier)"
             },
             "gene": [
                 "sleepy tiger",
@@ -2593,7 +2593,7 @@
                     "eine Flasche Seife"
                 ],
                 "text": "Deine Reime sind durcheinander, da brauche ich <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas zum sauber machen"
+                "type": "Unbestimmter Artikel + Nomen (etwas zum sauber machen)"
             },
             "gene": [
                 "Brillo pad",
@@ -2712,7 +2712,7 @@
                     "ein Zaun"
                 ],
                 "text": "Pass auf, für dich bemale ich <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas bemaltes"
+                "type": "Unbestimmter Artikel + Nomen (etwas bemaltes)"
             },
             "gene": [
                 "mural",
@@ -2933,7 +2933,7 @@
                     "ein Amboss"
                 ],
                 "text": "Kopf hoch, immerhin ist über dir <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Ein schweres Objekt"
+                "type": "Unbestimmter Artikel + Nomen (ein schweres Objekt)"
             },
             "gene": [
                 "can of corn",
@@ -3018,7 +3018,7 @@
                     "eine gestreifte Krawatte"
                 ],
                 "text": "Du bleibst doch hier, warum trägst du <BLANK>?",
-                "type": "Unbestimmter Artikel + Nomen - Ein Kleidungsstück"
+                "type": "Unbestimmter Artikel + Nomen (ein Kleidungsstück)"
             },
             "gene": [
                 "funky scarf",
@@ -3052,7 +3052,7 @@
                     "eine Figur"
                 ],
                 "text": "Ich zerschmettere dich, genauso wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas zerbrechliches"
+                "type": "Unbestimmter Artikel + Nomen (etwas zerbrechliches)"
             },
             "gene": [
                 "heart",
@@ -3273,7 +3273,7 @@
                     "eine Batterie"
                 ],
                 "text": "Mein Akku hält länger als <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Ein elektronisches Gerät"
+                "type": "Unbestimmter Artikel + Nomen (ein elektronisches Gerät)"
             },
             "gene": [
                 "smart fridge",
@@ -3868,7 +3868,7 @@
                     "ein Schlüsselband"
                 ],
                 "text": "Wäre ich reich, kaufe ich dir nichtmal <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Ein günstiges Produkt"
+                "type": "Unbestimmter Artikel + Nomen (ein günstiges Produkt)"
             },
             "gene": [
                 "condo",
@@ -3885,7 +3885,7 @@
                     "eine Tasche"
                 ],
                 "text": "Deine Seele ist so leer wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Ein Behältnis"
+                "type": "Unbestimmter Artikel + Nomen (ein Behältnis)"
             },
             "gene": [
                 "envelope",
@@ -4055,7 +4055,7 @@
                     "eine Frisbee"
                 ],
                 "text": "Pass auf! Ich werfe dich wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas, was man wirft"
+                "type": "Unbestimmter Artikel + Nomen (etwas, was man wirft)"
             },
             "gene": [
                 "withering glance",
@@ -4123,7 +4123,7 @@
                     "ein schlafendes Baby"
                 ],
                 "text": "Sprich mal lauter! Du bist so leise wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas leises"
+                "type": "Unbestimmter Artikel + Nomen (etwas leises)"
             },
             "gene": [
                 "towel",
