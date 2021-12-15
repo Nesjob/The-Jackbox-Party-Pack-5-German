@@ -72,12 +72,12 @@
         {
             "a": {
                 "examples": [
-                    "out",
-                    "upon",
-                    "into"
+                    "fertig",
+                    "halb-durch",
+                    "roh"
                 ],
-                "text": "You attack me, you get messed <BLANK>.",
-                "type": "preposition"
+                "text": "Wenn du mich angreifst, mache ich dich <BLANK>.",
+                "type": "Adjektiv - Beschreibung eines Stücks Fleisch"
             },
             "gene": [
                 "through",
@@ -89,12 +89,12 @@
         {
             "a": {
                 "examples": [
-                    "minute",
-                    "second",
-                    "year"
+                    "Minute",
+                    "Sekunde",
+                    "Jahrhundert"
                 ],
-                "text": "Hold up now, just wait a <BLANK>.",
-                "type": "noun - unit of time"
+                "text": "Halte kurz inne und warte ein/e <BLANK>.",
+                "type": "Nomen - eine Zeiteinheit"
             },
             "gene": [
                 "millennia",
@@ -106,12 +106,12 @@
         {
             "a": {
                 "examples": [
-                    "turtle",
-                    "pancake",
-                    "truck"
+                    "eine Schildkröte",
+                    "ein Döner",
+                    "ein LKW"
                 ],
-                "text": "It\u2019s such a shame that you rhyme like a <BLANK>.",
-                "type": "singular noun"
+                "text": "Ich finde es schade, du reimst wie <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen"
             },
             "gene": [
                 "yeti",
@@ -123,12 +123,12 @@
         {
             "a": {
                 "examples": [
-                    "guy",
-                    "ham",
-                    "soda"
+                    "ermüdend",
+                    "unspannend",
+                    "öde"
                 ],
-                "text": "I got you a hat that says \u2018World\u2019s Worst <BLANK>.\u2019",
-                "type": "singular noun"
+                "text": "Auf deinem Shirt steht \u2019sIch bin <BLANK>.\u2019",
+                "type": "Adjektiv - Synonym für \u2019slangweilig\u2019s"
             },
             "gene": [
                 "freeway",
@@ -140,12 +140,12 @@
         {
             "a": {
                 "examples": [
-                    "hail storm",
-                    "downpour",
-                    "tsunami"
+                    "schlafen",
+                    "beschleunigen",
+                    "malen"
                 ],
-                "text": "You look like you got caught in a <BLANK>.",
-                "type": "singular noun - weather event"
+                "text": "Du wurdest erwischt beim <BLANK>.",
+                "type": "Verb"
             },
             "gene": [
                 "existential crisis",
@@ -157,12 +157,12 @@
         {
             "a": {
                 "examples": [
-                    "Jell-O",
-                    "bamboo",
-                    "cement"
+                    "Milchreis",
+                    "Bambus",
+                    "Zement"
                 ],
-                "text": "You don\u2019t have flow it\u2019s more like <BLANK>.",
-                "type": "noun - a thick substance"
+                "text": "Dein Flow ist so standhaft wie <BLANK>.",
+                "type": "Nomen - eine feste Substanz"
             },
             "gene": [
                 "satin bedding",
@@ -174,12 +174,12 @@
         {
             "a": {
                 "examples": [
-                    "shed",
-                    "county",
-                    "town"
+                    "Wiese",
+                    "McDonalds",
+                    "Schulhof"
                 ],
-                "text": "Hey, kid, get out of my <BLANK>.",
-                "type": "common noun - a place"
+                "text": "Hey, alter, hau ab von meiner/m <BLANK>.",
+                "type": "Nomen - ein Ort"
             },
             "gene": [
                 "closet",
@@ -191,12 +191,12 @@
         {
             "a": {
                 "examples": [
-                    "trash",
-                    "debris",
-                    "junk"
+                    "Abfall",
+                    "Schrott",
+                    "Altpapier"
                 ],
-                "text": "Your rhymes are like a patchwork of <BLANK>.",
-                "type": "noun - synonym for 'garbage'"
+                "text": "Deine Reime sind ein einziger Haufen <BLANK>.",
+                "type": "Nomen - Synonym für 'Müll'"
             },
             "gene": [
                 "rubbish",
@@ -208,12 +208,12 @@
         {
             "a": {
                 "examples": [
-                    "cheater",
-                    "skunk",
-                    "dishonest guy"
+                    "Schummler",
+                    "Abzocker",
+                    "unehrlicher Mensch"
                 ],
-                "text": "I\u2019ve got to be honest you\u2019re a huge <BLANK>.",
-                "type": "noun - synonym for 'liar'"
+                "text": "Ich bin ehrlich mit dir, du bist einfach nur ein <BLANK>.",
+                "type": "Nomen - Synonym für 'Lügner'"
             },
             "gene": [
                 "weasel",
@@ -225,12 +225,12 @@
         {
             "a": {
                 "examples": [
-                    "New Orleans",
-                    "Nevada",
-                    "Nambia"
+                    "München",
+                    "Paris",
+                    "Sachsen"
                 ],
-                "text": "I\u2019m taking you down like a train to <BLANK>.",
-                "type": "proper noun - a place south of you"
+                "text": "Ich zieh dich aus dem Verkehr wie ein Auto nach <BLANK>.",
+                "type": "Nomen - Ein Ort südlich von dir"
             },
             "gene": [
                 "Clarksville",
@@ -242,12 +242,12 @@
         {
             "a": {
                 "examples": [
-                    "slither",
-                    "bite",
-                    "suck"
+                    "beißen",
+                    "würgen",
+                    "saugen"
                 ],
-                "text": "You could write a book called \u2018How To <BLANK>.\u2019",
-                "type": "verb - what a snake does"
+                "text": "Du könntest ein Buch schreiben namens \u2018So kann man <BLANK>.\u2019",
+                "type": "Verb - Was eine Schlange macht"
             },
             "gene": [
                 "Lie",
@@ -259,12 +259,12 @@
         {
             "a": {
                 "examples": [
-                    "spaghetti",
-                    "mud",
-                    "plaster"
+                    "Spaghetti",
+                    "Schlamm",
+                    "Moos"
                 ],
-                "text": "Your words are a mess like you wrote with <BLANK>.",
-                "type": "noun - a messy substance"
+                "text": "Deine Wörter sind ein Durcheinander, als wären sie aus <BLANK>.",
+                "type": "Nomen - Eine unordentliche Substanz"
             },
             "gene": [
                 "shredded cheese",
