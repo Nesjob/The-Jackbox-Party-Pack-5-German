@@ -3746,7 +3746,7 @@
             "examples":[
                "ein Haus",
                "ein Monument",
-               "ein Stadium"
+               "ein Stadion"
             ],
             "text":"Meine Reime sind so stark, sie bauen <BLANK>.",
             "type":"Unbestimmter Artikel + Ein Gebäude"
