@@ -43,7 +43,7 @@
                "das Brandenburger Tor"
             ],
             "text":"Ich falle nie um, ich stehe fest wie <BLANK>.",
-            "type":"Artikel + Ein berühmtes Gebäude"
+            "type":"Artikel + ein berühmtes Gebäude"
          },
          "gene":[
             "das KFC",
@@ -60,7 +60,7 @@
                "Clever"
             ],
             "text":"Mein Flow ist meine Superkraft, nenn mich Captain <BLANK>.",
-            "type":"positivess Adjektiv"
+            "type":"positives Adjektiv"
          },
          "gene":[
             "Flexibel",
@@ -93,7 +93,7 @@
                "Tischler",
                "Arzt"
             ],
-            "text":"Ich bin erwachsen, ein/e wahrhafte/r <BLANK>.",
+            "text":"Ich bin erwachsen, wahrhaft ein/e <BLANK>.",
             "type":"eine Berufsbezeichnung"
          },
          "gene":[
@@ -128,10 +128,10 @@
                "ein Baseball"
             ],
             "text":"Ich bin süßer als Bonbons, schärfer als <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen Singular"
+            "type":"Unbestimmter Artikel + Nomen Einzahl"
          },
          "gene":[
-            "Geige",
+            "eine Geige",
             "Leg dich nicht mit mir an, dafür bist du zu feige."
          ],
          "x":false,
@@ -230,7 +230,7 @@
                "eine Pfütze"
             ],
             "text":"Seht wie ich laber wie <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen: etwas mit Wasser"
+            "type":"Unbestimmter Artikel + Nomen (ein Gewässer)"
          },
          "gene":[
             "ein Tümpel",
@@ -315,7 +315,7 @@
                "ein Busch"
             ],
             "text":"Im Moment bin ich ein Samen, doch schon bald bin ich <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen Einzahl: Pflanze"
+            "type":"Unbestimmter Artikel + Nomen Einzahl (eine Pflanze)"
          },
          "gene":[
             "eine Tulpe",
@@ -349,7 +349,7 @@
                "ein Tandem"
             ],
             "text":"Meine Raps sind der Wahnsinn - schneller als <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen Einzahl: Fahrzeug"
+            "type":"Unbestimmter Artikel + Nomen Einzahl (ein Fahrzeug)"
          },
          "gene":[
             "eine Schwalbe",
@@ -366,7 +366,7 @@
                "ein Alien"
             ],
             "text":"Ich terrorisiere die Straßen, wie <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen Einzahl: Ein Monster"
+            "type":"Unbestimmter Artikel + Nomen Einzahl (ein Monster)"
          },
          "gene":[
             "ein Godzilla",
@@ -383,7 +383,7 @@
                "die Hütte"
             ],
             "text":"Ich brauch keine Erlaubnis, ich rocke <BLANK>.",
-            "type":"Artikel + Nomen: Ein Gebäude"
+            "type":"Artikel + Nomen (ein Gebäude)"
          },
          "gene":[
             "die Kläranlage",
@@ -417,7 +417,7 @@
                "die Wüste"
             ],
             "text":"Meine Reime sind heißer als <BLANK>.",
-            "type":"Artikel + Nomen Einzahl: Etwas Heißes"
+            "type":"Artikel + Nomen Einzahl (etwas heißes)"
          },
          "gene":[
             "ein heißes Feuer",
@@ -982,7 +982,7 @@
          },
          "gene":[
             "McDonalds",
-            "War gar nicht so schlecht, denn es gab immer Partys!"
+            "War gar nicht so schlecht, denn es gab immer Pommes!"
          ],
          "x":false,
          "id":51807
@@ -1029,7 +1029,7 @@
                "ein Parfüm"
             ],
             "text":"Ich muss nie duschen, denn ich rieche wie <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen Einzahl: gut riechend"
+            "type":"Unbestimmter Artikel + Nomen Einzahl (gut riechend)"
          },
          "gene":[
             "ein Dackel",
@@ -1097,7 +1097,7 @@
                "kochen"
             ],
             "text":"Mein Gehirn ist so groß, mein Kopf droht zu <BLANK>.",
-            "type":"Verb - Was machst du mit einem Ei?"
+            "type":"Verb - Etwas, was man mit einem Ei macht"
          },
          "gene":[
             "explodieren",
@@ -1219,8 +1219,8 @@
             "type":"Begriff für Zärtlichkeit"
          },
          "gene":[
-            "Schnuffel",
-            "She probably says it \u2018cuz I am, her son."
+            "Engel",
+            "Zeit dir Manieren beizubringen du Bengel."
          ],
          "x":false,
          "id":51845
@@ -1233,11 +1233,11 @@
                "hymne"
             ],
             "text":"Wah-ka-bam-zoo ist mein/e Kampf<BLANK>.",
-            "type":"Nomen Singular - Ein Laut"
+            "type":"Nomen Einzahl - Ein Laut"
          },
          "gene":[
-            "poetry",
-            "Don\u2019t know what it means. I just flow it free."
+            "Poesie",
+            "Kein Plan was das heißt, aber brauchte ich auch nie."
          ],
          "x":false,
          "id":51847
@@ -1245,16 +1245,16 @@
       {
          "a":{
             "examples":[
-               "Trommel",
-               "Triangel",
-               "Geige"
+               "eine Trommel",
+               "eine Triangel",
+               "eine Geige"
             ],
-            "text":"Mein Mund ist wie eine Trompete, mein Gehirn wie ein/e <BLANK>.",
-            "type":"Nomen - Musikalisches Instrument"
+            "text":"Mein Mund ist wie eine Trompete, mein Gehirn wie <BLANK>.",
+            "type":"Unbestimmter Artikel + Nomen (Musikinstrument)"
          },
          "gene":[
-            "flute",
-            "Have you ever seen a tarsier? Boy are they cute."
+            "eine Flöte",
+            "Deine Stimme ist schlimmer als die einer Kröte."
          ],
          "x":false,
          "id":51857
@@ -1270,8 +1270,8 @@
             "type":"Nomen - Wertvolle Substanz"
          },
          "gene":[
-            "pearls",
-            "And when I clean it, I brush in swirls."
+            "Saphir",
+            "Meine Mama sagt ich bin noch zu jung für Bier."
          ],
          "x":false,
          "id":51858
@@ -1287,8 +1287,8 @@
             "type":"Verb"
          },
          "gene":[
-            "gyrate",
-            "My birthday balloons, have begun to deflate."
+            "leiden",
+            "Heute ist mein Geburtstag, also bitte nicht übertreiben."
          ],
          "x":false,
          "id":51862
@@ -1304,8 +1304,8 @@
             "type":"Nomen - Ein Behälter"
          },
          "gene":[
-            "hollow gourd",
-            "It\u2019s the one in which hot soup\u2019s been poured."
+            "Flasche",
+            "Damit hab ich immer warme Suppe in der Tasche."
          ],
          "x":false,
          "id":51701
@@ -1335,11 +1335,11 @@
                "Mount Rainier"
             ],
             "text":"Bin auf meinem Weg nach oben, ich besteige den <BLANK>.",
-            "type":"Nomen - Berg"
+            "type":"Nomen - ein Berg"
          },
          "gene":[
-            "Mount Doom",
-            "I can\u2019t be the only L O T R freak in the room."
+            "Alpen",
+            "Ich schau mir dein Gesicht an und zähle hundert Falten."
          ],
          "x":false,
          "id":51714
@@ -1355,8 +1355,8 @@
             "type":"Verb"
          },
          "gene":[
-            "stampede",
-            "Hurts my feelings if they run away at light speed."
+            "lachen",
+            "Es ist nicht leicht immer alles richtig zu machen."
          ],
          "x":false,
          "id":51713
@@ -1372,8 +1372,8 @@
             "type":"Ein Tier"
          },
          "gene":[
-            "mongoose",
-            "We\u2019re both really good, let\u2019s call a truce."
+            "Eisbär",
+            "Sagen wir unentschieden, ich denke das klingt fair."
          ],
          "x":false,
          "id":50793
@@ -1386,11 +1386,11 @@
                "herausfinden"
             ],
             "text":"Ich bin der Größte, so kannst du es <BLANK>.",
-            "type":"Verb"
+            "type":"Verb - Synonym für 'bemerken'"
          },
          "gene":[
-            "moan",
-            "You don\u2019t have half the collectables I own."
+            "verstehen",
+            "Ich hab die größte Sammlung gestohlener Trophäen."
          ],
          "x":false,
          "id":50908
@@ -1406,8 +1406,8 @@
             "type":"Adjektiv - Eigenschaft eines Igels"
          },
          "gene":[
-            "snazziest",
-            "Steely Dan, your rock is the jazziest!"
+            "leise",
+            "Ab jetzt deinen Mund zu halten wäre sicher weise."
          ],
          "x":false,
          "id":50909
@@ -1423,8 +1423,8 @@
             "type":"Verb"
          },
          "gene":[
-            "stumble",
-            "Are you hearing me all right? I tend to mumble."
+            "stolpern",
+            "Was du mit deinen Reimen machst gränzt an foltern."
          ],
          "x":false,
          "id":51756
@@ -1432,7 +1432,7 @@
       {
          "a":{
             "examples":[
-               "Wow",
+               "Yippie",
                "Hurrah",
                "Woah"
             ],
@@ -1440,8 +1440,8 @@
             "type":"Ein Ausruf"
          },
          "gene":[
-            "yippee",
-            "I\u2019m gonna win. You bet your sweet bippy!"
+            "Wow",
+            "Ich reime fies und zieh\u2019 dich durch den Kakao."
          ],
          "x":false,
          "id":50918
@@ -1457,8 +1457,8 @@
             "type":"Ein Ort"
          },
          "gene":[
-            "Stadtbezirk",
-            "My glasses look like George Costanza\u2019s."
+            "Freizeitpark",
+            "Gene ist nicht mein Name, eigentlich heiß ich Mark."
          ],
          "x":false,
          "id":50919
@@ -1471,11 +1471,11 @@
                "Gebäude"
             ],
             "text":"Ich kam um zu zerstampfen denn meine Worte sind <BLANK>.",
-            "type":"Etwas schweres - Mehrzahl"
+            "type":"Nomen Mehrzahl - Etwas schweres"
          },
          "gene":[
-            "whipping cream",
-            "After this can I tell you my weirdest dream?"
+            "Betten",
+            "Ich mach dich sofort fertig, darauf kannst du wetten."
          ],
          "x":false,
          "id":51728
@@ -1491,8 +1491,8 @@
             "type":"Ein Ort"
          },
          "gene":[
-            "New Orleans",
-            "When I wear, my new gabardines."
+            "Deutschland",
+            "Ein Land, so brilliant, ganz entspannt, Schmant und Sand, Hand in Hand."
          ],
          "x":false,
          "id":50920
@@ -1505,11 +1505,11 @@
                "eine Villa"
             ],
             "text":"Bin so reich in Reimen, da kaufe ich <BLANK>.",
-            "type":"Unbestimmter Artikel + ein großes Objekt"
+            "type":"Unbestimmter Artikel + Nomen (ein großes Objekt)"
          },
          "gene":[
-            "eine Wolke",
-            "Try to keep it down. I don\u2019t like it loud."
+            "ein Haus",
+            "Mach\u2019 mal leise, sonst fliegen wir raus!"
          ],
          "x":false,
          "id":51576
@@ -1525,8 +1525,8 @@
             "type":"Adjektiv - Eigenschaft einer Ziege"
          },
          "gene":[
-            "politely",
-            "What\u2019s that movie, with Holly Golightly?"
+            "gemein",
+            "Mein Wunsch-Haustier ist ein Mini-Schwein"
          ],
          "x":false,
          "id":50923
@@ -1542,8 +1542,8 @@
             "type":"Ein Ort"
          },
          "gene":[
-            "Iceland",
-            "Bjork is from there, it seems like a nice land."
+            "Island",
+            "Björn kommt von dort, der schaut mich immer fies an."
          ],
          "x":false,
          "id":51541
@@ -1559,8 +1559,8 @@
             "type":"Berühmte Person"
          },
          "gene":[
-            "Bono",
-            "I missed the U 2 concert because I had mono."
+            "Super Mario",
+            "Bitte mach schnell, denn ich muss mal auf\u2019s Klo."
          ],
          "x":false,
          "id":51567
@@ -1569,15 +1569,15 @@
          "a":{
             "examples":[
                "George Washington",
-               "Angela Merkel",
+               "Konrad Adenauer",
                "Albert Einstein"
             ],
             "text":"Ich mache neue Regeln wie der moderne <BLANK>.",
-            "type":"Historische Figur"
+            "type":"Historische Figur (männlich)"
          },
          "gene":[
-            "Daniel Boone",
-            "I changed the music game so call me Zune."
+            "Julius Cäsar",
+            "Mit mir startet für Musik eine neue Era"
          ],
          "x":false,
          "id":51708
@@ -1593,8 +1593,8 @@
             "type":"Handwerkerberuf"
          },
          "gene":[
-            "crawler",
-            "I hear LeBron James is a fairly good baller."
+            "Maler",
+            "Pass besser auf, ich bin ein echter Wuppertaler!"
          ],
          "x":false,
          "id":51709
@@ -1610,8 +1610,8 @@
             "type":"Nomen - Eine Zutat für Kuchen"
          },
          "gene":[
-            "yeast",
-            "My doctors aren\u2019t happy, to say the least."
+            "Butter",
+            "Morgen besuch\u2019 ich meine Urgroßmutter."
          ],
          "x":true,
          "id":51616
@@ -1627,8 +1627,8 @@
             "type":"Verb - Tätigkeit im Dschungel"
          },
          "gene":[
-            "floating",
-            "I like baked beans but not the bloating."
+            "schlafen",
+            "Ich mag Fisch aus Bremerhaven."
          ],
          "x":false,
          "id":50924
@@ -1641,11 +1641,11 @@
                "eine Jeans"
             ],
             "text":"Liege immer im Trend und bin brandneu wie <BLANK>.",
-            "type":"Unbestimmter Artikel + Kleidungsstück"
+            "type":"Unbestimmter Artikel + Nomen (Kleidungsstück)"
          },
          "gene":[
-            "bandana",
-            "Which I wear when I sing \u2018Oh Susanna.\u2019"
+            "eine Jacke",
+            "Die ich trage, wenn ich im Winter Holz hacke."
          ],
          "x":false,
          "id":51696
@@ -1661,8 +1661,8 @@
             "type":"Eine alte Fernsehsendung"
          },
          "gene":[
-            "inside",
-            "Hope the game ends with all of us tied!"
+            "Telespiel",
+            "Hoffentlich lernst du in der Schule viel."
          ],
          "x":false,
          "id":50931
@@ -1678,8 +1678,8 @@
             "type":"Nomen"
          },
          "gene":[
-            "animal crackers",
-            "Wanna crowdfund my flow but I need more backers."
+            "Weizenfeld",
+            "Hoffe ich bekomm\u2019 für diesen Rap nen Haufen Geld."
          ],
          "x":false,
          "id":51562
@@ -1687,16 +1687,16 @@
       {
          "a":{
             "examples":[
-               "Breaking Bad",
-               "One Punch Man",
-               "Stranger Things"
+               "\u2019Breaking Bad\u2019",
+               "\u2019One Punch Man\u2019",
+               "\u2019Stranger Things\u2019"
             ],
             "text":"Meine Lines sitzen tief wie die Episode aus <BLANK>.",
             "type":"Eine Serie"
          },
          "gene":[
-            "\u2019Twilight Zone\u2019",
-            "I sleep with a big pillow so I don\u2019t feel alone."
+            "\u2019Futurama\u2019",
+            "Ich schlafe mit nem Kissen, das aussieht wie ein Llama."
          ],
          "x":false,
          "id":51645
@@ -1712,8 +1712,8 @@
             "type":"Fiktonaler Ort"
          },
          "gene":[
-            "Middle-earth",
-            "I think \u2018The Hobbit\u2019 should\u2019ve starred Colin Firth."
+            "Mittel-Erde",
+            "Bevor ich mit dem Reimen angefangen habe, dacht\u2019 ich dass ich Bäcker werde."
          ],
          "x":false,
          "id":51634
@@ -1729,8 +1729,8 @@
             "type":"Ein Ereignis"
          },
          "gene":[
-            "diamond sale",
-            "I\u2019ll drop a hundy on a gem encrusted snail."
+            "E 3",
+            "Ich glaub ich kauf\u2019 mir von dem Preisgeld Haferbrei."
          ],
          "x":false,
          "id":51630
@@ -1746,8 +1746,8 @@
             "type":"Eine Stadt"
          },
          "gene":[
-            "Dubai",
-            "On second thought, that\u2019s probably a lie."
+            "Ottawa",
+            "Bin grad am überlegen, ich weiß nicht ob da noch was war..."
          ],
          "x":false,
          "id":51613
@@ -1763,8 +1763,8 @@
             "type":"Positive Eigenschaft"
          },
          "gene":[
-            "Sparkling",
-            "But I still have trouble, parallel parking."
+            "freundlich",
+            "Besuch mal deinen Opa, der freut sich."
          ],
          "x":false,
          "id":51578
@@ -1780,8 +1780,8 @@
             "type":"Negatives Adjektiv"
          },
          "gene":[
-            "blurry",
-            "I always wear a scarf so my mom doesn\u2019t worry."
+            "schlecht",
+            "Auf meinen job bin ich stolz, doch im reimen bin ich schlecht."
          ],
          "x":false,
          "id":51643
@@ -1797,8 +1797,8 @@
             "type":"Wochentag"
          },
          "gene":[
-            "Hump Day",
-            "Need help installing a sump pump? \u2018Kay."
+            "Sonntag",
+            "Hab mir nen Sonnenbrand geholt, als ich in der Sonne lag."
          ],
          "x":false,
          "id":51520
@@ -1814,8 +1814,8 @@
             "type":"Teure Substanz"
          },
          "gene":[
-            "Febreze",
-            "If you smelled them you\u2019d be like \u2018Oh please.\u2019"
+            "Antimaterie",
+            "\u2018Lindenstraße\u2019 ist meine Lieblingsserie"
          ],
          "x":true,
          "id":51614
@@ -1831,8 +1831,8 @@
             "type":"Eine reiche Person"
          },
          "gene":[
-            "the queen",
-            "My hair is white and my teeth are clean."
+            "Die Queen",
+            "Mit meinen krassen Reimen gehört mir ganz Berlin."
          ],
          "x":false,
          "id":51633
@@ -1845,11 +1845,11 @@
                "Kinn"
             ],
             "text":"Ich bin so zerissen, hab Muskeln auf meiner/m <BLANK>.",
-            "type":"Teil vom Gesicht - Einzahl"
+            "type":"Nomen Einzahl - Teil vom Gesicht"
          },
          "gene":[
-            "thumb",
-            "I can stick it in a pie and pull out a plum."
+            "Mund",
+            "Esse täglich Kuchen und bin dennoch kern-gesund."
          ],
          "x":false,
          "id":51526
@@ -1865,8 +1865,8 @@
             "type":"Verb"
          },
          "gene":[
-            "flopping",
-            "Need a flopper? I can get your party hopping."
+            "angeln",
+            "Wenn ich mit der fertig bin wird es dir an Atem mangeln."
          ],
          "x":false,
          "id":51631
@@ -1882,8 +1882,8 @@
             "type":"Eine Krankheit"
          },
          "gene":[
-            "butt itch",
-            "Go ahead and scratch. I won\u2019t snitch."
+            "Fieber",
+            "Alle trinken Alkohol doch Cola ist mir lieber."
          ],
          "x":true,
          "id":51601
@@ -1899,8 +1899,8 @@
             "type":"Ein magischer Charakter"
          },
          "gene":[
-            "Radagast",
-            "Man, his giant rabbits ran fast!"
+            "Lord Voldemort",
+            "Fette Reime raushauen ist mein Lieblingssport"
          ],
          "x":false,
          "id":50932
@@ -1916,8 +1916,8 @@
             "type":"Unbestimmter Artikel + ein Geschäft"
          },
          "gene":[
-            "zoo",
-            "I\u2019d love to have a hedgehog rolling in my crew."
+            "eine Tankstelle",
+            "Meine Freundin mag es wenn ich wie ein Hund belle."
          ],
          "x":false,
          "id":51503
@@ -1933,8 +1933,8 @@
             "type":"Ein cooler Name"
          },
          "gene":[
-            "Comedy",
-            "Though I\u2019d say my style is closer to, dramedy."
+            "Explosion",
+            "\u2019Ich bin stolz auf dich\u2019, würd\u2019 ich sagen, wärst du mein Sohn."
          ],
          "x":false,
          "id":51615
@@ -1950,8 +1950,8 @@
             "type":"Eine Zeitschrift"
          },
          "gene":[
-            "Highlights",
-            "Those hidden picture puzzles test my eyesight."
+            "Spiegel",
+            "Wenn ich gleich zu Hause bin, gönn\u2019 ich mir nen Schokoriegel."
          ],
          "x":false,
          "id":51539
@@ -1967,8 +1967,8 @@
             "type":"Eine häufig kritisierte Person"
          },
          "gene":[
-            "nerdiest",
-            "On \u2018Sesame Street\u2019 I liked Big Bird the best."
+            "Jeff Bezos",
+            "Kieselsteine sind als Währung wertlos."
          ],
          "x":false,
          "id":51387
@@ -1984,8 +1984,8 @@
             "type":"Eine kleine Stadt"
          },
          "gene":[
-            "Thanksgiving Day parades",
-            "Would you prefer another game? Say, charades?"
+            "Erwitte",
+            "Hast du Lust auf Schweinchen in der Mitte?"
          ],
          "x":false,
          "id":51373
@@ -2001,8 +2001,8 @@
             "type":"Nomen Mehrzahl - Pflanzen"
          },
          "gene":[
-            "daffodils",
-            "They\u2019re so pretty when u see them in window sills."
+            "Orchideen",
+            "So langsam mangelt es mir an Ideen."
          ],
          "x":false,
          "id":51559
@@ -2014,12 +2014,12 @@
                "die Musik",
                "das Klebeband"
             ],
-            "text":"Schau nicht hin, ich stehle gleich <BLANK>.",
+            "text":"Schau nicht hin, mir gehört gleich <BLANK>.",
             "type":"Artikel + Nomen"
          },
          "gene":[
-            "childhood",
-            "They\u2019ve remade some movies that weren\u2019t any good."
+            "der Bus",
+            "Hollywood macht nur noch remakes, ich frag\u2019 mich ob das sein muss."
          ],
          "x":false,
          "id":51603
@@ -2035,8 +2035,8 @@
             "type":"Ein Ort"
          },
          "gene":[
-            "Kalamazoo",
-            "They know me pretty good there anyhoo."
+            "Dänemark",
+            "Ich bin cool, weil ich teure Sneaker trag."
          ],
          "x":false,
          "id":50935
@@ -2049,11 +2049,11 @@
                "eine Rakete"
             ],
             "text":"Ich flieg\u2019 weit hoch wie <BLANK>",
-            "type":"Unbestimmter Artikel + Nomen - Etwas fliegendes"
+            "type":"Unbestimmter Artikel + Nomen (Etwas fliegendes)"
          },
          "gene":[
-            "Superman",
-            "\u2019Lois & Clark\u2019 era, I\u2019m a very big fan."
+            "Zeppelin",
+            "Wenn ich rappe reim\u2019 ich gerne auf Berlin."
          ],
          "x":false,
          "id":51665
@@ -2069,8 +2069,8 @@
             "type":"Verb"
          },
          "gene":[
-            "play",
-            "Other things like instruments."
+            "spielen",
+            "Wenn\u2019s um detsche Rapper geht bin ich einer von ganz vielen."
          ],
          "x":false,
          "id":51231
@@ -2086,8 +2086,8 @@
             "type":"Das letzte, was du gekauft hast"
          },
          "gene":[
-            "poster of ALF",
-            "John Goodman\u2019s best role was in \u2018King Ralph.\u2019"
+            "ein Bobbycar",
+            "Til Schweiger war der beste Tatort-Kommissar"
          ],
          "x":false,
          "id":51389
@@ -2103,8 +2103,8 @@
             "type":"Ein Schulfach"
          },
          "gene":[
-            "Flintstones",
-            "There\u2019s a trade-in special now on Sprint phones."
+            "Musik",
+            "Ich bin ein echter Rap-Roboter, du bist nur ein Freak."
          ],
          "x":false,
          "id":51375
@@ -2120,8 +2120,8 @@
             "type":"positives Adjektiv"
          },
          "gene":[
-            "accessible",
-            "My Uncle Scott is just not impressible."
+            "gut",
+            "Ich schenke meinem Onkel einen Hut."
          ],
          "x":false,
          "id":51374
@@ -2134,11 +2134,11 @@
                "Rotzer"
             ],
             "text":"Deine Fans nennen sich Die <BLANK>.",
-            "type":"Negativer Spitzname - Plural"
+            "type":"Negativer Spitzname - Mehrzahl"
          },
          "gene":[
-            "Beatles",
-            "Which is weird cuz there\u2019s a band called that."
+            "Nudeln",
+            "Vielleicht probier\u2019 ich anstatt rappen auch mal jodeln."
          ],
          "x":false,
          "id":51306
@@ -2154,8 +2154,8 @@
             "type":"Ein Kindheitsheld"
          },
          "gene":[
-            "necklace",
-            "Maybe it\u2019ll distract, from my freckles."
+            "Super Mario",
+            "Einmal dieses Spiel gewinnen, das ist ein Traumszenario."
          ],
          "x":false,
          "id":50936
@@ -2171,8 +2171,8 @@
             "type":"Ein Dessert"
          },
          "gene":[
-            "Jell-O",
-            "When I look down on you, I\u2019ll yell hello!"
+            "Vanilleeis",
+            "Ich bin neu hier, ignorier meinen Angstschweiß..."
          ],
          "x":false,
          "id":51344
@@ -2188,8 +2188,8 @@
             "type":"Artikel + Eine Funktion im Auto"
          },
          "gene":[
-            "seatwarmer",
-            "My dream job? Maybe, circus performer?"
+            "der Sicherheitsgurt",
+            "Könnt\u2019 ich einen anderen Namen haben? Vielleicht Kurt."
          ],
          "x":false,
          "id":50937
@@ -2205,8 +2205,8 @@
             "type":"Ein Promi"
          },
          "gene":[
-            "LIberace",
-            "Don\u2019t know who he is? YouTube him and watchy."
+            "Günther Jauch",
+            "Reimen ist echt schwer, ich steh\u2019 oft auf dem Schlauch."
          ],
          "x":false,
          "id":51349
@@ -2222,8 +2222,8 @@
             "type":"Ein magische Person"
          },
          "gene":[
-            "Stevie Nicks",
-            "I flavor my coffee with boxed cake mix."
+            "Teller",
+            "Du hörst nicht was ich sage, denn ich rappe immer schneller."
          ],
          "x":false,
          "id":51342
@@ -2239,8 +2239,8 @@
             "type":"Verb - kindische Aktion"
          },
          "gene":[
-            "toot",
-            "So I make train noises, they think it\u2019s a hoot."
+            "weinen",
+            "Nen besseren im Reimen, davon gibt es keinen."
          ],
          "x":false,
          "id":51308
@@ -2248,7 +2248,7 @@
       {
          "a":{
             "examples":[
-               "Caeser",
+               "Cäsar",
                "Napoleon",
                "Cleopatra"
             ],
@@ -2256,8 +2256,8 @@
             "type":"Eine Person mit historischer Relevanz"
          },
          "gene":[
-            "Mary Queen of Scots",
-            "I skip the fries and go with tater tots."
+            "Jesus Christus",
+            "Mit einem rosa Gummibot überquere ich nen Fluss."
          ],
          "x":true,
          "id":51331
@@ -2273,8 +2273,8 @@
             "type":"Nomen Mehrzahl - Teil eines Körpers"
          },
          "gene":[
-            "philtrum",
-            "Each time I drink this milk, I spill some."
+            "Händen",
+            "Fühle mich ganz einsam, in meinen eigenen vier Wänden."
          ],
          "x":false,
          "id":50939
@@ -2290,8 +2290,8 @@
             "type":"Luxusobjekt"
          },
          "gene":[
-            "table setting",
-            "Protein and vegetables, is what it\u2019s getting."
+            "Villa",
+            "Bin ganz glücklich, wenn ich meine Reime triller."
          ],
          "x":false,
          "id":51377
@@ -2307,8 +2307,8 @@
             "type":"Fiktionaler Charakter"
          },
          "gene":[
-            "BoJack Horseman",
-            "A friend needs help moving, I say \u2018of course man\u2019!"
+            "Luke Skywalker",
+            "Braucht mein bester Freund mal Hilfe, sage ich \u2018Na klar\u2019!"
          ],
          "x":false,
          "id":51326
@@ -2324,8 +2324,8 @@
             "type":"Unbestimmter Artikel + Begriff für etwas schlaues"
          },
          "gene":[
-            "poindexter",
-            "Is that your girlfriend? Can I sit next t\u2019er?"
+            "ein Computer",
+            "Rappt der Gene denn immer noch? Ja, das tut er."
          ],
          "x":false,
          "id":50941
@@ -2341,8 +2341,8 @@
             "type":"Nomen Mehrzahl - Etwas schweres"
          },
          "gene":[
-            "marble slabs",
-            "I prefer to ride in traditional taxi cabs."
+            "Marmorplatten",
+            "Karl und Max, so heißen meine Haustier-Ratten."
          ],
          "x":false,
          "id":51341
@@ -2358,8 +2358,8 @@
             "type":"Nomen Mehrzahl - Ein schönes Geschenk"
          },
          "gene":[
-            "bundt cakes",
-            "My family has a house up at the Great Lakes."
+            "Goldketten",
+            "Meine Eltern haben ein Haus mit dreizehn Betten."
          ],
          "x":false,
          "id":51340
@@ -2375,8 +2375,8 @@
             "type":"Unbestimmter Artikel + Eine mögliche Gefahr"
          },
          "gene":[
-            "jar of mayo",
-            "That\u2019s been out in the sun all the long day-oh."
+            "eine Glasscherbe",
+            "Hab überlegt ob ich mich für nen anderen Job bewerbe."
          ],
          "x":false,
          "id":50942
@@ -2392,8 +2392,8 @@
             "type":"Ein Küchengerät"
          },
          "gene":[
-            "tea pot",
-            "Earl Grey is the best tea I\u2019ve ever bought."
+            "Topf",
+            "Meine Reime sind explosiver Sprengstoff."
          ],
          "x":true,
          "id":51325
@@ -2410,7 +2410,7 @@
          },
          "gene":[
             "Merlin",
-            "But get me near the rollercoaster I\u2019m hurlin\u2019."
+            "Frag\u2019 mich ob ich als Bäcker mehr verdien\u2019."
          ],
          "x":false,
          "id":51302
@@ -2426,8 +2426,8 @@
             "type":"Verb - Eine langweilige Aktivität"
          },
          "gene":[
-            "whittle",
-            "It\u2019s something I\u2019ve enjoyed since I was little."
+            "einkaufen",
+            "Auto fahren ist umweltschädlich, ich gehe lieber laufen."
          ],
          "x":false,
          "id":51303
@@ -2443,8 +2443,8 @@
             "type":"Nomen Mehrzahl - Büromaterial"
          },
          "gene":[
-            "desks",
-            "That\u2019ll be a hard-to-read word, I\u2019ll besks."
+            "Schreibtische",
+            "Kann kaum warten dein Gesicht zu sehen, wenn ich mit dir den Boden wische."
          ],
          "x":false,
          "id":51305
@@ -2460,8 +2460,8 @@
             "type":"Ein Körperteil"
          },
          "gene":[
-            "feet",
-            "Darn these hand me down socks from Uncle Pete."
+            "Arm",
+            "Ich lebe seit ich klein war auf \u2019ner Farm."
          ],
          "x":false,
          "id":50943
@@ -2477,8 +2477,8 @@
             "type":"Eine Supermarktkette"
          },
          "gene":[
-            "cleaners",
-            "Dachsunds are dogs that look like weiners!"
+            "Media Markt",
+            "Zeilen und Reime, die dich zerstören? Abgehakt."
          ],
          "x":false,
          "id":50944
@@ -2487,15 +2487,15 @@
          "a":{
             "examples":[
                "Held",
-               "Auftraggeber",
+               "Freund",
                "Anwalt"
             ],
             "text":"Erfolg ist mein bester Freund, Versagen ist mein/e <BLANK>.",
-            "type":"Personenbezeichnung"
+            "type":"Nomen - Personenbezeichnung"
          },
          "gene":[
-            "unpaid extra",
-            "If I showed you all my stamps, it\u2019d sure impress ya."
+            "Idiot",
+            "Morgen kauf ich mir ein Kastenbrot."
          ],
          "x":false,
          "id":51225
@@ -2511,8 +2511,8 @@
             "type":"Dein Rappername"
          },
          "gene":[
-            "Glen",
-            "I like to get to bed by quarter after 10."
+            "MC Comupter",
+            "Wenn meine Reime nicht gut ankommen, check mal deinen Router."
          ],
          "x":false,
          "id":51295
@@ -2528,8 +2528,8 @@
             "type":"Verb"
          },
          "gene":[
-            "matter",
-            "Excuse me, gotta go empty the ol\u2019 bladder."
+            "spielen",
+            "Ich bekomme Post von Fans, von richtig vielen."
          ],
          "x":true,
          "id":51304
@@ -2545,8 +2545,8 @@
             "type":"Ein Ausruf"
          },
          "gene":[
-            "Hello!",
-            "And then I give a tip of my jaunty chapeau."
+            "Miau!",
+            "Sorry, dass ich spät war, ich stand noch im Stau."
          ],
          "x":false,
          "id":51296
@@ -2562,8 +2562,8 @@
             "type":"Nomen Mehrzahl"
          },
          "gene":[
-            "hugs",
-            "Let\u2019s hit Micky D\u2019s cause I gotta get my nugs."
+            "Kerzen",
+            "Alles was ich sage kommt von Herzen."
          ],
          "x":false,
          "id":51197
@@ -2579,8 +2579,8 @@
             "type":"positives Adjektiv"
          },
          "gene":[
-            "calm",
-            "Some make the mistake that I am embalmed."
+            "friedlich",
+            "Alles was mir zu deinen Reimen einfällt ist \u2018niedlich\u2019."
          ],
          "x":false,
          "id":51264
@@ -2596,8 +2596,8 @@
             "type":"Verb"
          },
          "gene":[
-            "yodel",
-            "Dorian is a musical scale that\u2019s modal."
+            "arbeiten",
+            "Müssen wir uns wirklich immer streiten?"
          ],
          "x":false,
          "id":51294
@@ -2613,8 +2613,8 @@
             "type":"Das letzte Land, das du besucht hast"
          },
          "gene":[
-            "junket",
-            "Of Titanic, they say an iceberg sunk it."
+            "Kanada",
+            "Bei meinem letzten Konzert war leider keiner da..."
          ],
          "x":false,
          "id":51265
@@ -2630,8 +2630,8 @@
             "type":"Ein sinnloses Wort"
          },
          "gene":[
-            "hootley bagoo",
-            "That\u2019s what I yell as I walk through the zoo."
+            "Bim-Bam-Bo",
+            "Das schrei\u2019 ich wenn ich laufe durch den Zoo."
          ],
          "x":false,
          "id":51271
@@ -2647,8 +2647,8 @@
             "type":"Ein Tier"
          },
          "gene":[
-            "Tasmanian devil",
-            "An angled surface, is known as a bevel."
+            "Hund",
+            "Haben wir für dieses Battle eigenltich einen Grund?"
          ],
          "x":false,
          "id":51270
@@ -2664,8 +2664,8 @@
             "type":"Adjektiv"
          },
          "gene":[
-            "puffy",
-            "My friend Tammy\u2019s parakeet\u2019s name is Fluffy."
+            "dick",
+            "Mein liebster Adam Sandler Film ist \u2018Klick!\u2019."
          ],
          "x":false,
          "id":51268
@@ -2681,8 +2681,8 @@
             "type":"Nomen Mehrzahl - Etwas teures"
          },
          "gene":[
-            "guacamole",
-            "It\u2019s made from avocados you know-lay."
+            "Supreme Klamotten",
+            "Ich liebe es alte Technik zu verschrotten."
          ],
          "x":false,
          "id":51267
@@ -2698,8 +2698,8 @@
             "type":"Nomen Mehrzahl - Begriffe für Schläge"
          },
          "gene":[
-            "haymakers",
-            "Were Santa\u2019s elves, also his sleigh makers?"
+            "Schläge",
+            "Brauchst du ein Glas Wasser? Du wirkst echt träge."
          ],
          "x":false,
          "id":51250
@@ -2715,8 +2715,8 @@
             "type":"positives Adjektiv"
          },
          "gene":[
-            "presentable",
-            "I am aware, bad breath is preventable."
+            "fantastisch",
+            "Ich weiß genau, mein Atem ist immer frisch."
          ],
          "x":false,
          "id":51259
@@ -2732,8 +2732,8 @@
             "type":"Ein Beruf"
          },
          "gene":[
-            "sales rep",
-            "But \u2018Rango\u2019 is the best work by Johnny Depp."
+            "Verkäufer",
+            "Hab mehr Ausdauer als ein Marathon-Läufer."
          ],
          "x":false,
          "id":50945
@@ -2749,8 +2749,8 @@
             "type":"Verb"
          },
          "gene":[
-            "percolating",
-            "If that\u2019s Beyonce, I\u2019m dancing not waiting!"
+            "pulsieren",
+            "Ich werde dieses Schlachtfeld kontrollieren."
          ],
          "x":false,
          "id":50946
@@ -2766,8 +2766,8 @@
             "type":"Ein Gericht"
          },
          "gene":[
-            "spaghetti",
-            "If a noodle sticks to the wall, it\u2019s ready."
+            "Bratkartoffeln",
+            "Du haust mich echt aus den Pantoffeln."
          ],
          "x":false,
          "id":50947
@@ -2777,14 +2777,14 @@
             "examples":[
                "ein Erdbeben",
                "ein Schneesturm",
-               "starker Regen"
+               "ein starker Regen"
             ],
             "text":"Meine Raps sind so wütend, dich erwartet <BLANK>.",
-            "type":"Eine Naturkatastrophe"
+            "type":"unbestimmter Artikel + Eine Naturkatastrophe"
          },
          "gene":[
-            "white squall",
-            "Cuz I\u2019m the Jeff Bridges of having it all."
+            "ein Tornado",
+            "Der Hulk sieht aus wie eine riesen Avocado."
          ],
          "x":false,
          "id":51146
@@ -2800,8 +2800,8 @@
             "type":"Ein berühmter Künstler"
          },
          "gene":[
-            "Kenny G",
-            "He plays soprano sax, you see."
+            "Herbert Grönemeyer",
+            "Ohne ihn ist es keine Feier."
          ],
          "x":false,
          "id":50948
@@ -2811,14 +2811,14 @@
             "examples":[
                "eine Maschine",
                "eine Pistole",
-               "ein Gewehr"
+               "eine Bombe"
             ],
             "text":"Du siehst mich lieber als <BLANK>.",
             "type":"Unbestimmter Artikel + Ein mächtiges Objekt"
          },
          "gene":[
-            "villain",
-            "Whenever I drink grape juice, it\u2019s spillin\u2019."
+            "ein Gewehr",
+            "Von Musik bekomm ich nie genug, gib mir mehr."
          ],
          "x":false,
          "id":50949
@@ -2834,8 +2834,8 @@
             "type":"Ein Schulfach"
          },
          "gene":[
-            "civics",
-            "Todd has a new Civic. It\u2019s pretty sweet."
+            "Sport",
+            "Ich brauche Milch und Kekse und zwar sofort!."
          ],
          "x":false,
          "id":50950
@@ -2851,8 +2851,8 @@
             "type":"Artikel + Etwas helles"
          },
          "gene":[
-            "Christmas ornament",
-            "My bracket got busted in the hoops tournament."
+            "der Computermonitor",
+            "Mit ner Sonnenbrille sorgt man vor."
          ],
          "x":false,
          "id":50779
@@ -2868,8 +2868,8 @@
             "type":"Adjektiv"
          },
          "gene":[
-            "frail",
-            "I don\u2019t have the energy to stop an assassination."
+            "schlau",
+            "Ich kenne alle Farben, eine davon ist grau."
          ],
          "x":false,
          "id":51191
@@ -2885,8 +2885,8 @@
             "type":"Eine Süßigkeit"
          },
          "gene":[
-            "Necco Wafers",
-            "I got cute animals as my main screensavers."
+            "Kit Kat",
+            "Die Katze meiner Oma war im Sonntagsblatt."
          ],
          "x":false,
          "id":51093
@@ -2902,8 +2902,8 @@
             "type":"Mehrzahl - Gebäck"
          },
          "gene":[
-            "focaccia",
-            "My water pressure is iffy, so I can\u2019t wash ya."
+            "Kuchen",
+            "Hilfst du mir dabei meine Schlüssel zu suchen?"
          ],
          "x":false,
          "id":50782
@@ -2916,11 +2916,11 @@
                "ein neues iPhone"
             ],
             "text":"Google mich und du findest mich als <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen Einzahl - Etwas beeindruckendes"
+            "type":"Unbestimmter Artikel + Nomen Einzahl (Etwas beeindruckendes)"
          },
          "gene":[
-            "cat on a roomba",
-            "I\u2019ve been working hard at my Saturday Zumba."
+            "ein Mammut",
+            "Im rappen bin ich richtig gut."
          ],
          "x":true,
          "id":51142
@@ -2936,8 +2936,8 @@
             "type":"Mehrzahl - Gesundes Essen"
          },
          "gene":[
-            "carrots",
-            "I eat some and give the rest to my ferrets."
+            "Karotten",
+            "Ich ess sie schnell, bevor sie noch verrotten."
          ],
          "x":false,
          "id":50833
@@ -2953,8 +2953,8 @@
             "type":"Eine nervige berühmte Person"
          },
          "gene":[
-            "Scott Bakula",
-            "Remember when he Quantum Leaped into Dracula?"
+            "Kanye West",
+            "Ich mag seine Schuhe, verzichte auf den Rest."
          ],
          "x":false,
          "id":50834
@@ -2970,8 +2970,8 @@
             "type":"Unbestimmter Artikel +  Etwas fliegendes"
          },
          "gene":[
-            "Klingon",
-            "I like to go to karaoke and then get my sing on!"
+            "eine Drone",
+            "Sag bitte keinem, dass ich noch bei Mama wohne..."
          ],
          "x":false,
          "id":50836
@@ -2987,8 +2987,8 @@
             "type":"Etwas beliebtes"
          },
          "gene":[
-            "magpies",
-            "A magpie is a really cool bird, too."
+            "Hunde",
+            "Meine morgentliche Runde ist zirka eine Stunde."
          ],
          "x":false,
          "id":50985
@@ -2996,7 +2996,7 @@
       {
          "a":{
             "examples":[
-               "die Weltreise",
+               "eine Weltreise",
                "Essen",
                "Reichtum"
             ],
@@ -3004,8 +3004,8 @@
             "type":"Tolle Ereignisse / Aktivitäten"
          },
          "gene":[
-            "movies",
-            "Even the ones that show pee-pees or boobies."
+            "Saufen",
+            "Ich sollte mal meine alten Sachen verkaufen."
          ],
          "x":true,
          "id":51159
@@ -3013,16 +3013,16 @@
       {
          "a":{
             "examples":[
-               "kickt",
-               "wird laut",
-               "knallt"
+               "aggressiv",
+               "laut",
+               "knallhart"
             ],
-            "text":"Dreh den Bass auf, die Musik <BLANK>.",
-            "type":"Beschreibe deine Lieblingsmusik"
+            "text":"Dreh den Bass auf, die Musik wird <BLANK>.",
+            "type":"Adjektiv - Wie hörst du am liebsten Musik"
          },
          "gene":[
-            "brash",
-            "Hydrocortisone, is good for a rash."
+            "brutal",
+            "Achtung! Meine Reime sind fatal."
          ],
          "x":false,
          "id":51160
@@ -3038,8 +3038,8 @@
             "type":"Unbestimmter Artikel + Ein Fahrzeug"
          },
          "gene":[
-            "scooter",
-            "Me or Stephen Root? Which one\u2019s cuter?"
+            "ein Roller",
+            "Ich find\u2019 zwei Räder einfach toller."
          ],
          "x":false,
          "id":51161
@@ -3055,8 +3055,8 @@
             "type":"Adverb der Zeit"
          },
          "gene":[
-            "recently",
-            "Susan, if u break up with me do it decently."
+            "neulich",
+            "Ruf mal deinen Papa an, der freut sich."
          ],
          "x":false,
          "id":51162
@@ -3746,7 +3746,7 @@
             "examples":[
                "ein Haus",
                "ein Monument",
-               "ein Stadium"
+               "ein Stadion"
             ],
             "text":"Meine Reime sind so stark, sie bauen <BLANK>.",
             "type":"Unbestimmter Artikel + Ein Gebäude"
