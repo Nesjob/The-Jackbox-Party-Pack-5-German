@@ -43,7 +43,7 @@
                "das Brandenburger Tor"
             ],
             "text":"Ich falle nie um, ich stehe fest wie <BLANK>.",
-            "type":"Artikel + Ein berühmtes Gebäude"
+            "type":"Artikel + ein berühmtes Gebäude"
          },
          "gene":[
             "das KFC",
@@ -60,7 +60,7 @@
                "Clever"
             ],
             "text":"Mein Flow ist meine Superkraft, nenn mich Captain <BLANK>.",
-            "type":"positivess Adjektiv"
+            "type":"positives Adjektiv"
          },
          "gene":[
             "Flexibel",
@@ -230,7 +230,7 @@
                "eine Pfütze"
             ],
             "text":"Seht wie ich laber wie <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen: etwas mit Wasser"
+            "type":"Unbestimmter Artikel + Nomen (ein Gewässer)"
          },
          "gene":[
             "ein Tümpel",
@@ -315,7 +315,7 @@
                "ein Busch"
             ],
             "text":"Im Moment bin ich ein Samen, doch schon bald bin ich <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen Einzahl: Pflanze"
+            "type":"Unbestimmter Artikel + Nomen Einzahl (eine Pflanze)"
          },
          "gene":[
             "eine Tulpe",
@@ -349,7 +349,7 @@
                "ein Tandem"
             ],
             "text":"Meine Raps sind der Wahnsinn - schneller als <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen Einzahl: Fahrzeug"
+            "type":"Unbestimmter Artikel + Nomen Einzahl (ein Fahrzeug)"
          },
          "gene":[
             "eine Schwalbe",
@@ -366,7 +366,7 @@
                "ein Alien"
             ],
             "text":"Ich terrorisiere die Straßen, wie <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen Einzahl: Ein Monster"
+            "type":"Unbestimmter Artikel + Nomen Einzahl (ein Monster)"
          },
          "gene":[
             "ein Godzilla",
@@ -383,7 +383,7 @@
                "die Hütte"
             ],
             "text":"Ich brauch keine Erlaubnis, ich rocke <BLANK>.",
-            "type":"Artikel + Nomen: Ein Gebäude"
+            "type":"Artikel + Nomen (ein Gebäude)"
          },
          "gene":[
             "die Kläranlage",
@@ -417,7 +417,7 @@
                "die Wüste"
             ],
             "text":"Meine Reime sind heißer als <BLANK>.",
-            "type":"Artikel + Nomen Einzahl: Etwas Heißes"
+            "type":"Artikel + Nomen Einzahl (etwas heißes)"
          },
          "gene":[
             "ein heißes Feuer",
@@ -1029,7 +1029,7 @@
                "ein Parfüm"
             ],
             "text":"Ich muss nie duschen, denn ich rieche wie <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen Einzahl: gut riechend"
+            "type":"Unbestimmter Artikel + Nomen Einzahl (gut riechend)"
          },
          "gene":[
             "ein Dackel",
@@ -1250,7 +1250,7 @@
                "eine Geige"
             ],
             "text":"Mein Mund ist wie eine Trompete, mein Gehirn wie <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen - Musikinstrument"
+            "type":"Unbestimmter Artikel + Nomen (Musikinstrument)"
          },
          "gene":[
             "eine Flöte",
@@ -1335,7 +1335,7 @@
                "Mount Rainier"
             ],
             "text":"Bin auf meinem Weg nach oben, ich besteige den <BLANK>.",
-            "type":"Nomen - Berg"
+            "type":"Nomen - ein Berg"
          },
          "gene":[
             "Alpen",
@@ -1471,7 +1471,7 @@
                "Gebäude"
             ],
             "text":"Ich kam um zu zerstampfen denn meine Worte sind <BLANK>.",
-            "type":"Etwas schweres - Mehrzahl"
+            "type":"Nomen Mehrzahl - Etwas schweres"
          },
          "gene":[
             "Betten",
@@ -1505,7 +1505,7 @@
                "eine Villa"
             ],
             "text":"Bin so reich in Reimen, da kaufe ich <BLANK>.",
-            "type":"Unbestimmter Artikel + ein großes Objekt"
+            "type":"Unbestimmter Artikel + Nomen (ein großes Objekt)"
          },
          "gene":[
             "ein Haus",
@@ -1641,7 +1641,7 @@
                "eine Jeans"
             ],
             "text":"Liege immer im Trend und bin brandneu wie <BLANK>.",
-            "type":"Unbestimmter Artikel + Kleidungsstück"
+            "type":"Unbestimmter Artikel + Nomen (Kleidungsstück)"
          },
          "gene":[
             "eine Jacke",
@@ -1845,7 +1845,7 @@
                "Kinn"
             ],
             "text":"Ich bin so zerissen, hab Muskeln auf meiner/m <BLANK>.",
-            "type":"Teil vom Gesicht - Einzahl"
+            "type":"Nomen Einzahl - Teil vom Gesicht"
          },
          "gene":[
             "Mund",
@@ -2049,7 +2049,7 @@
                "eine Rakete"
             ],
             "text":"Ich flieg\u2019 weit hoch wie <BLANK>",
-            "type":"Unbestimmter Artikel + Nomen - Etwas fliegendes"
+            "type":"Unbestimmter Artikel + Nomen (Etwas fliegendes)"
          },
          "gene":[
             "Zeppelin",
@@ -2916,7 +2916,7 @@
                "ein neues iPhone"
             ],
             "text":"Google mich und du findest mich als <BLANK>.",
-            "type":"Unbestimmter Artikel + Nomen Einzahl - Etwas beeindruckendes"
+            "type":"Unbestimmter Artikel + Nomen Einzahl (Etwas beeindruckendes)"
          },
          "gene":[
             "ein Mammut",
