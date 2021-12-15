@@ -404,7 +404,7 @@
             },
             "gene": [
                 "ein Idiot",
-                "Es gibt nichts besseres als nen frischen Laib Brot."
+                "Es gibt nichts besseres als \u2019nen frischen Laib Brot."
             ],
             "x": false,
             "id": 52215
@@ -438,7 +438,7 @@
             },
             "gene": [
                 "Blake Shelton",
-                "Seine Country-Musik bringt mich zum schmelzen\u2019."
+                "Seine Country-Musik bringt mich zum schmelzen."
             ],
             "x": false,
             "id": 52391
@@ -454,8 +454,8 @@
                 "type": "Ein Objekt im Klassenraum"
             },
             "gene": [
-                "protractor",
-                "I saw a scary spider so I decided to whack her."
+                "einen Stift",
+                "Von uns beiden habe ich die schönere Schrift."
             ],
             "x": false,
             "id": 52387
@@ -471,8 +471,8 @@
                 "type": "Ein Produkt"
             },
             "gene": [
-                "massage chair",
-                "Which I bought from a Brookstone on a dare."
+                "ein Massagestuhl",
+                "Ich wünschte ich hätte einen, die sind schon cool."
             ],
             "x": false,
             "id": 52213
@@ -488,8 +488,8 @@
                 "type": "Negatives Adverb"
             },
             "gene": [
-                "wobbly",
-                "I\u2019m a Scorpio so I\u2019m afraid someone will rob me."
+                "kläglich",
+                "Deine Reime sind schließlich kaum erträglich."
             ],
             "x": false,
             "id": 52209
@@ -505,8 +505,8 @@
                 "type": "Ein Ort"
             },
             "gene": [
-                "Mars",
-                "Seriously, it can\u2019t really blow that far."
+                "Schanghai",
+                "Ehrlich, du fliegst dann wirklich so weit."
             ],
             "x": false,
             "id": 52133
@@ -522,8 +522,8 @@
                 "type": "Promi, aber kein Rapper"
             },
             "gene": [
-                "Joel Osteen",
-                "Hey, whatever works. Know what I mean?"
+                "Angela Merkel",
+                "Musikgeschmack schlimmer als ein Ferkel."
             ],
             "x": false,
             "id": 52150
@@ -539,8 +539,8 @@
                 "type": "Etwas im Wald"
             },
             "gene": [
-                "hiker",
-                "I\u2019ll ask her out cuz I kinda really like her."
+                "Ast",
+                "Ich sollte mal fragen ob du meine Nummer schon hast."
             ],
             "x": false,
             "id": 52125
@@ -556,8 +556,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "diddly",
-                "I can\u2019t stand to touch worms. They\u2019re too wiggly."
+                "nervös",
+                "Dein Kopf voller Hohlräume, komplett porös."
             ],
             "x": false,
             "id": 52205
@@ -573,8 +573,8 @@
                 "type": "Unbestimmter Artikel + Schrott"
             },
             "gene": [
-                "kind soul",
-                "I\u2019m avoiding a fight. That\u2019s kinda my goal."
+                "ein Engel",
+                "Wenn ich dich sehe, erkenne ich keine Mängel."
             ],
             "x": false,
             "id": 52152
@@ -590,8 +590,8 @@
                 "type": "Was macht man als Kind?"
             },
             "gene": [
-                "shirts",
-                "I don\u2019t care what they say words really do hurt."
+                "fangen spielen",
+                "Immer noch besser als mit Schlangen dealen."
             ],
             "x": false,
             "id": 52203
@@ -607,8 +607,8 @@
                 "type": "Eine gute, bekannte Person"
             },
             "gene": [
-                "Ellen",
-                "I wanna add \u2018DeGenerous\u2019 gotta check my spellin\u2019."
+                "Gandhi",
+                "Schau nur hin, wie ich dich gleich abzieh\u2019."
             ],
             "x": false,
             "id": 51884
@@ -624,8 +624,8 @@
                 "type": "Ein Körperteil"
             },
             "gene": [
-                "mandible",
-                "If you\u2019re concerned, that\u2019s understandable."
+                "Kinn",
+                "Soll das hypnotisch sein? Ich schau lieber nicht hin."
             ],
             "x": false,
             "id": 52132
@@ -641,8 +641,8 @@
                 "type": "Abstraktes Konzept"
             },
             "gene": [
-                "disambiguation",
-                "My dinner\u2019s a burrito from the gas station."
+                "Liebe",
+                "Klaust du Reime? Gelegenheit macht Diebe."
             ],
             "x": false,
             "id": 51836
@@ -658,8 +658,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "grumpy",
-                "If I had a pet camel, I\u2019d call him Humpy."
+                "nervig",
+                "Wenigstens sind die Leute da ehrlich."
             ],
             "x": false,
             "id": 52385
@@ -675,8 +675,8 @@
                 "type": "Ein Körperteil"
             },
             "gene": [
-                "gums",
-                "My stomach\u2019s upset. Anyone got any Tums?"
+                "Brust",
+                "Mein Popcorn ist alle, jetzt habe ich Frust."
             ],
             "x": false,
             "id": 52148
@@ -692,8 +692,8 @@
                 "type": "Kindische Aktion"
             },
             "gene": [
-                "potty train",
-                "I never learned how and it\u2019s such a pain."
+                "lachen",
+                "Ich würde gerade gerne etwas anderes machen."
             ],
             "x": false,
             "id": 51806
@@ -709,8 +709,8 @@
                 "type": "Etwas klebriges"
             },
             "gene": [
-                "molasses",
-                "When I fish, I like to catch basses."
+                "Paketband",
+                "Lieber stelle ich mir vor, ich wäre am Seestrand."
             ],
             "x": false,
             "id": 52380
@@ -727,7 +727,7 @@
             },
             "gene": [
                 "Auge",
-                "How \u2018bout that diss? Nobody, goes there."
+                "Wasch es dir ruhig aus mit Seifenlauge."
             ],
             "x": false,
             "id": 51848
@@ -744,7 +744,7 @@
             },
             "gene": [
                 "N 64",
-                "Did you know pigeons used to be dinosaurs?"
+                "Dinosaurier waren damals übermächtig."
             ],
             "x": false,
             "id": 50596
