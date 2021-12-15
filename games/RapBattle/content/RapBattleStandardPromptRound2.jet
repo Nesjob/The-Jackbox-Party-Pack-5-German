@@ -760,8 +760,8 @@
                 "type": "Nomen - Ein edeles Essen"
             },
             "gene": [
-                "Hot Pocket",
-                "Got a pimple on my nose. Please don\u2019t mock it."
+                "Hummer",
+                "Sei bitte nicht zu fies, sonst bekomm\u2019 ich noch Kummer."
             ],
             "x": false,
             "id": 52384
@@ -777,8 +777,8 @@
                 "type": "Ein Verb"
             },
             "gene": [
-                "hugging",
-                "Cute little puppies got my heart strings tugging."
+                "kuscheln",
+                "Sehr niedlich, doch statt Rap kommt von dir nur Nuscheln."
             ],
             "x": false,
             "id": 52376
@@ -794,8 +794,8 @@
                 "type": "Ein Verb"
             },
             "gene": [
-                "smiling",
-                "I miss old phones. And the rotary dialing."
+                "schreiben",
+                "Ich vermisse alte Telefone. Die mit Wählscheiben."
             ],
             "x": false,
             "id": 52360
@@ -811,8 +811,8 @@
                 "type": "Ein Prominenter"
             },
             "gene": [
-                "Betty White",
-                "I take that back. She\u2019s such a delight!"
+                "Günther Jauch",
+                "Das nehme ich zurück, der unterhält mich auch!"
             ],
             "x": false,
             "id": 52379
@@ -828,8 +828,8 @@
                 "type": "Ein Beruf"
             },
             "gene": [
-                "doctor",
-                "My dog\u2019s getting angry. It\u2019s time I walked her."
+                "Bauarbeiter",
+                "Hoppe, hoppe Reiter, wenn er fällt, dann schreit er."
             ],
             "x": false,
             "id": 50675
@@ -845,8 +845,8 @@
                 "type": "Mehrzahl Nomen - Schwache Dinge"
             },
             "gene": [
-                "my sister",
-                "I\u2019m mostly disturbed you two play, Twister."
+                "meiner Schwester",
+                "Zusammen baut ihr für Vögel Nester."
             ],
             "x": false,
             "id": 52147
@@ -862,8 +862,8 @@
                 "type": "Nomen Einzahl - Ein Fortbewegungsmittel für Kinder"
             },
             "gene": [
-                "Knight Rider",
-                "I hate apple juice. But I love apple cider!"
+                "Trabi",
+                "Du verreist in den Keller, ich nach Abu Dhabi!"
             ],
             "x": false,
             "id": 52316
@@ -879,8 +879,8 @@
                 "type": "Negatives Verb"
             },
             "gene": [
-                "spectacular",
-                "I love \u2018Quantum Leap,\u2019 especially Scott Bakular."
+                "schreien",
+                "Wenn du jetzt aufhörst, kann ich dir noch verzeihen."
             ],
             "x": false,
             "id": 52302
@@ -897,7 +897,7 @@
             },
             "gene": [
                 "eine Giraffe",
-                "Their long necks make me laugh."
+                "Mit so langem Hals, der zählt fast schon als Waffe."
             ],
             "x": false,
             "id": 52315
