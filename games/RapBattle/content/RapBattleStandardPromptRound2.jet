@@ -80,8 +80,8 @@
                 "type": "Unbestimmter Artikel + Etwas kleines"
             },
             "gene": [
-                "bun",
-                "The best clam chowder\u2019s the New England one."
+                "eine Nuss",
+                "Du versuchst zu rappen, aber redest nur Stuss."
             ],
             "x": false,
             "id": 50560
@@ -97,8 +97,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "silly",
-                "You\u2019re just a silly, silly Silly Billy."
+                "dumm",
+                "Wie deine Reime, die Banane ist krumm."
             ],
             "x": false,
             "id": 50561
@@ -114,8 +114,8 @@
                 "type": "Unbestimmter Artikel + Etwas flaches"
             },
             "gene": [
-                "pamphlet",
-                "Can you help me with this door? It\u2019s jammed shut."
+                "eine Flunder",
+                "Selbst dieser schreckliche Reim klingt runder."
             ],
             "x": false,
             "id": 51860
@@ -131,8 +131,8 @@
                 "type": "Verb"
             },
             "gene": [
-                "wait",
-                "The service at Penney\u2019s sure is great!"
+                "reagieren",
+                "Dein Rap lässt selbst deine Haustiere krepieren!"
             ],
             "x": false,
             "id": 50562
@@ -148,8 +148,8 @@
                 "type": "Adverb"
             },
             "gene": [
-                "clearly",
-                "Change your car\u2019s, air filter yearly."
+                "kaputt",
+                "Aus dir wurden eine Ruine und Schutt."
             ],
             "x": false,
             "id": 50563
@@ -165,10 +165,10 @@
                 "type": "Ein Feiertag"
             },
             "gene": [
-                "Valentine\u2019s",
-                "It\u2019s not easy making up all these rhymes."
+                "Valentinstag",
+                "Das ist ein Kink den ich schon ganz gern mag."
             ],
-            "x": false,
+            "x": true,
             "id": 50564
         },
         {
