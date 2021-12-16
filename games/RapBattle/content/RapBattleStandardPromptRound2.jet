@@ -913,8 +913,8 @@
                 "type": "Etwas im Auto"
             },
             "gene": [
-                "labradoodle",
-                "This rhyme will win the whole kit and caboodle!"
+                "Auspuffrohr",
+                "Es kommt nichts als heiße Luft hervor."
             ],
             "x": false,
             "id": 51521
@@ -930,8 +930,8 @@
                 "type": "Nomen - Eine Flüssigkeit im Haushalt"
             },
             "gene": [
-                "a milkshake",
-                "Oh great. Now I really want a milkshake."
+                "ein Bubble-Tea",
+                "Na super, jetzt möchte ich einen Bubble-Tea."
             ],
             "x": false,
             "id": 52377
@@ -947,8 +947,8 @@
                 "type": "Einzahl Nomen - Etwas dreckiges"
             },
             "gene": [
-                "sloppy joe",
-                "My favorite Stooges are Curly, Larry, Moe."
+                "die Kanalisation",
+                "Wann merkst du es? Für dich ist hier Endstation."
             ],
             "x": false,
             "id": 52331
@@ -964,8 +964,8 @@
                 "type": "Nomen - Ein Körperteil"
             },
             "gene": [
-                "solar plexus",
-                "Hard to imagine, like a polar Texas."
+                "Lymphknoten",
+                "Ich weiß nicht mal was das ist, klingt verboten."
             ],
             "x": true,
             "id": 52289
@@ -973,8 +973,8 @@
         {
             "a": {
                 "examples": [
-                    "ein Schraubenzieher",
-                    "ein Hammer",
+                    "einen Schraubenzieher",
+                    "einen Hammer",
                     "eine Pinzette"
                 ],
                 "text": "Bist du noch ganz dicht? Ich empfehle dir <BLANK>.",
