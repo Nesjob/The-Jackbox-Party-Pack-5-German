@@ -981,8 +981,8 @@
                 "type": "Unbestimmter Artikel + Ein Werkzeug"
             },
             "gene": [
-                "like Bono",
-                "I looked like Sting that time I got mono."
+                "ein Baguette",
+                "Jetzt will ich was futtern, aber dann werde ich fett."
             ],
             "x": false,
             "id": 52306
@@ -998,8 +998,8 @@
                 "type": "Positives Adjektiv"
             },
             "gene": [
-                "brave",
-                "I\u2019d buy a razor, if I had enough to shave."
+                "schlau",
+                "Fast so wie ich, wenn ich deine Reime klau."
             ],
             "x": false,
             "id": 52281
@@ -1015,8 +1015,8 @@
                 "type": "Unbestimmter Artikel + Einzahl Nomen (etwas leichtes)"
             },
             "gene": [
-                "merengue",
-                "When I can\u2019t get O J, I drink me some Tang."
+                "ein Pfannkuchen",
+                "Noch dazu klein, man muss dich immer suchen."
             ],
             "x": false,
             "id": 52357
@@ -1032,8 +1032,8 @@
                 "type": "Mehrzahl Nomen - Schlechte Dinge"
             },
             "gene": [
-                "bees",
-                "I\u2019m pretty allergic so don\u2019t sting me please."
+                "Bienen",
+                "Wäre ich nur Königin, dann würden sie mir dienen."
             ],
             "x": false,
             "id": 52311
@@ -1049,8 +1049,8 @@
                 "type": "Kindliches Adjektiv"
             },
             "gene": [
-                "chicken salad",
-                "A healthy diet is pretty frickin\u2019 valid."
+                "Hähnchensalat",
+                "Gesundes Essen jeden Tag ist auch eine gute Tat."
             ],
             "x": false,
             "id": 52290
