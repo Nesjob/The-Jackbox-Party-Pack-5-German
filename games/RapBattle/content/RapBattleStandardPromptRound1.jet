@@ -3066,14 +3066,14 @@
             "examples":[
                "Krümelmonster",
                "Frankenstein",
-               "Godzilla"
+               "Bigfoot"
             ],
             "text":"Bin so gut, es macht Angst, nenn\u2019 mich M C <BLANK>.",
             "type":"Ein Monster"
          },
          "gene":[
-            "Cookie Monster",
-            "Thought I saw Elmo once but it was an imposter."
+            "Godzilla",
+            "Dieses Battle wird der reinste Thriller."
          ],
          "x":false,
          "id":51410
@@ -3089,8 +3089,8 @@
             "type":"Eine Aufforderung"
          },
          "gene":[
-            "stencil",
-            "So many monkeys\u2019 tails are prehensile."
+            "Schrei laut",
+            "In meinem Garten ist schon wieder Unkraut."
          ],
          "x":false,
          "id":51163
@@ -3106,8 +3106,8 @@
             "type":"Unbestimmter Artikel + Ein Tier"
          },
          "gene":[
-            "lark",
-            "But I hate sharks so I guess I would hurt a shark."
+            "ein Tiger",
+            "Ich fühl\u2019 mich jetzt schon wie ein Sieger."
          ],
          "x":false,
          "id":51494
@@ -3115,7 +3115,7 @@
       {
          "a":{
             "examples":[
-               "Meister Proper",
+               "Meister Propper",
                "der Michelin-Mann",
                "die lila Milka Kuh"
             ],
@@ -3123,8 +3123,8 @@
             "type":"Eine Werbefigur"
          },
          "gene":[
-            "Ronald McDonald",
-            "Like Mom when she puts on, her old truss."
+            "Tony Tiger",
+            "Ich gehe ab wie ein Düsenflieger."
          ],
          "x":false,
          "id":51164
@@ -3140,8 +3140,8 @@
             "type":"Ein Ausruf"
          },
          "gene":[
-            "Zoinks",
-            "The cutest thing about pigs? Probably their oinks."
+            "Krass",
+            "Viele Leute kennen keinen Unterschied zwischen \u2018das\u2019 und \u2018dass\u2019."
          ],
          "x":false,
          "id":51460
@@ -3157,8 +3157,8 @@
             "type":"Etwas in der Natur"
          },
          "gene":[
-            "poison oak",
-            "I much prefer riddles so I don\u2019t make jokes."
+            "Baum",
+            "Ob meine Reime gut sind kümmert mich kaum."
          ],
          "x":false,
          "id":51489
@@ -3174,8 +3174,8 @@
             "type":"Positives Adjektiv"
          },
          "gene":[
-            "intermittently",
-            "Once I quit my job I\u2019ll have more time free."
+            "perfekt",
+            "Du fragst dich sicher wer hinter \u2018Gene\u2019 steckt."
          ],
          "x":false,
          "id":51165
