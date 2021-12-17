@@ -12,8 +12,8 @@
                 "type": "Nomen"
             },
             "gene": [
-                "space",
-                "Though MySpace has lots of great bands on it."
+                "twitter",
+                "War das ein Erdbeben? Oh, nein, zu zitterst."
             ],
             "x": false,
             "id": 50333
@@ -29,8 +29,8 @@
                 "type": "Einzahl Nomen - Gegenstand in der Küche"
             },
             "gene": [
-                "melon baller",
-                "But if you want melon, I have extra so holler!"
+                "Eisportionierer",
+                "Meine Lieblingssorte besteht aus Tränen der Verlierer!"
             ],
             "x": false,
             "id": 50331
@@ -46,8 +46,8 @@
                 "type": "Synonym für Kind"
             },
             "gene": [
-                "baby",
-                "Wanna get waffles tomorrow, maybe?"
+                "Göre",
+                "Deine Reime sind so mies, dass ich nicht mal zuhöre."
             ],
             "x": false,
             "id": 50557
@@ -63,8 +63,8 @@
                 "type": "Adjektiv"
             },
             "gene": [
-                "cute",
-                "My \u201899 Corolla sure is a beaut!"
+                "süß",
+                "Nur stinken leider deine Käsefüß\u2019."
             ],
             "x": false,
             "id": 50559
@@ -80,8 +80,8 @@
                 "type": "Unbestimmter Artikel + Etwas kleines"
             },
             "gene": [
-                "bun",
-                "The best clam chowder\u2019s the New England one."
+                "eine Nuss",
+                "Du versuchst zu rappen, aber redest nur Stuss."
             ],
             "x": false,
             "id": 50560
@@ -97,8 +97,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "silly",
-                "You\u2019re just a silly, silly Silly Billy."
+                "dumm",
+                "Wie deine Reime, die Banane ist krumm."
             ],
             "x": false,
             "id": 50561
@@ -114,8 +114,8 @@
                 "type": "Unbestimmter Artikel + Etwas flaches"
             },
             "gene": [
-                "pamphlet",
-                "Can you help me with this door? It\u2019s jammed shut."
+                "eine Flunder",
+                "Im Vergleich zu deinem Rap klingt ein Viereck runder."
             ],
             "x": false,
             "id": 51860
@@ -131,8 +131,8 @@
                 "type": "Verb"
             },
             "gene": [
-                "wait",
-                "The service at Penney\u2019s sure is great!"
+                "reagieren",
+                "Dein Rap lässt selbst deine Haustiere krepieren!"
             ],
             "x": false,
             "id": 50562
@@ -148,8 +148,8 @@
                 "type": "Adverb"
             },
             "gene": [
-                "clearly",
-                "Change your car\u2019s, air filter yearly."
+                "kaputt",
+                "Aus dir wurden eine Ruine und Schutt."
             ],
             "x": false,
             "id": 50563
@@ -165,10 +165,10 @@
                 "type": "Ein Feiertag"
             },
             "gene": [
-                "Valentine\u2019s",
-                "It\u2019s not easy making up all these rhymes."
+                "Valentinstag",
+                "Das ist ein Kink den ich schon ganz gern mag."
             ],
-            "x": false,
+            "x": true,
             "id": 50564
         },
         {
@@ -182,8 +182,8 @@
                 "type": "Dramafilm"
             },
             "gene": [
-                "\u2019The Notebook\u2019",
-                "Like when Ryan Gosling... now I\u2019m crying don\u2019t look."
+                "\u2019Das Boot\u2019",
+                "Viel lieber als bei dir wäre ich in Seenot."
             ],
             "x": false,
             "id": 52425
@@ -199,8 +199,8 @@
                 "type": "Unbestimmter Artikel + Begriff für Krimineller"
             },
             "gene": [
-                "thug",
-                "Wool socks make me snug as a bug in a rug!"
+                "ein Schuft",
+                "Steigst du aus der Gruft hängt in der Luft stinkender Duft!"
             ],
             "x": false,
             "id": 51850
@@ -216,8 +216,8 @@
                 "type": "Buchtitel"
             },
             "gene": [
-                "\u2019Where the Wild Things Are\u2019",
-                "I\u2019d object to your rhymes but I never passed the bar."
+                "\u2019Die Raupe Nimmersatt\u2019",
+                "Ich bin hier derjenige, der immer gute Reime hat."
             ],
             "x": false,
             "id": 52426
@@ -233,8 +233,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "grumpily",
-                "I\u2019d drink some coffee, but it would make me jumpily."
+                "lahm",
+                "Vielleicht mach ich mir nen Kaffee, der ist wenigstens warm."
             ],
             "x": false,
             "id": 52430
@@ -250,8 +250,8 @@
                 "type": "Unbestimmter Artikel + Ein Kleidungsstück"
             },
             "gene": [
-                "ascot",
-                "Got my shirt for free, found it in an empty lot."
+                "eine Melone",
+                "Im Gegensatz zu dir kann ich auch ohne."
             ],
             "x": false,
             "id": 52429
@@ -267,8 +267,8 @@
                 "type": "Musikgenre"
             },
             "gene": [
-                "Lana Del Rey",
-                "She\u2019s underappreciated, is all I\u2019m gonna say."
+                "Techno",
+                "Ist leider kein Rap, geh also lieber weg, yo."
             ],
             "x": false,
             "id": 52428
@@ -284,8 +284,8 @@
                 "type": "Unbestimmter Artikel + Ein Tier"
             },
             "gene": [
-                "porridge",
-                "I keep 40 pounds of it in my auxiliary storage."
+                "Toast",
+                "Wenn ich mit dir fertig bin, brauchst du viel Trost."
             ],
             "x": false,
             "id": 51839
@@ -301,8 +301,8 @@
                 "type": "Unbestimmter Artikel + Ein kleines Tier"
             },
             "gene": [
-                "moth",
-                "I build up my muscles by drinking milk broth."
+                "eine Motte",
+                "Ich muss nur aufpassen, dass ich nicht verrotte."
             ],
             "x": false,
             "id": 52401
@@ -318,8 +318,8 @@
                 "type": "Ein Wissensbereich"
             },
             "gene": [
-                "spelling",
-                "Is \u2018Stranger Things\u2019 season 3 good? No telling!"
+                "Englisch",
+                "Sonst sprichst du am Ende schreckliches Denglisch!"
             ],
             "x": false,
             "id": 50565
@@ -335,8 +335,8 @@
                 "type": "Natürliches Material"
             },
             "gene": [
-                "flesh",
-                "My head might be bleeding but my breath is fresh."
+                "Glas",
+                "Mein Handy ist runtergefallen, das macht keinen Spaß."
             ],
             "x": false,
             "id": 52126
@@ -352,8 +352,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "complicated",
-                "Like my signature scent my talent\u2019s understated."
+                "kompliziert",
+                "Von meinem Talent hingegen ist jeder fasziniert."
             ],
             "x": false,
             "id": 52337
@@ -369,8 +369,8 @@
                 "type": "Verb - Handlung im Wald"
             },
             "gene": [
-                "smooth skin",
-                "I got cucumbers and candles, let spa day begin."
+                "singen",
+                "Hauptsache ich muss keine Zeit mit dir verbringen."
             ],
             "x": false,
             "id": 52338
@@ -386,8 +386,8 @@
                 "type": "Mehrzahl - Essen mit Fleisch"
             },
             "gene": [
-                "meats",
-                "My chorus is like spicy food it always repeats."
+                "Wurst",
+                "Meine Reime sind salzig, da bekommt jeder Durst."
             ],
             "x": false,
             "id": 52341
@@ -403,8 +403,8 @@
                 "type": "Synonym für dumm'"
             },
             "gene": [
-                "imbecile",
-                "And I also hope they approve my living will."
+                "ein Idiot",
+                "Es gibt nichts besseres als \u2019nen frischen Laib Brot."
             ],
             "x": false,
             "id": 52215
@@ -420,8 +420,8 @@
                 "type": "Etwas einfaches"
             },
             "gene": [
-                "emote",
-                "Emotional unavailability really gets my goat."
+                "sprechen",
+                "Dir zuzuhören wäre sowieso ein Verbrechen."
             ],
             "x": false,
             "id": 52206
@@ -438,7 +438,7 @@
             },
             "gene": [
                 "Blake Shelton",
-                "His country music will get you to meltin\u2019."
+                "Seine Country-Musik bringt mich zum schmelzen."
             ],
             "x": false,
             "id": 52391
@@ -454,8 +454,8 @@
                 "type": "Ein Objekt im Klassenraum"
             },
             "gene": [
-                "protractor",
-                "I saw a scary spider so I decided to whack her."
+                "einen Stift",
+                "Von uns beiden habe ich die schönere Schrift."
             ],
             "x": false,
             "id": 52387
@@ -471,8 +471,8 @@
                 "type": "Ein Produkt"
             },
             "gene": [
-                "massage chair",
-                "Which I bought from a Brookstone on a dare."
+                "ein Massagestuhl",
+                "Ich wünschte ich hätte einen, die sind schon cool."
             ],
             "x": false,
             "id": 52213
@@ -488,8 +488,8 @@
                 "type": "Negatives Adverb"
             },
             "gene": [
-                "wobbly",
-                "I\u2019m a Scorpio so I\u2019m afraid someone will rob me."
+                "kläglich",
+                "Deine Reime sind schließlich kaum erträglich."
             ],
             "x": false,
             "id": 52209
@@ -505,8 +505,8 @@
                 "type": "Ein Ort"
             },
             "gene": [
-                "Mars",
-                "Seriously, it can\u2019t really blow that far."
+                "Schanghai",
+                "Ehrlich, du fliegst dann wirklich so weit."
             ],
             "x": false,
             "id": 52133
@@ -522,8 +522,8 @@
                 "type": "Promi, aber kein Rapper"
             },
             "gene": [
-                "Joel Osteen",
-                "Hey, whatever works. Know what I mean?"
+                "Angela Merkel",
+                "Musikgeschmack schlimmer als ein Ferkel."
             ],
             "x": false,
             "id": 52150
@@ -539,8 +539,8 @@
                 "type": "Etwas im Wald"
             },
             "gene": [
-                "hiker",
-                "I\u2019ll ask her out cuz I kinda really like her."
+                "Ast",
+                "Ich sollte mal fragen ob du meine Nummer schon hast."
             ],
             "x": false,
             "id": 52125
@@ -556,8 +556,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "diddly",
-                "I can\u2019t stand to touch worms. They\u2019re too wiggly."
+                "nervös",
+                "Dein Kopf voller Hohlräume, komplett porös."
             ],
             "x": false,
             "id": 52205
@@ -573,8 +573,8 @@
                 "type": "Unbestimmter Artikel + Schrott"
             },
             "gene": [
-                "kind soul",
-                "I\u2019m avoiding a fight. That\u2019s kinda my goal."
+                "ein Engel",
+                "Wenn ich dich sehe, erkenne ich keine Mängel."
             ],
             "x": false,
             "id": 52152
@@ -590,8 +590,8 @@
                 "type": "Was macht man als Kind?"
             },
             "gene": [
-                "shirts",
-                "I don\u2019t care what they say words really do hurt."
+                "fangen spielen",
+                "Immer noch besser als mit Schlangen dealen."
             ],
             "x": false,
             "id": 52203
@@ -607,8 +607,8 @@
                 "type": "Eine gute, bekannte Person"
             },
             "gene": [
-                "Ellen",
-                "I wanna add \u2018DeGenerous\u2019 gotta check my spellin\u2019."
+                "Gandhi",
+                "Schau nur hin, wie ich dich gleich abzieh\u2019."
             ],
             "x": false,
             "id": 51884
@@ -624,8 +624,8 @@
                 "type": "Ein Körperteil"
             },
             "gene": [
-                "mandible",
-                "If you\u2019re concerned, that\u2019s understandable."
+                "Kinn",
+                "Soll das hypnotisch sein? Ich schau lieber nicht hin."
             ],
             "x": false,
             "id": 52132
@@ -641,8 +641,8 @@
                 "type": "Abstraktes Konzept"
             },
             "gene": [
-                "disambiguation",
-                "My dinner\u2019s a burrito from the gas station."
+                "Liebe",
+                "Klaust du Reime? Gelegenheit macht Diebe."
             ],
             "x": false,
             "id": 51836
@@ -658,8 +658,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "grumpy",
-                "If I had a pet camel, I\u2019d call him Humpy."
+                "nervig",
+                "Wenigstens sind die Leute da ehrlich."
             ],
             "x": false,
             "id": 52385
@@ -675,8 +675,8 @@
                 "type": "Ein Körperteil"
             },
             "gene": [
-                "gums",
-                "My stomach\u2019s upset. Anyone got any Tums?"
+                "Brust",
+                "Mein Popcorn ist alle, jetzt habe ich Frust."
             ],
             "x": false,
             "id": 52148
@@ -692,8 +692,8 @@
                 "type": "Kindische Aktion"
             },
             "gene": [
-                "potty train",
-                "I never learned how and it\u2019s such a pain."
+                "lachen",
+                "Ich würde gerade gerne etwas anderes machen."
             ],
             "x": false,
             "id": 51806
@@ -709,8 +709,8 @@
                 "type": "Etwas klebriges"
             },
             "gene": [
-                "molasses",
-                "When I fish, I like to catch basses."
+                "Paketband",
+                "Lieber stelle ich mir vor, ich wäre am Seestrand."
             ],
             "x": false,
             "id": 52380
@@ -727,7 +727,7 @@
             },
             "gene": [
                 "Auge",
-                "How \u2018bout that diss? Nobody, goes there."
+                "Wasch es dir ruhig aus mit Seifenlauge."
             ],
             "x": false,
             "id": 51848
@@ -744,7 +744,7 @@
             },
             "gene": [
                 "N 64",
-                "Did you know pigeons used to be dinosaurs?"
+                "Dinosaurier waren damals übermächtig."
             ],
             "x": false,
             "id": 50596
@@ -760,8 +760,8 @@
                 "type": "Nomen - Ein edeles Essen"
             },
             "gene": [
-                "Hot Pocket",
-                "Got a pimple on my nose. Please don\u2019t mock it."
+                "Hummer",
+                "Sei bitte nicht zu fies, sonst bekomm\u2019 ich noch Kummer."
             ],
             "x": false,
             "id": 52384
@@ -777,8 +777,8 @@
                 "type": "Ein Verb"
             },
             "gene": [
-                "hugging",
-                "Cute little puppies got my heart strings tugging."
+                "kuscheln",
+                "Sehr niedlich, doch statt Rap kommt von dir nur Nuscheln."
             ],
             "x": false,
             "id": 52376
@@ -794,8 +794,8 @@
                 "type": "Ein Verb"
             },
             "gene": [
-                "smiling",
-                "I miss old phones. And the rotary dialing."
+                "schreiben",
+                "Ich vermisse alte Telefone. Die mit Wählscheiben."
             ],
             "x": false,
             "id": 52360
@@ -811,8 +811,8 @@
                 "type": "Ein Prominenter"
             },
             "gene": [
-                "Betty White",
-                "I take that back. She\u2019s such a delight!"
+                "Günther Jauch",
+                "Das nehme ich zurück, der unterhält mich auch!"
             ],
             "x": false,
             "id": 52379
@@ -828,8 +828,8 @@
                 "type": "Ein Beruf"
             },
             "gene": [
-                "doctor",
-                "My dog\u2019s getting angry. It\u2019s time I walked her."
+                "Bauarbeiter",
+                "Hoppe, hoppe Reiter, wenn er fällt, dann schreit er."
             ],
             "x": false,
             "id": 50675
@@ -845,8 +845,8 @@
                 "type": "Mehrzahl Nomen - Schwache Dinge"
             },
             "gene": [
-                "my sister",
-                "I\u2019m mostly disturbed you two play, Twister."
+                "meiner Schwester",
+                "Zusammen baut ihr für Vögel Nester."
             ],
             "x": false,
             "id": 52147
@@ -862,8 +862,8 @@
                 "type": "Nomen Einzahl - Ein Fortbewegungsmittel für Kinder"
             },
             "gene": [
-                "Knight Rider",
-                "I hate apple juice. But I love apple cider!"
+                "Trabi",
+                "Du verreist in den Keller, ich nach Abu Dhabi!"
             ],
             "x": false,
             "id": 52316
@@ -879,8 +879,8 @@
                 "type": "Negatives Verb"
             },
             "gene": [
-                "spectacular",
-                "I love \u2018Quantum Leap,\u2019 especially Scott Bakular."
+                "schreien",
+                "Wenn du jetzt aufhörst, kann ich dir noch verzeihen."
             ],
             "x": false,
             "id": 52302
@@ -897,7 +897,7 @@
             },
             "gene": [
                 "eine Giraffe",
-                "Their long necks make me laugh."
+                "Mit so langem Hals, der zählt fast schon als Waffe."
             ],
             "x": false,
             "id": 52315
@@ -913,8 +913,8 @@
                 "type": "Etwas im Auto"
             },
             "gene": [
-                "labradoodle",
-                "This rhyme will win the whole kit and caboodle!"
+                "Auspuffrohr",
+                "Es kommt nichts als heiße Luft hervor."
             ],
             "x": false,
             "id": 51521
@@ -930,8 +930,8 @@
                 "type": "Nomen - Eine Flüssigkeit im Haushalt"
             },
             "gene": [
-                "a milkshake",
-                "Oh great. Now I really want a milkshake."
+                "ein Bubble-Tea",
+                "Na super, jetzt möchte ich einen Bubble-Tea."
             ],
             "x": false,
             "id": 52377
@@ -947,8 +947,8 @@
                 "type": "Einzahl Nomen - Etwas dreckiges"
             },
             "gene": [
-                "sloppy joe",
-                "My favorite Stooges are Curly, Larry, Moe."
+                "die Kanalisation",
+                "Wann merkst du es? Für dich ist hier Endstation."
             ],
             "x": false,
             "id": 52331
@@ -964,8 +964,8 @@
                 "type": "Nomen - Ein Körperteil"
             },
             "gene": [
-                "solar plexus",
-                "Hard to imagine, like a polar Texas."
+                "Lymphknoten",
+                "Ich weiß nicht mal was das ist, klingt verboten."
             ],
             "x": true,
             "id": 52289
@@ -973,16 +973,16 @@
         {
             "a": {
                 "examples": [
-                    "ein Schraubenzieher",
-                    "ein Hammer",
+                    "einen Schraubenzieher",
+                    "einen Hammer",
                     "eine Pinzette"
                 ],
                 "text": "Bist du noch ganz dicht? Ich empfehle dir <BLANK>.",
                 "type": "Unbestimmter Artikel + Ein Werkzeug"
             },
             "gene": [
-                "like Bono",
-                "I looked like Sting that time I got mono."
+                "ein Baguette",
+                "Jetzt will ich was futtern, aber dann werde ich fett."
             ],
             "x": false,
             "id": 52306
@@ -998,8 +998,8 @@
                 "type": "Positives Adjektiv"
             },
             "gene": [
-                "brave",
-                "I\u2019d buy a razor, if I had enough to shave."
+                "schlau",
+                "Fast so wie ich, wenn ich deine Reime klau."
             ],
             "x": false,
             "id": 52281
@@ -1012,11 +1012,11 @@
                     "eine Wolke"
                 ],
                 "text": "Ich bin so schwer. Du bist so leicht wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Einzahl Nomen: Etwas leichtes"
+                "type": "Unbestimmter Artikel + Einzahl Nomen (etwas leichtes)"
             },
             "gene": [
-                "merengue",
-                "When I can\u2019t get O J, I drink me some Tang."
+                "ein Pfannkuchen",
+                "Noch dazu klein, man muss dich immer suchen."
             ],
             "x": false,
             "id": 52357
@@ -1032,8 +1032,8 @@
                 "type": "Mehrzahl Nomen - Schlechte Dinge"
             },
             "gene": [
-                "bees",
-                "I\u2019m pretty allergic so don\u2019t sting me please."
+                "Bienen",
+                "Wäre ich nur Königin, dann würden sie mir dienen."
             ],
             "x": false,
             "id": 52311
@@ -1049,8 +1049,8 @@
                 "type": "Kindliches Adjektiv"
             },
             "gene": [
-                "chicken salad",
-                "A healthy diet is pretty frickin\u2019 valid."
+                "Hähnchensalat",
+                "Gesundes Essen jeden Tag ist auch eine gute Tat."
             ],
             "x": false,
             "id": 52290
@@ -1114,7 +1114,7 @@
                     "ein Atom"
                 ],
                 "text": "Für mich bist du nichts als <BLANK>.",
-                "type": "Unbestimmter Artikel + Ein Nomen - Etwas kleines"
+                "type": "Unbestimmter Artikel + Ein Nomen (etwas kleines)"
             },
             "gene": [
                 "bagel",
@@ -1131,7 +1131,7 @@
                     "ein 5 Euro Schein"
                 ],
                 "text": "Wenn du mich besiegst, geb ich dir <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen: Ein Preis"
+                "type": "Unbestimmter Artikel + Nomen (ein Preis)"
             },
             "gene": [
                 "credit",
@@ -1182,7 +1182,7 @@
                     "ein Drache"
                 ],
                 "text": "Du siehst nicht gut aus. War da gerade etwa <BLANK>.",
-                "type": "Unbestimmter Artikel + Einzahl Nomen - Etwas Gruseliges"
+                "type": "Unbestimmter Artikel + Einzahl Nomen (etwas gruseliges)"
             },
             "gene": [
                 "cute puppy",
@@ -1573,7 +1573,7 @@
                     "ein bellender Hund"
                 ],
                 "text": "Ist das deine Musik? Klang für mich wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas lautes"
+                "type": "Unbestimmter Artikel + Nomen (etwas lautes)"
             },
             "gene": [
                 "Godzilla",
@@ -1743,7 +1743,7 @@
                     "ein Aufzug"
                 ],
                 "text": "Ich habe kein Mitleid mit dir. Dafür habe ich <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas nützliches"
+                "type": "Unbestimmter Artikel + Nomen (etwas nützliches)"
             },
             "gene": [
                 "therapist",
@@ -1789,12 +1789,12 @@
         {
             "a": {
                 "examples": [
-                    "later",
-                    "tomorrow",
-                    "now"
+                    "später",
+                    "morgen",
+                    "jetzt"
                 ],
-                "text": "If you don\u2019t know you\u2019d better <BLANK>.",
-                "type": "adverb of time"
+                "text": "Wenn nicht jetzt, dann lieber <BLANK>.",
+                "type": "Adverb der Zeit"
             },
             "gene": [
                 "eventually",
@@ -2270,7 +2270,7 @@
                     "eine Menschenmenge"
                 ],
                 "text": "Knall deine Tür zu, laut wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas lautes"
+                "type": "Unbestimmter Artikel + Nomen (etwas lautes)"
             },
             "gene": [
                 "irritable yeti",
@@ -2542,7 +2542,7 @@
                     "ein Stück Watte"
                 ],
                 "text": "Deine Reime sind so schwach, sie stemmen nichtmal <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas weiches"
+                "type": "Unbestimmter Artikel + Nomen (etwas weiches)"
             },
             "gene": [
                 "kitten\u2019s belly",
@@ -2559,7 +2559,7 @@
                     "eine alte Schlange"
                 ],
                 "text": "Du holst mich nie ein, du bist wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Ein langsames Tier"
+                "type": "Unbestimmter Artikel + Nomen (ein langsames Tier)"
             },
             "gene": [
                 "sleepy tiger",
@@ -2593,7 +2593,7 @@
                     "eine Flasche Seife"
                 ],
                 "text": "Deine Reime sind durcheinander, da brauche ich <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas zum sauber machen"
+                "type": "Unbestimmter Artikel + Nomen (etwas zum sauber machen)"
             },
             "gene": [
                 "Brillo pad",
@@ -2712,7 +2712,7 @@
                     "ein Zaun"
                 ],
                 "text": "Pass auf, für dich bemale ich <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas bemaltes"
+                "type": "Unbestimmter Artikel + Nomen (etwas bemaltes)"
             },
             "gene": [
                 "mural",
@@ -2933,7 +2933,7 @@
                     "ein Amboss"
                 ],
                 "text": "Kopf hoch, immerhin ist über dir <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Ein schweres Objekt"
+                "type": "Unbestimmter Artikel + Nomen (ein schweres Objekt)"
             },
             "gene": [
                 "can of corn",
@@ -3018,7 +3018,7 @@
                     "eine gestreifte Krawatte"
                 ],
                 "text": "Du bleibst doch hier, warum trägst du <BLANK>?",
-                "type": "Unbestimmter Artikel + Nomen - Ein Kleidungsstück"
+                "type": "Unbestimmter Artikel + Nomen (ein Kleidungsstück)"
             },
             "gene": [
                 "funky scarf",
@@ -3052,7 +3052,7 @@
                     "eine Figur"
                 ],
                 "text": "Ich zerschmettere dich, genauso wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas zerbrechliches"
+                "type": "Unbestimmter Artikel + Nomen (etwas zerbrechliches)"
             },
             "gene": [
                 "heart",
@@ -3273,7 +3273,7 @@
                     "eine Batterie"
                 ],
                 "text": "Mein Akku hält länger als <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Ein elektronisches Gerät"
+                "type": "Unbestimmter Artikel + Nomen (ein elektronisches Gerät)"
             },
             "gene": [
                 "smart fridge",
@@ -3868,7 +3868,7 @@
                     "ein Schlüsselband"
                 ],
                 "text": "Wäre ich reich, kaufe ich dir nichtmal <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Ein günstiges Produkt"
+                "type": "Unbestimmter Artikel + Nomen (ein günstiges Produkt)"
             },
             "gene": [
                 "condo",
@@ -3885,7 +3885,7 @@
                     "eine Tasche"
                 ],
                 "text": "Deine Seele ist so leer wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Ein Behältnis"
+                "type": "Unbestimmter Artikel + Nomen (ein Behältnis)"
             },
             "gene": [
                 "envelope",
@@ -4055,7 +4055,7 @@
                     "eine Frisbee"
                 ],
                 "text": "Pass auf! Ich werfe dich wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas, was man wirft"
+                "type": "Unbestimmter Artikel + Nomen (etwas, was man wirft)"
             },
             "gene": [
                 "withering glance",
@@ -4123,7 +4123,7 @@
                     "ein schlafendes Baby"
                 ],
                 "text": "Sprich mal lauter! Du bist so leise wie <BLANK>.",
-                "type": "Unbestimmter Artikel + Nomen - Etwas leises"
+                "type": "Unbestimmter Artikel + Nomen (etwas leises)"
             },
             "gene": [
                 "towel",
