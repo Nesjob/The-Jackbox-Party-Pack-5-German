@@ -1024,12 +1024,12 @@
         {
             "a": {
                 "examples": [
-                    "Nordsee",
-                    "Hans im Glück",
-                    "Subway"
+                    "Bank",
+                    "Schule",
+                    "Waschanlage"
                 ],
-                "text": "Zieh dir ne Jacke an und komm mit zu <BLANK>.",
-                "type": "Eine Fast-Food-Kette"
+                "text": "Zieh schnell deine Jacke an und komm zur <BLANK>.",
+                "type": "Nomen - Eine örtliche Einrichtung"
             },
             "gene": [
                 "Gap",
@@ -1043,10 +1043,10 @@
                 "examples": [
                     "gemein",
                     "alt",
-                    "gefährlich"
+                    "verschimmelt"
                 ],
-                "text": "Ich hab gehört, was du gesagt hast! Du bist <BLANK>!",
-                "type": "negatives Adjektiv"
+                "text": "Ey man das hab ich gehört! Du bist <BLANK>!",
+                "type": "Negatives Adjektiv"
             },
             "gene": [
                 "gorgeous",
@@ -1058,12 +1058,12 @@
         {
             "a": {
                 "examples": [
-                    "glacial",
-                    "listless",
-                    "chill"
+                    "phänomenal",
+                    "lustlos",
+                    "entspannt"
                 ],
-                "text": "Dang your last rhyme was pathetic and <BLANK>.",
-                "type": "adjective - synonym for 'slow'"
+                "text": "Verdammt dein letzter Reim war einfach nur <BLANK>.",
+                "type": "Adjektiv - Beschreibung für Katzen"
             },
             "gene": [
                 "lethargic",
@@ -1075,12 +1075,12 @@
         {
             "a": {
                 "examples": [
-                    "creamed",
-                    "stomped",
-                    "jumped"
+                    "vernaschen",
+                    "umarmen",
+                    "verwöhnen"
                 ],
-                "text": "Step to me and you\u2019re gonna get <BLANK>.",
-                "type": "verb ending w/ -ed"
+                "text": "Tritt vor mich und ich werde dich <BLANK>.",
+                "type": "Verb - Etwas, was man mit seinem Partner macht"
             },
             "gene": [
                 "spoiled",
@@ -1092,12 +1092,12 @@
         {
             "a": {
                 "examples": [
-                    "cool",
-                    "blue",
-                    "refreshing"
+                    "cooler",
+                    "heftiger",
+                    "erholsamer"
                 ],
-                "text": "I miss the days, when you were <BLANK>.",
-                "type": "adjective - describe a pool"
+                "text": "Ach ja, früher war alles <BLANK>.",
+                "type": "Gesteigertes Adjektiv (mit -er am Ende)"
             },
             "gene": [
                 "Olympic-sized",
@@ -1109,12 +1109,12 @@
         {
             "a": {
                 "examples": [
-                    "candy dish",
-                    "pancake",
-                    "yo-yo"
+                    "eine Zuckerstange",
+                    "ein Flummi",
+                    "ein Jo-Jo"
                 ],
-                "text": "I\u2019m hunting for trophies but you\u2019re just a <BLANK>.",
-                "type": "singular noun - small object"
+                "text": "Ich suche Trophäen aber du bist nur <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen (etwas kleines)"
             },
             "gene": [
                 "shrimp",
@@ -1127,11 +1127,11 @@
             "a": {
                 "examples": [
                     "Drake",
-                    "Phil Collins",
-                    "Insane Clown Posse"
+                    "Helene Fischer",
+                    "Michael Wendler"
                 ],
-                "text": "Listen to you? I\u2019d rather listen to <BLANK>.",
-                "type": "proper noun - a bad musician/singer"
+                "text": "Dir zuhören? Da höre ich lieber <BLANK>.",
+                "type": "Name - Ein schlechter Musiker / Sänger"
             },
             "gene": [
                 "Creed",
@@ -1143,12 +1143,12 @@
         {
             "a": {
                 "examples": [
-                    "courage",
-                    "generosity",
-                    "beauty"
+                    "bestrafen",
+                    "beleidigen",
+                    "beklauen"
                 ],
-                "text": "Take a deep breath I\u2019m \u2018bout to wreck your <BLANK>.",
-                "type": "abstract noun"
+                "text": "Nach dem Finale hier werde ich dich <BLANK>.",
+                "type": "Verb (mit be- am Anfang)"
             },
             "gene": [
                 "education",
@@ -1160,12 +1160,12 @@
         {
             "a": {
                 "examples": [
-                    "cute",
-                    "kind",
-                    "generous"
+                    "süß",
+                    "freundlich",
+                    "großzügig"
                 ],
-                "text": "Forget about it I\u2019m through bein\u2019 <BLANK>.",
-                "type": "positive adjective"
+                "text": "Vergiss es, ich bin schon lange nicht mehr <BLANK>.",
+                "type": "Positives Adjektiv"
             },
             "gene": [
                 "doughy",
@@ -1177,16 +1177,16 @@
         {
             "a": {
                 "examples": [
-                    "soup",
-                    "noodles",
-                    "breadsticks"
+                    "bei mir zuhause",
+                    "an der Nordsee",
+                    "bei meinem Nachbarn"
                 ],
-                "text": "You came for me now I\u2019m comin\u2019 for your <BLANK>",
-                "type": "noun - thing found in a pantry"
+                "text": "Wir treffen uns zum Duell morgen <BLANK>",
+                "type": "Wo würdest du gerne deinen Urlaubstag verbringen?"
             },
             "gene": [
-                "cereal",
-                "I\u2019ll lick it off the floor, the dirt\u2019s immaterial."
+                "in der Bahn",
+                "Ich bin voll und ganz in meinem Wahn."
             ],
             "x": false,
             "id": 52498
@@ -1194,12 +1194,12 @@
         {
             "a": {
                 "examples": [
-                    "ladder",
-                    "flotation device",
-                    "swimsuit"
+                    "die Rettungsleiter",
+                    "eine Schwimmnudel",
+                    "eine Taucherbrille"
                 ],
-                "text": "In the human gene pool you\u2019re the <BLANK>.",
-                "type": "common noun - thing found in a pool"
+                "text": "Im menschlichen Gen-Pool bist du <BLANK>.",
+                "type": "Artikel + Nomen (etwas, was man im Pool findet)"
             },
             "gene": [
                 "shark",
@@ -1211,12 +1211,12 @@
         {
             "a": {
                 "examples": [
-                    "stale",
-                    "drab",
-                    "vapid"
+                    "ermüdend",
+                    "einschläfernd",
+                    "schleppend"
                 ],
-                "text": "I\u2019m falling asleep. Your verses are <BLANK>.",
-                "type": "adjective - synonym for 'boring'"
+                "text": "Ich schlafe gleich ein, deine Texte sind <BLANK>.",
+                "type": "Adjektiv - Synonym für 'langweilig'"
             },
             "gene": [
                 "plebeian",
@@ -1228,16 +1228,16 @@
         {
             "a": {
                 "examples": [
-                    "pencil",
-                    "horse",
-                    "drapes"
+                    "Kugelschreiber",
+                    "Pferd",
+                    "Pudding"
                 ],
-                "text": "Your mama\u2019s so dumb she says \u2018rap\u2019 rhymes with <BLANK>.",
-                "type": "a word that doesn't rhyme with rap"
+                "text": "Deine Mutter denkt, \u2018Qualle\u2019 reimt sich auf <BLANK>.",
+                "type": "Ein Wort, das sich nicht auf Qualle reimt"
             },
             "gene": [
-                "trap",
-                "Oh dang. I just fell into one."
+                "Falle",
+                "Oh verdammt. Ich bin gerade in eine reingefallen."
             ],
             "x": true,
             "id": 52480
@@ -1245,12 +1245,12 @@
         {
             "a": {
                 "examples": [
-                    "snakes",
-                    "maggots",
-                    "garbage"
+                    "Schnecken",
+                    "Frösche",
+                    "Müll"
                 ],
-                "text": "Staring at your face is like staring at <BLANK>.",
-                "type": "plural noun - ugly things"
+                "text": "Dein Gesicht zu sehen ist, als schaut man auf <BLANK>.",
+                "type": "Nomen Mehrzahl - Etwas hässliches"
             },
             "gene": [
                 "dangers",
@@ -1262,12 +1262,12 @@
         {
             "a": {
                 "examples": [
-                    "Sprite",
-                    "water",
-                    "milkshake"
+                    "eine Sprite",
+                    "ein Wasser",
+                    "ein Milchshake"
                 ],
-                "text": "If you were dying of thirst I wouldn\u2019t give you a <BLANK>.",
-                "type": "singular noun - beverage"
+                "text": "Würdest du verdursten, geb ich dir nicht mal <BLANK>.",
+                "type": "Artikel + Nomen (ein Erfrischungsgetränk)"
             },
             "gene": [
                 "whiskey",
@@ -1279,12 +1279,12 @@
         {
             "a": {
                 "examples": [
-                    "jerks",
-                    "thieves",
-                    "monsters"
+                    "Geister",
+                    "Diebe",
+                    "Monster"
                 ],
-                "text": "I can\u2019t hear what you say I\u2019m deaf to <BLANK>.",
-                "type": "plural noun - terrible things"
+                "text": "Ich kann dich nicht hören, hab ne Schwäche für <BLANK>.",
+                "type": "Nomen Mehrzahl - Schreckliche Dinge"
             },
             "gene": [
                 "puns",
@@ -1296,12 +1296,12 @@
         {
             "a": {
                 "examples": [
-                    "bike",
-                    "car",
-                    "sailboat"
+                    "ein Fahrrad",
+                    "ein Auto",
+                    "ein Segelboot"
                 ],
-                "text": "Trying to keep up? Let me get you a <BLANK>.",
-                "type": "singular noun - vehicle"
+                "text": "Versuchst mich einzuholen? Ich schenk dir <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen (ein Fahrzeug)"
             },
             "gene": [
                 "tractor trailer",
@@ -1313,12 +1313,12 @@
         {
             "a": {
                 "examples": [
-                    "doctor",
-                    "nurse",
-                    "surgeon"
+                    "Doktor",
+                    "Hebamme",
+                    "Chirurg"
                 ],
-                "text": "You fail so bad they had to call a <BLANK>.",
-                "type": "common noun - medical professional"
+                "text": "Du versagst zu krass, ich rufe den <BLANK>.",
+                "type": "Nomen - Eine medizinische Tätigkeit"
             },
             "gene": [
                 "specialist",
