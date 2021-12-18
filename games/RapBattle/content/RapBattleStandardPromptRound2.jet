@@ -1389,8 +1389,8 @@
                 "type": "ein Verb"
             },
             "gene": [
-                "collapse",
-                "Barely typed this in before time elapsed."
+                "etwas erleben",
+                "Ich hatte kaum genug Zeit, diesen Reim einzugeben."
             ],
             "x": false,
             "id": 52368
@@ -1402,12 +1402,12 @@
                     "Depp",
                     "Trottel"
                 ],
-                "text": "Im Duden steht dein Wort unter <BLANK>.",
+                "text": "Im Duden steht dein Name unter <BLANK>.",
                 "type": "Eine Charaktereigenschaft oder Spitzname"
             },
             "gene": [
-                "nice",
-                "We have a lot in common. Do you also like rice?"
+                "putzig",
+                "Meine Wohnung hingegen steht unter schmutzig."
             ],
             "x": false,
             "id": 52363
@@ -1423,8 +1423,8 @@
                 "type": "Adjektiv - Ein negativer Zustand"
             },
             "gene": [
-                "funny",
-                "Like a photo of a mustache on a bunny."
+                "heiter",
+                "Pass gut auf, sonst fällst du von der Leiter."
             ],
             "x": false,
             "id": 52361
@@ -1440,8 +1440,8 @@
                 "type": "Irgendein Wort"
             },
             "gene": [
-                "rapper",
-                "Your rhymes make news, like C N N\u2019s Jake Tapper."
+                "Rapper",
+                "Kriegt immer noch mehr hin als M C Sattelschlepper."
             ],
             "x": false,
             "id": 52364
@@ -1457,8 +1457,8 @@
                 "type": "Adjektiv"
             },
             "gene": [
-                "bumpkin",
-                "My rhyming options are \u2018lumpkin\u2019 and \u2018pumpkin.\u2019"
+                "sarkastisch",
+                "Also ich meine, das finde ich natürlich fantastisch."
             ],
             "x": true,
             "id": 52366
@@ -1474,8 +1474,8 @@
                 "type": "Ein Ort, den du nicht magst"
             },
             "gene": [
-                "gym",
-                "I guess that\u2019s why you\u2019re looking so slim!"
+                "Bahnhof",
+                "Das hat lang gedauert, du warst wohl ziemlich planlos."
             ],
             "x": false,
             "id": 51570
@@ -1491,8 +1491,8 @@
                 "type": "Ein unbeliebter Musiker"
             },
             "gene": [
-                "chimes",
-                "I watch \u2018Walking Dead\u2019 cuz I like Rick Grimes."
+                "Apored",
+                "Anstatt das zu hören, wäre ich lieber schlafend im Bett."
             ],
             "x": false,
             "id": 52367
@@ -1508,8 +1508,8 @@
                 "type": "Eine Supermarktkette"
             },
             "gene": [
-                "e-card",
-                "Most hotel rooms require a keycard."
+                "Edeka",
+                "Dort kriegt man ja fast alles, mir fehlt nur noch ein Zebra."
             ],
             "x": false,
             "id": 52369
@@ -1525,8 +1525,8 @@
                 "type": "Nomen Einzahl - Synonym für 'Kopf'"
             },
             "gene": [
-                "snatch",
-                "Why does everyone laugh when I say \u2018snatch\u2019?"
+                "Haupt",
+                "Kann ich nicht nachvollziehen, ich habe Oma beraubt."
             ],
             "x": true,
             "id": 51551
@@ -1534,16 +1534,16 @@
         {
             "a": {
                 "examples": [
-                    "ein Zug",
+                    "einen Zug",
                     "ein Skateboard",
-                    "ein Fahrrad"
+                    "ein Einrad"
                 ],
                 "text": "Versuch mich ruhig einzuholen. Brauchst du <BLANK>?",
                 "type": "Unbestimmter Artikel + Ein Fortbewegungsmittel"
             },
             "gene": [
-                "monorail",
-                "I think I might cut off this rat-tail."
+                "ein Fahrrad",
+                "Fahr nur nicht zu schnell, das wär eine Straftat."
             ],
             "x": false,
             "id": 51577
@@ -1559,8 +1559,8 @@
                 "type": "Mehrzahl Nomen - Ein Lebensmittel"
             },
             "gene": [
-                "beef jerky",
-                "That\u2019s why I call you \u2018Slim Jim\u2019 you jive turkey."
+                "Mais",
+                "Gesalzt und gegrillt, und zwar ziemlich heiß."
             ],
             "x": false,
             "id": 51638
@@ -1577,7 +1577,7 @@
             },
             "gene": [
                 "Godzilla",
-                "Either that or King Kong, the giant gorilla."
+                "Das oder King Kong, der große Gorilla."
             ],
             "x": false,
             "id": 51605
@@ -1593,8 +1593,8 @@
                 "type": "Eine Berufsbezeichnung"
             },
             "gene": [
-                "mime",
-                "No cucumber water, just a hint of lime."
+                "Mime",
+                "Schau mir doch zu, wenn ich Jackbox streame."
             ],
             "x": false,
             "id": 51644
@@ -1610,8 +1610,8 @@
                 "type": "Verb - Synonym für 'hören'"
             },
             "gene": [
-                "melt",
-                "But now you melted my hands and i canbt type.!m"
+                "schmelzen",
+                "Jetzt schmilzt meine Hand, ich kanm nicht mehtr svhrieben.!m"
             ],
             "x": false,
             "id": 51635
@@ -1627,8 +1627,8 @@
                 "type": "Verb - Etwas, was Betrüger machen"
             },
             "gene": [
-                "melodramatic",
-                "I dress like a cowboy when I play in the attic."
+                "bedrohen",
+                "Ich bin der Grund dafür, dass Menschen verrohen."
             ],
             "x": false,
             "id": 51523
@@ -1644,8 +1644,8 @@
                 "type": "Verb - Etwas, was dein Körper automatisch macht"
             },
             "gene": [
-                "spasm",
-                "Or you\u2019ll get a dose of my famous sarcasm."
+                "schauen",
+                "Geh doch lieber wieder mit Bauklötzen bauen."
             ],
             "x": false,
             "id": 52266
@@ -1661,8 +1661,8 @@
                 "type": "Nomen Mehrzahl - Weiche Dinge"
             },
             "gene": [
-                "polyester",
-                "The best \u2018Addams Family\u2019 character is Uncle Fester."
+                "Sahne",
+                "Willst du überhaupt wissen, was ich noch Süßes mit dir plane?"
             ],
             "x": false,
             "id": 51522
@@ -1678,8 +1678,8 @@
                 "type": "Nomen Mehrzahl - Merkwürdige Dinge"
             },
             "gene": [
-                "suede",
-                "It looks expensive. You must be well-paid."
+                "Flansche",
+                "Das kann ich nicht brauchen, während ich im Pool plansche."
             ],
             "x": false,
             "id": 51619
@@ -1695,8 +1695,8 @@
                 "type": "Verb - Etwas, was man nach einem Kampf macht"
             },
             "gene": [
-                "sit down",
-                "My pants will get dusty if I sit on the ground."
+                "auf dem Boden liegen",
+                "So wirst du lediglich deine Hose staubig kriegen."
             ],
             "x": false,
             "id": 52265
