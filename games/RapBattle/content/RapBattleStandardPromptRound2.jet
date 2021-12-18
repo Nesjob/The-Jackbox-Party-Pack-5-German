@@ -913,8 +913,8 @@
                 "type": "Etwas im Auto"
             },
             "gene": [
-                "labradoodle",
-                "This rhyme will win the whole kit and caboodle!"
+                "Auspuffrohr",
+                "Es kommt nichts als heiße Luft hervor."
             ],
             "x": false,
             "id": 51521
@@ -930,8 +930,8 @@
                 "type": "Nomen - Eine Flüssigkeit im Haushalt"
             },
             "gene": [
-                "a milkshake",
-                "Oh great. Now I really want a milkshake."
+                "ein Bubble-Tea",
+                "Na super, jetzt möchte ich einen Bubble-Tea."
             ],
             "x": false,
             "id": 52377
@@ -947,8 +947,8 @@
                 "type": "Einzahl Nomen - Etwas dreckiges"
             },
             "gene": [
-                "sloppy joe",
-                "My favorite Stooges are Curly, Larry, Moe."
+                "die Kanalisation",
+                "Wann merkst du es? Für dich ist hier Endstation."
             ],
             "x": false,
             "id": 52331
@@ -964,8 +964,8 @@
                 "type": "Nomen - Ein Körperteil"
             },
             "gene": [
-                "solar plexus",
-                "Hard to imagine, like a polar Texas."
+                "Lymphknoten",
+                "Ich weiß nicht mal was das ist, klingt verboten."
             ],
             "x": true,
             "id": 52289
@@ -973,16 +973,16 @@
         {
             "a": {
                 "examples": [
-                    "ein Schraubenzieher",
-                    "ein Hammer",
+                    "einen Schraubenzieher",
+                    "einen Hammer",
                     "eine Pinzette"
                 ],
                 "text": "Bist du noch ganz dicht? Ich empfehle dir <BLANK>.",
                 "type": "Unbestimmter Artikel + Ein Werkzeug"
             },
             "gene": [
-                "like Bono",
-                "I looked like Sting that time I got mono."
+                "ein Baguette",
+                "Jetzt will ich was futtern, aber dann werde ich fett."
             ],
             "x": false,
             "id": 52306
@@ -998,8 +998,8 @@
                 "type": "Positives Adjektiv"
             },
             "gene": [
-                "brave",
-                "I\u2019d buy a razor, if I had enough to shave."
+                "schlau",
+                "Fast so wie ich, wenn ich deine Reime klau."
             ],
             "x": false,
             "id": 52281
@@ -1015,8 +1015,8 @@
                 "type": "Unbestimmter Artikel + Einzahl Nomen (etwas leichtes)"
             },
             "gene": [
-                "merengue",
-                "When I can\u2019t get O J, I drink me some Tang."
+                "ein Pfannkuchen",
+                "Noch dazu klein, man muss dich immer suchen."
             ],
             "x": false,
             "id": 52357
@@ -1032,8 +1032,8 @@
                 "type": "Mehrzahl Nomen - Schlechte Dinge"
             },
             "gene": [
-                "bees",
-                "I\u2019m pretty allergic so don\u2019t sting me please."
+                "Bienen",
+                "Wäre ich nur Königin, dann würden sie mir dienen."
             ],
             "x": false,
             "id": 52311
@@ -1049,8 +1049,8 @@
                 "type": "Kindliches Adjektiv"
             },
             "gene": [
-                "chicken salad",
-                "A healthy diet is pretty frickin\u2019 valid."
+                "Hähnchensalat",
+                "Gesundes Essen jeden Tag ist auch eine gute Tat."
             ],
             "x": false,
             "id": 52290
