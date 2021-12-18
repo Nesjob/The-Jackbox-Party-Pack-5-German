@@ -1024,12 +1024,12 @@
         {
             "a": {
                 "examples": [
-                    "bank",
-                    "school",
-                    "car wash"
+                    "Nordsee",
+                    "Hans im Glück",
+                    "Subway"
                 ],
-                "text": "Just put on your coat and run to the <BLANK>.",
-                "type": "singular noun - location"
+                "text": "Zieh dir ne Jacke an und komm mit zu <BLANK>.",
+                "type": "Eine Fast-Food-Kette"
             },
             "gene": [
                 "Gap",
@@ -1041,12 +1041,12 @@
         {
             "a": {
                 "examples": [
-                    "cruel",
-                    "old",
-                    "sinister"
+                    "gemein",
+                    "alt",
+                    "gefährlich"
                 ],
-                "text": "I heard what you said about me! You are <BLANK>!",
-                "type": "negative adjective"
+                "text": "Ich hab gehört, was du gesagt hast! Du bist <BLANK>!",
+                "type": "negatives Adjektiv"
             },
             "gene": [
                 "gorgeous",
