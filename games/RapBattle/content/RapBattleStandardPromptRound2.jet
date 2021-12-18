@@ -1066,8 +1066,8 @@
                 "type": "Ein Ort"
             },
             "gene": [
-                "city",
-                "Try Nashville, home of Conway Twitty."
+                "Trier",
+                "Außer du bist aus Trier, dann bin ich doch von hier."
             ],
             "x": false,
             "id": 52279
@@ -1083,8 +1083,8 @@
                 "type": "Unbestimmter Artikel + Eine Baumart"
             },
             "gene": [
-                "pistachio",
-                "I\u2019m thinking of growing a bushy mustachio."
+                "eine Tanne",
+                "Leider ist mein Reim eine einzige Panne."
             ],
             "x": false,
             "id": 52294
@@ -1100,8 +1100,8 @@
                 "type": "Ein Spiel für Kinder"
             },
             "gene": [
-                "Got Yer Nose",
-                "Have a sinus infection and that game blows."
+                "Kuscheltieren",
+                "Trotz dass du gern kuschelst, wirst du gleich verlieren."
             ],
             "x": false,
             "id": 52280
@@ -1117,8 +1117,8 @@
                 "type": "Unbestimmter Artikel + Ein Nomen (etwas kleines)"
             },
             "gene": [
-                "bagel",
-                "They\u2019re not for guys, but I like to do kegels."
+                "eine Bohne",
+                "In einen guten Obstsalat gehört eine Melone."
             ],
             "x": true,
             "id": 52328
@@ -1134,8 +1134,8 @@
                 "type": "Unbestimmter Artikel + Nomen (ein Preis)"
             },
             "gene": [
-                "credit",
-                "I\u2019ll write it up and post it on Reddit."
+                "einen Gummipunkt",
+                "Der schmeckt noch viel besser in Ketchup getunkt."
             ],
             "x": false,
             "id": 52293
@@ -1151,8 +1151,8 @@
                 "type": "Nomen - Etwas, was man im Urlaub macht"
             },
             "gene": [
-                "hugged",
-                "Or come to the mall and help me pick out a rug."
+                "bergsteigen",
+                "Kannst du mir den Weg zum nächsten Parkhaus zeigen?"
             ],
             "x": false,
             "id": 52297
@@ -1168,8 +1168,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "much better",
-                "I think you sing better than Eddie Vedder."
+                "noch besser",
+                "Mein Flow ist ein Sumpf, deiner ein Fließgewässer."
             ],
             "x": false,
             "id": 52305
@@ -1185,8 +1185,8 @@
                 "type": "Unbestimmter Artikel + Einzahl Nomen (etwas gruseliges)"
             },
             "gene": [
-                "cute puppy",
-                "I have a goldfish and also a guppie."
+                "ein Kätzchen",
+                "Am Wochenende backen wir beide Plätzchen."
             ],
             "x": false,
             "id": 52329
@@ -1202,8 +1202,8 @@
                 "type": "Mehrzahl Nomen"
             },
             "gene": [
-                "potatoes",
-                "Of all the philosophies, I like Plato\u2019s."
+                "Nudeln",
+                "Mit Tomatensoße um dich zu besudeln."
             ],
             "x": false,
             "id": 51573
@@ -1219,8 +1219,8 @@
                 "type": "Synonym für 'Verlierer'"
             },
             "gene": [
-                "buddy",
-                "But we grew up and life became muddy. Sigh."
+                "Freund",
+                "Heut\u2019 sitzt du im Keller, ich am Strand, gebräunt."
             ],
             "x": false,
             "id": 52350
