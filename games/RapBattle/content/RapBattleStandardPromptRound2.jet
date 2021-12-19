@@ -1712,8 +1712,8 @@
                 "type": "ein Verb"
             },
             "gene": [
-                "end",
-                "I put it in an email but forgot to hit \u2018send.\u2019"
+                "weggeschickt",
+                "Wie bei einer E-Mail wurde auf \u2018senden\u2019 geklickt."
             ],
             "x": false,
             "id": 51251
@@ -1729,8 +1729,8 @@
                 "type": "Nomen - Bezeichnung für einen neuen Mitarbeiter"
             },
             "gene": [
-                "gofer",
-                "Like that guy on \u2018The Love Boat\u2019 fer sure."
+                "Handlanger",
+                "Und machst du deine Arbeit schlecht, kommst du an den Pranger."
             ],
             "x": false,
             "id": 52239
@@ -1746,8 +1746,8 @@
                 "type": "Unbestimmter Artikel + Nomen (etwas nützliches)"
             },
             "gene": [
-                "therapist",
-                "Don\u2019t call on Mondays, he\u2019s gonna be pissed."
+                "einen Therapeuten",
+                "Ich würde ihn empfehlen, sehr vielen Leuten."
             ],
             "x": true,
             "id": 52248
@@ -1763,8 +1763,8 @@
                 "type": "Nomen - Ein Spiel"
             },
             "gene": [
-                "backgammon",
-                "For sack lunch I be straight cheese and hammin\u2019."
+                "Skat",
+                "Man hat mir erzählt, du magst gar keinen Spinat."
             ],
             "x": false,
             "id": 50709
@@ -1780,8 +1780,8 @@
                 "type": "Verb - Synonym für 'versagen'"
             },
             "gene": [
-                "self-destruct",
-                "Just like some kinda sci-fi robut."
+                "floppen",
+                "Kopf hoch, nächstes mal gehen wir zusammen shoppen."
             ],
             "x": false,
             "id": 52240
@@ -1797,8 +1797,8 @@
                 "type": "Adverb der Zeit"
             },
             "gene": [
-                "eventually",
-                "Milk Duds are deliciously chewally."
+                "niemals",
+                "Welch eine Ironie des Schicksals."
             ],
             "x": false,
             "id": 52242
@@ -1814,8 +1814,8 @@
                 "type": "Nomen - Ein Pizzabelag"
             },
             "gene": [
-                "despair",
-                "My worst ones are after my mom cuts my hair."
+                "Käse",
+                "Und nun stell dir vor, es wär Mayonnaise."
             ],
             "x": false,
             "id": 52243
@@ -1831,8 +1831,8 @@
                 "type": "ein Verb"
             },
             "gene": [
-                "shaking",
-                "I liked wrestling til I learned they\u2019re faking."
+                "zitternd",
+                "Auf dieser Eisfläche geht alles nur schlitternd."
             ],
             "x": false,
             "id": 52259
@@ -1848,8 +1848,8 @@
                 "type": "ein Beruf"
             },
             "gene": [
-                "gardening",
-                "The fresh air prevents arteries\u2019 hardening."
+                "Maler",
+                "Dann wärst du wenigstens mal Steuerzahler."
             ],
             "x": false,
             "id": 52247
@@ -1865,8 +1865,8 @@
                 "type": "Ein beliebter Kindheitsheld"
             },
             "gene": [
-                "cheese",
-                "Swiss has holes, as everyone sees."
+                "Bibi Blocksberg",
+                "Ich hasse Treppensteigen ins zwanzigste Stockwerk."
             ],
             "x": false,
             "id": 52245
@@ -1882,8 +1882,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "sugar free",
-                "Which is my gramma\u2019s selection of candy."
+                "zuckerfrei",
+                "Dein Süßkram schmeckt wie Pappe aus einer Druckerei."
             ],
             "x": false,
             "id": 52257
@@ -1899,8 +1899,8 @@
                 "type": "Ein Promi"
             },
             "gene": [
-                "kneecap",
-                "I get all sticky if I touch tree sap."
+                "Dieter Bohlen",
+                "Von deinen Reimen werde ich mich wohl nie erholen."
             ],
             "x": true,
             "id": 52271
@@ -1916,8 +1916,8 @@
                 "type": "Ein Glücksspiel"
             },
             "gene": [
-                "Texas Hold \u2018em",
-                "Todd\u2019s pretty bad at it like I told \u2018im."
+                "Poker",
+                "Da hilft dir nicht mal ein Telefonjoker."
             ],
             "x": false,
             "id": 52260
@@ -1933,8 +1933,8 @@
                 "type": "Ein langweiliger Fernsehsender"
             },
             "gene": [
-                "Court TV",
-                "I like to wear a robe like a judge, yippee!"
+                "3sat",
+                "Wusstest du schon? Ich komme aus einer Kleinstadt!"
             ],
             "x": false,
             "id": 51540
@@ -1950,8 +1950,8 @@
                 "type": "Verb"
             },
             "gene": [
-                "wiggle",
-                "Whenever I say Uranus people giggle."
+                "wackeln",
+                "So wie das Fell von Langhaardackeln."
             ],
             "x": false,
             "id": 52269
@@ -1963,12 +1963,12 @@
                     "Ratte",
                     "Hamster"
                 ],
-                "text": "Du wirst gleich jammern, so wie ein/e kleine/r <BLANK>.",
+                "text": "Du wirst gleich jammern, so wie ein/e kleine/r/s <BLANK>.",
                 "type": "Ein kleines Tier"
             },
             "gene": [
-                "turkey",
-                "When I dance I get all herky-jerky."
+                "Meerschweinchen",
+                "Die sind so süß mit ihren winzigen Beinchen!"
             ],
             "x": false,
             "id": 50710
@@ -1984,8 +1984,8 @@
                 "type": "Etwas, was man im Zoo macht"
             },
             "gene": [
-                "tickled",
-                "I like onions best when they\u2019re pickled."
+                "Eis essen",
+                "Nur nicht mit Zwiebeln, das wäre unangemessen."
             ],
             "x": false,
             "id": 51168
