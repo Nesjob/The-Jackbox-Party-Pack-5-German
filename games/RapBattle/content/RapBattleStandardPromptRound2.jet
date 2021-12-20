@@ -2001,8 +2001,8 @@
                 "type": "Wie oder womit kann man gut lernen?"
             },
             "gene": [
-                "bugs",
-                "When I see a cockroach, I need hugs."
+                "ein Wörterbuch",
+                "Ich bekomm\u2019 schließlich mit, dass du ständig Wörter suchst."
             ],
             "x": false,
             "id": 52270
@@ -2018,8 +2018,8 @@
                 "type": "Einzahl Nomen - Ein Phänomen"
             },
             "gene": [
-                "foggy morning",
-                "I don\u2019t like balloons. They pop without warning."
+                "Flut",
+                "Mal davon abgesehen geht\u2019s mir eigentlich ganz gut."
             ],
             "x": false,
             "id": 51557
@@ -2035,8 +2035,8 @@
                 "type": "Artikel + Eine Veranstaltung"
             },
             "gene": [
-                "convention",
-                "Was that too harsh? Wasn\u2019t my intention."
+                "ein Konzert",
+                "Nur leider wirst du ausgesperrt."
             ],
             "x": false,
             "id": 52272
@@ -2046,14 +2046,14 @@
                 "examples": [
                     "Achterbahn fahren",
                     "Erdbeeren pflücken",
-                    "juggled"
+                    "jonglieren"
                 ],
                 "text": "Weck mich nicht auf, außer du willst <BLANK>.",
                 "type": "Eine Freizeitaktivität"
             },
             "gene": [
-                "Paintballed",
-                "When I turn off my phone I worry my mom called."
+                "Paintball spielen",
+                "Dabei ist es immer so schwierig zu zielen."
             ],
             "x": false,
             "id": 51519
@@ -2069,8 +2069,8 @@
                 "type": "Verb - Ein Hobby"
             },
             "gene": [
-                "journaling",
-                "To be a colonel do you have to study colonel-ing?"
+                "planen",
+                "Vielleicht isst du zu wenige Bananen?"
             ],
             "x": false,
             "id": 51508
@@ -2086,8 +2086,8 @@
                 "type": "Eine Sehenswürdigkeit"
             },
             "gene": [
-                "knitting",
-                "Just ignore the looks you\u2019ll be getting."
+                "den Big Ben",
+                "Nach London kommst du nicht, das kannst du knicken."
             ],
             "x": false,
             "id": 51501
@@ -2103,8 +2103,8 @@
                 "type": "Adjektiv"
             },
             "gene": [
-                "marmoset",
-                "My goal\u2019s to pet one, but I haven\u2019t yet."
+                "bunt",
+                "Früher hatte ich einen total süßen Hund."
             ],
             "x": false,
             "id": 50922
@@ -2120,8 +2120,8 @@
                 "type": "Nomen - Eine Flüssigkeit"
             },
             "gene": [
-                "milk",
-                "That\u2019s a nice shirt, is it made of silk?"
+                "Milch",
+                "Eine Kleckerei macht so mancher Knilch."
             ],
             "x": false,
             "id": 51075
@@ -2137,8 +2137,8 @@
                 "type": "Ein anderes Land"
             },
             "gene": [
-                "Morocco",
-                "I\u2019ll come find you after I eat this chicken taco."
+                "Thailand",
+                "Rap ist meine Kunst und du meine Leinwand."
             ],
             "x": false,
             "id": 50712
@@ -2154,8 +2154,8 @@
                 "type": "Ein Körperteil"
             },
             "gene": [
-                "face",
-                "To Sears to buy matching sweaters! Let\u2019s race!"
+                "Faust",
+                "Moment, das klingt nach Schmerzen! Autsch!"
             ],
             "x": true,
             "id": 51171
@@ -2171,8 +2171,8 @@
                 "type": "Nomen - Mehrzahl"
             },
             "gene": [
-                "luge",
-                "It makes me dizzy like bein\u2019 in a centrifuge."
+                "Liegestühle",
+                "Zwischen uns beiden entstehen keine Wir-Gefühle."
             ],
             "x": false,
             "id": 51211
@@ -2188,8 +2188,8 @@
                 "type": "Eine Marke"
             },
             "gene": [
-                "sewer",
-                "My uncle would say \u2018Sewer? I hardly knew \u2018er!\u2019"
+                "Haribo",
+                "Ach, deshalb kleben die auch immer so!"
             ],
             "x": false,
             "id": 51550
@@ -2205,8 +2205,8 @@
                 "type": "Ein schlechter Ort"
             },
             "gene": [
-                "to sleep",
-                "About the same effect as counting sheep."
+                "in den Schlaf",
+                "Du kriegst nicht mal mit, wie schnell dich das traf."
             ],
             "x": false,
             "id": 51252
@@ -2222,8 +2222,8 @@
                 "type": "Positives Adjektiv"
             },
             "gene": [
-                "silly",
-                "You\u2019re just a silly, silly Silly Billy."
+                "krass",
+                "Was das Reimen angeht, bist du echt ein Ass."
             ],
             "x": false,
             "id": 51547
@@ -2239,8 +2239,8 @@
                 "type": "Unbestimmter Artikel + Ein Besteck"
             },
             "gene": [
-                "slippery tongue",
-                "Once I put it on an ice cube. It really stung."
+                "einen Tortenheber",
+                "Du schmeckst nur ein bisschen nach Kunststoffkleber."
             ],
             "x": true,
             "id": 50803
@@ -2256,8 +2256,8 @@
                 "type": "Artikel + Nomen - Ein kleines Tier"
             },
             "gene": [
-                "tiny kitten",
-                "I see that furry face I\u2019ll admit I\u2019m smitten."
+                "die Katze",
+                "Mit einer flauschig weichen Tatze."
             ],
             "x": false,
             "id": 51073
