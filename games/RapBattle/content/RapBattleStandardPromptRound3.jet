@@ -2231,12 +2231,12 @@
         {
             "a": {
                 "examples": [
-                    "buzz off",
-                    "take a hike",
-                    "go blank yourself"
+                    "Pferde",
+                    "Hunde",
+                    "Mücken"
                 ],
-                "text": "Put up, or shut up, or <BLANK>.",
-                "type": "verb/noun phrase - suggest a lewd act"
+                "text": "Fischers Fritz fischt frische <BLANK>.",
+                "type": "Nomen Mehrzahl - Tiere"
             },
             "gene": [
                 "far away",
@@ -2248,12 +2248,12 @@
         {
             "a": {
                 "examples": [
-                    "coy",
-                    "simple",
-                    "basic"
+                    "fies",
+                    "billig",
+                    "gemein"
                 ],
-                "text": "I won\u2019t say you\u2019re the worst. That\u2019s too <BLANK>.",
-                "type": "negative adjective"
+                "text": "Zu sagen, du wärst das Schlimmste, wäre wirklich <BLANK>.",
+                "type": "negatives Adjektiv"
             },
             "gene": [
                 "common",
@@ -2265,12 +2265,12 @@
         {
             "a": {
                 "examples": [
-                    "The Wizard",
-                    "a flying monkey",
-                    "Dorothy"
+                    "Lisa",
+                    "Ned Flanders",
+                    "Ralph Wiggum"
                 ],
-                "text": "You\u2019re the Cowardly Lion, I\u2019m <BLANK>.",
-                "type": "a Wizard of Oz character"
+                "text": "Du bist fett wie Homer, ich bin <BLANK>.",
+                "type": "Ein Simpsons Charakter (nicht Homer)"
             },
             "gene": [
                 "a Munchkin",
@@ -2282,12 +2282,12 @@
         {
             "a": {
                 "examples": [
-                    "tired",
-                    "shaky",
-                    "flimsy"
+                    "alt",
+                    "unbrauchbar",
+                    "abgenutzt"
                 ],
-                "text": "My verse is legend, yours is <BLANK>.",
-                "type": "adjective - low quality"
+                "text": "Meine Reime sind legendär, deine sind <BLANK>.",
+                "type": "Adjektiv (Wort für schlechte Qualität)"
             },
             "gene": [
                 "limp",
@@ -2299,12 +2299,12 @@
         {
             "a": {
                 "examples": [
-                    "intrigued",
-                    "amazed",
-                    "curious"
+                    "interessiert",
+                    "neugierig",
+                    "aufmerksam"
                 ],
-                "text": "You want my autograph? Cuz you look <BLANK>.",
-                "type": "positive adjective"
+                "text": "Willst du ein Autogramm? Du schaust so <BLANK>.",
+                "type": "positives Adjektiv"
             },
             "gene": [
                 "delighted",
@@ -2316,12 +2316,12 @@
         {
             "a": {
                 "examples": [
-                    "clown",
-                    "dentist",
-                    "janitor"
+                    "Clown",
+                    "Arzt",
+                    "Handwerker"
                 ],
-                "text": "You look like you were dressed by a <BLANK>.",
-                "type": "noun - an occupation"
+                "text": "Du siehst so aus als wärst du eingekleidet von einem <BLANK>.",
+                "type": "Ein Beruf"
             },
             "gene": [
                 "preacher",
@@ -2333,12 +2333,12 @@
         {
             "a": {
                 "examples": [
-                    "sad",
-                    "angry",
-                    "pathetic"
+                    "traurig",
+                    "wütend",
+                    "naiv"
                 ],
-                "text": "I\u2019ve got no use for people so <BLANK>.",
-                "type": "adjective - emotional state"
+                "text": "Du bist mir egal, denn du bist zu <BLANK>.",
+                "type": "Adjektiv - ein emotionaler Zustand"
             },
             "gene": [
                 "mean",
@@ -2350,12 +2350,12 @@
         {
             "a": {
                 "examples": [
-                    "old trash",
-                    "bad breath",
-                    "B O"
+                    "alter Müll",
+                    "schlechter Atem",
+                    "Bahnhofstoilette"
                 ],
-                "text": "I knew you were coming because I smelled <BLANK>.",
-                "type": "noun - something that smells"
+                "text": "Ich wusste du kommst. Es riecht stark wie <BLANK>.",
+                "type": "Nomen - Etwas, das riecht"
             },
             "gene": [
                 "peppermints",
@@ -2367,12 +2367,12 @@
         {
             "a": {
                 "examples": [
-                    "puke",
-                    "spit",
-                    "scream"
+                    "kotzen",
+                    "spucken",
+                    "schreien"
                 ],
-                "text": "One look at you and I want to <BLANK>.",
-                "type": "verb - negative action"
+                "text": "Ich schau dir ins Gesicht und muss sofort <BLANK>.",
+                "type": "Verb - negative Handlung"
             },
             "gene": [
                 "get lunch",
