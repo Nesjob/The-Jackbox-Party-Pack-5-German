@@ -2452,12 +2452,12 @@
         {
             "a": {
                 "examples": [
-                    "Tom Cruise",
-                    "Oprah",
-                    "Kermit"
+                    "Til Schweiger",
+                    "Markus Lanz",
+                    "Kermit der Frosch"
                 ],
-                "text": "I hear you talking, you sound like <BLANK>.",
-                "type": "proper noun - a celebrity"
+                "text": "Ich hör dich labern. Du klingst wie <BLANK>.",
+                "type": "Ein Promi"
             },
             "gene": [
                 "Donald Duck",
@@ -2469,12 +2469,12 @@
         {
             "a": {
                 "examples": [
-                    "puddles",
-                    "ice",
-                    "banana peels"
+                    "Matsch",
+                    "Eis",
+                    "Bananenschalen"
                 ],
-                "text": "You\u2019re slippin\u2019 and slidin\u2019 as if standin\u2019 on <BLANK>.",
-                "type": "plural noun - slippery stuff"
+                "text": "Du rutschst so weg als stündest du auf <BLANK>.",
+                "type": "Nomen Mehrzahl - etwas rutschiges"
             },
             "gene": [
                 "soaps",
@@ -2486,12 +2486,12 @@
         {
             "a": {
                 "examples": [
-                    "boring",
-                    "unnecessary",
-                    "old"
+                    "langweilig",
+                    "unnötig",
+                    "alt"
                 ],
-                "text": "Nobody likes you, your rhymes are <BLANK>.",
-                "type": "negative adjective"
+                "text": "Niemand mag dich, deine Reime sind <BLANK>.",
+                "type": "negatives Adjektiv"
             },
             "gene": [
                 "goofy",
@@ -2503,12 +2503,12 @@
         {
             "a": {
                 "examples": [
-                    "sick",
-                    "irritated",
-                    "ill"
+                    "experimentieren",
+                    "zocken",
+                    "krabbeln"
                 ],
-                "text": "I make people dance. You make people <BLANK>.",
-                "type": "negative adjective"
+                "text": "Ich bringe die Leute zum tanzen. Du bringst sie zum <BLANK>.",
+                "type": "Verb"
             },
             "gene": [
                 "giddy",
@@ -2520,12 +2520,12 @@
         {
             "a": {
                 "examples": [
-                    "get mad",
-                    "hate you",
-                    "clinch my fists"
+                    "Dienstag",
+                    "Freitag",
+                    "Sonntag"
                 ],
-                "text": "I can\u2019t listen to you it makes me <BLANK>.",
-                "type": "verb - negative action"
+                "text": "Bin so reich, für mich ist jeden Tag ein <BLANK>.",
+                "type": "Ein Wochentag"
             },
             "gene": [
                 "get weepy",
@@ -2537,12 +2537,12 @@
         {
             "a": {
                 "examples": [
-                    "sexual organ",
-                    "brain",
-                    "neck"
+                    "Bizeps",
+                    "Gehirn",
+                    "Glied"
                 ],
-                "text": "I\u2019ll keep this short like your <BLANK>.",
-                "type": "noun - a body part"
+                "text": "Ich fasse mich kurz, wie dein/e <BLANK>.",
+                "type": "Nomen - ein Körperteil"
             },
             "gene": [
                 "left kidney",
@@ -2554,12 +2554,12 @@
         {
             "a": {
                 "examples": [
-                    "mama",
-                    "bedroom",
-                    "basement"
+                    "Oliver Kahn",
+                    "Frank Elstner",
+                    "Olaf Scholz"
                 ],
-                "text": "Go on now run back to your <BLANK>.",
-                "type": "common noun - a person or place"
+                "text": "Beschwer dich bei deinem einzigen Freund, <BLANK>.",
+                "type": "Ein Promi"
             },
             "gene": [
                 "loving family",
@@ -2571,12 +2571,12 @@
         {
             "a": {
                 "examples": [
-                    "trees",
-                    "sun",
-                    "airplane"
+                    "Bäume",
+                    "Pflanzen",
+                    "Flugzeuge"
                 ],
-                "text": "Just get out of here take a look at the <BLANK>.",
-                "type": "noun - something outdoors"
+                "text": "Hau einfach ab und sieh auf die <BLANK>.",
+                "type": "Nomen Mehrzahl - etwas in der Natur"
             },
             "gene": [
                 "crowd",
@@ -2588,12 +2588,12 @@
         {
             "a": {
                 "examples": [
-                    "blanket",
-                    "toothbrush",
-                    "white noise machine"
+                    "ein Kissen",
+                    "ein Plüschtier",
+                    "eine Zahnbürste"
                 ],
-                "text": "Your rhymes got me sleepy, need my <BLANK>.",
-                "type": "noun - bedtime thing"
+                "text": "Deine Reime machen mich müde, ich brauche <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen (etwas zum schlafen)"
             },
             "gene": [
                 "pajamas with feet",
@@ -2605,12 +2605,12 @@
         {
             "a": {
                 "examples": [
-                    "marbles",
-                    "guppies",
-                    "socks"
+                    "Murmeln",
+                    "Erdnüsse",
+                    "Socken"
                 ],
-                "text": "You spit rhymes like your mouth\u2019s full of <BLANK>.",
-                "type": "plural noun - small things"
+                "text": "Aus deinem Mund kommen ausschließlich <BLANK>.",
+                "type": "Nomen Mehrzahl - Kleine Dinge"
             },
             "gene": [
                 "confetti",
