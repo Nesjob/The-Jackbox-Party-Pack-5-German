@@ -3455,12 +3455,12 @@
         {
             "a": {
                 "examples": [
-                    "point",
-                    "logic",
-                    "conclusion"
+                    "Autos",
+                    "Kartoffeln",
+                    "Hausaufgaben"
                 ],
-                "text": "I ain\u2019t being cruel you\u2019re missing the <BLANK>.",
-                "type": "common noun - related to arguing"
+                "text": "Ich bin hart drauf, vermeide immer <BLANK>.",
+                "type": "Nomen Mehrzahl"
             },
             "gene": [
                 "premise",
@@ -3472,12 +3472,12 @@
         {
             "a": {
                 "examples": [
-                    "bad rapper",
-                    "ridiculous waste",
-                    "crazy fool"
+                    "tolerant",
+                    "einfallsreich",
+                    "hilfsbereit"
                 ],
-                "text": "It\u2019s funny you think I\u2019m a <BLANK>.",
-                "type": "singular noun"
+                "text": "Lustig, dass du denkst, ich wäre <BLANK>.",
+                "type": "Adjektiv (Personeneigenschaft)"
             },
             "gene": [
                 "quick wit",
@@ -3489,12 +3489,12 @@
         {
             "a": {
                 "examples": [
-                    "stupendous",
-                    "amazing",
-                    "thrilling"
+                    "klasse",
+                    "fantastisch",
+                    "großartig"
                 ],
-                "text": "It\u2019s funny that you think you\u2019re <BLANK>.",
-                "type": "adjective - synonym for 'great'"
+                "text": "Lustig, dass du denkst, du wärst <BLANK>.",
+                "type": "Adjektiv - Synonym für 'gut'"
             },
             "gene": [
                 "wowzers",
@@ -3506,12 +3506,12 @@
         {
             "a": {
                 "examples": [
-                    "cockeyed",
-                    "slow & simple",
-                    "covered in poo"
+                    "kochen",
+                    "gärtnern",
+                    "schwimmen"
                 ],
-                "text": "It ain\u2019t me, that\u2019s <BLANK>.",
-                "type": "negative adjective"
+                "text": "Das bin nicht ich. Ich kann länger <BLANK>.",
+                "type": "Verb"
             },
             "gene": [
                 "honey baked",
@@ -3523,12 +3523,12 @@
         {
             "a": {
                 "examples": [
-                    "contentment",
-                    "joy",
-                    "mirth"
+                    "Michael Wendler",
+                    "Justin Bieber",
+                    "Helene Fischer"
                 ],
-                "text": "I will have satisfaction I will have <BLANK>.",
-                "type": "noun - positive state of mind"
+                "text": "Ich mache alles richtig, genau wie <BLANK>.",
+                "type": "Ein kontroverser Promi"
             },
             "gene": [
                 "introspection",
@@ -3540,12 +3540,12 @@
         {
             "a": {
                 "examples": [
-                    "cow",
-                    "dope",
-                    "insect"
+                    "eine Kuh",
+                    "ein Fuchs",
+                    "eine Kakerlake"
                 ],
-                "text": "You gonna stand here and say I\u2019m a <BLANK>.",
-                "type": "singular noun"
+                "text": "Du stehst vor mir und sagst ich wäre <BLANK>?",
+                "type": "Unbestimmter Artikel + Nomen (ein Tier)"
             },
             "gene": [
                 "wee lad",
@@ -3557,12 +3557,12 @@
         {
             "a": {
                 "examples": [
-                    "cement",
-                    "snot",
-                    "bricks"
+                    "Zement",
+                    "Ziegeln",
+                    "Steinen"
                 ],
-                "text": "You can\u2019t shake me, I\u2019m made of <BLANK>.",
-                "type": "noun - a substance"
+                "text": "Du kannst mich nicht kleinbekommen. Ich bestehe aus <BLANK>.",
+                "type": "Nomen Mehrzahl - Eine Substanz"
             },
             "gene": [
                 "snow",
@@ -3574,12 +3574,12 @@
         {
             "a": {
                 "examples": [
-                    "little",
-                    "zero",
-                    "nothin\u2019"
+                    "wenig",
+                    "Null",
+                    "nix"
                 ],
-                "text": "You want respect? You give me <BLANK>.",
-                "type": "noun or adjective - a low quantity"
+                "text": "Du willst Respekt? Du bringst mir <BLANK>.",
+                "type": "Nomen oder Adjektiv - Eine kleine Anzahl"
             },
             "gene": [
                 "bupkis",
