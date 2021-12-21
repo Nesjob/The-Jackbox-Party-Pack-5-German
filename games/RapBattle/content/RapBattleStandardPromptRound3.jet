@@ -3222,7 +3222,7 @@
                     "faul"
                 ],
                 "text": "Du solltest dich schämen. Du reimst so <BLANK>.",
-                "type": "Negatives Adverb
+                "type": "Negatives Adverb"
             },
             "gene": [
                 "neatly",
@@ -3591,12 +3591,12 @@
         {
             "a": {
                 "examples": [
-                    "stupid",
-                    "inconsiderate",
-                    "ugly"
+                    "dumm",
+                    "rücksichtslos",
+                    "hässlich"
                 ],
-                "text": "You\u2019re the one who\u2019s definitely <BLANK>.",
-                "type": "negative adjective"
+                "text": "Du bist auf jeden Fall richtig <BLANK>.",
+                "type": "negatives Adjektiv"
             },
             "gene": [
                 "double parked",
@@ -3608,12 +3608,12 @@
         {
             "a": {
                 "examples": [
-                    "bested",
-                    "stopped",
-                    "shoved"
+                    "spielen",
+                    "anhalten",
+                    "kleben"
                 ],
-                "text": "Haven\u2019t you heard? I can\u2019t be <BLANK>.",
-                "type": "verb ending w/ -ed"
+                "text": "Wusstest du schon? Ich kann gut <BLANK>.",
+                "type": "Verb"
             },
             "gene": [
                 "graded",
@@ -3625,12 +3625,12 @@
         {
             "a": {
                 "examples": [
-                    "cheese",
-                    "hot dogs",
-                    "leeks"
+                    "Fische",
+                    "Brötchen",
+                    "Erdbeeren"
                 ],
-                "text": "You smell like a bunch of rotting <BLANK>.",
-                "type": "plural noun - food item"
+                "text": "Du riechst wie verrottete <BLANK>.",
+                "type": "Nomen Mehrzahl - Essen"
             },
             "gene": [
                 "eggplant",
@@ -3642,12 +3642,12 @@
         {
             "a": {
                 "examples": [
-                    "fungus",
-                    "wood",
-                    "dogs"
+                    "Baum",
+                    "Jäger",
+                    "Feldweg"
                 ],
-                "text": "I\u2019ve seen better faces on <BLANK>.",
-                "type": "plural common noun"
+                "text": "Du würdest besser aussehen als <BLANK>.",
+                "type": "Nomen - Etwas im Wald"
             },
             "gene": [
                 "clocks",
@@ -3659,12 +3659,12 @@
         {
             "a": {
                 "examples": [
-                    "shirt",
-                    "pants",
-                    "shoes"
+                    "Hosen",
+                    "Socken",
+                    "Schuhen"
                 ],
-                "text": "How sad you look in your little <BLANK>.",
-                "type": "noun - article of clothing"
+                "text": "Du siehst merkwürdig aus in deinen <BLANK>.",
+                "type": "Nomen Mehrzahl - Kleidungsstück"
             },
             "gene": [
                 "hat",
@@ -3676,12 +3676,12 @@
         {
             "a": {
                 "examples": [
-                    "fret",
-                    "cry",
-                    "worry"
+                    "husten",
+                    "weinen",
+                    "staubsaugen"
                 ],
-                "text": "I\u2019m in your head. You\u2019re starting to <BLANK>.",
-                "type": "verb"
+                "text": "Ich bin in deinem Kopf. Du fängst an zu <BLANK>.",
+                "type": "Verb"
             },
             "gene": [
                 "shiver",
@@ -3693,12 +3693,12 @@
         {
             "a": {
                 "examples": [
-                    "Urkel",
-                    "Daredevil",
+                    "Spongebob",
+                    "Markus Lanz",
                     "Sheldon"
                 ],
-                "text": "There\u2019s no hope for you. You\u2019re such a <BLANK>.",
-                "type": "proper noun - TV character"
+                "text": "Für dich gibt es keine Hoffnung. Du bist wie <BLANK>.",
+                "type": "Eine Figur aus dem Fernsehen"
             },
             "gene": [
                 "Miranda",
@@ -3711,11 +3711,11 @@
             "a": {
                 "examples": [
                     "Pokemon",
-                    "yo-yos",
-                    "Play-Doh"
+                    "Jo-Jos",
+                    "Spielzeugknete"
                 ],
-                "text": "Money\u2019s on my mind. Your\u2019s is on <BLANK>.",
-                "type": "plural noun - toys"
+                "text": "Ich hab Geld im Kopf. Du eher <BLANK>.",
+                "type": "Nomen Mehrzahl - Spielzeug"
             },
             "gene": [
                 "\u2019My Little Pony\u2019",
@@ -3727,12 +3727,12 @@
         {
             "a": {
                 "examples": [
-                    "beets",
-                    "farts",
-                    "tuna"
+                    "Schokolade",
+                    "Wackelpudding",
+                    "Lachs"
                 ],
-                "text": "Your breath is stinky did you just eat <BLANK>.",
-                "type": "plural noun - food"
+                "text": "Dein Atem riecht schlecht. Gab es zu viel <BLANK>?",
+                "type": "Nomen Mehrzahl - Essen"
             },
             "gene": [
                 "mutton",
@@ -3744,12 +3744,12 @@
         {
             "a": {
                 "examples": [
-                    "dodo",
-                    "mule",
-                    "dog"
+                    "ein Fuchs",
+                    "ein Maulwurf",
+                    "ein Hund"
                 ],
-                "text": "Your rhymes are bad \u2018cause you\u2019re dumb as a <BLANK>.",
-                "type": "singular common noun - a dumb thing"
+                "text": "Deine Reime sind schlimm. Bist so dumm wie <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen (Tier)"
             },
             "gene": [
                 "kitten",
@@ -3761,12 +3761,12 @@
         {
             "a": {
                 "examples": [
-                    "angry",
-                    "ashamed",
-                    "irate"
+                    "wütend",
+                    "verwirrt",
+                    "erregt"
                 ],
-                "text": "When I embarrass you does it make you feel <BLANK>?",
-                "type": "negative adjective"
+                "text": "Wenn ich dich vorführe, fühlst du dich dann <BLANK>?",
+                "type": "negatives Adjektiv"
             },
             "gene": [
                 "better",
