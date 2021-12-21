@@ -2384,12 +2384,12 @@
         {
             "a": {
                 "examples": [
-                    "spit",
-                    "water",
-                    "toothpaste"
+                    "umher",
+                    "drüber",
+                    "durcheinander"
                 ],
-                "text": "I\u2019m here spittin\u2019 bars you\u2019re spittin\u2019 <BLANK>.",
-                "type": "noun - something you'd spit out"
+                "text": "Ich haue meine Reime einfach so <BLANK>.",
+                "type": "Adverb"
             },
             "gene": [
                 "poems",
@@ -2401,12 +2401,12 @@
         {
             "a": {
                 "examples": [
-                    "baby",
-                    "brat",
-                    "jerk"
+                    "ein Baby",
+                    "eine Nervensäge",
+                    "ein Trottel"
                 ],
-                "text": "Your voice is annoying like a whiny <BLANK>.",
-                "type": "singular noun - something annoying"
+                "text": "Deine Stimme ist so nervig wie <BLANK>.",
+                "type": "Unbestimmter Artikel + Nomen (etwas nerviges)"
             },
             "gene": [
                 "bird",
@@ -2418,12 +2418,12 @@
         {
             "a": {
                 "examples": [
-                    "butter",
-                    "down",
-                    "silk"
+                    "Butter",
+                    "Decken",
+                    "Kissen"
                 ],
-                "text": "Look at you you\u2019re softer than <BLANK>.",
-                "type": "noun - soft material"
+                "text": "Sieh dich an, du bist weicher als <BLANK>.",
+                "type": "Nomen Mehrzahl - Etwas weiches"
             },
             "gene": [
                 "a kitten",
@@ -2435,12 +2435,12 @@
         {
             "a": {
                 "examples": [
-                    "lean",
-                    "pale",
-                    "massive"
+                    "komisch",
+                    "blass",
+                    "massiv"
                 ],
-                "text": "You hurt my eyes your face is so <BLANK>.",
-                "type": "negative adjective"
+                "text": "Meine Augen schmerzen, dein Gesicht ist zu <BLANK>.",
+                "type": "negatives Adjektiv"
             },
             "gene": [
                 "glowing",
