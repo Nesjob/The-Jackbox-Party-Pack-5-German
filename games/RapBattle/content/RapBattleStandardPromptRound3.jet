@@ -3115,12 +3115,12 @@
         {
             "a": {
                 "examples": [
-                    "lint",
-                    "speck",
-                    "kitten"
+                    "verspätet",
+                    "lecker",
+                    "erregt"
                 ],
-                "text": "I\u2019m slayin\u2019 these verses you don\u2019t leave a <BLANK>.",
-                "type": "singular noun - small thing"
+                "text": "Nachdem ich dich zerstört habe bist du ganz <BLANK>.",
+                "type": "Adjektiv"
             },
             "gene": [
                 "Skittle",
@@ -3132,12 +3132,12 @@
         {
             "a": {
                 "examples": [
-                    "eyeball",
-                    "ankle",
-                    "finger"
+                    "Sport",
+                    "Mathe",
+                    "Latein"
                 ],
-                "text": "I\u2019m big time; you just got a big <BLANK>.",
-                "type": "singular noun - body part"
+                "text": "In der Schule hast du geschwänzt bei <BLANK>.",
+                "type": "Ein Schulfach"
             },
             "gene": [
                 "foot",
@@ -3149,12 +3149,12 @@
         {
             "a": {
                 "examples": [
-                    "wrong",
-                    "dumb",
-                    "ugly"
+                    "falsch",
+                    "dumm",
+                    "hässlich"
                 ],
-                "text": "You should apologize for bein\u2019 so <BLANK>.",
-                "type": "negative adjective"
+                "text": "Entschuldige dich mal. Du warst echt <BLANK>.",
+                "type": "negatives Adjektiv"
             },
             "gene": [
                 "loony",
@@ -3166,12 +3166,12 @@
         {
             "a": {
                 "examples": [
-                    "clown",
-                    "meme",
-                    "joke"
+                    "Tabaluga",
+                    "das Sandmännchen",
+                    "Bob der Baumeister"
                 ],
-                "text": "You make me laugh. You\u2019re just like a <BLANK>.",
-                "type": "common noun - something not scary"
+                "text": "Du bringst mich zum lachen, genau wie <BLANK>.",
+                "type": "Eine Kinderserie"
             },
             "gene": [
                 "kitty cat",
@@ -3183,12 +3183,12 @@
         {
             "a": {
                 "examples": [
-                    "oil",
-                    "glue",
-                    "fabric"
+                    "Öl",
+                    "Kleber",
+                    "Kunststoff"
                 ],
-                "text": "You look like you just drank some <BLANK>.",
-                "type": "noun - a substance"
+                "text": "Du siehst so aus als wärst du aus <BLANK>.",
+                "type": "Nomen - Eine Substanz / Material"
             },
             "gene": [
                 "grout",
@@ -3200,12 +3200,12 @@
         {
             "a": {
                 "examples": [
-                    "store",
-                    "bank",
-                    "Arby\u2019s"
+                    "Supermarkt",
+                    "Bank",
+                    "Starbucks"
                 ],
-                "text": "I\u2019m goin\u2019 national you\u2019re going to the <BLANK>.",
-                "type": "noun - place of business"
+                "text": "Ich werde international. Du gehst zur/m <BLANK>.",
+                "type": "Nomen - Ein Geschäft"
             },
             "gene": [
                 "dog pound",
@@ -3217,12 +3217,12 @@
         {
             "a": {
                 "examples": [
-                    "awfully",
-                    "terribly",
-                    "lazily"
+                    "fürchterlich",
+                    "schrecklich",
+                    "faul"
                 ],
-                "text": "You should be ashamed. You rhyme so <BLANK>.",
-                "type": "negative adverb"
+                "text": "Du solltest dich schämen. Du reimst so <BLANK>.",
+                "type": "Negatives Adverb
             },
             "gene": [
                 "neatly",
@@ -3234,12 +3234,12 @@
         {
             "a": {
                 "examples": [
-                    "fool",
-                    "Merryl Streep",
-                    "clown"
+                    "Til Schweiger",
+                    "Stefan Raab",
+                    "ein Clown"
                 ],
-                "text": "Is this how you play? Acting like a <BLANK>?",
-                "type": "noun - a person"
+                "text": "So tickst du? Du verhälst dich wie <BLANK>?",
+                "type": "Eine Person"
             },
             "gene": [
                 "Pope",
@@ -3251,12 +3251,12 @@
         {
             "a": {
                 "examples": [
-                    "laugh",
-                    "sneeze",
-                    "collapse"
+                    "lachen",
+                    "niesen",
+                    "kollabieren"
                 ],
-                "text": "You think you\u2019re bad? Don\u2019t make me <BLANK>.",
-                "type": "verb"
+                "text": "Du sagst du bist schlecht? Bring mich nicht zum <BLANK>.",
+                "type": "ein Verb"
             },
             "gene": [
                 "describe",
@@ -3268,12 +3268,12 @@
         {
             "a": {
                 "examples": [
-                    "tickled",
-                    "pushed",
-                    "punished"
+                    "das Baguette",
+                    "die Flugzeuge",
+                    "das Telefon"
                 ],
-                "text": "Take a step back before you get <BLANK>.",
-                "type": "verb ending w/ -ed"
+                "text": "Hey, stell dich hinten an für <BLANK>.",
+                "type": "Artikel + Nomen"
             },
             "gene": [
                 "bit",
@@ -3285,12 +3285,12 @@
         {
             "a": {
                 "examples": [
-                    "nurse",
-                    "mechanic",
-                    "manager"
+                    "Bäcker",
+                    "Automechaniker",
+                    "Lehrer"
                 ],
-                "text": "You\u2019re struttin\u2019 around like you\u2019re the <BLANK>.",
-                "type": "noun - a job title"
+                "text": "Du zitterst so krass, als wärst du ein <BLANK>.",
+                "type": "Ein Beruf"
             },
             "gene": [
                 "captain",
@@ -3302,12 +3302,12 @@
         {
             "a": {
                 "examples": [
-                    "plumber",
-                    "doctor",
-                    "technician"
+                    "Rechtsanwalt",
+                    "Arzt",
+                    "Techniker"
                 ],
-                "text": "Did I break you yet? Should we call a <BLANK>?",
-                "type": "noun - an occupation"
+                "text": "Bist du schon am Boden? Brauchen wir einen <BLANK>?",
+                "type": "Ein Beruf"
             },
             "gene": [
                 "welder",
@@ -3319,12 +3319,12 @@
         {
             "a": {
                 "examples": [
-                    "appendectomy",
-                    "root canal",
-                    "E E G"
+                    "Röntgenuntersuchung",
+                    "Wurzelbehandlung",
+                    "E K G"
                 ],
-                "text": "U look like u came from a botched <BLANK>.",
-                "type": "noun - a medical procedure"
+                "text": "Du siehst so aus, als kommst du direkt von der/dem <BLANK>.",
+                "type": "Nomen - ein medizinischer Vorgang"
             },
             "gene": [
                 "foot scraping",
@@ -3336,12 +3336,12 @@
         {
             "a": {
                 "examples": [
-                    "impervious",
-                    "too tough",
-                    "immovable"
+                    "unbesiegbar",
+                    "zu krass",
+                    "perfekt"
                 ],
-                "text": "You can\u2019t psyche me out, I\u2019m <BLANK>.",
-                "type": "positive adjective"
+                "text": "Du kannst mich nicht fertig machen, ich bin <BLANK>.",
+                "type": "positives Adjektiv"
             },
             "gene": [
                 "resistant",
@@ -3353,12 +3353,12 @@
         {
             "a": {
                 "examples": [
-                    "brain",
-                    "imagination",
-                    "psyche"
+                    "Gehirn",
+                    "Schädel",
+                    "Birne"
                 ],
-                "text": "I\u2019m renting space, inside your <BLANK>.",
-                "type": "noun - synonym for 'mind'"
+                "text": "Ich miete mir ein Platz bei dir in dem/r <BLANK>.",
+                "type": "Nomen - Synonym für 'Kopf'"
             },
             "gene": [
                 "superego",
@@ -3370,12 +3370,12 @@
         {
             "a": {
                 "examples": [
-                    "concrete",
-                    "ice",
-                    "rocks"
+                    "Zement",
+                    "Eis",
+                    "Steine"
                 ],
-                "text": "I can\u2019t listen to you. Your head\u2019s hard as <BLANK>.",
-                "type": "plural noun - hard substance"
+                "text": "Ich kann dir nicht zuhören. Dein Kopf ist hart wie <BLANK>.",
+                "type": "Nomen Mehrzahl - etwas hartes"
             },
             "gene": [
                 "math problems",
@@ -3387,12 +3387,12 @@
         {
             "a": {
                 "examples": [
-                    "cow",
-                    "snake",
-                    "lion"
+                    "Kühe",
+                    "Schlangen",
+                    "Löwen"
                 ],
-                "text": "You\u2019re as smooth as a three-legged <BLANK>.",
-                "type": "singular noun - an animal"
+                "text": "Du bist so komisch wie dreibeinige <BLANK>.",
+                "type": "Nomen Mehrzahl - Tiere"
             },
             "gene": [
                 "muskox",
@@ -3404,12 +3404,12 @@
         {
             "a": {
                 "examples": [
-                    "picnic",
-                    "day off",
-                    "Thanksgiving"
+                    "Kindergeburtstag",
+                    "Brückentag",
+                    "Osterfeuer"
                 ],
-                "text": "I\u2019m done bein\u2019 nice this ain\u2019t no <BLANK>.",
-                "type": "noun - holiday or special day"
+                "text": "Ich war freundlich genug, das ist kein <BLANK>.",
+                "type": "Nomen - Besonderer Tag oder Feiertag"
             },
             "gene": [
                 "sick day",
@@ -3421,12 +3421,12 @@
         {
             "a": {
                 "examples": [
-                    "cliff",
-                    "disaster",
-                    "defeat"
+                    "Tennis",
+                    "Dart",
+                    "Bogenschießen"
                 ],
-                "text": "You\u2019re right on the edge, of a <BLANK>.",
-                "type": "common noun - dangerous spot"
+                "text": "Hab drei Mal Gold abgeräumt beim <BLANK>.",
+                "type": "eine Sportart"
             },
             "gene": [
                 "curb",
@@ -3438,12 +3438,12 @@
         {
             "a": {
                 "examples": [
-                    "damage",
-                    "pain",
-                    "poison"
+                    "Mülleimer",
+                    "Kätzchen",
+                    "Fenster"
                 ],
-                "text": "It\u2019s my time, to inflict the <BLANK>.",
-                "type": "common noun - negative concept"
+                "text": "Jetzt bin ich dran. Ich beseitige die <BLANK>.",
+                "type": "Nomen Mehrzahl"
             },
             "gene": [
                 "sorrow",
