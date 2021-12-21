@@ -29,8 +29,8 @@
                 "type": "Verb - Synonym für 'beibringen'"
             },
             "gene": [
-                "retort",
-                "If I laugh, I hope I don\u2019t snort."
+                "konjugieren",
+                "Du verlorst - verlierst - wirst in diesem Kampf verlieren."
             ],
             "x": false,
             "id": 50589
@@ -46,8 +46,8 @@
                 "type": "ein Verb"
             },
             "gene": [
-                "relate",
-                "But I\u2019d still join you for a lunch date."
+                "veranlassen",
+                "Mein Date hat mich vor zwei Tagen sitzen lassen."
             ],
             "x": false,
             "id": 50590
@@ -63,8 +63,8 @@
                 "type": "Nomen - Eine Sportart"
             },
             "gene": [
-                "smelled",
-                "I prefer Corey Haim to Corey Feld. man."
+                "Ballett",
+                "Man, ich glaub\u2019 ich werde fett."
             ],
             "x": true,
             "id": 50591
@@ -80,8 +80,8 @@
                 "type": "Adjektiv - Beschreibung eines Stücks Fleisch"
             },
             "gene": [
-                "through",
-                "Wish I could be adopted by Felonius Gru."
+                "saftig",
+                "Heute bin ich frisch und rieche heldenhaftig."
             ],
             "x": false,
             "id": 50592
@@ -97,8 +97,8 @@
                 "type": "Nomen - eine Zeiteinheit"
             },
             "gene": [
-                "millennia",
-                "You thought nothing rhymes with that, dinya?"
+                "Jahrtausend",
+                "Meine Freunde sagen ich bewege mich sausend."
             ],
             "x": false,
             "id": 50593
@@ -114,8 +114,8 @@
                 "type": "Unbestimmter Artikel + Nomen"
             },
             "gene": [
-                "yeti",
-                "Maybe practice more and come back when you\u2019re ready?"
+                "meine KFZ-Versicherung",
+                "Vielleicht bin ich für dich ja eine Bereicherung?"
             ],
             "x": false,
             "id": 52750
@@ -131,8 +131,8 @@
                 "type": "Adjektiv - Synonym für \u2019slangweilig\u2019s"
             },
             "gene": [
-                "freeway",
-                "But I\u2019ll take you cause I have the car today."
+                "eine Kaffeemaschine.",
+                "Aber das ist okey, ich verziehe keine Miene."
             ],
             "x": false,
             "id": 52990
@@ -148,8 +148,8 @@
                 "type": "Verb"
             },
             "gene": [
-                "existential crisis",
-                "You should read Sartre. His books are priceless."
+                "kollabieren",
+                "Morgen gehe ich und spende meine Nieren."
             ],
             "x": false,
             "id": 52785
@@ -165,8 +165,8 @@
                 "type": "Nomen - eine feste Substanz"
             },
             "gene": [
-                "satin bedding",
-                "If you\u2019re looking it\u2019s a nice gift for weddings."
+                "Erdbeerpudding",
+                "Dich hässlich zu nennen, wäre ein Unding."
             ],
             "x": false,
             "id": 52790
@@ -182,8 +182,8 @@
                 "type": "Nomen - ein Ort"
             },
             "gene": [
-                "closet",
-                "If you need a pee break, we can pause it."
+                "Arbeitsbereich",
+                "Das war zu viel Kaffee, meine Knie werden weich."
             ],
             "x": true,
             "id": 50594
@@ -199,8 +199,8 @@
                 "type": "Nomen - Synonym für 'Müll'"
             },
             "gene": [
-                "rubbish",
-                "If I eat too much red meat then I feel sluggish."
+                "Pappmaschee",
+                "Diesen Winter gibt es bestimmt wieder Schnee."
             ],
             "x": false,
             "id": 53003
@@ -216,8 +216,8 @@
                 "type": "Nomen - Synonym für 'Lügner'"
             },
             "gene": [
-                "weasel",
-                "I\u2019m a humble clerk just peddling diesel."
+                "Wiesel",
+                "Mein Auto tanke ich übrigens mit Diesel."
             ],
             "x": false,
             "id": 53001
@@ -233,8 +233,8 @@
                 "type": "Nomen - Ein Ort südlich von dir"
             },
             "gene": [
-                "Clarksville",
-                "Meet me at the station."
+                "Madagaskar",
+                "Triff mich bei Julius Cäsar."
             ],
             "x": false,
             "id": 52941
@@ -250,8 +250,8 @@
                 "type": "Verb - Was eine Schlange macht"
             },
             "gene": [
-                "Lie",
-                "I\u2019ll write a book called \u2018Ask a Nice Guy!\u2019"
+                "lügen",
+                "Ich schreib\u2019 ein Buch namens \u2018 Erfolgreiches Pflügen\u2019."
             ],
             "x": false,
             "id": 53002
@@ -267,8 +267,8 @@
                 "type": "Nomen - Eine unordentliche Substanz"
             },
             "gene": [
-                "shredded cheese",
-                "And it\u2019s making me hungry. You\u2019re such a tease."
+                "gewürfeltem Käse",
+                "Und das macht mich hungrig. Nach Mayonnaise."
             ],
             "x": false,
             "id": 52600
@@ -281,11 +281,11 @@
                     "Reis"
                 ],
                 "text": "Deine Reime sind geschmacklos so wie <BLANK>.",
-                "type": "Nomen Mehrzahl - Etwas langweiliges zu Essen"
+                "type": "Nomen Mehrzahl - Etwas langweiliges zu essen"
             },
             "gene": [
-                "Popsicles",
-                "I\u2019ll accept a hug if you promise not to tickle."
+                "Chili",
+                "Ich akzeptiere jegliche Form von Zuneigung, Baby."
             ],
             "x": false,
             "id": 53075
