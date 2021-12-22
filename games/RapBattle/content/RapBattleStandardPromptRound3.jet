@@ -301,8 +301,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "eggy",
-                "My third favorite aunt is Peggy."
+                "elastisch",
+                "Dieser Reim? Ziemlich barbarisch."
             ],
             "x": false,
             "id": 53074
@@ -318,8 +318,8 @@
                 "type": "Nomen Mehrzahl - Körperteile"
             },
             "gene": [
-                "buttocks",
-                "That\u2019s a word that nearly rhymes with \u2018deluxe.\u2019"
+                "Nieren",
+                "Bei unserer nächsten Begegnung werd\u2019 ich mich genieren."
             ],
             "x": true,
             "id": 52594
@@ -335,8 +335,8 @@
                 "type": "Nomen Einzahl"
             },
             "gene": [
-                "potato chip",
-                "Take them away from me! They go to my hips!"
+                "Balsamdüfte",
+                "Ah, mach sie weg! Sie erreichen meine Hüfte."
             ],
             "x": false,
             "id": 52602
@@ -352,8 +352,8 @@
                 "type": "Ein Star Wars Charakter"
             },
             "gene": [
-                "a Wookie",
-                "I put money down on that, with my bookie."
+                "ein Wookiee",
+                "Darauf setz\u2019 ich Geld, und einen Cookie."
             ],
             "x": false,
             "id": 52597
@@ -369,8 +369,8 @@
                 "type": "Nomen Mehrzahl - Körperteile"
             },
             "gene": [
-                "glands",
-                "I\u2019m being careful none of them actually lands."
+                "Drüsen",
+                "In meiner Freizeit tätige ich Sprachanalysen."
             ],
             "x": false,
             "id": 52992
@@ -386,8 +386,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "a high school debater",
-                "If I knew she was your mom, I would not date her."
+                "Klarinettist",
+                "Ich hätte sie nicht getroffen, wissend, dass sie deine Mutter ist."
             ],
             "x": true,
             "id": 52795
@@ -403,8 +403,8 @@
                 "type": "Nomen - Ein Service-Dienstleister"
             },
             "gene": [
-                "executive assistant",
-                "A hard job to find. Gotta be persistent."
+                "Vorstandsassistent",
+                "Ein harter Job. Gib nicht auf, sei persistent."
             ],
             "x": false,
             "id": 52598
@@ -420,8 +420,8 @@
                 "type": "Unbestimmter Artikel + Nomen (eine Veranstaltung)"
             },
             "gene": [
-                "cotillion",
-                "Lots of words rhyme with that. I got a million."
+                "In den Amazonen?",
+                "Viele Wörter reimen sich damit. Ich hab\u2019 Millionen."
             ],
             "x": false,
             "id": 52991
@@ -437,8 +437,8 @@
                 "type": "Unbestimmter Artikel + Nomen (etwas langweiliges)"
             },
             "gene": [
-                "dryer sheet",
-                "You smell kinda good and stick to my feet."
+                "ein Trocknertuch",
+                "Du klebst an mir und versprühst einen schönen Geruch."
             ],
             "x": false,
             "id": 52601
@@ -454,8 +454,8 @@
                 "type": "Unbestimmter Artikel + Nomen (ein kleines Lebewesen)"
             },
             "gene": [
-                "tick",
-                "Is there one on me? I feel kinda sick."
+                "eine Zecke",
+                "Hab ich irgendwo eine? Ich fühl\u2019 mich nicht kecke."
             ],
             "x": false,
             "id": 52994
@@ -471,8 +471,8 @@
                 "type": "Verb mit ge- am Anfang"
             },
             "gene": [
-                "distilled",
-                "Or not. Everyone has got free will."
+                "gesäubert",
+                "Aber ganz sachte. Du wirst nicht herumgeschleudert."
             ],
             "x": false,
             "id": 52989
@@ -488,8 +488,8 @@
                 "type": "Adverb"
             },
             "gene": [
-                "inside out",
-                "There\u2019s literally no way you could survive that."
+                "von innen nach außen",
+                "Es gibt buchstäblich keinen Weg wie du das überleben könntest."
             ],
             "x": false,
             "id": 52794
@@ -505,8 +505,8 @@
                 "type": "Nomen Mehrzahl - Ein langweiliges Produkt"
             },
             "gene": [
-                "Christmas ornaments",
-                "I play tennis but I don\u2019t enter tournaments."
+                "Weihnachtsornamente",
+                "Ich hoffe meine Mama macht wieder leckere Ente."
             ],
             "x": true,
             "id": 52913
@@ -522,8 +522,8 @@
                 "type": "Unbestimmter Artikel + Nomen (ein harmloses Ding)"
             },
             "gene": [
-                "cloud",
-                "Just promise me you won\u2019t get too loud."
+                "ein Pop-Sänger",
+                "Krieg ich ein Autogramm? Deine Songs sind echte Partysprenger."
             ],
             "x": false,
             "id": 52988
@@ -539,8 +539,8 @@
                 "type": "Nomen - Was du zuletzt eingekauft hast"
             },
             "gene": [
-                "crate of radishes",
-                "My heart is full as a sack full of cabbages."
+                "eine Kiste voller Radieschen",
+                "Mein Herz ist voller Pfefferminzplätzchen."
             ],
             "x": false,
             "id": 52942
@@ -556,8 +556,8 @@
                 "type": "eine kleine Zahl"
             },
             "gene": [
-                "a handful",
-                "Like finding an Action Comics number 1 in a landfill."
+                "einer Handvoll",
+                "Dein letzter Reim hat mich verletzt. Aber ich hege keinen Groll."
             ],
             "x": false,
             "id": 52878
@@ -573,8 +573,8 @@
                 "type": "Nomen - Ein Familienmitglied"
             },
             "gene": [
-                "elderly aunt Jan",
-                "I love her wig and year-round Florida tan."
+                "älteren Tante Annegret",
+                "Ich liebe ihre Perücke schon seit meiner Pubertät."
             ],
             "x": true,
             "id": 52943
@@ -590,8 +590,8 @@
                 "type": "Negatives Verb"
             },
             "gene": [
-                "manhandled",
-                "Speaking of which I gotta get better sandals."
+                "strahlen",
+                "Die nächsten 264 Sekunden werden für dich wahre Qualen."
             ],
             "x": false,
             "id": 52599
@@ -607,8 +607,8 @@
                 "type": "Adjektiv"
             },
             "gene": [
-                "gives snacks to",
-                "I find Enya\u2019s music, easy to relax to."
+                "flauschig",
+                "Willst du mich heiraten? Ich will nur dich, auf ewig."
             ],
             "x": false,
             "id": 52910
@@ -624,8 +624,8 @@
                 "type": "Nomen - eine Person"
             },
             "gene": [
-                "guy",
-                "Just kidding! I wouldn\u2019t hurt a fly!"
+                "Lebowski",
+                "Ich mach nur Spaß! Ich glaub ich brauch Therapie."
             ],
             "x": false,
             "id": 50597
@@ -641,8 +641,8 @@
                 "type": "Nomen - eine Fast-Food-Kette"
             },
             "gene": [
-                "Olive Garden",
-                "You don\u2019t like flowers? I beg your pardon?"
+                "Vapiano",
+                "Mein Geburtsort ist übrigens Montepulciano."
             ],
             "x": false,
             "id": 52912
@@ -658,8 +658,8 @@
                 "type": "Verb - Synonym für 'lachen'"
             },
             "gene": [
-                "teehee",
-                "If you need more practice, I\u2019m usually free."
+                "Sympathie empfinden",
+                "Wenn du mehr Übung brauchst, ich kann dir helfen beim Erfinden."
             ],
             "x": false,
             "id": 52650
@@ -668,15 +668,15 @@
             "a": {
                 "examples": [
                     "ein Plakat",
-                    "ein Blumentopf",
-                    "ein Bilderrahmen"
+                    "einen Blumentopf",
+                    "einen Bilderrahmen"
                 ],
                 "text": "Ich reiße dich ab wie <BLANK>.",
                 "type": "Unbestimmter Artikel + Nomen Einzahl (eine Dekoration)"
             },
             "gene": [
-                "painting of a clown",
-                "Tomorrow\u2019s my first trip to Chinatown!"
+                "ein Gemälde von einem Clown",
+                "Morgen ist meine erste Reise nach Chinatown!"
             ],
             "x": false,
             "id": 51092
@@ -692,8 +692,8 @@
                 "type": "Wo kann man sich gut verstecken?"
             },
             "gene": [
-                "synagogue",
-                "At some state fairs, you can win a dog."
+                "in einer Moschee",
+                "War das ein guter Reim? Hmm. Nee."
             ],
             "x": false,
             "id": 52792
