@@ -4262,8 +4262,8 @@
                 "type": "Verb - Ein Hobby"
             },
             "gene": [
-                "weird",
-                "Like the circus lady, with the beard."
+                "LEGO bauen",
+                "Sie ist viel cooler als du, ich geh mit ihr Pferde klauen"
             ],
             "x": false,
             "id": 51201
@@ -4279,8 +4279,8 @@
                 "type": "Nomen Mehrzahl - Eine Zutat"
             },
             "gene": [
-                "Skippy",
-                "I\u2019ll grab my shawl, it\u2019s gettin\u2019 a bit nippy."
+                "Pfeffer",
+                "Das ist auch der Grund für die vielen Nachäffer"
             ],
             "x": false,
             "id": 50894
@@ -4297,7 +4297,7 @@
             },
             "gene": [
                 "Garfield",
-                "I do a rolling stop when I\u2019m asked to yield!"
+                "Was bei dir nur auf den Hunger und nicht auf die Coolness abzielt"
             ],
             "x": false,
             "id": 50893
@@ -4313,8 +4313,8 @@
                 "type": "ein Geräusch"
             },
             "gene": [
-                "Shazam",
-                "So I bid you farewell, thank you sir or ma\u2019am."
+                "Bam",
+                "Also sag\u2019 einfach tschüss und danke Ihnen, man"
             ],
             "x": false,
             "id": 51010
@@ -4330,8 +4330,8 @@
                 "type": "Artikel + Nomen - Etwas aus einem Museum"
             },
             "gene": [
-                "phonograph",
-                "If you ever clean up, send me a photograph"
+                "ein Grammophon",
+                "Selbst wenn du sauber wärst, hätte ich \u2019ne Aversion"
             ],
             "x": false,
             "id": 51052
@@ -4347,8 +4347,8 @@
                 "type": "Eine Liga"
             },
             "gene": [
-                "pajamas",
-                "Which might be illegal, in Alabama."
+                "Kreispokal",
+                "Fliegst in der ersten Runde raus und versagst total"
             ],
             "x": false,
             "id": 51199
@@ -4364,8 +4364,8 @@
                 "type": "Nomen - Ein elektronisches Gerät"
             },
             "gene": [
-                "vending machine",
-                "I\u2019m afraid of offending Arlene"
+                "Kühlschrank",
+                "Ich hoffe damit beleidige ich nicht den Frank"
             ],
             "x": false,
             "id": 51053
