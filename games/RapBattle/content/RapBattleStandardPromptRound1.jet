@@ -3115,7 +3115,7 @@
       {
          "a":{
             "examples":[
-               "Meister Propper",
+               "Meister Proper",
                "der Michelin-Mann",
                "die lila Milka Kuh"
             ],
@@ -3752,8 +3752,8 @@
             "type":"Unbestimmter Artikel + Ein Gebäude"
          },
          "gene":[
-            "gazebo",
-            "Which is nice and airy because of even wind flow."
+            "einen Pavillon",
+            "Denn man kann darunter liegen wie in einem Schlafwaggon"
          ],
          "x":false,
          "id":51007
