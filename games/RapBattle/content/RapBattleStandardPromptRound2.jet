@@ -2426,8 +2426,8 @@
                 "type": "Nomen - Mehrzahl"
             },
             "gene": [
-                "gum",
-                "If it\u2019s in your hair, vinegar will help some."
+                "Essig",
+                "In deinem Haar wirkt das bestimmt lässig."
             ],
             "x": true,
             "id": 51380
@@ -2596,8 +2596,8 @@
                 "type": "Unbestimmter Artikel + Nomen (etwas zum sauber machen)"
             },
             "gene": [
-                "Brillo pad",
-                "Oh no, I didn\u2019t know this soup could go bad."
+                "einen Schwamm",
+                "Sonst siehst das hier aus wie eine Pfütze aus Schlamm."
             ],
             "x": false,
             "id": 51368
@@ -2613,8 +2613,8 @@
                 "type": "Etwas, was ein Praktikant machen muss"
             },
             "gene": [
-                "burnt",
-                "Then like butter you\u2019re gonna get churnt."
+                "den Keller fegen",
+                "So kannst du wenigstens den Staub noch bewegen."
             ],
             "x": false,
             "id": 51483
@@ -2626,12 +2626,12 @@
                     "das Springseil",
                     "der Tennisschläger"
                 ],
-                "text": "Du willst mit mir spielen? Was soll dann <BLANK>.",
+                "text": "Du willst mit mir spielen? Was soll dann <BLANK>?",
                 "type": "Bestimmter Artikel + Nomen - Ein Sportgerät"
             },
             "gene": [
-                "shuttlecock",
-                "I gotta stretch my legs and take a brisk walk."
+                "der Puck",
+                "In deinem Gesicht hinterlässt der \u2019nen unschönen Abdruck."
             ],
             "x": false,
             "id": 51364
@@ -2643,12 +2643,12 @@
                     "schlauer",
                     "schneller"
                 ],
-                "text": "Du verstehst mich villeicht irgendwann. Werd\u2019 einfach <BLANK>.",
+                "text": "Du verstehst mich vielleicht irgendwann. Werd\u2019 einfach <BLANK>.",
                 "type": "Gesteigertes Adjektiv (mit -er am Ende)"
             },
             "gene": [
-                "taller",
-                "Why any would trust DC Comics\u2019s Amanda Waller."
+                "breiter",
+                "Vielleicht bringt dich das ja im Leben weiter."
             ],
             "x": false,
             "id": 51485
@@ -2664,8 +2664,8 @@
                 "type": "Eine langweilige Tätigkeit"
             },
             "gene": [
-                "fungi",
-                "Are multiple yells of Cowabunga \u2018Cowabun-guy\u2019?"
+                "Wäsche waschen",
+                "Alternativ könnte man auch Kekse vernaschen."
             ],
             "x": false,
             "id": 51544
