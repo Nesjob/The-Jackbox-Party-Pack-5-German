@@ -3480,8 +3480,8 @@
             "type":"Etwas zerbrechliches"
          },
          "gene":[
-            "marble",
-            "It was at the gym. I dropped a barbell."
+            "Keramik",
+            "Mein Freund arbeitet bei Saturn und der heißt Nick."
          ],
          "x":false,
          "id":51175
@@ -3497,8 +3497,8 @@
             "type":"Unbestimmter Artikel + Obst bzw. Gemüse"
          },
          "gene":[
-            "durian",
-            "They flow so fast, I\u2019ve got to keep hurryin\u2019!"
+            "eine Tomate",
+            "Bin immer auf dem neusten Stand, nur durch die Dokus von Arte!"
          ],
          "x":false,
          "id":51176
@@ -3514,8 +3514,8 @@
             "type":"Mehrzahl - Leckeres Essen"
          },
          "gene":[
-            "empanadas",
-            "My gramma\u2019s in town and only stays at Ramadas."
+            "Brezel",
+            "Meine Oma macht sie immer mit leckeren Keksen."
          ],
          "x":false,
          "id":51874
@@ -3531,8 +3531,8 @@
             "type":"Ein leckeres Gericht"
          },
          "gene":[
-            "chili mac",
-            "But don\u2019t eat too much or you\u2019ll get a heart attack."
+            "ein Nudelsalat",
+            "Deine Reime kommen rüber auf die billigste Art."
          ],
          "x":false,
          "id":51177
@@ -3548,8 +3548,8 @@
             "type":"Nomen - Ein Ort"
          },
          "gene":[
-            "Salt Lake City",
-            "I just saw your eyes, gee they\u2019re really pretty."
+            "hinter Bielefeld",
+            "Du siehst, ich bin international. Auf der ganzen Welt."
          ],
          "x":false,
          "id":51178
@@ -3565,8 +3565,8 @@
             "type":"Eine Zahl"
          },
          "gene":[
-            "zero",
-            "I say \u2018sub sandwich\u2019 but some say \u2018hero.\u2019"
+            "acht",
+            "Ich kann nicht zählen, und reimen erst recht nicht."
          ],
          "x":false,
          "id":51074
@@ -3582,8 +3582,8 @@
             "type":"Etwas im Haushalt"
          },
          "gene":[
-            "Rockies",
-            "Sounda like I\u2019ve got a case of the Cockies."
+            "Lagerhaus",
+            "Klingt für mich so, als wär ich gleich raus."
          ],
          "x":false,
          "id":51181
@@ -3599,8 +3599,8 @@
             "type":"Ein Künstler"
          },
          "gene":[
-            "Calder",
-            "My hair is falling out, hope I don\u2019t get balder."
+            "Picasso",
+            "Im wilden Westen brauche ich kein Lasso."
          ],
          "x":false,
          "id":51182
@@ -3613,11 +3613,11 @@
                "ein Buttermesser"
             ],
             "text":"Meine Reime sind schärfer als <BLANK>.",
-            "type":"Unbestimmter Artikel + Etwas scharfes"
+            "type":"Unbestimmter Artikel + Nomen (etwas scharfes)"
          },
          "gene":[
-            "slice of cheddar",
-            "My favorite tennis player is Roger Federer."
+            "eine Currywurst",
+            "Jetzt hab ich Hunger. Und Durst."
          ],
          "x":false,
          "id":51183
@@ -3633,8 +3633,8 @@
             "type":"Berufsbezeichnung"
          },
          "gene":[
-            "blue whale",
-            "I hope my rhymes won\u2019t get me sent to jail."
+            "Bäcker",
+            "Ich denke meine Brötchen sind ziemlich lecker."
          ],
          "x":false,
          "id":51185
@@ -3650,8 +3650,8 @@
             "type":"Nomen Mehrzahl - Belohnungen"
          },
          "gene":[
-            "accolades",
-            "I wanna be famous just to have a motorcade."
+            "Pokale",
+            "Komme ich zu dir nach Hause mache ich groß Randale."
          ],
          "x":false,
          "id":51186
@@ -3663,12 +3663,12 @@
                "Sonic",
                "ein Sportwagen"
             ],
-            "text":"Ich spuck\u2019 so schnell, sie sehen mich als <BLANK>.",
+            "text":"Ich rappe\u2019 so schnell, sie sehen mich als <BLANK>.",
             "type":"Etwas schnelles"
          },
          "gene":[
-            "whale",
-            "I go to Costco to buy krill wholesale"
+            "Super Mario",
+            "Ich mochte die Spiele, am liebsten aber Wario."
          ],
          "x":false,
          "id":50988
@@ -3684,8 +3684,8 @@
             "type":"Etwas teures"
          },
          "gene":[
-            "chandelier",
-            "When I show my tush, the people cheer!"
+            "Frauenmagnet",
+            "Das Leben dreht sich im Kreis, so schnell wie es vergeht!"
          ],
          "x":false,
          "id":50986
@@ -3701,8 +3701,8 @@
             "type":"Ein Schulfach"
          },
          "gene":[
-            "home ec",
-            "Sure, I\u2019ll mend your sweater, just a sec."
+            "Biologie",
+            "Ich war kein Streber, wirklich nie."
          ],
          "x":false,
          "id":51187
@@ -3718,8 +3718,8 @@
             "type":"Verb"
          },
          "gene":[
-            "freak",
-            "Cuz they know my toupee is on fleek."
+            "eskalieren",
+            "Sollte ich mir Sorgen machen oder herrscht hier Frieden?"
          ],
          "x":false,
          "id":51188
@@ -3735,8 +3735,8 @@
             "type":"Verb - Alltägliche Handlung"
          },
          "gene":[
-            "wash",
-            "I\u2019m always upgraded, like a MacIntosh."
+            "waschen",
+            "Meine Freunde machen sich schon sorgen um meine Flaschen."
          ],
          "x":false,
          "id":51190
@@ -3769,8 +3769,8 @@
             "type":"Ein Pizzabelag"
          },
          "gene":[
-            "sprouts",
-            "Which are delicious, despite my doubts."
+            "Mais",
+            "Denn wie jeder weiß, ohne Fleiß keinen Preis."
          ],
          "x":false,
          "id":51008
@@ -3786,8 +3786,8 @@
             "type":"Unbestimmter Artikel + Ein Tier"
          },
          "gene":[
-            "shark",
-            "I\u2019m blind when I swim in the pitch black dark"
+            "ein Hai",
+            "Ich bin eigentlich harmlos, nur so nebenbei"
          ],
          "x":false,
          "id":51034
