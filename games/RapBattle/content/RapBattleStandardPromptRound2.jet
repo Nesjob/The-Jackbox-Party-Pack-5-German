@@ -2443,8 +2443,8 @@
                 "type": "Eine Kochzutat oder ein Gewürz"
             },
             "gene": [
-                "cardamom",
-                "I once attended a semester at Barbizon."
+                "Butter",
+                "Rappen kann ich besser als deine Mutter."
             ],
             "x": false,
             "id": 51369
@@ -2460,8 +2460,8 @@
                 "type": "Verb"
             },
             "gene": [
-                "car date",
-                "Till 21 43. That\u2019s a star date."
+                "schwimmen",
+                "Du tust mir Leid, kannst den Berg des Erfolgs nicht mehr erklimmen."
             ],
             "x": false,
             "id": 51546
@@ -2477,8 +2477,8 @@
                 "type": "Adjektiv"
             },
             "gene": [
-                "petite",
-                "It means \u2018small\u2019 but it sounds so sweet!"
+                "digital",
+                "Mein Reim oder seiner? Ihr habt die Wahl!"
             ],
             "x": false,
             "id": 51499
@@ -2494,8 +2494,8 @@
                 "type": "Nomen - Mehrzahl"
             },
             "gene": [
-                "pizza",
-                "Unless it\u2019s sausage, then I\u2019m glad to meet ya!"
+                "Döner",
+                "Außer er ist mit scharfer Soße, das finde ich schöner."
             ],
             "x": false,
             "id": 51548
@@ -2511,8 +2511,8 @@
                 "type": "Nomen - Einzahl: Ein Fahrzeug"
             },
             "gene": [
-                "gondola",
-                "I only eat raisins when they\u2019re in granola."
+                "Bobbycar",
+                "Damit fahr ich auf der Autobahn, siehste ma!"
             ],
             "x": false,
             "id": 51365
@@ -2525,11 +2525,11 @@
                     "sicher"
                 ],
                 "text": "Ich trete gegen dich an. Ich hoffe du bist <BLANK>.",
-                "type": "adjektiv"
+                "type": "Adjektiv"
             },
             "gene": [
-                "awake",
-                "Though not getting proper sleep\u2019s a mistake."
+                "wach",
+                "Aber wir müssen das leise machen. Nicht zu viel Krach."
             ],
             "x": false,
             "id": 51487
@@ -2545,8 +2545,8 @@
                 "type": "Unbestimmter Artikel + Nomen (etwas weiches)"
             },
             "gene": [
-                "kitten\u2019s belly",
-                "I prefer ferrets though they get awful smelly."
+                "ein Kätzchen",
+                "Ich bin erwachsener als du. Du brauchst noch ein Lätzchen."
             ],
             "x": false,
             "id": 51329
@@ -2554,7 +2554,7 @@
         {
             "a": {
                 "examples": [
-                    "eine Schildkräte",
+                    "eine Schildkröte",
                     "eine Schnecke",
                     "eine alte Schlange"
                 ],
@@ -2562,8 +2562,8 @@
                 "type": "Unbestimmter Artikel + Nomen (ein langsames Tier)"
             },
             "gene": [
-                "sleepy tiger",
-                "Radioactive? I\u2019ll get my counter by Geiger."
+                "ein erschöpfter Tiger",
+                "Bei diesem Duell gibt es nur einen Sieger."
             ],
             "x": false,
             "id": 51366
@@ -2579,8 +2579,8 @@
                 "type": "Ein Grundbedürfnis"
             },
             "gene": [
-                "rest",
-                "I got tan slacks and a matching tan vest."
+                "Klamotten",
+                "Komm, ich helf dir aus. Fangen wir an mit Socken."
             ],
             "x": false,
             "id": 51549
