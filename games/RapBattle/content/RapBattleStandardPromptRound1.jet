@@ -3191,8 +3191,8 @@
             "type":"Nomen - Etwas, was du selber machst"
          },
          "gene":[
-            "excuses",
-            "The source of my rhymes? Ya know Mother Goose is!"
+            "Ausreden",
+            "Ich kann heute nicht so gut reimen wegen einem Erdbeben..."
          ],
          "x":false,
          "id":51480
@@ -3208,8 +3208,8 @@
             "type":"Unbestimmter Artikel + Ein Tier"
          },
          "gene":[
-            "tardigrade",
-            "Look it up. It\u2019s not some joke I made."
+            "ein Lemur",
+            "Kein Mensch landet jemals auf Merkur."
          ],
          "x":false,
          "id":51167
@@ -3225,8 +3225,8 @@
             "type":"Wo verstecken sich Aliens?"
          },
          "gene":[
-            "whales",
-            "If you want more vitamins try eating some kales."
+            "auf der Erde",
+            "Die attraktivsten Tiere sind eindeutig Pferde."
          ],
          "x":false,
          "id":51459
@@ -3242,8 +3242,8 @@
             "type":"Unbestimmter Artikel + Einzahl Nomen"
          },
          "gene":[
-            "sofa",
-            "The time I tried standup a guy threw his loafer."
+            "ein Schuh",
+            "Bevor meine Reime dich verletzen, lasse ich dich lieber in Ruh."
          ],
          "x":false,
          "id":51461
@@ -3259,8 +3259,8 @@
             "type":"Adjektiv"
          },
          "gene":[
-            "stinky",
-            "Not sure why, but it\u2019s coming from my pinky"
+            "stinkig",
+            "Normalerweise startet das erst mit siebzig."
          ],
          "x":false,
          "id":51451
@@ -3276,8 +3276,8 @@
             "type":"Verb"
          },
          "gene":[
-            "glitter",
-            "Though one time I accidentally applied kitty litter."
+            "funkeln",
+            "Ich kenne mich überall aus, sogar im Dunkeln."
          ],
          "x":false,
          "id":51407
@@ -3293,8 +3293,8 @@
             "type":"Nomen - Etwas gefährliches"
          },
          "gene":[
-            "pancreas",
-            "My dad had his out. That\u2019s what kinda man he is."
+            "ein Panzer",
+            "In der Küche steht ein Kuchen... naja also kein ganzer."
          ],
          "x":false,
          "id":52685
@@ -3310,8 +3310,8 @@
             "type":"Eine Sportart"
          },
          "gene":[
-            "catcher\u2019s mitt",
-            "I\u2019ve got more on my chores list to do, darn it."
+            "Baseball",
+            "Muss noch Wäsche waschen, verdammt nochmal!"
          ],
          "x":false,
          "id":51878
@@ -3327,8 +3327,8 @@
             "type":"Unbestimmter Artikel + Ein Fahrzeug"
          },
          "gene":[
-            "Razor scooter",
-            "My rims aren\u2019t real silver they\u2019re mostly pewter."
+            "ein Boot",
+            "Deine Reime erinnern mich an Kot."
          ],
          "x":false,
          "id":51881
@@ -3344,8 +3344,8 @@
             "type":"Aggressives Verb"
          },
          "gene":[
-            "abrase",
-            "My airline of choice: British Airways."
+            "kratzen",
+            "Ich hab\u2019 über zwanzig Katzen."
          ],
          "x":false,
          "id":51169
@@ -3358,11 +3358,11 @@
                "ein Ofenhandschuh"
             ],
             "text":"Zünd\u2019 die Zündung und ich explodier\u2019 wie <BLANK>.",
-            "type":"Ein Gegenstand"
+            "type":"Unbestimmter Artikel + Ein Gegenstand"
          },
          "gene":[
-            "mitten",
-            "I don\u2019t like these clothes, just tryin\u2019 to fit in."
+            "eine Batterie",
+            "Drei Komma Eins Vier Eins Fünf Neun Zwei Sechs. Pi."
          ],
          "x":false,
          "id":51409
@@ -3378,8 +3378,8 @@
             "type":"Eine Serie"
          },
          "gene":[
-            "'Small Wonder\u2019",
-            "Close the window! I heard thunder!"
+            "\u2019Gute Zeiten, Schlechte Zeiten\u2019",
+            "Langsam habe ich genug von deinen Frechheiten."
          ],
          "x":false,
          "id":51879
@@ -3395,8 +3395,8 @@
             "type":"positives Adjektiv"
          },
          "gene":[
-            "nervous",
-            "Did I insult the waiter? Why won\u2019t he serve us?"
+            "majestätisch",
+            "Oder auch superkalifragilistikexpialigetisch"
          ],
          "x":false,
          "id":51406
@@ -3413,7 +3413,7 @@
          },
          "gene":[
             "Gene",
-            "Wish my name, didn\u2019t rhyme with \u2018mean.\u2019"
+            "Meine Reime wirken wie Morphin."
          ],
          "x":false,
          "id":51170
@@ -3429,8 +3429,8 @@
             "type":"Eine Lautäußerung"
          },
          "gene":[
-            "scream",
-            "I love hanging out with babies and eating clotted cream."
+            "fiepsen",
+            "Vanille Eis-Creme esse ich am Liebsten."
          ],
          "x":false,
          "id":51449
@@ -3446,8 +3446,8 @@
             "type":"Ein Fahrzeug"
          },
          "gene":[
-            "Big Wheel",
-            "It happened a lot as a kid. No big deal."
+            "Monster Truck",
+            "Mit mir geht\u2019s auf jeder Party richtig ab."
          ],
          "x":false,
          "id":51173
@@ -3463,8 +3463,8 @@
             "type":"Mehrzahl Nomen"
          },
          "gene":[
-            "dog",
-            "He\u2019s weird and loud and smells like dung."
+            "Hunde",
+            "Alles was sie lieben, haben sie im Munde."
          ],
          "x":false,
          "id":51452
