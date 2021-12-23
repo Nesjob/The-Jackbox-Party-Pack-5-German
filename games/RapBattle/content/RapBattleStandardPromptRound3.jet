@@ -4126,8 +4126,8 @@
                 "type": "Nomen Mehrzahl - Körperteile"
             },
             "gene": [
-                "earlobe",
-                "You look like you stole a hotel robe."
+                "Ohrläppche",
+                "Du siehst aus wie kleines dummes Rotkäppchen"
             ],
             "x": false,
             "id": 51876
@@ -4135,7 +4135,7 @@
         {
             "a": {
                 "examples": [
-                    "Schienenbein",
+                    "Schienbein",
                     "Knöchel",
                     "Nabel"
                 ],
@@ -4143,8 +4143,8 @@
                 "type": "Nomen - Körperteil in der unteren Hälfte"
             },
             "gene": [
-                "kneecap",
-                "When I watch long movies, I need a recap."
+                "Kniescheibe",
+                "ich schaue nicht herab damit ich Kontakt mit dir vermeide"
             ],
             "x": true,
             "id": 50809
@@ -4160,8 +4160,8 @@
                 "type": "Adjektiv - Synonym für 'verstopft'"
             },
             "gene": [
-                "plugged",
-                "They drank some wax and really chugged."
+                "voll",
+                "mit vielen bunten Sachen, wie toll"
             ],
             "x": false,
             "id": 50811
@@ -4178,7 +4178,7 @@
             },
             "gene": [
                 "Pikachu",
-                "I think that name sounds like sneezing don\u2019t you?"
+                "Der Name klingt wie ein Niesen, was denkst du?"
             ],
             "x": false,
             "id": 50830
