@@ -2681,8 +2681,8 @@
                 "type": "Gruseliges Adjektiv"
             },
             "gene": [
-                "spooky",
-                "On \u2018The Addams Family,\u2019 its altogether ooky."
+                "böse",
+                "Da passiert viel unheimliches Getöse."
             ],
             "x": false,
             "id": 51069
@@ -2698,8 +2698,8 @@
                 "type": "Nomen - Mehrzahl - Etwas ekeliges"
             },
             "gene": [
-                "cadavers",
-                "Between you and me, I\u2019m afraid of ladders."
+                "Abfall",
+                "Mal unter uns, ich spiele gerne Handball."
             ],
             "x": false,
             "id": 50715
@@ -2715,8 +2715,8 @@
                 "type": "Unbestimmter Artikel + Nomen (etwas bemaltes)"
             },
             "gene": [
-                "mural",
-                "An underrated comedy was \u2018My Name Is Earl.\u2019"
+                "eine Mauer",
+                "Das macht bestimmt die Anwohner sauer."
             ],
             "x": false,
             "id": 51481
@@ -2732,8 +2732,8 @@
                 "type": "Ein leckeres Gericht"
             },
             "gene": [
-                "lasagna",
-                "Wear a napkin so you don\u2019t get none on ya."
+                "ein Schnitzel",
+                "Du glaubst doch nicht etwa, dass ich nur witzel?"
             ],
             "x": false,
             "id": 51545
@@ -2749,8 +2749,8 @@
                 "type": "Verb"
             },
             "gene": [
-                "typing",
-                "\u2019Jane the Virgin\u2019 is the series I\u2019m hyping."
+                "tippen",
+                "Sonst kommt noch ein schlechter Reim über deine Lippen."
             ],
             "x": false,
             "id": 50717
