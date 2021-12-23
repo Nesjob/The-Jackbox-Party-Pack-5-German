@@ -709,8 +709,8 @@
                 "type": "Nomen - ein einfacher Kampfschritt (eine Silbe)"
             },
             "gene": [
-                "poke",
-                "I always laugh in groups when I don\u2019t get the joke."
+                "Kick",
+                "Fürs Essen bei McDonalds machst du dich besonders schick."
             ],
             "x": false,
             "id": 52431
@@ -726,8 +726,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "shvitz",
-                "Followed by your need to move your bowels."
+                "gelähmt",
+                "Oh Gott, ich hoffe du bist nicht zu sehr verschmäht."
             ],
             "x": true,
             "id": 52791
@@ -743,8 +743,8 @@
                 "type": "Unbestimmter Artikel + Nomen (ein schlimmer Ort)"
             },
             "gene": [
-                "cold December",
-                "You prefer the cold to the heat, as I remember."
+                "ein Wildgehege",
+                "Ich lache in Gruppen, wenn ich den Witz nicht verstehe."
             ],
             "x": false,
             "id": 52596
@@ -760,8 +760,8 @@
                 "type": "Nomen Mehrzahl - Schwer zu schlucken"
             },
             "gene": [
-                "very thick pie",
-                "I mean, do I even need to explain why?"
+                "Äpfel im Wald",
+                "Muss ich euch überhaupt erklären weshalb?"
             ],
             "x": false,
             "id": 52793
@@ -794,8 +794,8 @@
                 "type": "Ein Superheld"
             },
             "gene": [
-                "rat",
-                "And I ride on your head like a little bear hat."
+                "der Retter",
+                "Im Winter geh ich auch mal raus, je nach Wetter."
             ],
             "x": false,
             "id": 52877
@@ -811,8 +811,8 @@
                 "type": "Artikel + Nomen (ein Thema aus den Nachrichten)"
             },
             "gene": [
-                "Ric Flair",
-                "He was the Nature Boy, in case you care."
+                "deinen Song",
+                "Er klingt gar nicht so schlecht. Verschicks im Karton."
             ],
             "x": false,
             "id": 52786
@@ -828,8 +828,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "periwinkle",
-                "Excuse me while I take a rap battle tinkle."
+                "irrelevant",
+                "Bei der Sendung mit der Maus mochte ich den Elefant."
             ],
             "x": false,
             "id": 52789
@@ -845,8 +845,8 @@
                 "type": "Nomen Mehrzahl"
             },
             "gene": [
-                "futon",
-                "I\u2019m saying it was bad and u have to lie down."
+                "einen Schuh",
+                "Deine Reime sind schlecht und da stimmst du mir zu."
             ],
             "x": false,
             "id": 52441
