@@ -2,10 +2,14 @@
     "credits": [
      [
         {"title":"ÜBERSETZUNG", "lines":["Erizzle", "Ebcx92"]},
-        {"title":"MODERATOREN", "lines":["Lara Schmidt als Lara", "Louis Coyote als Louis"]}
+        {"title":"DEUTSCHE STIMMEN", "lines":["Lara Schmidt als Lara", "Louis Coyote als Louis"]}
     ],
     [
         {"title":"ZUSÄTZLICHE STIMMEN", "lines":["Shisuka", "PilzPassi", "Vincent Fallow", "Erizzle", "Fero", "Rette"]}
+    ],
+    [
+        {"title":"SYNCHRONREGIE", "lines":["Erizzle"]},
+        {"title":"WEB-ENTWICKLUNG", "lines":["Erizzle"]}
     ],
     [
         {"title":"MEGA PATREON SUPPORTER", "lines":["Lillith"]}
