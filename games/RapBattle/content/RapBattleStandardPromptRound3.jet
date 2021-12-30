@@ -862,8 +862,8 @@
                 "type": "Nomen - Eine späte Uhrzeit"
             },
             "gene": [
-                "Lowe\u2019s Hardware",
-                "It stands to reason, I\u2019d find you there."
+                "Mitternacht",
+                "Meine Wohnung ist zum Glück gut überdacht."
             ],
             "x": false,
             "id": 52787
@@ -879,8 +879,8 @@
                 "type": "Nomen - Wort für 'Dreck'"
             },
             "gene": [
-                "string",
-                "I still say braces are a cool form of bling."
+                "Sand",
+                "Auf meine Reime bekommst du 25 Cent Pfand."
             ],
             "x": false,
             "id": 52703
@@ -893,11 +893,11 @@
                     "durchwischen"
                 ],
                 "text": "Bist du schon fertig? Ich muss noch <BLANK>.",
-                "type": "Verb"
+                "type": "Verb (etwas was am regelmäßig machen muss)"
             },
             "gene": [
-                "starch",
-                "I gotta say it was an unseasonably cold March."
+                "Hausaufgaben machen",
+                "Bei deinen schulischen Leistungen werde ich mich zu Tode lachen."
             ],
             "x": false,
             "id": 52751
@@ -913,8 +913,8 @@
                 "type": "Nomen - Etwas, was kaputt gehen kann"
             },
             "gene": [
-                "heart",
-                "Why fall in love when we\u2019ll just fall apart?"
+                "Herz",
+                "Ich lade dich ein wegen meines Jubiläumskonzerts."
             ],
             "x": false,
             "id": 52705
@@ -930,8 +930,8 @@
                 "type": "Nomen - Eine Straftat"
             },
             "gene": [
-                "voter fraud",
-                "The key to a green yard is using good sod."
+                "Wahlbetrug",
+                "Ich muss mich beeilen, sonst verpass ich den Zug."
             ],
             "x": false,
             "id": 52704
@@ -947,8 +947,8 @@
                 "type": "Adjektiv - Synonym für 'ekelig'"
             },
             "gene": [
-                "heinous",
-                "But I\u2019ll change my mind if you become famous."
+                "fies",
+                "Mein letzter Urlaub, der war in Paris."
             ],
             "x": false,
             "id": 52755
@@ -964,8 +964,8 @@
                 "type": "Nomen - Eine Behörde"
             },
             "gene": [
-                "robot repair",
-                "All I\u2019m saying is, I care."
+                "Bürgeramt",
+                "Für deine Beats verlange ich Pfand."
             ],
             "x": false,
             "id": 52479
@@ -981,8 +981,8 @@
                 "type": "Nomen Mehrzahl - Eine Währung"
             },
             "gene": [
-                "yen",
-                "Class starts right now, grab a notebook and pen."
+                "Yen",
+                "Ich behalt sie aber für mich und teil sie nicht mit Ben."
             ],
             "x": false,
             "id": 52549
@@ -998,8 +998,8 @@
                 "type": "Nomen Mehrzahl"
             },
             "gene": [
-                "hors d\u2019ouevre tray",
-                "I\u2019m sure catering\u2019s, not your thing anyway."
+                "Computer",
+                "Dieses Rap-Game ist für mich wie ein Ego-Shooter."
             ],
             "x": false,
             "id": 52477

@@ -12,7 +12,7 @@
                 "type": "Nomen"
             },
             "gene": [
-                "twitter",
+                "Twitter",
                 "War das ein Erdbeben? Oh, nein, zu zitterst."
             ],
             "x": false,
@@ -3684,8 +3684,8 @@
                 "type": "Ein Promi"
             },
             "gene": [
-                "White Castle",
-                "Folks with exact change in drive-thrus? A hassle."
+                "Til Schweiger",
+                "Seine Filme kenne ich. Leider."
             ],
             "x": false,
             "id": 50776
@@ -3701,8 +3701,8 @@
                 "type": "Verb - Eine Körperfunktion"
             },
             "gene": [
-                "poo",
-                "I soil myself if a clock goes \u2018cuckoo!\u2019"
+                "kacken",
+                "Hab einen Neuwagen gekauft, ich hoffe der hat keine Macken."
             ],
             "x": true,
             "id": 50777
@@ -3715,11 +3715,11 @@
                     "der Schnee"
                 ],
                 "text": "Ich bin ein Hurrikan, du bist <BLANK>.",
-                "type": "Artikel + Nomen - Ein Wetterzustand"
+                "type": "Artikel + Nomen (ein Wetterzustand)"
             },
             "gene": [
-                "puffy cloud",
-                "I\u2019m scared of lightning especially if it\u2019s loud."
+                "etwas Nebel",
+                "Du hast keine Chance, ich bin am längeren Hebel."
             ],
             "x": false,
             "id": 50778
@@ -3735,8 +3735,8 @@
                 "type": "Artikel + Nomen - Ein großes Tier"
             },
             "gene": [
-                "rhino",
-                "Would I refuse a slice of rhubarb pie? Why no!"
+                "dein Ende",
+                "Ich schlag dich damit kaputt, durch meine Hände."
             ],
             "x": false,
             "id": 51208
@@ -3752,8 +3752,8 @@
                 "type": "Nomen - Ein/e Verwandte/r"
             },
             "gene": [
-                "in-laws",
-                "If I had in-laws they\u2019d point out all my flaws."
+                "Neffen",
+                "Ich hab auch einen, ich glaub der heißt Steffen."
             ],
             "x": false,
             "id": 51205
@@ -3769,8 +3769,8 @@
                 "type": "Negatives Adjektiv"
             },
             "gene": [
-                "swollen",
-                "I eat lots of bran \u2018cause it\u2019s good for my colon."
+                "voll",
+                "Nimm mal lieber ab, ich glaub das wär toll."
             ],
             "x": false,
             "id": 51492
@@ -3786,8 +3786,8 @@
                 "type": "Positives Adjektiv"
             },
             "gene": [
-                "stupendous",
-                "Watch this! I can back over bendous!"
+                "rasant",
+                "Schau mir zu, ich kann einen Handstand!"
             ],
             "x": false,
             "id": 52692
@@ -3803,8 +3803,8 @@
                 "type": "Der Name einer Internetpersönlichkeit"
             },
             "gene": [
-                "pun",
-                "I thought of several when I went out for a run."
+                "Paluten",
+                "Deine Let\u2019s Plays bringen meine Ohren zum bluten."
             ],
             "x": false,
             "id": 52691
@@ -3820,8 +3820,8 @@
                 "type": "Ein Filmname"
             },
             "gene": [
-                "\u2019Frozen\u2019",
-                "It\u2019s the best movie, I could have chosen."
+                "\u2019Shrek\u2019",
+                "Das war der beste Film und jetzt renn schnell weg."
             ],
             "x": false,
             "id": 51209
@@ -3834,11 +3834,11 @@
                     "der Höhepunkt"
                 ],
                 "text": "Bist du bereit? Hier kommt <BLANK>.",
-                "type": "Artikel + Nomen - Teil eines Textes"
+                "type": "Artikel + Nomen (Teil eines Textes)"
             },
             "gene": [
-                "stanza",
-                "It sure hurts when a critic pans ya."
+                "der Tiefpunkt",
+                "Und das nur wegen dir, weil es nicht mehr funkt."
             ],
             "x": false,
             "id": 52694
@@ -3851,11 +3851,11 @@
                     "Drachen"
                 ],
                 "text": "Unbezahlbar, meine Sammlung an <BLANK>.",
-                "type": "Nomen Mehrzahl - Tiere"
+                "type": "Nomen Mehrzahl (Tiere)"
             },
             "gene": [
-                "pelicans",
-                "Whoops, a pelican\u2019s a bird\u2026 Can I start again?"
+                "Briefmarken",
+                "Ich fahr gleich auch wieder, darf ich hier parken?"
             ],
             "x": true,
             "id": 51204
@@ -3871,8 +3871,8 @@
                 "type": "Unbestimmter Artikel + Nomen (ein günstiges Produkt)"
             },
             "gene": [
-                "condo",
-                "Condo\u2019s have super expensive associated fees."
+                "ein Geschenk",
+                "Stattdessen wünsch ich mir von dir ein Fruchtsaftgetränk."
             ],
             "x": false,
             "id": 51448
@@ -3888,8 +3888,8 @@
                 "type": "Unbestimmter Artikel + Nomen (ein Behältnis)"
             },
             "gene": [
-                "envelope",
-                "Joey on \u2018Friends,\u2019 sure is a dope!"
+                "ein Umschlag",
+                "Ich regiere die Welt, beginnend im Landtag!"
             ],
             "x": false,
             "id": 51203
@@ -3902,11 +3902,11 @@
                     "Bonbons"
                 ],
                 "text": "Deine Reime sind gebraucht, wie meine <BLANK>.",
-                "type": "Nomen Mehrzahl - Geschenke"
+                "type": "Nomen Mehrzahl (Geschenke)"
             },
             "gene": [
-                "socks",
-                "I\u2019m scared at night with four deadbolt locks."
+                "Socken",
+                "Ich verkauf sie auf eBay, kann ich dich damit locken?"
             ],
             "x": false,
             "id": 51411
@@ -3922,8 +3922,8 @@
                 "type": "Ein Adjektiv"
             },
             "gene": [
-                "grabbed",
-                "I didn\u2019t walk home from the gym, I cabbed."
+                "persönlich",
+                "Meine Reime sind alles andere als gewöhnlich."
             ],
             "x": false,
             "id": 51210
@@ -3939,8 +3939,8 @@
                 "type": "Verb - Etwas, was man Nachts macht"
             },
             "gene": [
-                "watch Netflix",
-                "That\u2019s assuming I got my internet fixed."
+                "Netflix schauen",
+                "Das sag ich jeden Tag zu den Frauen."
             ],
             "x": false,
             "id": 51394
@@ -3956,8 +3956,8 @@
                 "type": "Verb - Etwas, was man ungerne macht"
             },
             "gene": [
-                "knick knacks",
-                "I\u2019m super hungry. Got any quick snacks?"
+                "Holz hacken",
+                "Damit verdien\u2019 ich halt mein Geld, was gibt\u2019s da zu lachen?"
             ],
             "x": false,
             "id": 51880
@@ -3973,8 +3973,8 @@
                 "type": "ein Hobby"
             },
             "gene": [
-                "sticky",
-                "Just like that guy... I think his name\u2019s Ricky?"
+                "unterhalten",
+                "Ist das ein Virus? Lieber mal Abstand halten!"
             ],
             "x": false,
             "id": 52688
@@ -3986,12 +3986,12 @@
                     "musizieren",
                     "basteln"
                 ],
-                "text": "Rappen ist nicht für dich, lerne lieber zu <BLANK>.",
+                "text": "Rappen ist nichts für dich, lerne lieber zu <BLANK>.",
                 "type": "Verb - ein Hobby"
             },
             "gene": [
-                "pottery",
-                "But who has time unless you win the lottery?"
+                "stricken",
+                "Deine Freundin würde ich gerne... zwicken"
             ],
             "x": false,
             "id": 50829
@@ -4007,8 +4007,8 @@
                 "type": "Ein Promi"
             },
             "gene": [
-                "raw beef",
-                "I\u2019d like to cook you in a stew with carrots and a bay leaf."
+                "den Wendler",
+                "Du lebst im Mittelalter und gehst noch zum Händler."
             ],
             "x": false,
             "id": 51456
@@ -4024,8 +4024,8 @@
                 "type": "Nomen Mehrzahl"
             },
             "gene": [
-                "heel",
-                "I\u2019ll peel you like a\u2026 lemon\u2026 peel\u2026"
+                "Türklingeln",
+                "Hab sie immer dabei, kann sie immer dingeln."
             ],
             "x": false,
             "id": 51207
@@ -4041,8 +4041,8 @@
                 "type": "Nomen Mehrzahl"
             },
             "gene": [
-                "kissing",
-                "I\u2019ve done it once. You don\u2019t know what you\u2019re missing!"
+                "Küssen",
+                "Ich hab\u2019s einmal gemacht, das werd\u2019 ich nie missen!"
             ],
             "x": false,
             "id": 50840
@@ -4058,8 +4058,8 @@
                 "type": "Unbestimmter Artikel + Nomen (etwas, was man wirft)"
             },
             "gene": [
-                "withering glance",
-                "Just like my date did at my high school dance."
+                "einen Bumerang",
+                "Der kommt irgendwann wieder, dauert nicht mehr lang."
             ],
             "x": false,
             "id": 50841
@@ -4075,8 +4075,8 @@
                 "type": "Nomen - Das letzte, das du gegessen hast"
             },
             "gene": [
-                "Pop Tarts",
-                "The strawberry ones, are true works of art."
+                "Obstsalat",
+                "Enttäuschend finde ich nur deinen Bildungsgrad."
             ],
             "x": false,
             "id": 51393
@@ -4092,8 +4092,8 @@
                 "type": "Verb mit ge- am Anfang"
             },
             "gene": [
-                "showered",
-                "You smell worse than my stinky friend Howard."
+                "gebadet",
+                "Du riechst echt mies, sodass es anderen schadet."
             ],
             "x": false,
             "id": 50842
@@ -4109,8 +4109,8 @@
                 "type": "Filmname"
             },
             "gene": [
-                "\u2019Ready Player One\u2019",
-                "Wish that movie had Alf. That woulda been fun!"
+                "\u2019Haus des Geldes\u2019",
+                "Mein Haus hat die Größe eines Grundstückfeldes!"
             ],
             "x": false,
             "id": 50843
@@ -4126,8 +4126,8 @@
                 "type": "Unbestimmter Artikel + Nomen (etwas leises)"
             },
             "gene": [
-                "towel",
-                "Some of my favorite movements are bowel."
+                "ein Stein",
+                "Du willst zu mir, dir fehlt aber der Führerschein."
             ],
             "x": true,
             "id": 50845
@@ -4143,8 +4143,8 @@
                 "type": "Ein Videospiel"
             },
             "gene": [
-                "sicker",
-                "Mom\u2019s marinara could stand to be thicker."
+                "Counterstrike",
+                "Meine Raps sind ihr eigener Wirtschaftszweig."
             ],
             "x": false,
             "id": 50855
@@ -4156,12 +4156,12 @@
                     "Konzert",
                     "Kampf"
                 ],
-                "text": "Du kannst aufgeben, das war dein letzte/r/s <BLANK>.",
+                "text": "Du kannst aufgeben, das war dein/e letzte/r/s <BLANK>.",
                 "type": "Nomen - Ein Ereignis"
             },
             "gene": [
-                "tractor pull",
-                "Here comes a toll, can you spare a buck?"
+                "Aktion",
+                "Du bist durchschaubar, dafür braucht es keinen Spion."
             ],
             "x": false,
             "id": 50878
@@ -4177,8 +4177,8 @@
                 "type": "Nomen - Eine Person"
             },
             "gene": [
-                "neighbor",
-                "Then I\u2019ll return it! Thanks for the favor!"
+                "Kollege",
+                "Er ist so ordentlich, er sammelt sogar Kassenbelege."
             ],
             "x": false,
             "id": 51202
@@ -4194,8 +4194,8 @@
                 "type": "Positives Adjektiv"
             },
             "gene": [
-                "scary",
-                "Like when Dad dressed as the Tooth Fairy."
+                "rasant",
+                "Ist der Ofen aus? Hier riecht es so verbrannt."
             ],
             "x": false,
             "id": 51194
@@ -4211,8 +4211,8 @@
                 "type": "Eine Stadt"
             },
             "gene": [
-                "Navy",
-                "Take Dramamine if the water\u2019s too wavy."
+                "Berlin",
+                "Dich zu zerstören hat eine eigene Disziplin."
             ],
             "x": false,
             "id": 51193
@@ -4228,8 +4228,8 @@
                 "type": "Nomen - Eine Flüssigkeit"
             },
             "gene": [
-                "eggnog",
-                "Then we\u2019ll sing carols all around the yule log."
+                "Apfelsaft",
+                "Wenn du keinen mehr hast steck ich dich in Haft."
             ],
             "x": false,
             "id": 50895
@@ -4245,8 +4245,8 @@
                 "type": "Ein Verb"
             },
             "gene": [
-                "jogging",
-                "But for dancing for sure nothing beats clogging."
+                "rennen",
+                "Die Kalorien würde ich auf andere Art verbrennen."
             ],
             "x": false,
             "id": 51198
