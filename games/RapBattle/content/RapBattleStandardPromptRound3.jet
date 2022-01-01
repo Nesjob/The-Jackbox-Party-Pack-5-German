@@ -3463,8 +3463,8 @@
                 "type": "Nomen Mehrzahl"
             },
             "gene": [
-                "premise",
-                "And your front teeth. Go to the dentist."
+                "den Zahnarzt",
+                "Das aber schon länger, bevor du bekannt warst."
             ],
             "x": false,
             "id": 50619
@@ -3480,8 +3480,8 @@
                 "type": "Adjektiv (Personeneigenschaft)"
             },
             "gene": [
-                "quick wit",
-                "Drinkin\u2019 my juice, your rhyme made me spit it."
+                "nett zu dir",
+                "Wenn ich dich weiter disse beantragst du Hartz Vier."
             ],
             "x": true,
             "id": 50620
@@ -3497,8 +3497,8 @@
                 "type": "Adjektiv - Synonym für 'gut'"
             },
             "gene": [
-                "wowzers",
-                "When I play Mario Kart I choose Bowser."
+                "attraktiv",
+                "Deine Fakten sind alternativ."
             ],
             "x": false,
             "id": 50621
@@ -3514,8 +3514,8 @@
                 "type": "Verb"
             },
             "gene": [
-                "honey baked",
-                "My Grampa thinks the moon landing was faked."
+                "backen",
+                "Meinen Fame erzielte ich auf euren Nacken."
             ],
             "x": true,
             "id": 50622
@@ -3531,8 +3531,8 @@
                 "type": "Ein kontroverser Promi"
             },
             "gene": [
-                "introspection",
-                "My car just passed emissions inspection!"
+                "Stefan Raab",
+                "Meine Reime nehme ich mit ins Grab."
             ],
             "x": false,
             "id": 50603
@@ -3548,8 +3548,8 @@
                 "type": "Unbestimmter Artikel + Nomen (ein Tier)"
             },
             "gene": [
-                "wee lad",
-                "Let\u2019s hear your Scottish accent. Mine\u2019s not bad."
+                "ein Pferd",
+                "Das finde ich sogar nett. Ich fühle mich geehrt."
             ],
             "x": false,
             "id": 50623
@@ -3565,8 +3565,8 @@
                 "type": "Nomen Mehrzahl - Eine Substanz"
             },
             "gene": [
-                "snow",
-                "I\u2019m an igloo, that\u2019s why I\u2019m made of snow"
+                "Schnee",
+                "Ich bin ein Iglu, deswegen bestehe ich aus Schnee."
             ],
             "x": false,
             "id": 51172
@@ -3582,8 +3582,8 @@
                 "type": "Nomen oder Adjektiv - Eine kleine Anzahl"
             },
             "gene": [
-                "bupkis",
-                "Know who I saw once in Vegas? Dick Butkis!"
+                "eigentlich nichts",
+                "Ich melde dich nach dem Spiel beim Bundesverfassungsgericht."
             ],
             "x": false,
             "id": 50624
@@ -3599,8 +3599,8 @@
                 "type": "negatives Adjektiv"
             },
             "gene": [
-                "double parked",
-                "I guess the street is not well marked."
+                "vegetarisch",
+                "Dich überleben zu lassen ist echt solidarisch."
             ],
             "x": false,
             "id": 50625
@@ -3616,8 +3616,8 @@
                 "type": "Verb"
             },
             "gene": [
-                "graded",
-                "Like homework, not like cheese."
+                "lachen",
+                "Wie meine Freundin immer sagt - Was machen Sachen?"
             ],
             "x": false,
             "id": 50683
@@ -3633,8 +3633,8 @@
                 "type": "Nomen Mehrzahl - Essen"
             },
             "gene": [
-                "eggplant",
-                "Refrigerate them. Or maybe you can\u2019t."
+                "Eier",
+                "Gibt\u2019s bei diesen Reimen eigentlich Friendly-Fire?"
             ],
             "x": true,
             "id": 50690
@@ -3650,8 +3650,8 @@
                 "type": "Nomen - Etwas im Wald"
             },
             "gene": [
-                "clocks",
-                "What. I said \u2018clocks.\u2019"
+                "Hocker",
+                "Mich zu besiegen schaffen nur Hardcore-Zocker."
             ],
             "x": true,
             "id": 50691
@@ -3667,8 +3667,8 @@
                 "type": "Nomen Mehrzahl - Kleidungsstück"
             },
             "gene": [
-                "hat",
-                "Oh are you a Shriner? I apologize for that."
+                "Klamotten",
+                "Meine Suppe esse ich am liebsten mit Karotten."
             ],
             "x": false,
             "id": 50693
@@ -3684,8 +3684,8 @@
                 "type": "Verb"
             },
             "gene": [
-                "shiver",
-                "I buried the evidence down by the river."
+                "schmecken",
+                "Ich versetze meine Hater in Angst und Schrecken."
             ],
             "x": false,
             "id": 50694
@@ -3701,8 +3701,8 @@
                 "type": "Eine Figur aus dem Fernsehen"
             },
             "gene": [
-                "Miranda",
-                "Let\u2019s watch \u2018Sex and the City\u2019 on the veranda!"
+                "Thomas Gottschalk",
+                "Den Prozess gegen dich gewinne ich ohne Rechtsanwalt."
             ],
             "x": false,
             "id": 50695
@@ -3718,8 +3718,8 @@
                 "type": "Nomen Mehrzahl - Spielzeug"
             },
             "gene": [
-                "\u2019My Little Pony\u2019",
-                "That show should win an Emmy and a Tony!"
+                "\u2019Barbies Traumhaus\u2019",
+                "Du willst dort hin? Fahr einfach geradeaus."
             ],
             "x": false,
             "id": 50696
@@ -3735,8 +3735,8 @@
                 "type": "Nomen Mehrzahl - Essen"
             },
             "gene": [
-                "mutton",
-                "I always have trouble with my shirt\u2019s top button."
+                "Cola",
+                "Am Wochenende findest du mich in der Republik Angola."
             ],
             "x": false,
             "id": 50697
@@ -3752,8 +3752,8 @@
                 "type": "Unbestimmter Artikel + Nomen (Tier)"
             },
             "gene": [
-                "kitten",
-                "Cats are so cute, especially in mittens!"
+                "eine Katze",
+                "Die sind süß, nur nicht auf meiner Matratze!"
             ],
             "x": false,
             "id": 50698
@@ -3769,8 +3769,8 @@
                 "type": "negatives Adjektiv"
             },
             "gene": [
-                "better",
-                "Let\u2019s encourage each other. I like your sweater!"
+                "berührt",
+                "Meine Reime werden sauber durchgeführt."
             ],
             "x": false,
             "id": 50699
@@ -3786,8 +3786,8 @@
                 "type": "Nomen Einzahl - Etwas stinkendes"
             },
             "gene": [
-                "perfume",
-                "Those Fantastic Four movies ruined Dr. Doom."
+                "Parfüm",
+                "Für den Winter brauche ich noch ein Nikolauskostüm."
             ],
             "x": false,
             "id": 50701
@@ -3803,8 +3803,8 @@
                 "type": "Nomen Mehrzahl - Tiere"
             },
             "gene": [
-                "snake",
-                "My apologies if that was a hot take."
+                "Schlangen",
+                "Tut mir Leid, ich habe dich übergangen."
             ],
             "x": false,
             "id": 50702
@@ -3813,15 +3813,15 @@
             "a": {
                 "examples": [
                     "Haus",
-                    "ort",
+                    "Ort",
                     "Gefängnis"
                 ],
                 "text": "Du scheinst verloren. Zieh dich zurück zum <BLANK>.",
                 "type": "Nomen - Ein Ort"
             },
             "gene": [
-                "porch",
-                "Chris Evans is Cap, but was the Human Torch."
+                "Garten",
+                "Hab eine neue Kamera, hast du SD-Karten?"
             ],
             "x": false,
             "id": 50705
@@ -3837,8 +3837,8 @@
                 "type": "Adverb der Zeit"
             },
             "gene": [
-                "soonish",
-                "I found \u2018Guardians of the Galaxy\u2019 too cartoonish."
+                "morgen",
+                "Dann muss ich mich um dich wenigstens nicht mehr sorgen."
             ],
             "x": false,
             "id": 50706
@@ -3854,8 +3854,8 @@
                 "type": "Ein Land"
             },
             "gene": [
-                "box",
-                "Remember in fall, we set back the clocks."
+                "Finnland",
+                "Auf meinem Social-Media-Profil bist du lebenslang gebannt."
             ],
             "x": false,
             "id": 50707
@@ -3871,8 +3871,8 @@
                 "type": "Nomen Mehrzahl - Körperteile"
             },
             "gene": [
-                "pancreas",
-                "There\u2019s no cure for a cold quite like hot tea is."
+                "Armutszeugnisse",
+                "Beim Hip-Hop beherrschst du nur die Grundkenntnisse."
             ],
             "x": false,
             "id": 50816
@@ -3888,8 +3888,8 @@
                 "type": "Verb"
             },
             "gene": [
-                "18-wheeler",
-                "Get the heck off my coattails. Dang you! Get off please."
+                "spielen",
+                "Leg dich nicht mit uns an, oder unseren Instagram-Profilen."
             ],
             "x": false,
             "id": 52550
@@ -3905,8 +3905,8 @@
                 "type": "Ein Schulfach"
             },
             "gene": [
-                "advanced lit",
-                "No elevators! Take the stairs to stay fit!"
+                "Chemie",
+                "Meine Spezialität ist die Atomenergie."
             ],
             "x": false,
             "id": 50684
@@ -3922,8 +3922,8 @@
                 "type": "Nomen - Ein Adelstitel"
             },
             "gene": [
-                "dauphin",
-                "Which is not a title one hears very often."
+                "Loft",
+                "Und das hört man wirklich nicht oft."
             ],
             "x": false,
             "id": 50741
@@ -3939,8 +3939,8 @@
                 "type": "Verb - negative Handlung"
             },
             "gene": [
-                "faint",
-                "I use candles to set the mood when I paint."
+                "lieben",
+                "Ansonsten kann ich dich auch ins Krankenhaus schieben."
             ],
             "x": false,
             "id": 50797
@@ -3956,8 +3956,8 @@
                 "type": "Ein Beruf"
             },
             "gene": [
-                "gym teacher",
-                "At the beach I love reading tales of Jack Reacher."
+                "Sportlehrer",
+                "Ich bin Gene, dein heimlicher Verehrer."
             ],
             "x": false,
             "id": 50799
@@ -3973,8 +3973,8 @@
                 "type": "Zeitliches Adverb"
             },
             "gene": [
-                "underneath",
-                "Really? Some jerk stole our Christmas wreath."
+                "vorüber",
+                "Ich wurde ausgetrickst von einem Kreditkartenbetrüger."
             ],
             "x": false,
             "id": 51497
@@ -3990,8 +3990,8 @@
                 "type": "ein Name"
             },
             "gene": [
-                "believe",
-                "Captain America\u2019s real name is Steve."
+                "Dieter Bohlen",
+                "Glaubst du mir nicht? Ich hab auch Wasserpistolen."
             ],
             "x": false,
             "id": 50929
@@ -4007,8 +4007,8 @@
                 "type": "Nomen - Ein Respekt-Titel"
             },
             "gene": [
-                "mister",
-                "Wearing flip flops will give you blisters."
+                "Kollege",
+                "Meine Reime sind einfach besser. Dafür hab ich Belege."
             ],
             "x": false,
             "id": 50930
@@ -4024,8 +4024,8 @@
                 "type": "Adjektiv - Beschreibe deine Mutter"
             },
             "gene": [
-                "overbearing",
-                "She\u2019s such a--hi Mom! Love what you\u2019re wearing!"
+                "behaart",
+                "Ich bin zwar nur ein Computer, aber der einzige seiner Art."
             ],
             "x": false,
             "id": 50934
@@ -4041,8 +4041,8 @@
                 "type": "Nomen - Ein Attraktivitäts-Merkmal"
             },
             "gene": [
-                "groove",
-                "But I ate so much dinner it\u2019s hard to move."
+                "Bildschirm",
+                "Meiner ist aber festgeschraubt, neben meinem Regenschirm."
             ],
             "x": true,
             "id": 50940
@@ -4058,8 +4058,8 @@
                 "type": "Verb"
             },
             "gene": [
-                "nasty",
-                "And you best avoid angioplasty."
+                "Geld",
+                "Da kann ich dir mit helfen. Ich kenne diese Welt."
             ],
             "x": false,
             "id": 50802
@@ -4075,8 +4075,8 @@
                 "type": "Beleidigender Spitzname"
             },
             "gene": [
-                "pea brain",
-                "I bet that hurt like a knee sprain."
+                "du Trottel",
+                "Das war gemein, ich bin ein Zottel."
             ],
             "x": true,
             "id": 50807
@@ -4092,8 +4092,8 @@
                 "type": "Eine berühmte Person"
             },
             "gene": [
-                "Celine Dion",
-                "I think she sang \u2018My Life Will Go On.\u2019"
+                "Claudia Schiffer",
+                "Ruf mich an, die 6 ist meine Endziffer."
             ],
             "x": false,
             "id": 51500
@@ -4109,8 +4109,8 @@
                 "type": "Nomen - Eine positive Eigenschaft"
             },
             "gene": [
-                "ammo",
-                "But get me on the chin I\u2019m out cold. Blammo!"
+                "Aussehen",
+                "Wichtig ist mir trotzdem dein Wohlergehen."
             ],
             "x": false,
             "id": 50808
@@ -4127,7 +4127,7 @@
             },
             "gene": [
                 "Ohrläppchen",
-                "Du siehst aus wie kleines dummes Rotkäppchen"
+                "Du siehst aus wie kleines dummes Rotkäppchen."
             ],
             "x": false,
             "id": 51876
@@ -4144,7 +4144,7 @@
             },
             "gene": [
                 "Kniescheibe",
-                "ich schaue nicht herab damit ich Kontakt mit dir vermeide"
+                "Ich schaue nicht herab damit ich Kontakt mit dir vermeide."
             ],
             "x": true,
             "id": 50809
@@ -4161,7 +4161,7 @@
             },
             "gene": [
                 "voll",
-                "mit vielen bunten Sachen, wie toll"
+                "Mit vielen bunten Sachen, wie toll."
             ],
             "x": false,
             "id": 50811
@@ -4194,8 +4194,8 @@
                 "type": "Klassisches Videospiel"
             },
             "gene": [
-                "N B A Jam",
-                "Boom Shaka-Laka is what they\u2019d say when I\u2019d slam."
+                "LEGO",
+                "Das hab ich geliebt! Das half meinem Ego."
             ],
             "x": false,
             "id": 50831
@@ -4211,8 +4211,8 @@
                 "type": "Verb"
             },
             "gene": [
-                "relaxing",
-                "In the Nineteen-Eighties, everyone was a-faxing."
+                "entspannen",
+                "Ich bring dir dazu ein paar Thermoskannen."
             ],
             "x": false,
             "id": 50839
@@ -4228,8 +4228,8 @@
                 "type": "ein Promi"
             },
             "gene": [
-                "swift",
-                "Speaking of, Taylor Swift is awesome."
+                "Ich",
+                "Ich bin nur ein Roboter, trotzdem mag ich mich."
             ],
             "x": false,
             "id": 51206
@@ -4245,8 +4245,8 @@
                 "type": "negatives Adjektiv"
             },
             "gene": [
-                "persnickety",
-                "My skeletal structure is somewhat rickety."
+                "schlau",
+                "Ich kenne meinen Körper. Ich studiere Maschinenbau."
             ],
             "x": false,
             "id": 50844
@@ -4262,8 +4262,8 @@
                 "type": "positives Adjektiv"
             },
             "gene": [
-                "optimistic",
-                "Julia Roberts makes her pizza super mystic."
+                "optimistisch",
+                "Dass du gewinnst ist hoch unrealistisch."
             ],
             "x": false,
             "id": 50846
@@ -4279,8 +4279,8 @@
                 "type": "Schimpfwort"
             },
             "gene": [
-                "poo",
-                "I gotta keep it clean, Mom\u2019s in the room."
+                "Keks",
+                "Wie es sich gehört bin ich familienfreundlich unterwegs."
             ],
             "x": true,
             "id": 51214
@@ -4296,8 +4296,8 @@
                 "type": "Verb"
             },
             "gene": [
-                "sewing",
-                "Hey! Waitaminute! Is that my car they\u2019re towing!"
+                "tanzen",
+                "Hey! Ich mache mir Sorgen um deine Finanzen!"
             ],
             "x": false,
             "id": 50879
@@ -4313,8 +4313,8 @@
                 "type": "Präposition"
             },
             "gene": [
-                "around",
-                "Hope my retainer\u2019s in the Lost and Found."
+                "rum",
+                "Aber stell dich bitte nicht so dumm."
             ],
             "x": false,
             "id": 51200
@@ -4330,8 +4330,8 @@
                 "type": "Ein Laut"
             },
             "gene": [
-                "kaboom",
-                "Like Mom\u2019s swimsuit top, on the log flume."
+                "Kabumm",
+                "Dann dreht sich bei dir alles ringsherum."
             ],
             "x": true,
             "id": 51213
@@ -4347,8 +4347,8 @@
                 "type": "Nomen Mehrzahl - Kleine Tiere"
             },
             "gene": [
-                "teensy",
-                "I think the plural of \u2018blintz\u2019 is, \u2018bleensy.\u2019"
+                "Katzen",
+                "Wenn ich mehr esse werde ich irgendwann noch platzen."
             ],
             "x": false,
             "id": 51044
@@ -4364,8 +4364,8 @@
                 "type": "Nomen Mehrzahl"
             },
             "gene": [
-                "bears",
-                "Wait, I like bears too. All types of bears."
+                "Bären",
+                "Ich brauche Geld und glaube den Aktionären."
             ],
             "x": false,
             "id": 51054
@@ -4381,8 +4381,8 @@
                 "type": "Ein Magazin"
             },
             "gene": [
-                "Glamour",
-                "You were selling, an expensive hammer."
+                "Scam.DE",
+                "Die Seite klaut mir mein Geld aus dem Portemonnaie."
             ],
             "x": false,
             "id": 51055
