@@ -1,0 +1,73 @@
+{
+    "credits": [
+     [
+        {"title":"ÜBERSETZUNG", "lines":["Erizzle", "Ebcx92"]},
+        {"title":"DEUTSCHE STIMMEN", "lines":["Lara Schmidt als Lara", "Louis Coyote als Louis"]}
+    ],
+    [
+        {"title":"ZUSÄTZLICHE STIMMEN", "lines":["Shisuka", "PilzPassi", "Vincent Fallow", "Erizzle", "Fero", "Reaperette"]}
+    ],
+    [
+        {"title":"SYNCHRONREGIE", "lines":["Erizzle"]},
+        {"title":"WEB-ENTWICKLUNG", "lines":["Erizzle"]}
+    ],
+    [
+        {"title":"MEGA PATREON SUPPORTER", "lines":["Lillith", "Cedrik Ple", "ACertainCoder", "Just a Yoshi"]}
+    ],
+    [
+        {"title":"DIRECTOR & EDITORIAL LEAD", "lines":[ "Warren Arnold" ]},
+        {"title":"LEAD ENGINEER", "lines":[ "Pascal Pochol" ]},
+        {"title":"ART DIRECTOR & DESIGN LEAD", "lines":[ "Dave Innis" ]},
+        {"title":"AUDIO LEAD", "lines":[ "Andy Poland" ]}
+    ],
+    [
+        {"title":"PRODUCTION MANAGER", "lines":["Luke Cody"]},
+        {"title":"ORIGINAL HOSTS", "lines":["Alex Frenkel as Lena", "Phil Ridarelli as Toby"]}
+    ],
+	[
+		{"title":"ORIGINAL GAME DESIGN", "lines":["Dave Innis"]},
+		{"title":"DESIGN TEAM", "lines":["Dave Innis","Warren Arnold","Pascal Pochol","Andy Poland","Arnie Niekamp"]}
+	],
+    [
+        {"title":"JACKBOX.TV ENGINEER","lines":["Alex Swan"]},
+        {"title":"SERVER ENGINEERS","lines":["Kyle Leach", "Jordan Orelli"]}
+    ],
+    [
+        {"title":"ADDITIONAL ART","lines":["Hector M Padilla"]},
+        {"title":"ADDITIONAL SOUND DESIGN","lines":["Kate Kelly"]},
+        {"title":"ADDITIONAL ENGINEERING","lines":["Ben Jacobs","Mike Zuba"]}
+    ],
+        {"title":"WRITERS","lines":["Warren Arnold","Brooke Breit","Claire McFadden", "CJ Tuor", "Arnie Niekamp"]},
+    [
+        {"title":"QA LEAD","lines":["Steve Pakal"]},
+        {"title":"QA","lines":["Jacob Mooney","Jessica Glass","Tyler “Ty” Houston", "Mike Parilla"]}
+    ],
+        {"title":"ENGINEERING INTERNS","lines":["Jack Reynolds","Myka Martinez","Laura Adams","Michael Siciliano"]},
+    [
+		{"title":"ADDITIONAL VOICES","lines":["Warren Arnold", "Brooke Breit", "Spencer Ham","Kate Kelly","Edward Moses","CJ Tuor"]},
+		{"title":"ORIGINAL SINGER","lines":["Mike Finney"]}
+	],
+    [
+        {"title":"PRODUCTION ASSISTANT","lines":["Clara Hanford"]},
+        {"title":"USER RESEARCH","lines":["Jacob Mooney"]}
+    ],
+    [
+        {"title":"CEO","lines":["Mike Bilder"]},
+        {"title":"CCO","lines":["Allard Laban"]},
+        {"title":"CTO","lines":["Evan Jacover"]},
+        {"title":"VP OF AUDIO AND EDITORIAL", "lines":["Andy Poland"]}
+    ],
+    [
+        {"title":"VP OF JACKBOX FOR BUSINESS","lines":["Rob Johnson"]},
+        {"title":"EDITORIAL DIRECTOR","lines":["Arnie Niekamp"]},
+        {"title":"MARKETING MANAGER","lines":["Brooke Eanet"]}
+    ],
+    [
+        {"title":"HR & OFFICE MANAGER","lines":["Rob Alletto"]},
+        {"title":"LEGAL COUNSEL","lines":["Kurt Hirsch"]},
+        {"title":"CONTROLLER","lines":["Anna Wodynski"]}
+    ],
+        {"title":"SPECIAL THANKS","lines":["Brian Chard","Adam Charney","Nolan J. Downs","Ryan Digiorgi","Kyle Fleischer","Tom Gottlieb","Greg Gretsch","Spencer Ham","Mark Turowetz","Owen Watson"]},
+        {"title":"FOUNDER OF JACKBOX GAMES","lines":["Harry Gottlieb"]}
+    ]
+}
