@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"was der Sinn des Lebens ist | dass mich meine Freundin verlassen hat | wo Uruguay ist","n":"Decoys"},{"t":"S","v":"Es war fuer mich schwierig zu begreifen, <BLANK>!","n":"PromptText"},{"s":"TOBY: I\u2019m struggling to grasp THIS!","t":"A","v":"767683_1","n":"PromptAudio"}]}

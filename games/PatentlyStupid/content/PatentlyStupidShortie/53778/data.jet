@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"das falsche Buchstabieren von Woertern | das Essen von aepfeln | das Lueften von Geheimnissen","n":"Decoys"},{"t":"S","v":"Ich versuche <BLANK> aufzugeben!","n":"PromptText"},{"s":"TOBY: I\u2019m trying to quit THIS!","t":"A","v":"767352_1","n":"PromptAudio"}]}

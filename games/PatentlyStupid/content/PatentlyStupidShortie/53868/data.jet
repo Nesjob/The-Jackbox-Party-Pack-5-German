@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"zum Zahnarzt zu gehen | mein Auto zu reparieren | mein Handy zu suchen","n":"Decoys"},{"t":"S","v":"Ich schiebe es staendig auf, <BLANK>!","n":"PromptText"},{"s":"TOBY: I keep putting off and putting off, THIS!","t":"A","v":"767704_1","n":"PromptAudio"}]}

@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"buegeln | kochen | meine Steuern machen","n":"Decoys"},{"t":"S","v":"Ich werde so muede, wenn ich <BLANK> muss!","n":"PromptText"},{"s":"TOBY:  I get so sleepy when do THIS!","t":"A","v":"765701_1","n":"PromptAudio"}]}
