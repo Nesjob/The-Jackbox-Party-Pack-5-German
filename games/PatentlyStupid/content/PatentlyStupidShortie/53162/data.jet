@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"ein Pfefferwettessen | eine Schlange beschwoeren | gegen einen Baeren kaempfen","n":"Decoys"},{"t":"S","v":"Ich finde, <BLANK> ist zu gefaehrlich!","n":"PromptText"},{"s":"TOBY: I want to do THIS but it\u2019s too dangerous!","t":"A","v":"759425_1","n":"PromptAudio"}]}

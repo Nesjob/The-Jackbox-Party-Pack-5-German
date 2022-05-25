@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"die Konferenzen besuchen|so viel kacken|reisen","n":"Decoys"},{"t":"S","v":"Ich wuerde mehr Arbeit schaffen, wenn ich nicht <BLANK> muesste!","n":"PromptText"},{"s":"TOBY: I can\u2019t get any work done because I have to do THIS!","t":"A","v":"752553_1","n":"PromptAudio"}]}

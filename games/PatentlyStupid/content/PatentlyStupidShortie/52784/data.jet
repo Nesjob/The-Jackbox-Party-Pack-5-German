@@ -1,1 +1,0 @@
-{"fields":[{"t":"B","v":"true","n":"HasPromptAudio"},{"t":"S","v":"der stinkenden Fuesse|der langen Wartezeit|des Preises","n":"Decoys"},{"t":"S","v":"Ich hasse es zu fliegen wegen <BLANK>.","n":"PromptText"},{"s":"PHIL: I hate to fly because of THIS!","t":"A","v":"754853_1","n":"PromptAudio"}]}
