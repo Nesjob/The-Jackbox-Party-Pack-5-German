@@ -2,10 +2,10 @@
     "credits": [
      [
         {"title":"ÜBERSETZUNG", "lines":["Erizzle", "Ebcx92"]},
-        {"title":"DEUTSCHE STIMMEN", "lines":["Lara Schmidt als Lara", "Louis Coyote als Louis"]}
+        {"title":"DEUTSCHE STIMMEN", "lines":["Lara als Lara", "Captain Quint als Louis"]}
     ],
     [
-        {"title":"ZUSÄTZLICHE STIMMEN", "lines":["Shisuka", "PilzPassi", "Vincent Fallow", "Erizzle", "Fero", "Reaperette"]}
+        {"title":"ZUSÄTZLICHE STIMMEN", "lines":["PilzPassi", "Vincent Fallow", "Erizzle", "Fero", "Reaperette"]}
     ],
     [
         {"title":"SYNCHRONREGIE", "lines":["Erizzle"]},
@@ -13,9 +13,6 @@
     ],
     [
         {"title":"MEGA PATREON SUPPORTER", "lines":["Lillith", "Cedrik Ple", "ACertainCoder", "Just a Yoshi"]}
-    ],
-    [
-        {"title":"GAMECHANGER E.V. TEAM", "lines":["Erizzle", "Lara Schmidt", "Cedrik Pleßmann", "Shisuka", "SpooX", "Louis Coyote", "Nesjob", "Babbe"]}
     ],
     [
         {"title":"DIRECTOR & EDITORIAL LEAD", "lines":[ "Warren Arnold" ]},
